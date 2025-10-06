@@ -1029,12 +1029,12 @@ No</EnglishText>
       <JapaneseText>ローブだ……
 ナイラさんのものか……
 </JapaneseText>
-      <EnglishText>A robe... These must
+      <EnglishText>A robe... This must
 be Nayla's...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>77</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>960</PointerOffset>
@@ -1052,11 +1052,12 @@ be Nayla's...</EnglishText>
 ナイラさんのローブか……？
 </JapaneseText>
       <EnglishText>There are clothes...
-Is this Nayla's robe?</EnglishText>
+Does this robe belong
+to Nayla...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>79</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1039</PointerOffset>
