@@ -5,4 +5,9 @@
 .org 0x03A41C0
     .incbin "../assets/emdash.bin"
 
+
+;Acentos do portugues nas posicoes das letras gregas (0x9A91-0x9AA8)
+.org 0x039D380
+    .incbin "../assets/acentos.bin"
+
 .close

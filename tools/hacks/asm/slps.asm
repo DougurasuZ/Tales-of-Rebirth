@@ -389,6 +389,34 @@ srl s1,s2,0x01
 ;em dash width
     .byte 01, 01
 
+;Acentos do portugues (substituem as letras gregas 0x9A91-0x9AA8)
+;Largura de cada letra acentuada (copiada da letra base)
+.org 0x1CA454
+/* á */ .byte   06 , 07
+/* à */ .byte   06 , 07
+/* â */ .byte   06 , 07
+/* ã */ .byte   06 , 07
+/* é */ .byte   06 , 07
+/* ê */ .byte   06 , 07
+/* í */ .byte   09 , 09
+/* ó */ .byte   06 , 07
+/* ô */ .byte   06 , 07
+/* õ */ .byte   06 , 07
+/* ú */ .byte   06 , 07
+/* ç */ .byte   07 , 08
+/* Á */ .byte   04 , 06
+/* À */ .byte   04 , 06
+/* Â */ .byte   04 , 06
+/* Ã */ .byte   04 , 06
+/* É */ .byte   06 , 07
+/* Ê */ .byte   06 , 07
+/* Í */ .byte   08 , 09
+/* Ó */ .byte   05 , 05
+/* Ô */ .byte   05 , 05
+/* Õ */ .byte   05 , 05
+/* Ú */ .byte   05 , 06
+/* Ç */ .byte   06 , 06
+
 ;use debug death notice
 .org 0x128320
     li a2,0
