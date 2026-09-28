@@ -1,0 +1,53 @@
+# Tradução PT-BR — Tales of Rebirth
+
+Você está traduzindo o jogo Tales of Rebirth (PS2) do inglês para o português do Brasil.
+O texto fica nos arquivos XML dentro da pasta `2_translated`. Siga TODAS as regras abaixo.
+
+## 1. Regras técnicas (obrigatórias)
+
+- Altere SOMENTE o conteúdo dentro de `<EnglishText>...</EnglishText>`. Nunca mexa em
+  `<JapaneseText>`, `<PointerOffset>`, `<VoiceId>`, `<Id>`, `<SpeakerId>`, `<Status>`, `<Notes>`
+  nem em qualquer outra tag.
+- Se `<EnglishText>` estiver vazio (`<EnglishText/>`), NÃO traduza nem preencha: deixe como está.
+- Preserve exatamente os códigos do jogo que aparecem no texto, como `&lt;speed:0&gt;`,
+  `&lt;scale:140&gt;`, `&lt;voice:...&gt;`, cores, nomes entre colchetes como `[VARIABLE]`
+  e qualquer outro `&lt;...&gt;`. Não traduza, não remova e não mude a posição relativa deles.
+- Mantenha o escape de XML: `&lt;`, `&gt;` e `&amp;` continuam escritos assim.
+- Quebras de linha: a tradução deve ter o MESMO número de linhas do texto em inglês.
+  A continuação de uma linha começa colada na margem esquerda, sem espaços antes.
+- Tamanho das linhas: no máximo 34 caracteres por linha. O português costuma ficar mais longo
+  que o inglês, então condense a frase quando necessário, sem perder o sentido.
+- Caracteres permitidos: letras sem acento, números, pontuação comum (. , ! ? : ; ' " - ( ) … —)
+  e SOMENTE estes acentos: á à â ã é ê í ó ô õ ú ç Á À Â Ã É Ê Í Ó Ô Õ Ú Ç.
+  Não use ü, ñ, aspas curvas (“ ” ‘ ’) nem outros símbolos.
+- Não altere nenhum arquivo fora da pasta `2_translated`, com exceção de `glossario.md` e `progresso.md`.
+- Não execute comandos git.
+- Depois de editar cada arquivo, confira se o XML continua válido (todas as tags abertas e fechadas).
+
+## 2. Nomes
+
+- Personagens, técnicas (artes, magias) e itens: MANTER o nome exatamente como está em inglês.
+- Lugares:
+  - Nomes descritivos (palavras comuns): TRADUZIR. Ex.: "Meeting House" → "Casa de Reuniões".
+  - Nomes próprios inventados (cidades, regiões): MANTER como estão.
+  - Nomes mistos: traduzir só a parte comum. Ex.: "[Nome] Forest" → "Floresta de [Nome]".
+- Antes de traduzir um nome de lugar ou termo recorrente, consulte `glossario.md`.
+  Se o termo já estiver lá, use exatamente a tradução registrada.
+  Se for novo, escolha a tradução e ACRESCENTE no glossário.
+
+## 3. Tom e estilo
+
+- Português natural, no estilo de dublagem brasileira.
+- Use "você". Nas falas casuais, formas como "tá", "pra" e "a gente" são bem-vindas.
+- Evite gírias muito regionais ou que envelhecem rápido.
+- Personagens nobres, formais ou idosos podem falar de forma mais correta e polida.
+- Preserve a personalidade, as piadas e a intenção de cada fala; adapte expressões em vez de
+  traduzir palavra por palavra.
+- Menus e descrições de itens: linguagem clara e objetiva.
+
+## 4. Forma de trabalho
+
+- Trabalhe em lotes pequenos (poucos arquivos por vez) e informe ao final quais arquivos concluiu.
+- Registre cada arquivo concluído em `progresso.md` (nome do arquivo e data).
+- Se encontrar algo que não sabe como tratar (código estranho, trecho ambíguo, texto que não
+  cabe no limite), NÃO invente: anote em `progresso.md`, na seção "Dúvidas", e siga para o próximo.
