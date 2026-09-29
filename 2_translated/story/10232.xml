@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>1354,1354,1354,1354,1354,1354,1354,1354,1354,1354,1354,1354,1354,1354</PointerOffset>
       <JapaneseText>サムの父親</JapaneseText>
-      <EnglishText>Sam's Father</EnglishText>
+      <EnglishText>Pai do Sam</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>469</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -92,9 +92,8 @@
       <PointerOffset>2400</PointerOffset>
       <JapaneseText>この切り株……占いするのに
 なかなかよさそうね……</JapaneseText>
-      <EnglishText>This stump looks like
-it would be good for
-telling fortunes...</EnglishText>
+      <EnglishText>Este toco parece perfeito
+para ler a sorte...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -106,8 +105,8 @@ telling fortunes...</EnglishText>
 そんな場合じゃないわよね。
 行ってらっしゃいよ……
 </JapaneseText>
-      <EnglishText>But now's not the time for that...
-I'll have to come back here later.</EnglishText>
+      <EnglishText>Mas agora não é hora disso...
+Vou ter que voltar aqui depois.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -120,7 +119,7 @@ I'll have to come back here later.</EnglishText>
       <PointerOffset>2352</PointerOffset>
       <JapaneseText>トムくんって、けっこう
 堂々としてる……</JapaneseText>
-      <EnglishText>Tom is really brave...</EnglishText>
+      <EnglishText>Tom é bem corajoso...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>6</Id>
@@ -130,8 +129,8 @@ I'll have to come back here later.</EnglishText>
       <PointerOffset>2374</PointerOffset>
       <JapaneseText>ボクなんて
 震えっぱなしなのに……</JapaneseText>
-      <EnglishText>And here I am
-shaking like a leaf...</EnglishText>
+      <EnglishText>E eu aqui, tremendo
+feito vara verde...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>7</Id>
@@ -144,8 +143,8 @@ shaking like a leaf...</EnglishText>
       <PointerOffset>1927</PointerOffset>
       <JapaneseText>クレア帰ってきたの？
 ボクの事、覚えてるかな……？</JapaneseText>
-      <EnglishText>Claire's back? I wonder
-if she remembers me...</EnglishText>
+      <EnglishText>Claire voltou? Será que ela
+se lembra de mim?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -155,8 +154,8 @@ if she remembers me...</EnglishText>
       <PointerOffset>1949</PointerOffset>
       <JapaneseText>後でサムくんと
 遊びに行こっかな……</JapaneseText>
-      <EnglishText>Maybe I'll go play with
-Sam afterwards...</EnglishText>
+      <EnglishText>Talvez eu vá brincar com
+o Sam depois.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -166,9 +165,9 @@ Sam afterwards...</EnglishText>
       <PointerOffset>1980</PointerOffset>
       <JapaneseText>……&lt;Veigue&gt;に近寄ると凍らされるって
 言ってる人がいるけど……</JapaneseText>
-      <EnglishText>Lots of folks say that if
-we get too close to you,
-you'll freeze us, but...</EnglishText>
+      <EnglishText>Muita gente diz que, se a gente
+chegar perto de você, você
+congela a gente, mas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -179,9 +178,8 @@ you'll freeze us, but...</EnglishText>
       <JapaneseText>ちゃんと後で
 溶かしてくれるんだったら、
 いいのかな……？</JapaneseText>
-      <EnglishText>...if we get thawed
-out afterwards, it
-might be okay...?</EnglishText>
+      <EnglishText>...se a gente descongelar
+depois, talvez tudo bem...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -190,7 +188,7 @@ might be okay...?</EnglishText>
     <Entry>
       <PointerOffset>2065</PointerOffset>
       <JapaneseText>クレアを取り戻して！</JapaneseText>
-      <EnglishText>Go bring back Claire!</EnglishText>
+      <EnglishText>Vá trazer Claire de volta!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -201,9 +199,9 @@ might be okay...?</EnglishText>
       <JapaneseText>&lt;Veigue&gt;、がんばって……
 クレアが帰ってくるの
 待ってるから……</JapaneseText>
-      <EnglishText>Good luck, &lt;Veigue&gt;...
-I'll be waiting for
-Claire to get back...</EnglishText>
+      <EnglishText>Boa sorte, &lt;Veigue&gt;...
+Vou esperar Claire
+voltar...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -214,8 +212,8 @@ Claire to get back...</EnglishText>
       <JapaneseText>サムくんのお父さん、
 仕事ほっぽり出して、
 どっか行っちゃったよ。</JapaneseText>
-      <EnglishText>Sam's dad just stopped working
-and ran off somewhere.</EnglishText>
+      <EnglishText>O pai do Sam largou o trabalho
+e saiu correndo pra algum lugar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -224,7 +222,7 @@ and ran off somewhere.</EnglishText>
     <Entry>
       <PointerOffset>2151</PointerOffset>
       <JapaneseText>どこ行ったんだろ？</JapaneseText>
-      <EnglishText>I wonder where he went?</EnglishText>
+      <EnglishText>Onde será que ele foi?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -234,8 +232,8 @@ and ran off somewhere.</EnglishText>
       <PointerOffset>2201</PointerOffset>
       <JapaneseText>なんかあっちの方の空に
 すごい黒雲が集まって……</JapaneseText>
-      <EnglishText>There's a lot of dark clouds
-gathering over yonder...</EnglishText>
+      <EnglishText>Tem um monte de nuvens escuras
+se juntando lá longe...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -245,7 +243,7 @@ gathering over yonder...</EnglishText>
       <PointerOffset>2223</PointerOffset>
       <JapaneseText>あっちって……
 東の方だよね</JapaneseText>
-      <EnglishText>Y'know, to the east.</EnglishText>
+      <EnglishText>Lá pro leste, sabe?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -256,9 +254,9 @@ gathering over yonder...</EnglishText>
       <JapaneseText>サムくんの家に遊びに来たんだ！
 サムくんの一家はみんな、
 とっても働き者なんだよ。</JapaneseText>
-      <EnglishText>I came here to play with
-Sam! Everyone in his
-family is a hard worker.</EnglishText>
+      <EnglishText>Vim brincar com o Sam! Todo
+mundo na família dele é
+trabalhador.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -268,7 +266,7 @@ family is a hard worker.</EnglishText>
       <PointerOffset>2283</PointerOffset>
       <JapaneseText>お父さんもああして……
 ほら、ね？</JapaneseText>
-      <EnglishText>See? Look at his dad go!</EnglishText>
+      <EnglishText>Viu? Olha o pai dele lá!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -280,9 +278,9 @@ family is a hard worker.</EnglishText>
 お母さんのお手伝いで
 忙しいみたい……
 </JapaneseText>
-      <EnglishText>I came to play with Sam,
-but it seems like he's
-busy helping his mom...</EnglishText>
+      <EnglishText>Vim brincar com o Sam, mas
+parece que ele tá ocupado
+ajudando a mãe...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -296,9 +294,9 @@ busy helping his mom...</EnglishText>
       <JapaneseText>トムくんはいつも
 うちの息子のところに遊びにきてるのに、
 ボクの仕事を眺めてるんだ。</JapaneseText>
-      <EnglishText>Tom always stops by to play with
-my son, but he always ends up
-just watching me work.</EnglishText>
+      <EnglishText>Tom sempre passa aqui pra brincar
+com meu filho, mas acaba sempre
+só me vendo trabalhar.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>21</Id>
@@ -307,7 +305,7 @@ just watching me work.</EnglishText>
     <Entry>
       <PointerOffset>1449</PointerOffset>
       <JapaneseText>変なコだろ？</JapaneseText>
-      <EnglishText>He's a strange kid, ain't he?</EnglishText>
+      <EnglishText>Ele é meio esquisito, né?</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>22</Id>
@@ -317,8 +315,8 @@ just watching me work.</EnglishText>
       <PointerOffset>1480</PointerOffset>
       <JapaneseText>おお……&lt;Veigue&gt;か……
 びっくりした……</JapaneseText>
-      <EnglishText>Oh, it's you, &lt;Veigue&gt;... You
-caught me by surprise...</EnglishText>
+      <EnglishText>Ah, é você, &lt;Veigue&gt;... Você me
+pegou de surpresa...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>23</Id>
@@ -328,7 +326,7 @@ caught me by surprise...</EnglishText>
       <PointerOffset>1502</PointerOffset>
       <JapaneseText>ボクを
 凍らせないでくれよ……？</JapaneseText>
-      <EnglishText>Try not to freeze me, will ya?</EnglishText>
+      <EnglishText>Tente não me congelar, tá?</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>24</Id>
@@ -339,8 +337,8 @@ caught me by surprise...</EnglishText>
       <JapaneseText>やっと氷から
 解放されたのに、
 またさらわれるなんて……</JapaneseText>
-      <EnglishText>So, she gets freed from the ice,
-only to wind up kidnapped...</EnglishText>
+      <EnglishText>Então ela é libertada do gelo,
+pra acabar sequestrada...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>25</Id>
@@ -349,8 +347,8 @@ only to wind up kidnapped...</EnglishText>
     <Entry>
       <PointerOffset>1574</PointerOffset>
       <JapaneseText>クレアもついてないね。</JapaneseText>
-      <EnglishText>Claire just can't
-catch a break...</EnglishText>
+      <EnglishText>Claire não tem sorte
+mesmo...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>26</Id>
@@ -360,9 +358,8 @@ catch a break...</EnglishText>
       <PointerOffset>1637</PointerOffset>
       <JapaneseText>もう一生懸命やるのは
 やめたよ。</JapaneseText>
-      <EnglishText>I've decided to stop
-working hard and
-start hardly working.</EnglishText>
+      <EnglishText>Decidi parar de dar duro e
+começar a fazer corpo mole.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>27</Id>
@@ -373,9 +370,9 @@ start hardly working.</EnglishText>
       <JapaneseText>キミたちヒューマは
 ボクたちガジュマががんばってるのが、
 当たり前だと思ってるしね。</JapaneseText>
-      <EnglishText>It's only fair, considering
-you Huma take us Gajuma's
-hard work for granted.</EnglishText>
+      <EnglishText>É justo, já que vocês, Huma,
+acham normal o trabalho duro
+de nós, Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>28</Id>
@@ -385,8 +382,8 @@ hard work for granted.</EnglishText>
       <PointerOffset>1684</PointerOffset>
       <JapaneseText>あーあ、働くのイヤに
 なっちゃったな……</JapaneseText>
-      <EnglishText>Geez...I really don't
-want to work...</EnglishText>
+      <EnglishText>Puxa... Eu realmente não
+quero trabalhar...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>29</Id>
@@ -396,9 +393,9 @@ want to work...</EnglishText>
       <PointerOffset>1706</PointerOffset>
       <JapaneseText>ヒューマのためにがんばったって……
 ヤツら全然感謝してないし……</JapaneseText>
-      <EnglishText>I bust my chops for these
-Huma and they don't have
-it in them to be grateful...</EnglishText>
+      <EnglishText>Eu me mato de trabalhar por esses
+Huma e eles não têm nem a
+decência de agradecer...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>30</Id>
@@ -409,9 +406,9 @@ it in them to be grateful...</EnglishText>
       <JapaneseText>地鳴りは気になるけど、
 騒いでどうにかなるもんじゃ
 あるまいしね。</JapaneseText>
-      <EnglishText>The ground rumbling has got
-me worried, but freaking
-out ain't gonna fix nothing.</EnglishText>
+      <EnglishText>O barulho do chão me deixou
+preocupado, mas ficar em pânico
+não vai resolver nada.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>31</Id>
@@ -421,8 +418,8 @@ out ain't gonna fix nothing.</EnglishText>
       <PointerOffset>1794</PointerOffset>
       <JapaneseText>スールズの周りの森からは
 良質の木材が採れるのさ。</JapaneseText>
-      <EnglishText>I collect primo lumber from
-the woods around Sulz.</EnglishText>
+      <EnglishText>Eu tiro madeira de primeira
+das florestas ao redor de Sulz.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>32</Id>
@@ -433,9 +430,9 @@ the woods around Sulz.</EnglishText>
       <JapaneseText>最近、こいつを使って
 木彫りを始めてみようかと
 思ってるんだよ。</JapaneseText>
-      <EnglishText>Recently I've been
-thinking about maybe
-taking up wood carving.</EnglishText>
+      <EnglishText>Ultimamente ando pensando em
+talvez começar a esculpir
+em madeira.</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>33</Id>
@@ -446,10 +443,10 @@ taking up wood carving.</EnglishText>
       <JapaneseText>ボクたちガジュマは力仕事が得意だけど、
 まあ、だからってそう決めつけられるのも
 いい気分じゃないけどね。</JapaneseText>
-      <EnglishText>They say that Gajuma are
-skilled at hard labor, but
-being pigeonholed like that
-doesn't feel all that great...</EnglishText>
+      <EnglishText>Dizem que os Gajuma são bons
+em trabalho pesado, mas ser
+rotulado assim não é lá
+muito legal...</EnglishText>
       <Notes/>
       <SpeakerId>2,3</SpeakerId>
       <Id>34</Id>
@@ -463,9 +460,9 @@ doesn't feel all that great...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
@@ -478,8 +475,8 @@ No</EnglishText>
       <PointerOffset>1078</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『案内板』
 ←　村出口</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Guidepost -
-← Village Exit</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Placa -
+← Saída da Vila</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>

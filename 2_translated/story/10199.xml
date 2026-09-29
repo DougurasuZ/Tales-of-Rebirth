@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>7593</PointerOffset>
       <JapaneseText>食材屋</JapaneseText>
-      <EnglishText>Grocer</EnglishText>
+      <EnglishText>Quitandeiro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -139,8 +139,8 @@
     <Entry>
       <PointerOffset>7609</PointerOffset>
       <JapaneseText>食材調達施設へようこそ！</JapaneseText>
-      <EnglishText>Welcome to Farm
-Fresh Groceries!</EnglishText>
+      <EnglishText>Bem-vindo à Quitanda
+Fazenda Fresca!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -150,8 +150,8 @@ Fresh Groceries!</EnglishText>
       <PointerOffset>7631</PointerOffset>
       <JapaneseText>ここではいろんな食材を集めて、
 皆さんに提供しています。</JapaneseText>
-      <EnglishText>We offer a wide variety
-of food products here.</EnglishText>
+      <EnglishText>Aqui temos uma grande variedade
+de produtos alimentícios.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -163,10 +163,10 @@ of food products here.</EnglishText>
 を皆さんにお持ちいただくだけで、
 新鮮な食材を定期的に供給する
 システムとなっております。</JapaneseText>
-      <EnglishText>Just by having the mysterious
-&lt;item:106&gt; with you, you'll
-be supplied regularly with the
-freshest of ingredients.</EnglishText>
+      <EnglishText>Basta levar o misterioso
+&lt;item:106&gt; com você e receberá
+regularmente os ingredientes
+mais frescos que existem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -177,8 +177,8 @@ freshest of ingredients.</EnglishText>
       <JapaneseText>この「&lt;item:106&gt;」、通常は
 １００００ガルドで
 お分けしていますが……</JapaneseText>
-      <EnglishText>Normally, the asking price for a 
-&lt;item:106&gt; is 10,000 Gald...</EnglishText>
+      <EnglishText>Normalmente, o &lt;item:106&gt; custa
+10.000 Gald...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -189,10 +189,9 @@ freshest of ingredients.</EnglishText>
       <JapaneseText>今ならなんと！
 特別期間限定キャンペーン中につき、
 無料でお分けしています！</JapaneseText>
-      <EnglishText>But not right now! We're doing
-a limited time campaign where
-we're giving them away for
-free!</EnglishText>
+      <EnglishText>Mas agora, não! Numa campanha
+especial por tempo limitado,
+estamos dando de graça!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -203,10 +202,10 @@ free!</EnglishText>
       <JapaneseText>各食材チケットをお持ちいただく事で、
 お客様には優先的に食材を
 配達する事ができます。</JapaneseText>
-      <EnglishText>If you exchange food tickets
-with us, we'll make it our 
-priority to get ingredients
-delivered right to you!</EnglishText>
+      <EnglishText>Ao trocar Tickets de Comida
+conosco, você terá prioridade
+na entrega de ingredientes
+direto na sua porta!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -215,8 +214,8 @@ delivered right to you!</EnglishText>
     <Entry>
       <PointerOffset>7750</PointerOffset>
       <JapaneseText>ぜひ、お集め下さい。</JapaneseText>
-      <EnglishText>So make sure to
-gather them up!</EnglishText>
+      <EnglishText>Então trate de
+juntar todos!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -227,9 +226,8 @@ gather them up!</EnglishText>
       <JapaneseText>お持ちいただいた食材チケットで、
 使用されていない分と引き換えに
 当方の店で食材を購入する事も可能です。</JapaneseText>
-      <EnglishText>You can purchase food
-items with any leftover
-tickets that you have.</EnglishText>
+      <EnglishText>Você pode comprar alimentos
+com os tickets que sobrarem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -240,10 +238,9 @@ tickets that you have.</EnglishText>
       <JapaneseText>また、マジカルポットレベルアップ
 キャンペーンも併せて実施中ですので
 この機会にぜひどうぞ！</JapaneseText>
-      <EnglishText>Also, we're doing a Magical Pot
-Level Up Campaign as well, so
-try to take advantage of that
-too!</EnglishText>
+      <EnglishText>Também temos a Campanha de
+Aumento de Nível da Magical Pot.
+Aproveite!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -253,9 +250,8 @@ too!</EnglishText>
       <PointerOffset>7837</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Green&gt;食材のチケットはワールドマップ
 に点在しています。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Green&gt;You can find Food Tickets
-scattered about the World
-Map.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Green&gt;Você encontra Tickets de Comida
+espalhados pelo Mapa-múndi.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -265,8 +261,8 @@ Map.</EnglishText>
       <PointerOffset>7861</PointerOffset>
       <JapaneseText>&lt;Green&gt;バトルブックに
 &lt;Red&gt;料理&lt;Green&gt;についての説明が追加されました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Information about &lt;Red&gt;Cooking&lt;Green&gt; was
-added to the Battle Book.</EnglishText>
+      <EnglishText>&lt;Green&gt;Informações sobre &lt;Red&gt;Culinária&lt;Green&gt; foram
+adicionadas ao Battle Book.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -277,9 +273,9 @@ added to the Battle Book.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;バトルブックを読みますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Read the Battle Book?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Ler o Battle Book?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
@@ -291,10 +287,10 @@ No</EnglishText>
 　頻度レベルアップ　
 　種類レベルアップ　
 　個数レベルアップ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;font:0&gt;&lt;scale:F0&gt;Buy Ingredients/Exchange Tickets
-Level Up Frequency
-Level Up Variety
-Level Up Amount</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;font:0&gt;&lt;scale:F0&gt;Comprar Comida/Trocar Tickets
+Aumentar Frequência
+Aumentar Variedade
+Aumentar Quantidade</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -303,7 +299,7 @@ Level Up Amount</EnglishText>
     <Entry>
       <PointerOffset>7283</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt;レベルは最大です。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt; is at max level.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt; está no nível máximo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -312,7 +308,7 @@ Level Up Amount</EnglishText>
     <Entry>
       <PointerOffset>7410</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;所持金が足りません。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;You don't have enough money.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Você não tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -322,8 +318,8 @@ Level Up Amount</EnglishText>
       <PointerOffset>7456</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;今の段階ではこれ以上
 レベルアップできません。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;You cannot level it up any
-further at the moment.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;No momento, não é possível
+aumentar mais o nível.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -335,10 +331,10 @@ further at the moment.</EnglishText>
 よろしいですか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Raise the &lt;unk18:441480&gt; Level.
-Is this all right?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Aumentar o nível de &lt;unk18:441480&gt;.
+Tem certeza?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -348,8 +344,8 @@ No</EnglishText>
       <PointerOffset>7573</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;font:80000002&gt;&lt;item:106&gt;の
 &lt;unk18:441480&gt;レベルは&lt;unk17:340CC18C80&gt;になりました。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;The &lt;item:106&gt;'s &lt;unk18:441480&gt; Level 
-is now &lt;unk17:340CC18C80&gt;.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;item:106&gt;: &lt;unk18:441480&gt;
+agora no nível &lt;unk17:340CC18C80&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -358,7 +354,7 @@ is now &lt;unk17:340CC18C80&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7201</PointerOffset>
       <JapaneseText>頻度</JapaneseText>
-      <EnglishText>Frequency</EnglishText>
+      <EnglishText>Frequência</EnglishText>
       <Notes>&lt;ADDED&gt;</Notes>
       <Id>25</Id>
       <Status>Editing</Status>
@@ -366,7 +362,7 @@ is now &lt;unk17:340CC18C80&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7221</PointerOffset>
       <JapaneseText>種類</JapaneseText>
-      <EnglishText>Variety</EnglishText>
+      <EnglishText>Variedade</EnglishText>
       <Notes>&lt;ADDED&gt;</Notes>
       <Id>26</Id>
       <Status>Editing</Status>
@@ -374,7 +370,7 @@ is now &lt;unk17:340CC18C80&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7241</PointerOffset>
       <JapaneseText>個数</JapaneseText>
-      <EnglishText>Amount</EnglishText>
+      <EnglishText>Quantidade</EnglishText>
       <Notes>&lt;ADDED&gt;</Notes>
       <Id>27</Id>
       <Status>Editing</Status>
@@ -412,8 +408,8 @@ noticeフラグ
       <JapaneseText>これが、
 そのフォルスの具現化したもの。
 フォルスキューブさ。</JapaneseText>
-      <EnglishText>This here is a manifestation of
-Force. It's called a Force Cube.</EnglishText>
+      <EnglishText>Isso aqui é a Force materializada.
+Se chama Force Cube.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
@@ -425,8 +421,8 @@ Force. It's called a Force Cube.</EnglishText>
       <JapaneseText>これが、
 そのフォルスの具現化したもの。
 フォルスキューブさ。</JapaneseText>
-      <EnglishText>This here is a manifestation of
-Force. It's called a Force Cube.</EnglishText>
+      <EnglishText>Isso aqui é a Force materializada.
+Se chama Force Cube.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
@@ -579,9 +575,9 @@ Force. It's called a Force Cube.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>

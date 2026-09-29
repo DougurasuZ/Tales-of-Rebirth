@@ -9,6 +9,9 @@ O texto fica nos arquivos XML dentro da pasta `2_translated`. Siga TODAS as regr
   `<JapaneseText>`, `<PointerOffset>`, `<VoiceId>`, `<Id>`, `<SpeakerId>`, `<Status>`, `<Notes>`
   nem em qualquer outra tag.
 - Se `<EnglishText>` estiver vazio (`<EnglishText/>`), NÃO traduza nem preencha: deixe como está.
+  Nunca traduza a partir do `<JapaneseText>`; a base da tradução é sempre o inglês.
+- Arquivos cujo `<FriendlyName>` seja "Debug Do Not Translate" são de teste interno e não
+  aparecem para o jogador: NÃO traduza. Apenas registre no `progresso.md` como "ignorado (debug)".
 - Preserve exatamente os códigos do jogo que aparecem no texto, como `&lt;speed:0&gt;`,
   `&lt;scale:140&gt;`, `&lt;voice:...&gt;`, cores, nomes entre colchetes como `[VARIABLE]`
   e qualquer outro `&lt;...&gt;`. Não traduza, não remova e não mude a posição relativa deles.
@@ -82,6 +85,8 @@ Termos de raça: "Huma" e "Gajuma" ficam como estão (não traduzir).
 ## 4. Forma de trabalho
 
 - Trabalhe em lotes pequenos (poucos arquivos por vez) e informe ao final quais arquivos concluiu.
+  Arquivos ignorados (debug ou sem texto) não contam no lote: pule para o próximo até completar
+  a quantidade pedida de arquivos com texto real.
 - Registre cada arquivo concluído em `progresso.md` (nome do arquivo e data).
 - Se encontrar algo que não sabe como tratar (código estranho, trecho ambíguo, texto que não
   cabe no limite), NÃO invente: anote em `progresso.md`, na seção "Dúvidas", e siga para o próximo.

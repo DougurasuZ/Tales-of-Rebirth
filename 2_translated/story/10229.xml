@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>6895</PointerOffset>
       <JapaneseText>馬車屋</JapaneseText>
-      <EnglishText>Carriage Coach</EnglishText>
+      <EnglishText>Cocheiro</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>3292</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>2588,6502,6553,6654</PointerOffset>
       <JapaneseText>宿屋の息子</JapaneseText>
-      <EnglishText>Innkeeper's Son</EnglishText>
+      <EnglishText>Filho do Pousadeiro</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -85,7 +85,7 @@
     <Entry>
       <PointerOffset>1047</PointerOffset>
       <JapaneseText>道具屋「こだま」</JapaneseText>
-      <EnglishText>Item Shop</EnglishText>
+      <EnglishText>Loja de Itens</EnglishText>
       <Notes/>
       <Id>9</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>469</PointerOffset>
       <JapaneseText>宿屋・食材屋</JapaneseText>
-      <EnglishText>Inn - Grocery Store</EnglishText>
+      <EnglishText>Pousada - Mercearia</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -128,7 +128,7 @@
     <Entry>
       <PointerOffset>488</PointerOffset>
       <JapaneseText>道具屋</JapaneseText>
-      <EnglishText>Item Shop</EnglishText>
+      <EnglishText>Loja de Itens</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -140,7 +140,7 @@
       <PointerOffset>4517</PointerOffset>
       <VoiceId>22000052</VoiceId>
       <JapaneseText>&lt;Eugene&gt;は今、どこにいる？</JapaneseText>
-      <EnglishText>So, where's &lt;Eugene&gt;?</EnglishText>
+      <EnglishText>Então, onde está &lt;Eugene&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -153,10 +153,10 @@
 メセチナ洞窟にこもっています。
 何かあった時、周りに迷惑を
 かけたくないからって。</JapaneseText>
-      <EnglishText>He locked himself up inside the
-Mesechina Caverns on the outskirts
-of Balka. He said it was to avoid
-troubling anyone.</EnglishText>
+      <EnglishText>Ele se trancou nas Cavernas de
+Mesechina, nos arredores de
+Balka. Disse que era para não
+incomodar ninguém.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -169,10 +169,10 @@ troubling anyone.</EnglishText>
 思ったより遅くなっちゃったし、
 私たち二人だけでも行った
 ほうがいいかも……</JapaneseText>
-      <EnglishText>Let's hurry, &lt;Veigue&gt;. Getting here
-took longer than I had anticipated,
-so perhaps it would be best for
-just the two of us to go...</EnglishText>
+      <EnglishText>Vamos logo, &lt;Veigue&gt;. Demoramos
+mais do que eu esperava para
+chegar aqui. Talvez seja melhor
+irmos só nós dois...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -185,10 +185,9 @@ just the two of us to go...</EnglishText>
 &lt;Tytree&gt;も呼んで行こう。
 呼ばないと後でうるさい。
 それに……頼りになる。</JapaneseText>
-      <EnglishText>No, we should go grab &lt;Tytree&gt;
-as well. We'll never hear the
-end of it if we don't. Besides...
-we can count on him.</EnglishText>
+      <EnglishText>Não, vamos chamar &lt;Tytree&gt; também.
+Senão, ele não vai parar de falar.
+Além disso... ele é confiável.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -198,7 +197,7 @@ we can count on him.</EnglishText>
       <PointerOffset>4672</PointerOffset>
       <VoiceId>22000056</VoiceId>
       <JapaneseText>はい。</JapaneseText>
-      <EnglishText>All right.</EnglishText>
+      <EnglishText>Certo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -208,7 +207,7 @@ we can count on him.</EnglishText>
       <PointerOffset>5051</PointerOffset>
       <VoiceId>3c000006</VoiceId>
       <JapaneseText>待って……</JapaneseText>
-      <EnglishText>Just a moment?</EnglishText>
+      <EnglishText>Um momento?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -219,8 +218,8 @@ we can count on him.</EnglishText>
       <VoiceId>3c000007</VoiceId>
       <JapaneseText>わたくしとクレアの事を、
 ご両親は知っているのですか？</JapaneseText>
-      <EnglishText>Are Claire's parents aware of what
-happened between the two of us?</EnglishText>
+      <EnglishText>Os pais de Claire sabem o que
+aconteceu entre nós duas?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -241,8 +240,8 @@ happened between the two of us?</EnglishText>
       <VoiceId>3c000009</VoiceId>
       <JapaneseText>今から……
 わたくしはクレアになります。</JapaneseText>
-      <EnglishText>I see... Then I shall act as
-Claire for the time being.</EnglishText>
+      <EnglishText>Entendo... Então vou agir como
+Claire por enquanto.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -254,9 +253,9 @@ Claire for the time being.</EnglishText>
       <JapaneseText>あなたには酷かもしれないけれど……
 あの人たちを悲しませたくは
 ないでしょう？</JapaneseText>
-      <EnglishText>It may make you uncomfortable,
-but... I don't think you want
-to make them upset, right?</EnglishText>
+      <EnglishText>Pode ser difícil para você, mas
+suponho que não queira deixá-los
+tristes, certo?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -277,9 +276,8 @@ to make them upset, right?</EnglishText>
       <VoiceId>3c00000c</VoiceId>
       <JapaneseText>今はまだ、本当の事を
 伝えるべきではないと思うから……</JapaneseText>
-      <EnglishText>I believe now would not be
-the best time to inform them
-of the truth.</EnglishText>
+      <EnglishText>Creio que agora não seja a hora
+de contar a eles a verdade.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -291,8 +289,8 @@ of the truth.</EnglishText>
       <JapaneseText>あなたもそのように
 ふるまってください。
 ……お願いします……</JapaneseText>
-      <EnglishText>I ask that you treat me as
-though I were her... Please.</EnglishText>
+      <EnglishText>Peço que me trate como se eu
+fosse ela... Por favor.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -303,7 +301,7 @@ though I were her... Please.</EnglishText>
       <VoiceId>3c00000e</VoiceId>
       <JapaneseText>……ああ。
 行こう……&lt;Red&gt;クレア&lt;White&gt;。</JapaneseText>
-      <EnglishText>All right. Let's go, &lt;Red&gt;Claire&lt;White&gt;.</EnglishText>
+      <EnglishText>Certo. Vamos, &lt;Red&gt;Claire&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -314,9 +312,9 @@ though I were her... Please.</EnglishText>
       <VoiceId>3c0000b9</VoiceId>
       <JapaneseText>とてもいい顔をしてるわ、&lt;Veigue&gt;。
 帰って来た時とは別人みたい……</JapaneseText>
-      <EnglishText>You're looking so much better, &lt;Veigue&gt;.
-Completely different than how you
-were when you first got here...</EnglishText>
+      <EnglishText>Você está com uma cara bem melhor,
+&lt;Veigue&gt;. Completamente diferente de
+quando chegou aqui...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
@@ -326,7 +324,7 @@ were when you first got here...</EnglishText>
       <PointerOffset>5702</PointerOffset>
       <VoiceId>3c0000ba</VoiceId>
       <JapaneseText>おばさん……</JapaneseText>
-      <EnglishText>Aunt Rakia...</EnglishText>
+      <EnglishText>Tia Rakia...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -337,8 +335,8 @@ were when you first got here...</EnglishText>
       <VoiceId>3c0000bb</VoiceId>
       <JapaneseText>壁を……
 乗り越えたんだな。</JapaneseText>
-      <EnglishText>You've managed to overcome
-your problems...</EnglishText>
+      <EnglishText>Você conseguiu superar
+seus problemas...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -348,7 +346,7 @@ your problems...</EnglishText>
       <PointerOffset>5754</PointerOffset>
       <VoiceId>3c0000bc</VoiceId>
       <JapaneseText>……おじさん……</JapaneseText>
-      <EnglishText>Uncle Marco...</EnglishText>
+      <EnglishText>Tio Marco...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -359,8 +357,8 @@ your problems...</EnglishText>
       <VoiceId>3c0000bd</VoiceId>
       <JapaneseText>そろそろ、
 それもやめないか？</JapaneseText>
-      <EnglishText>Isn't it about time you
-stopped calling us that?</EnglishText>
+      <EnglishText>Não está na hora de parar
+de nos chamar assim?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -370,7 +368,7 @@ stopped calling us that?</EnglishText>
       <PointerOffset>5797</PointerOffset>
       <VoiceId>3c0000be</VoiceId>
       <JapaneseText>えっ……？</JapaneseText>
-      <EnglishText>Huh?</EnglishText>
+      <EnglishText>Hã?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -381,8 +379,8 @@ stopped calling us that?</EnglishText>
       <VoiceId>3c0000bf</VoiceId>
       <JapaneseText>前にも言ったじゃないか。
 おまえは私たちの息子なんだ。</JapaneseText>
-      <EnglishText>Haven't we told you this before?
-You are our son.</EnglishText>
+      <EnglishText>Já não te dissemos isso antes?
+Você é nosso filho.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -404,9 +402,9 @@ You are our son.</EnglishText>
       <JapaneseText>亡くなったご両親が、おまえに
 どれほど大きな愛を注いだかは、
 私たちにはわからない。</JapaneseText>
-      <EnglishText>We will never know the true
-depths of the love that your
-late parents felt for you...</EnglishText>
+      <EnglishText>Nunca saberemos a dimensão do
+amor que seus falecidos pais
+sentiam por você...</EnglishText>
       <Notes>Sounded a bit awkward to me, might still be.
 DRAGON: It's fine.</Notes>
       <SpeakerId>4</SpeakerId>
@@ -418,9 +416,8 @@ DRAGON: It's fine.</Notes>
       <VoiceId>3c0000c2</VoiceId>
       <JapaneseText>でも、私たちの気持ちは
 それに負けていないつもりだよ。</JapaneseText>
-      <EnglishText>...But that doesn't make our
-own feelings for you any
-less significant.</EnglishText>
+      <EnglishText>...Mas isso não faz o que a gente
+sente por você valer menos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
@@ -441,7 +438,7 @@ less significant.</EnglishText>
       <VoiceId>3c0000c4</VoiceId>
       <JapaneseText>ありがとう……
 父さん……母さん……</JapaneseText>
-      <EnglishText>Thank you, Mom... Dad...</EnglishText>
+      <EnglishText>Obrigado, mãe... pai.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -452,8 +449,8 @@ less significant.</EnglishText>
       <VoiceId>3c0000c5</VoiceId>
       <JapaneseText>&lt;Veigue&gt;……
 いつか……本当の事、話してね。</JapaneseText>
-      <EnglishText>And &lt;Veigue&gt;? Someday...
-tell us the truth.</EnglishText>
+      <EnglishText>E &lt;Veigue&gt;? Um dia... conte pra
+nós a verdade.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -474,8 +471,8 @@ tell us the truth.</EnglishText>
       <VoiceId>3c0000c7</VoiceId>
       <JapaneseText>……クレアの事……
 私たちなら大丈夫だから。</JapaneseText>
-      <EnglishText>About what happened to Claire.
-We'll be able to handle it.</EnglishText>
+      <EnglishText>Sobre o que aconteceu com Claire.
+A gente vai dar conta.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -486,9 +483,8 @@ We'll be able to handle it.</EnglishText>
       <VoiceId>3c0000c8</VoiceId>
       <JapaneseText>どなたか知りませんが、
 我々のためにありがとう……</JapaneseText>
-      <EnglishText>Though we don't know who
-you are, we're thankful that
-you did this for our sake.</EnglishText>
+      <EnglishText>Mesmo sem saber quem é você,
+obrigado por fazer isso por nós.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
@@ -498,7 +494,7 @@ you did this for our sake.</EnglishText>
       <PointerOffset>6115</PointerOffset>
       <VoiceId>3c0000c9</VoiceId>
       <JapaneseText>……わ、私は……</JapaneseText>
-      <EnglishText>I... I am...!</EnglishText>
+      <EnglishText>E-Eu sou...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -508,8 +504,8 @@ you did this for our sake.</EnglishText>
       <PointerOffset>6137</PointerOffset>
       <VoiceId>3c0000ca</VoiceId>
       <JapaneseText>いいえ、わかります。</JapaneseText>
-      <EnglishText>Don't worry about
-it, we understand.</EnglishText>
+      <EnglishText>Não precisa dizer nada,
+nós entendemos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
@@ -520,8 +516,8 @@ it, we understand.</EnglishText>
       <VoiceId>3c0000cb</VoiceId>
       <JapaneseText>……クレアは、オレが必ず……
 無事に連れて帰ります。</JapaneseText>
-      <EnglishText>I promise, I'll bring
-Claire home safe.</EnglishText>
+      <EnglishText>Eu prometo. Trago Claire de volta
+pra casa, sã e salva.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -531,7 +527,7 @@ Claire home safe.</EnglishText>
       <PointerOffset>6204</PointerOffset>
       <VoiceId>3c0000cc</VoiceId>
       <JapaneseText>待ってるよ、&lt;Veigue&gt;。</JapaneseText>
-      <EnglishText>We'll be waiting, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Estaremos esperando, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
@@ -542,8 +538,8 @@ Claire home safe.</EnglishText>
       <VoiceId>3c0000cd</VoiceId>
       <JapaneseText>行って来ます。
 ……父さん、母さん。</JapaneseText>
-      <EnglishText>...So long, Mom, Dad.
-I'll be back.</EnglishText>
+      <EnglishText>...Até logo, mãe, pai.
+Eu volto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>40</Id>
@@ -556,9 +552,8 @@ I'll be back.</EnglishText>
       <PointerOffset>6920</PointerOffset>
       <JapaneseText>申し訳ありません。
 馬車は運休となっております。</JapaneseText>
-      <EnglishText>We're truly sorry, but
-carriages are not available
-for use at the moment.</EnglishText>
+      <EnglishText>Sentimos muito, mas as carruagens
+não estão disponíveis no momento.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>41</Id>
@@ -569,9 +564,9 @@ for use at the moment.</EnglishText>
       <JapaneseText>&lt;font:80000002&gt;お金が足りないようですね。
 馬車のご利用料金は
 &lt;nmb:12C&gt;ガルドになります。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;You seem to be short on money.
-The fee for using the carriage
-is &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;Parece que você está sem dinheiro.
+A tarifa da carruagem
+é de &lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
@@ -581,9 +576,8 @@ is &lt;nmb:12C&gt; Gald.</EnglishText>
       <PointerOffset>6986</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;馬車をご利用になりますか？
 料金は定額で&lt;nmb:12C&gt;ガルドになります。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;Would you like to use a
-carriage? The fare is a
-flat rate of &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;Gostaria de usar uma carruagem?
+A tarifa fixa é de &lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>43</Id>
@@ -594,9 +588,9 @@ flat rate of &lt;nmb:12C&gt; Gald.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;馬車を利用しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Travel by Carriage?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Viajar de carruagem?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>44</Id>
@@ -681,7 +675,7 @@ No</EnglishText>
       <PointerOffset>8386</PointerOffset>
       <JapaneseText>　馬車に乗らない　
 </JapaneseText>
-      <EnglishText>Cancel
+      <EnglishText>Cancelar
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -758,9 +752,9 @@ No</EnglishText>
 料金&lt;nmb:12C&gt;ガルド
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48F40C28B8048880&gt;is &lt;nmb:12C&gt; Gald.
-Embark
-Stay</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Passagem para &lt;unk18:48F40C28B8048880&gt;: &lt;nmb:12C&gt; Gald.
+Embarcar
+Ficar</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -773,9 +767,8 @@ Stay</EnglishText>
       <PointerOffset>3354</PointerOffset>
       <JapaneseText>スールズは田舎だけど、
 涼しくて、避暑には最高よ。</JapaneseText>
-      <EnglishText>Sulz might be rural, but it's
-a great place to escape the
-summer heat.</EnglishText>
+      <EnglishText>Sulz pode ser rural, mas é ótima
+pra fugir do calor do verão.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
@@ -785,9 +778,8 @@ summer heat.</EnglishText>
       <PointerOffset>3376</PointerOffset>
       <JapaneseText>田舎だから、大した事件も
 なくって平和だし。</JapaneseText>
-      <EnglishText>And since it's rural,
-nothing happens, so
-it's rather peaceful.</EnglishText>
+      <EnglishText>E, como é rural, nunca acontece
+nada, então é bem tranquilo.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
@@ -797,9 +789,8 @@ it's rather peaceful.</EnglishText>
       <PointerOffset>3398</PointerOffset>
       <JapaneseText>事件って言えば……
 集会所のアレくらいかしら？</JapaneseText>
-      <EnglishText>I think the only real incident
-was the one at the Meeting
-House?</EnglishText>
+      <EnglishText>Acho que o único incidente foi
+aquele na Casa de Reuniões?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>62</Id>
@@ -810,8 +801,8 @@ House?</EnglishText>
       <JapaneseText>&lt;Veigue&gt;……
 あんた大変な事しでかして……
 </JapaneseText>
-      <EnglishText>&lt;Veigue&gt;...you made a
-huge mess of things...</EnglishText>
+      <EnglishText>&lt;Veigue&gt;... você aprontou uma
+bela confusão...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>63</Id>
@@ -821,9 +812,9 @@ huge mess of things...</EnglishText>
       <PointerOffset>3445</PointerOffset>
       <JapaneseText>クレアはもとに戻ったから
 よかったようなものの……</JapaneseText>
-      <EnglishText>But since Claire is back
-to normal, I guess that's
-worth celebrating...</EnglishText>
+      <EnglishText>Mas como Claire voltou ao
+normal, acho que vale a pena
+comemorar...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
@@ -834,9 +825,9 @@ worth celebrating...</EnglishText>
       <JapaneseText>マルコさんたちが
 かばってくれなかったら、
 今頃大変だったわよ。</JapaneseText>
-      <EnglishText>If Marco and Rakia hadn't
-covered for you, you'd
-have been in big trouble.</EnglishText>
+      <EnglishText>Se Marco e Rakia não tivessem
+acobertado você, estaria em
+sérios apuros.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
@@ -847,9 +838,8 @@ have been in big trouble.</EnglishText>
       <JapaneseText>平和な村なのに、
 あんな大事件……!!
 どうしましょ……</JapaneseText>
-      <EnglishText>To think something like that
-happened in a peaceful village
-like this..! Oh, what to do...</EnglishText>
+      <EnglishText>Um negócio desses numa vila tão
+pacífica..! Ai, o que eu faço...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
@@ -859,8 +849,8 @@ like this..! Oh, what to do...</EnglishText>
       <PointerOffset>3555</PointerOffset>
       <JapaneseText>ホント、どうしましょ！
 どうすればいいの!?</JapaneseText>
-      <EnglishText>Really, what should I do?!
-What good CAN I do?!</EnglishText>
+      <EnglishText>Sério, o que eu faço?!
+O que eu POSSO fazer?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
@@ -870,8 +860,8 @@ What good CAN I do?!</EnglishText>
       <PointerOffset>3577</PointerOffset>
       <JapaneseText>……私が騒いでも
 どうしようもないんだけど……</JapaneseText>
-      <EnglishText>...Although yelling about it
-isn't going to help, I guess...</EnglishText>
+      <EnglishText>...Se bem que gritar não
+vai adiantar nada, né...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -882,9 +872,8 @@ isn't going to help, I guess...</EnglishText>
       <JapaneseText>マルコさんもラキヤさんも、
 口には出さないけど、
 とてもつらそうなのよ……</JapaneseText>
-      <EnglishText>Marco and Rakia aren't
-talking about it, but
-they seem really upset...</EnglishText>
+      <EnglishText>Marco e Rakia não falam nada,
+mas parecem muito abalados...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>69</Id>
@@ -894,8 +883,8 @@ they seem really upset...</EnglishText>
       <PointerOffset>3662</PointerOffset>
       <JapaneseText>早くクレアを助けて
 連れ帰ってあげて……</JapaneseText>
-      <EnglishText>Hurry and save Claire.
-Bring her home...</EnglishText>
+      <EnglishText>Corra e salve Claire.
+Traga-a pra casa...</EnglishText>
       <Notes>comma splice. You'd use either a semicolon here or separate into two sentences.</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>70</Id>
@@ -905,9 +894,8 @@ Bring her home...</EnglishText>
       <PointerOffset>3687</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、クレアはどうなったの？
 こんなところで油売ってる場合なの!?</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, what happened to Claire?
-Are you really just going to sit
-here and twiddle your thumbs?</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, o que houve com Claire?
+Vai ficar de braços cruzados aqui?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>71</Id>
@@ -918,9 +906,8 @@ here and twiddle your thumbs?</EnglishText>
       <JapaneseText>ヒューマのために働くなんて、
 馬鹿馬鹿しいわよね？
 あなたもそう思うでしょ？</JapaneseText>
-      <EnglishText>Working for the sake of Huma
-is such a ridiculous idea...
-Wouldn't you agree?</EnglishText>
+      <EnglishText>Trabalhar em prol dos Huma é uma
+ideia ridícula... Não concorda?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>72</Id>
@@ -931,9 +918,8 @@ Wouldn't you agree?</EnglishText>
       <JapaneseText>なんで私がヒューマのために
 草むしりなんてやらなきゃ
 いけないのかしら？</JapaneseText>
-      <EnglishText>Why is it that I have
-to do all this weeding
-for those Huma?</EnglishText>
+      <EnglishText>Por que eu tenho que capinar
+tudo isso pra esses Huma?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>
@@ -942,7 +928,7 @@ for those Huma?</EnglishText>
     <Entry>
       <PointerOffset>3808</PointerOffset>
       <JapaneseText>バカバカしい……!!</JapaneseText>
-      <EnglishText>Ridiculous...!</EnglishText>
+      <EnglishText>Ridículo...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>74</Id>
@@ -953,10 +939,9 @@ for those Huma?</EnglishText>
       <JapaneseText>空から何か降って来やしないか、
 いつもビクビク……
 草むしりもしてらんないわ……</JapaneseText>
-      <EnglishText>Worrying if something's going to
-come falling out of the sky is
-keeping me on edge... I can't
-even bring myself to keep weeding.</EnglishText>
+      <EnglishText>Ficar preocupada se algo vai cair
+do céu me deixa à flor da pele...
+Nem consigo mais capinar.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
@@ -966,9 +951,9 @@ even bring myself to keep weeding.</EnglishText>
       <PointerOffset>3889</PointerOffset>
       <JapaneseText>今日はいい青空が広がってるねぇ……
 遠くの山までよく見えるよ……</JapaneseText>
-      <EnglishText>There's a lovely blue sky today...
-You can even see the mountains
-in the distance...</EnglishText>
+      <EnglishText>Que céu azul lindo hoje...
+Dá pra ver até as montanhas
+lá longe...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>76</Id>
@@ -981,7 +966,7 @@ in the distance...</EnglishText>
       <PointerOffset>2650</PointerOffset>
       <JapaneseText>お客さん、
 どこから来たの？</JapaneseText>
-      <EnglishText>Where are you folks from?</EnglishText>
+      <EnglishText>De onde vocês são?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
@@ -992,8 +977,8 @@ in the distance...</EnglishText>
       <JapaneseText>母さんが、
 「&lt;Veigue&gt;のそばに寄ると
 　凍らされるから近づくな」って……</JapaneseText>
-      <EnglishText>My mom told me not to go
-near you or I'd get frozen...</EnglishText>
+      <EnglishText>Minha mãe disse pra eu não chegar
+perto de você ou vou congelar...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>78</Id>
@@ -1004,9 +989,9 @@ near you or I'd get frozen...</EnglishText>
       <JapaneseText>ごっつくてコワイ人と
 青白いイジワルそうな人が
 クレアを連れてっちゃったよー!!</JapaneseText>
-      <EnglishText>Some scary tough guy
-and a pale guy just
-kidnapped Claire!</EnglishText>
+      <EnglishText>Um cara grandão e assustador e
+um outro pálido acabaram de
+sequestrar Claire!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>79</Id>
@@ -1017,9 +1002,9 @@ kidnapped Claire!</EnglishText>
       <JapaneseText>せっかくもとに戻ったのに……
 クレア、かわいそう！
 </JapaneseText>
-      <EnglishText>And right after she
-finally came back...
-Poor Claire!</EnglishText>
+      <EnglishText>E logo depois que ela
+voltou ao normal...
+Coitada da Claire!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
@@ -1029,8 +1014,8 @@ Poor Claire!</EnglishText>
       <PointerOffset>2785</PointerOffset>
       <JapaneseText>クレアが連れ去られたのも……
 &lt;Veigue&gt;のせいだって……</JapaneseText>
-      <EnglishText>Claire was kidnapped...
-And it's your fault...</EnglishText>
+      <EnglishText>Claire foi sequestrada...
+E a culpa é sua...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
@@ -1040,8 +1025,8 @@ And it's your fault...</EnglishText>
       <PointerOffset>2807</PointerOffset>
       <JapaneseText>いや、だって……
 母ちゃんが……</JapaneseText>
-      <EnglishText>Erm, well... That's what
-my mom said...</EnglishText>
+      <EnglishText>Ah, bem... Foi o que a
+minha mãe disse...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>82</Id>
@@ -1051,8 +1036,8 @@ my mom said...</EnglishText>
       <PointerOffset>2857</PointerOffset>
       <JapaneseText>またなんかあったの？
 &lt;Veigue&gt;がまた……??</JapaneseText>
-      <EnglishText>Did something happen again?
-Was it you again...?</EnglishText>
+      <EnglishText>Aconteceu algo de novo?
+Foi você de novo...?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>83</Id>
@@ -1062,8 +1047,8 @@ Was it you again...?</EnglishText>
       <PointerOffset>2926</PointerOffset>
       <JapaneseText>ええと、おじちゃんは
 ガジュマだから……</JapaneseText>
-      <EnglishText>Umm, well, since my
-uncle is a Gajuma...</EnglishText>
+      <EnglishText>Hum, é que, como meu
+tio é Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>84</Id>
@@ -1072,7 +1057,7 @@ uncle is a Gajuma...</EnglishText>
     <Entry>
       <PointerOffset>2948</PointerOffset>
       <JapaneseText>いいのか……</JapaneseText>
-      <EnglishText>Is it okay...</EnglishText>
+      <EnglishText>Será que tudo bem...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>85</Id>
@@ -1092,8 +1077,8 @@ uncle is a Gajuma...</EnglishText>
       <JapaneseText>……ヒューマなんかと
 口利くもんじゃないって
 言われたから……</JapaneseText>
-      <EnglishText>I was told that I shouldn't
-be talking to Huma...</EnglishText>
+      <EnglishText>Me disseram que eu não devia
+falar com Huma...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>87</Id>
@@ -1104,9 +1089,9 @@ be talking to Huma...</EnglishText>
       <JapaneseText>ガジュマとかヒューマとか
 ……どうして、みんな
 そんな事、言ってたのかな……？</JapaneseText>
-      <EnglishText>Gajuma this, Huma that...
-...Why is everybody talking
-about that kind of stuff?</EnglishText>
+      <EnglishText>Gajuma isso, Huma aquilo...
+...Por que todo mundo fala
+disso?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>88</Id>
@@ -1118,9 +1103,9 @@ about that kind of stuff?</EnglishText>
 お母さんが、ヒューマがいる
 ところには行くなって……
 </JapaneseText>
-      <EnglishText>I'd like to go, but... My
-mother told me that I
-can't be around Huma...</EnglishText>
+      <EnglishText>Eu queria ir, mas... minha mãe
+disse que não posso ficar perto
+de Huma...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>89</Id>
@@ -1131,9 +1116,8 @@ can't be around Huma...</EnglishText>
       <JapaneseText>おまえと仲のいい
 ヒューマの子がいただろう？
 もう会ってないのか？</JapaneseText>
-      <EnglishText>Weren't you friends with a Huma,
-though? Do you no longer keep
-in touch with him?</EnglishText>
+      <EnglishText>Você não era amigo de um Huma?
+Não se falam mais?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>90</Id>
@@ -1142,7 +1126,7 @@ in touch with him?</EnglishText>
     <Entry>
       <PointerOffset>6556</PointerOffset>
       <JapaneseText>うん……</JapaneseText>
-      <EnglishText>Well...</EnglishText>
+      <EnglishText>Bom...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>91</Id>
@@ -1153,8 +1137,8 @@ in touch with him?</EnglishText>
       <JapaneseText>嫌いになったわけじゃ
 ないだろ？
 </JapaneseText>
-      <EnglishText>And that's not because you
-don't like him, right?</EnglishText>
+      <EnglishText>E não é porque você não
+gosta dele, certo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>92</Id>
@@ -1165,8 +1149,8 @@ don't like him, right?</EnglishText>
       <JapaneseText>ヒューマとかガジュマとか
 言う前に、トモダチだろう？
 </JapaneseText>
-      <EnglishText>Aren't the two of you friends
-first, and Huma or Gajuma second?</EnglishText>
+      <EnglishText>Vocês não são amigos primeiro, e
+Huma ou Gajuma depois?</EnglishText>
       <Notes>Before you say Huma or Gajuma, you're Tomodachi, right?</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>93</Id>
@@ -1176,8 +1160,8 @@ first, and Huma or Gajuma second?</EnglishText>
       <PointerOffset>6635</PointerOffset>
       <JapaneseText>スールズの
 仲間じゃないのか？</JapaneseText>
-      <EnglishText>Aren't we all neighbors
-living in Sulz?</EnglishText>
+      <EnglishText>Não somos todos vizinhos aqui
+em Sulz?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>94</Id>
@@ -1187,8 +1171,8 @@ living in Sulz?</EnglishText>
       <PointerOffset>6657</PointerOffset>
       <JapaneseText>……うん、そうだよね……
 ぼく……行くよ!!</JapaneseText>
-      <EnglishText>Yeah... You're right!
-I'm... I'm gonna go!</EnglishText>
+      <EnglishText>É... Você tem razão!
+Eu... Eu vou!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>95</Id>
@@ -1198,8 +1182,8 @@ I'm... I'm gonna go!</EnglishText>
       <PointerOffset>3130</PointerOffset>
       <JapaneseText>集会所だよね。
 ぼく、行くよ!!</JapaneseText>
-      <EnglishText>The Meeting House, right?
-I'll be there!</EnglishText>
+      <EnglishText>A Casa de Reuniões, né?
+Eu vou pra lá!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>96</Id>
@@ -1210,9 +1194,8 @@ I'll be there!</EnglishText>
       <JapaneseText>なんか地面がゴゴゴって……
 もしかして、地面から
 何か出てくるの!?</JapaneseText>
-      <EnglishText>Why is the ground rumbling
-like that... Is something
-gonna come out of it!?</EnglishText>
+      <EnglishText>Por que o chão tá tremendo...
+Vai sair alguma coisa de lá!?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>97</Id>
@@ -1222,7 +1205,7 @@ gonna come out of it!?</EnglishText>
       <PointerOffset>3218</PointerOffset>
       <JapaneseText>うちの父ちゃんは
 宿屋やってるんだ！</JapaneseText>
-      <EnglishText>My father is the innkeeper!</EnglishText>
+      <EnglishText>Meu pai é o dono da pousada!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>98</Id>
@@ -1231,7 +1214,7 @@ gonna come out of it!?</EnglishText>
     <Entry>
       <PointerOffset>3240</PointerOffset>
       <JapaneseText>……寄ってく？</JapaneseText>
-      <EnglishText>Are you gonna stop by?</EnglishText>
+      <EnglishText>Vai dar uma passada lá?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>99</Id>
@@ -1241,7 +1224,7 @@ gonna come out of it!?</EnglishText>
       <PointerOffset>3265</PointerOffset>
       <JapaneseText>ねえ、&lt;Veigue&gt;、
 遊んでよー!!</JapaneseText>
-      <EnglishText>Hey, &lt;Veigue&gt;! Let's play!</EnglishText>
+      <EnglishText>Ei, &lt;Veigue&gt;! Vamos brincar!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>100</Id>
@@ -1255,9 +1238,9 @@ gonna come out of it!?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>101</Id>
@@ -1270,8 +1253,8 @@ No</EnglishText>
       <PointerOffset>1098</PointerOffset>
       <JapaneseText>&lt;Claire&gt;ちゃん、
 助かってよかったわ……</JapaneseText>
-      <EnglishText>Thank goodness &lt;Claire&gt;
-has been saved...</EnglishText>
+      <EnglishText>Que bom que &lt;Claire&gt;
+foi salva...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>102</Id>
@@ -1281,8 +1264,8 @@ has been saved...</EnglishText>
       <PointerOffset>1120</PointerOffset>
       <JapaneseText>うちにも顔見せなさいって
 言っといてよ。</JapaneseText>
-      <EnglishText>Tell her to stop by
-here too, will ya?</EnglishText>
+      <EnglishText>Diga pra ela dar uma passada
+aqui também, tá?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>103</Id>
@@ -1292,7 +1275,7 @@ here too, will ya?</EnglishText>
       <PointerOffset>1145</PointerOffset>
       <JapaneseText>あら、どこから
 いらっしゃったのかしら？</JapaneseText>
-      <EnglishText>Oh, where are you from?</EnglishText>
+      <EnglishText>Ora, de onde você é?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>104</Id>
@@ -1301,7 +1284,7 @@ here too, will ya?</EnglishText>
     <Entry>
       <PointerOffset>1167</PointerOffset>
       <JapaneseText>ゆっくりしていってね。</JapaneseText>
-      <EnglishText>Take your time, okay?</EnglishText>
+      <EnglishText>Fique à vontade, tá?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>105</Id>
@@ -1312,9 +1295,8 @@ here too, will ya?</EnglishText>
       <JapaneseText>&lt;Veigue&gt;、クレアを助けに
 行くんでしょ？
 これを持っていってちょうだい。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, you're going to go
-save Claire, aren't you?
-Here, take these with you.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, você vai salvar Claire,
+não vai? Leve isto com você.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>106</Id>
@@ -1324,9 +1306,8 @@ Here, take these with you.</EnglishText>
       <PointerOffset>2437</PointerOffset>
       <JapaneseText>ほんの気持ち程度だけど、
 持ってて困るものじゃないから。</JapaneseText>
-      <EnglishText>This is just a small token of
-my appreciation, so don't feel
-bad about taking them.</EnglishText>
+      <EnglishText>É só uma lembrancinha, então não
+precisa se sentir mal em aceitar.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>107</Id>
@@ -1336,8 +1317,8 @@ bad about taking them.</EnglishText>
       <PointerOffset>2476</PointerOffset>
       <JapaneseText>次からは買いに来てね。
 &lt;Veigue&gt;、気をつけてね！</JapaneseText>
-      <EnglishText>Next time you'll have to
-pay. Take care, &lt;Veigue&gt;!</EnglishText>
+      <EnglishText>Da próxima vez, vai ter que pagar.
+Cuide-se, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>108</Id>
@@ -1347,8 +1328,8 @@ pay. Take care, &lt;Veigue&gt;!</EnglishText>
       <PointerOffset>1244</PointerOffset>
       <JapaneseText>なんか集会所の
 広場の方が騒がしいけど……</JapaneseText>
-      <EnglishText>There seems to be a lot of ruckus
-over by the Meeting House...</EnglishText>
+      <EnglishText>Parece que tem um alvoroço lá
+na Casa de Reuniões...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>109</Id>
@@ -1357,7 +1338,7 @@ over by the Meeting House...</EnglishText>
     <Entry>
       <PointerOffset>1266</PointerOffset>
       <JapaneseText>また、あの連中が……??</JapaneseText>
-      <EnglishText>Is it those soldiers again?</EnglishText>
+      <EnglishText>São aqueles soldados de novo?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>110</Id>
@@ -1368,9 +1349,9 @@ over by the Meeting House...</EnglishText>
       <JapaneseText>そうねえ、
 ポプラおばさんのパイでも食べたら
 元気になれるかもしれないけれど……</JapaneseText>
-      <EnglishText>I see... Maybe I would feel
-better if I had some of
-Ms. Poplar's pie...</EnglishText>
+      <EnglishText>Sei... Talvez eu me sentisse
+melhor com uma torta da
+Sra. Poplar...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>111</Id>
@@ -1379,8 +1360,8 @@ Ms. Poplar's pie...</EnglishText>
     <Entry>
       <PointerOffset>1338</PointerOffset>
       <JapaneseText>でもガジュマも来るのよね……</JapaneseText>
-      <EnglishText>But Gajuma might
-be there as well...</EnglishText>
+      <EnglishText>Mas os Gajuma podem
+estar lá também...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>112</Id>
@@ -1389,7 +1370,7 @@ be there as well...</EnglishText>
     <Entry>
       <PointerOffset>1363</PointerOffset>
       <JapaneseText>いらっしゃいませ。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>113</Id>
@@ -1400,9 +1381,9 @@ be there as well...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>114</Id>
@@ -1411,7 +1392,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1457</PointerOffset>
       <JapaneseText>がんばってくるのよ。</JapaneseText>
-      <EnglishText>Do your best out there.</EnglishText>
+      <EnglishText>Faça o seu melhor lá fora.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>115</Id>
@@ -1421,7 +1402,7 @@ Cancel</EnglishText>
       <PointerOffset>1482</PointerOffset>
       <JapaneseText>気をつけて
 行ってらっしゃい。</JapaneseText>
-      <EnglishText>Take care and have a good day.</EnglishText>
+      <EnglishText>Se cuide e tenha um bom dia.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>116</Id>
@@ -1432,9 +1413,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;Veigue&gt;!!
 さっき、クレアを見たけど……
 夢じゃないわよね？</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;! I saw Claire walking
-around earlier... This isn't a
-dream, right?</EnglishText>
+      <EnglishText>&lt;Veigue&gt;! Vi Claire andando por
+aí agora há pouco... Isso não é
+um sonho, é?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>117</Id>
@@ -1444,7 +1425,7 @@ dream, right?</EnglishText>
       <PointerOffset>1653</PointerOffset>
       <JapaneseText>ああ……
 </JapaneseText>
-      <EnglishText>Yeah, she's back...</EnglishText>
+      <EnglishText>É, ela voltou...</EnglishText>
       <Notes>The jp is different </Notes>
       <SpeakerId>0</SpeakerId>
       <Id>118</Id>
@@ -1455,9 +1436,9 @@ dream, right?</EnglishText>
       <JapaneseText>よかった……よかったわね！
 なんだかウソみたい……
 夢じゃ……ないのよね？</JapaneseText>
-      <EnglishText>Thank goodness! It's almost too
-good to be true... Like a
-dream...but not really...?</EnglishText>
+      <EnglishText>Que bom! Parece bom demais pra ser
+verdade... Como um sonho... mas
+não é...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>119</Id>
@@ -1468,9 +1449,8 @@ dream...but not really...?</EnglishText>
       <JapaneseText>この辺りでは見ない顔ですね。
 どこか遠くの方から
 いらしたのかしら？</JapaneseText>
-      <EnglishText>You're a face I've never seen
-before. What far-away place
-did you come from?</EnglishText>
+      <EnglishText>Nunca vi você por aqui. De que
+lugar distante você veio?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>120</Id>
@@ -1480,7 +1460,7 @@ did you come from?</EnglishText>
       <PointerOffset>1763</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、
 がんばってくるのよ！</JapaneseText>
-      <EnglishText>You've got this, &lt;Veigue&gt;!</EnglishText>
+      <EnglishText>Você consegue, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>121</Id>
@@ -1490,9 +1470,8 @@ did you come from?</EnglishText>
       <PointerOffset>1785</PointerOffset>
       <JapaneseText>旅立ちの前に、色々と
 準備だけはしておきなさいね。</JapaneseText>
-      <EnglishText>Before you head out,
-you should get all
-your stuff ready.</EnglishText>
+      <EnglishText>Antes de partir, é bom
+deixar tudo preparado.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>122</Id>
@@ -1502,9 +1481,8 @@ your stuff ready.</EnglishText>
       <PointerOffset>1810</PointerOffset>
       <JapaneseText>必ずクレアを助けてくださいね！
 &lt;Veigue&gt;をよろしくお願いします！</JapaneseText>
-      <EnglishText>Please do whatever you can
-to help save Claire! For
-&lt;Veigue&gt;'s sake as well!</EnglishText>
+      <EnglishText>Por favor, faça o possível pra
+salvar Claire! E cuide do &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>123</Id>
@@ -1514,9 +1492,9 @@ to help save Claire! For
       <PointerOffset>1873</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、旅には色々なものが
 必要になる時があるわ。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, there will be times
-where you'll require various
-items on your travels.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, às vezes você vai
+precisar de vários itens
+nas suas viagens.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>124</Id>
@@ -1527,9 +1505,9 @@ items on your travels.</EnglishText>
       <JapaneseText>色々な街で、お店があった時には、
 こまめに必要なものを買って、
 備えておくのよ。</JapaneseText>
-      <EnglishText>When you visit any town that
-has a store in it, make sure
-to stock up and be prepared.</EnglishText>
+      <EnglishText>Sempre que passar por uma cidade
+com loja, compre o necessário e
+fique preparado.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>125</Id>
@@ -1539,7 +1517,7 @@ to stock up and be prepared.</EnglishText>
       <PointerOffset>1920</PointerOffset>
       <JapaneseText>クレアを助けてください……
 &lt;Veigue&gt;をよろしくお願いします！</JapaneseText>
-      <EnglishText>Please help &lt;Veigue&gt; save Claire...!</EnglishText>
+      <EnglishText>Ajude &lt;Veigue&gt; a salvar Claire...!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>126</Id>
@@ -1549,8 +1527,8 @@ to stock up and be prepared.</EnglishText>
       <PointerOffset>1983</PointerOffset>
       <JapaneseText>本当はガジュマなんかに
 売りたくないけど……</JapaneseText>
-      <EnglishText>I really don't want to
-sell to a Gajuma, but...</EnglishText>
+      <EnglishText>Eu realmente não queria vender
+pra um Gajuma, mas...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>127</Id>
@@ -1560,8 +1538,8 @@ sell to a Gajuma, but...</EnglishText>
       <PointerOffset>2005</PointerOffset>
       <JapaneseText>できれば、
 もう来てほしくないわ……</JapaneseText>
-      <EnglishText>If you can, try not to
-come back, will ya...?</EnglishText>
+      <EnglishText>Se puder, tente não
+voltar, tá...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>128</Id>
@@ -1571,8 +1549,8 @@ come back, will ya...?</EnglishText>
       <PointerOffset>2030</PointerOffset>
       <JapaneseText>本当はガジュマになんか
 売りたくないのよ。</JapaneseText>
-      <EnglishText>I really don't want
-to sell to a Gajuma.</EnglishText>
+      <EnglishText>Eu realmente não quero
+vender pra um Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>129</Id>
@@ -1581,8 +1559,8 @@ to sell to a Gajuma.</EnglishText>
     <Entry>
       <PointerOffset>2052</PointerOffset>
       <JapaneseText>本当よ、本当だからね。</JapaneseText>
-      <EnglishText>Since I really don't,
-I really won't.</EnglishText>
+      <EnglishText>Como eu realmente não quero,
+realmente não vou.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>130</Id>
@@ -1592,8 +1570,8 @@ I really won't.</EnglishText>
       <PointerOffset>2102</PointerOffset>
       <JapaneseText>なんか最近、あんまり商売に
 身が入らないのよね……</JapaneseText>
-      <EnglishText>Lately, I haven't been giving
-my business my all...</EnglishText>
+      <EnglishText>Ultimamente não tenho me
+dedicado ao meu negócio...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>131</Id>
@@ -1603,9 +1581,9 @@ my business my all...</EnglishText>
       <PointerOffset>2124</PointerOffset>
       <JapaneseText>この村の雰囲気のせいかも
 しれないわね……</JapaneseText>
-      <EnglishText>I guess it's because
-of everything going
-on in the village...</EnglishText>
+      <EnglishText>Acho que é por causa de tudo
+o que está acontecendo
+na vila...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>132</Id>
@@ -1616,9 +1594,9 @@ on in the village...</EnglishText>
       <JapaneseText>なんか、商売どころじゃ
 なさそうだけど、
 そうも言ってられないわよね。</JapaneseText>
-      <EnglishText>I'm not sure why, but I don't feel 
-like I should be open for business.
-...but I can't tell people that.</EnglishText>
+      <EnglishText>Não sei por quê, mas acho que não
+devia estar de loja aberta...
+Mas não posso dizer isso.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>133</Id>
@@ -1627,7 +1605,7 @@ like I should be open for business.
     <Entry>
       <PointerOffset>2196</PointerOffset>
       <JapaneseText>とても不安だわ……</JapaneseText>
-      <EnglishText>I'm all worried...</EnglishText>
+      <EnglishText>Estou tão preocupada...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>134</Id>
@@ -1637,9 +1615,8 @@ like I should be open for business.
       <PointerOffset>2234</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、お店での売買の
 コツは、「ほどほど」よ。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, if you want to
-buy and sell things at the
-store, moderation is key.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, pra comprar e vender
+na loja, a chave é a moderação.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>135</Id>
@@ -1649,9 +1626,9 @@ store, moderation is key.</EnglishText>
       <PointerOffset>2259</PointerOffset>
       <JapaneseText>こんな田舎の店じゃ、
 大したものもそろえられないわ。</JapaneseText>
-      <EnglishText>Out here in the sticks,
-you can't really get
-much at the store.</EnglishText>
+      <EnglishText>Num lugar no meio do nada,
+não dá pra encontrar muita
+coisa na loja.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>136</Id>
@@ -1661,8 +1638,8 @@ much at the store.</EnglishText>
       <PointerOffset>2281</PointerOffset>
       <JapaneseText>バルカ辺りにでも
 買出しに行こうかしら……</JapaneseText>
-      <EnglishText>Now if you were to go shopping
-in a place like Balka...</EnglishText>
+      <EnglishText>Se você fosse fazer compras
+num lugar como Balka...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>137</Id>
@@ -1671,7 +1648,7 @@ in a place like Balka...</EnglishText>
     <Entry>
       <PointerOffset>1546</PointerOffset>
       <JapaneseText>また来てください。</JapaneseText>
-      <EnglishText>Come back soon.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>138</Id>
