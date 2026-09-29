@@ -13,6 +13,7 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 
 | Inglês | Português | Observação |
 |---|---|---|
+| Force | Force | Mantido em inglês (termo do jogo; evita confusão com "força") |
 
 ## Nomes mantidos em inglês (não traduzir)
 

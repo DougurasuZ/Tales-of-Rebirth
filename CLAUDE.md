@@ -13,7 +13,9 @@ O texto fica nos arquivos XML dentro da pasta `2_translated`. Siga TODAS as regr
   `&lt;scale:140&gt;`, `&lt;voice:...&gt;`, cores, nomes entre colchetes como `[VARIABLE]`
   e qualquer outro `&lt;...&gt;`. Não traduza, não remova e não mude a posição relativa deles.
 - Mantenha o escape de XML: `&lt;`, `&gt;` e `&amp;` continuam escritos assim.
-- Quebras de linha: a tradução deve ter o MESMO número de linhas do texto em inglês.
+- Quebras de linha: a tradução deve ter NO MÁXIMO o mesmo número de linhas do texto em inglês
+  (pode ter menos, se a frase couber). Distribua o texto de forma equilibrada entre as linhas,
+  evitando deixar uma palavra sozinha na última linha.
   A continuação de uma linha começa colada na margem esquerda, sem espaços antes.
 - Tamanho das linhas: no máximo 34 caracteres por linha. O português costuma ficar mais longo
   que o inglês, então condense a frase quando necessário, sem perder o sentido.
@@ -44,6 +46,38 @@ O texto fica nos arquivos XML dentro da pasta `2_translated`. Siga TODAS as regr
 - Preserve a personalidade, as piadas e a intenção de cada fala; adapte expressões em vez de
   traduzir palavra por palavra.
 - Menus e descrições de itens: linguagem clara e objetiva.
+
+## 3.1 Voz de cada personagem
+
+Use o `<SpeakerId>` e a seção `<Speakers>` do arquivo para saber quem está falando.
+A personalidade de alguns personagens muda ao longo da história; na dúvida, siga o tom
+do texto em inglês daquela fala.
+
+- **Veigue**: seco, direto, frases curtas. Fala pouco e quase não demonstra emoção.
+  Sem gírias nem diminutivos. Pode usar "tá" e "pra" com moderação, nunca de forma brincalhona.
+  Com o tempo, vai se abrindo e fica um pouco mais caloroso com o grupo.
+- **Eugene**: sério, cortês e formal, com autoridade natural de líder. Vocabulário cuidado.
+  NÃO usa "tá", "pra", "a gente" nem gírias.
+- **Mao**: alegre, curioso, brincalhão e barulhento, com energia de criança. Bem informal:
+  "tá", "pra", "a gente", "né", exclamações, provocações leves (principalmente com Tytree).
+  Quando o inglês tiver cantoria ou trocadilho, crie um equivalente divertido em português.
+- **Annie**: educada e formal, um pouco hesitante. Com Huma, gentil e graciosa; com Gajuma
+  (ex.: Eugene), no início, fria, tensa e defensiva. Vai amolecendo com o passar da história.
+- **Tytree**: extrovertido, impulsivo, leal. Fala alto, direto e informal, com entusiasmo
+  e discursos inflamados sobre amizade e determinação.
+- **Hilda**: sarcástica, madura e cortante; ironia com tom calmo e distante.
+  Mais adiante, revela um lado protetor.
+- **Claire**: gentil, doce e muito polida.
+- **Agarte**: rainha; solene, dramática e formal. Sem gírias. Não use linguagem arcaica (vós, tu).
+- **Geyron**: calmo, pausado, com jeito de professor.
+- **Sale**: sádico e zombeteiro, provocador, melodramático.
+- **Tohma**: arrogante e explosivo, desafiador, cheio de desprezo pelos outros.
+- **Waltran**: frio, calculista, fala com calma e tom categórico.
+- **Militsa**: insegura e emotiva; alterna submissão e explosões de desespero ou fúria.
+- **Gatuzo**: agressivo e irracional; falas curtas e brutas.
+- Personagens secundários sem descrição: siga o tom do inglês e a regra geral de estilo.
+
+Termos de raça: "Huma" e "Gajuma" ficam como estão (não traduzir).
 
 ## 4. Forma de trabalho
 

@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>412</PointerOffset>
       <JapaneseText>集会所</JapaneseText>
-      <EnglishText>Meeting House</EnglishText>
+      <EnglishText>Casa de Reuniões</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -77,8 +77,8 @@
       <VoiceId>0b000000</VoiceId>
       <JapaneseText>何者だ……なぜオレの
 名前を知っている……</JapaneseText>
-      <EnglishText>Quem é você... e como 
-sabe meu nome? áàâãéêíóôõúç</EnglishText>
+      <EnglishText>Quem é você...? Como sabe
+o meu nome...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -91,9 +91,9 @@ sabe meu nome? áàâãéêíóôõúç</EnglishText>
 ボクたちは仲間さ。
 こっちへ来て話を
 聞いてくれないかな？</JapaneseText>
-      <EnglishText>No need to worry, we're your pals!
-Why don't you come over here and
-hear what we have to say?</EnglishText>
+      <EnglishText>Relaxa, a gente é seu amigo!
+Por que não vem aqui e ouve
+o que a gente tem a dizer?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -104,8 +104,8 @@ hear what we have to say?</EnglishText>
       <VoiceId>0b000002</VoiceId>
       <JapaneseText>話す事など何もない。
 帰れ……</JapaneseText>
-      <EnglishText>There's nothing to talk
-about. Get out...</EnglishText>
+      <EnglishText>Não temos nada pra conversar.
+Some daqui...</EnglishText>
       <Notes>hear me out. maybe "get lost" would work better instead of get out? -dragon</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -117,8 +117,8 @@ about. Get out...</EnglishText>
       <JapaneseText>そうかなぁ。
 ボクたちなら、キミの力に
 なれると思うんだけど。</JapaneseText>
-      <EnglishText>Oh, that's too bad... We were
-thinking we could help you.</EnglishText>
+      <EnglishText>Ah, que pena... A gente achava
+que podia te ajudar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -129,8 +129,8 @@ thinking we could help you.</EnglishText>
       <VoiceId>0b000004</VoiceId>
       <JapaneseText>おまえに何ができる？
 何も知らないくせに……</JapaneseText>
-      <EnglishText>How could you possibly help?
-You know nothing about me...</EnglishText>
+      <EnglishText>Como você poderia ajudar?
+Você não sabe nada de mim...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -141,9 +141,8 @@ You know nothing about me...</EnglishText>
       <VoiceId>0b000005</VoiceId>
       <JapaneseText>ボクはキミ以上にキミのコトを知ってる。
 キミの疑問の「答」を知っている。</JapaneseText>
-      <EnglishText>We know you better than you
-know yourself. And we know
-the answer to your problem.</EnglishText>
+      <EnglishText>A gente te conhece mais que você.
+E sabe a resposta pra sua dúvida.</EnglishText>
       <Notes>maybeeee "We have the solution to your problem." sounds better? -dragon</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -154,7 +153,7 @@ the answer to your problem.</EnglishText>
       <VoiceId>0b000006</VoiceId>
       <JapaneseText>ふざけるな。
 何が「答」だ。</JapaneseText>
-      <EnglishText>Yeah, right. What &lt;Italic&gt;answer&lt;/Italic&gt;?</EnglishText>
+      <EnglishText>Não me faça rir. Que &lt;Italic&gt;resposta&lt;/Italic&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -166,9 +165,9 @@ the answer to your problem.</EnglishText>
       <JapaneseText>話をしようよ、&lt;Veigue&gt;。
 キミが来ないなら、
 ボクがそっちへ行くからさ。</JapaneseText>
-      <EnglishText>Hear us out, &lt;Veigue&gt;. If you won't
-come over here, then I'll make my
-way over to you.</EnglishText>
+      <EnglishText>Escuta, &lt;Veigue&gt;. Se você
+não vier até aqui, eu mesmo
+vou até aí.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -179,8 +178,8 @@ way over to you.</EnglishText>
       <VoiceId>0b000008</VoiceId>
       <JapaneseText>フォルスの制御は
 できるようだな。</JapaneseText>
-      <EnglishText>He appears to have control
-over his Force.</EnglishText>
+      <EnglishText>Ao que parece, ele sabe
+controlar a própria Force.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -190,8 +189,7 @@ over his Force.</EnglishText>
       <PointerOffset>2931</PointerOffset>
       <VoiceId>0b000009</VoiceId>
       <JapaneseText>うん、想像以上だネ。</JapaneseText>
-      <EnglishText>Yeah, and even better
-than expected.</EnglishText>
+      <EnglishText>É, melhor do que eu imaginava.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -202,8 +200,8 @@ than expected.</EnglishText>
       <VoiceId>0b00000a</VoiceId>
       <JapaneseText>オレにかまうな。
 次は加減しない。</JapaneseText>
-      <EnglishText>Don't test me. Next time
-I won't hold back.</EnglishText>
+      <EnglishText>Me deixe em paz.
+Da próxima vez, não pego leve.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -213,7 +211,7 @@ I won't hold back.</EnglishText>
       <PointerOffset>2981</PointerOffset>
       <VoiceId>0b00000b</VoiceId>
       <JapaneseText>ああ言ってるんですけど？</JapaneseText>
-      <EnglishText>So that's how it's gonna be, huh?</EnglishText>
+      <EnglishText>Então é assim que vai ser, é?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -224,9 +222,8 @@ I won't hold back.</EnglishText>
       <VoiceId>0b00000c</VoiceId>
       <JapaneseText>手荒なマネはしたくなかったが、
 仕方あるまい。</JapaneseText>
-      <EnglishText>I would have preferred not to
-use violence, but we have no
-choice.</EnglishText>
+      <EnglishText>Eu preferia não usar violência,
+mas não temos escolha.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -237,8 +234,8 @@ choice.</EnglishText>
       <VoiceId>0b00000d</VoiceId>
       <JapaneseText>……みたいだね。
 で、条件は？</JapaneseText>
-      <EnglishText>...Guess you're right. Well, how
-should I go about this?</EnglishText>
+      <EnglishText>...Pelo jeito, é isso. E aí,
+qual é a condição?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -249,9 +246,8 @@ should I go about this?</EnglishText>
       <VoiceId>0b00000e</VoiceId>
       <JapaneseText>&lt;font:80000002&gt;フォルスなし、
 目標を傷つけずに&lt;nmb:3C&gt;秒だ。</JapaneseText>
-      <EnglishText>Disarm the target without
-harming him or using Force
-within &lt;nmb:3C&gt; seconds.</EnglishText>
+      <EnglishText>Sem Force e sem ferir o alvo,
+você tem &lt;nmb:3C&gt; segundos.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -262,7 +258,7 @@ within &lt;nmb:3C&gt; seconds.</EnglishText>
       <VoiceId>0b00000f</VoiceId>
       <JapaneseText>ひえー！
 キビシイなぁー！</JapaneseText>
-      <EnglishText>Jeez! Talk about strict!</EnglishText>
+      <EnglishText>Nossa! Que exigente!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -272,7 +268,7 @@ within &lt;nmb:3C&gt; seconds.</EnglishText>
       <PointerOffset>3126</PointerOffset>
       <VoiceId>0b000010</VoiceId>
       <JapaneseText>できないのか？</JapaneseText>
-      <EnglishText>Can you not do it?</EnglishText>
+      <EnglishText>Você não consegue?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -282,7 +278,7 @@ within &lt;nmb:3C&gt; seconds.</EnglishText>
       <PointerOffset>3155</PointerOffset>
       <VoiceId>0b000011</VoiceId>
       <JapaneseText>できないと思う？</JapaneseText>
-      <EnglishText>Do YOU think I can't?</EnglishText>
+      <EnglishText>Tá achando que eu não consigo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -293,9 +289,8 @@ within &lt;nmb:3C&gt; seconds.</EnglishText>
       <VoiceId>0b000012</VoiceId>
       <JapaneseText>質問に質問で返すのは
 感心せんな。</JapaneseText>
-      <EnglishText>It's disrespectful to answer
-a question with another
-question.</EnglishText>
+      <EnglishText>É falta de respeito responder uma
+pergunta com outra pergunta.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -306,8 +301,8 @@ question.</EnglishText>
       <VoiceId>0b000013</VoiceId>
       <JapaneseText>何を話している！
 さっさと帰……</JapaneseText>
-      <EnglishText>Enough of your talk!
-Get out of—!?</EnglishText>
+      <EnglishText>Chega de conversa!
+Saia daqui—!?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -318,8 +313,8 @@ Get out of—!?</EnglishText>
       <VoiceId>0b000014</VoiceId>
       <JapaneseText>やめるなら今のうちだよ、
 &lt;Veigue&gt;？</JapaneseText>
-      <EnglishText>Don't you think you should
-knock that off, &lt;Veigue&gt;?</EnglishText>
+      <EnglishText>Não acha melhor parar com
+isso, &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -329,7 +324,7 @@ knock that off, &lt;Veigue&gt;?</EnglishText>
       <PointerOffset>3452</PointerOffset>
       <VoiceId>0b000015</VoiceId>
       <JapaneseText>ふざけるな!!</JapaneseText>
-      <EnglishText>Go to hell!</EnglishText>
+      <EnglishText>Vá pro inferno!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -343,9 +338,9 @@ knock that off, &lt;Veigue&gt;?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
