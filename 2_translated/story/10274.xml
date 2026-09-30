@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>4963,4987,5011</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775,3775</PointerOffset>
       <JapaneseText>道具屋「大丈夫屋」</JapaneseText>
-      <EnglishText>Item Shop</EnglishText>
+      <EnglishText>Loja de Itens</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263,2263</PointerOffset>
       <JapaneseText>防具屋「守りの要」</JapaneseText>
-      <EnglishText>Armor Shop</EnglishText>
+      <EnglishText>Loja de Armaduras</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914,914</PointerOffset>
       <JapaneseText>武器屋「瞬撃の残光」</JapaneseText>
-      <EnglishText>Weapon Shop</EnglishText>
+      <EnglishText>Loja de Armas</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>242</PointerOffset>
       <JapaneseText>雑貨屋</JapaneseText>
-      <EnglishText>General Store</EnglishText>
+      <EnglishText>Armazém</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>251</PointerOffset>
       <JapaneseText>ミナール雑貨屋</JapaneseText>
-      <EnglishText>Minal General Store</EnglishText>
+      <EnglishText>Armazém de Minal</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>248</PointerOffset>
       <JapaneseText>ミナール・雑貨屋</JapaneseText>
-      <EnglishText>Minal - General Store</EnglishText>
+      <EnglishText>Minal - Armazém</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -92,8 +92,8 @@
       <PointerOffset>4966</PointerOffset>
       <JapaneseText>&lt;Green&gt;バトルブックに&lt;Red&gt;継承&lt;Green&gt;についての
 説明が追加されました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;An explanation of &lt;Red&gt;Inheritance&lt;Green&gt; has
-been added to the Battle Book.</EnglishText>
+      <EnglishText>&lt;Green&gt;Uma explicação sobre &lt;Red&gt;Herança&lt;Green&gt; foi
+adicionada ao Battle Book.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -106,11 +106,10 @@ been added to the Battle Book.</EnglishText>
 現時点で所持している武器防具よりも、
 強力な物を見つけた場合には、
 持ち替えをおすすめします。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There is a limit to how many times
-you can &lt;Red&gt;Enhance&lt;Green&gt; a particular piece
-of equipment. It is recommended to
-replace your current equipment when
-you find one that is stronger.</EnglishText>
+      <EnglishText>&lt;Green&gt;Há um limite de vezes que dá pra
+&lt;Red&gt;Aprimorar&lt;Green&gt; um equipamento. Convém
+trocar de equipamento quando
+achar um mais forte.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -121,10 +120,10 @@ you find one that is stronger.</EnglishText>
       <JapaneseText>&lt;Green&gt;持ち替えの際、古い物を失う代償として、
 新しい武器防具にこれまでのエンハンスの
 成果を引き継ぎ、強化できるのが&lt;Red&gt;継承&lt;Green&gt;です。</JapaneseText>
-      <EnglishText>&lt;Red&gt;Inheritance&lt;Green&gt; allows you to confer
-your previous Enhancements to a
-new piece of equipment at the
-cost of losing your old equipment.</EnglishText>
+      <EnglishText>&lt;Red&gt;Herança&lt;Green&gt; permite passar seus
+Aprimoramentos antigos a um novo
+equipamento, ao custo de perder
+o equipamento antigo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -135,9 +134,9 @@ cost of losing your old equipment.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;バトルブックを読みますか？
 　はい
 　いいえ</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Read the Battle Book?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Ler o Battle Book?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -151,8 +150,8 @@ No</EnglishText>
       <JapaneseText>なんだか知らねえが、
 うちの方針でヒューマにゃ
 売らないって事になったんだ。</JapaneseText>
-      <EnglishText>I don't know why, but it's now 
-our policy to not sell to Huma.</EnglishText>
+      <EnglishText>Não sei por quê, mas agora é
+nossa política não vender a Huma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -162,7 +161,7 @@ our policy to not sell to Huma.</EnglishText>
       <PointerOffset>3859</PointerOffset>
       <JapaneseText>すまねえが、
 そういう事で……</JapaneseText>
-      <EnglishText>Sorry, but that's just how it is.</EnglishText>
+      <EnglishText>Desculpe, mas é assim que é.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -171,7 +170,7 @@ our policy to not sell to Huma.</EnglishText>
     <Entry>
       <PointerOffset>3884</PointerOffset>
       <JapaneseText>いらっしゃいませ。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -182,9 +181,9 @@ our policy to not sell to Huma.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -193,7 +192,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3965</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -202,7 +201,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4010</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -213,9 +212,9 @@ Cancel</EnglishText>
       <JapaneseText>雇われの身なんでね……
 ヒューマには恨みはないけど、
 売る事はできんのだよ……</JapaneseText>
-      <EnglishText>I'm a new hire and I have
-nothing against Huma...but
-I can't sell you anything. </EnglishText>
+      <EnglishText>Sou novo aqui e não tenho nada
+contra Huma... mas não posso
+vender nada a você.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -225,9 +224,9 @@ I can't sell you anything. </EnglishText>
       <PointerOffset>4608</PointerOffset>
       <JapaneseText>ガジュマとヒューマの間の溝なんて
 前からあったと思うんだがね……</JapaneseText>
-      <EnglishText>I think there's always been
-somewhat of a rift between
-Huma and Gajuma...</EnglishText>
+      <EnglishText>Acho que sempre houve uma
+certa distância entre
+Huma e Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -237,8 +236,8 @@ Huma and Gajuma...</EnglishText>
       <PointerOffset>4630</PointerOffset>
       <JapaneseText>このところの対立ってのは
 どうも様相が違うようだな……</JapaneseText>
-      <EnglishText>But these recent conflicts seem
-to be an entirely different beast...</EnglishText>
+      <EnglishText>Mas esses conflitos recentes
+parecem algo bem diferente...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -250,8 +249,8 @@ to be an entirely different beast...</EnglishText>
 売っていいという
 許可が出たよ……
 </JapaneseText>
-      <EnglishText>I finally got permission
-to sell to Huma.</EnglishText>
+      <EnglishText>Finalmente consegui permissão
+para vender a Huma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -261,8 +260,8 @@ to sell to Huma.</EnglishText>
       <PointerOffset>4702</PointerOffset>
       <JapaneseText>色々あると思うが、
 許してやってくれんか……</JapaneseText>
-      <EnglishText>I know a lot has happened, but do
-you have it in you to forgive me?</EnglishText>
+      <EnglishText>Sei que muita coisa aconteceu, mas
+você consegue me perdoar?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -273,8 +272,8 @@ you have it in you to forgive me?</EnglishText>
       <JapaneseText>旅のコツというのは、
 「あれば便利は必要ない」と
 いう事さ……</JapaneseText>
-      <EnglishText>The trick to traveling is that you
-shouldn't rely on convenience.</EnglishText>
+      <EnglishText>O segredo de viajar é não
+depender de comodidades.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -285,9 +284,9 @@ shouldn't rely on convenience.</EnglishText>
       <JapaneseText>必要なものを必要なだけ
 必要に応じて買うのが
 賢い買い物の仕方だよ。</JapaneseText>
-      <EnglishText>The smart way to shop is to buy
-what you need, as much as you
-need, on an as-needed basis.</EnglishText>
+      <EnglishText>O jeito inteligente de comprar é
+levar o que precisa, só o
+necessário, quando precisar.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -297,8 +296,8 @@ need, on an as-needed basis.</EnglishText>
       <PointerOffset>4074</PointerOffset>
       <JapaneseText>震えてる、空気が震えてるよ、
 グラグラ、グラグラってさ……</JapaneseText>
-      <EnglishText>The air itself is shaking.
-Everything is wobbling...</EnglishText>
+      <EnglishText>Até o ar está tremendo.
+Tudo está balançando...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -308,8 +307,8 @@ Everything is wobbling...</EnglishText>
       <PointerOffset>4137</PointerOffset>
       <JapaneseText>すまんが、ヒューマにゃ
 売れねえ決まりなんだ。</JapaneseText>
-      <EnglishText>Sorry, but our new policy
-says I can't sell to Huma.</EnglishText>
+      <EnglishText>Desculpe, mas a nova política
+me proíbe de vender a Huma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -318,7 +317,7 @@ says I can't sell to Huma.</EnglishText>
     <Entry>
       <PointerOffset>4162</PointerOffset>
       <JapaneseText>いらっしゃいませ。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -329,9 +328,9 @@ says I can't sell to Huma.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -340,7 +339,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4243</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -349,7 +348,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4288</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -358,7 +357,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4338</PointerOffset>
       <JapaneseText>いらっしゃいませ。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -369,9 +368,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -380,7 +379,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4419</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
@@ -389,7 +388,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4464</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -402,7 +401,7 @@ Cancel</EnglishText>
       <PointerOffset>2344</PointerOffset>
       <JapaneseText>うちはヒューマのお客様は
 お断りしてるんです。</JapaneseText>
-      <EnglishText>We don't accept Huma customers here.</EnglishText>
+      <EnglishText>Não atendemos clientes Huma aqui.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
@@ -411,7 +410,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2384</PointerOffset>
       <JapaneseText>どうぞどうぞ。</JapaneseText>
-      <EnglishText>Please take a look.</EnglishText>
+      <EnglishText>Fique à vontade para olhar.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -422,9 +421,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　防具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Armor
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armadura
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
@@ -433,7 +432,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2465</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -443,8 +442,8 @@ Cancel</EnglishText>
       <PointerOffset>3357</PointerOffset>
       <JapaneseText>なよなよしいヒューマは
 防具がなければ子供同然に弱いわ。</JapaneseText>
-      <EnglishText>Without armor, Huma are
-as weak as children.</EnglishText>
+      <EnglishText>Sem armadura, os Huma são
+fracos como crianças.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
@@ -454,9 +453,9 @@ as weak as children.</EnglishText>
       <PointerOffset>3379</PointerOffset>
       <JapaneseText>防具を売らなければ、私たちに
 ケンカを売ったりしないものね。</JapaneseText>
-      <EnglishText>So if we don't sell them any
-armor, then they'll think twice
-about picking a fight with us.</EnglishText>
+      <EnglishText>Então, se não vendermos armadura,
+vão pensar duas vezes antes de
+arrumar briga com a gente.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
@@ -465,7 +464,7 @@ about picking a fight with us.</EnglishText>
     <Entry>
       <PointerOffset>3401</PointerOffset>
       <JapaneseText>用心、用心よ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected!</EnglishText>
+      <EnglishText>Fique seguro, fique protegido!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -476,8 +475,8 @@ about picking a fight with us.</EnglishText>
       <JapaneseText>ああ……！
 あのむかつくヒューマども……!!
 なんとかしたいわっ!!</JapaneseText>
-      <EnglishText>Grr! Those Huma piss me
-off...! Why, I oughtta...</EnglishText>
+      <EnglishText>Grr! Esses Huma me tiram do
+sério...! Eu devia...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -488,8 +487,8 @@ off...! Why, I oughtta...</EnglishText>
       <JapaneseText>でも……でも……
 何をどうすればいいか
 わからない……!!</JapaneseText>
-      <EnglishText>But...well, I don't know what
-I oughtta do about them!</EnglishText>
+      <EnglishText>Mas... bem, nem sei o que
+devia fazer com eles!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -498,7 +497,7 @@ I oughtta do about them!</EnglishText>
     <Entry>
       <PointerOffset>3542</PointerOffset>
       <JapaneseText>ああ……もどかしいのよっ！</JapaneseText>
-      <EnglishText>Agh... I'm so frustrated!</EnglishText>
+      <EnglishText>Agh... Que frustração!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
@@ -508,8 +507,8 @@ I oughtta do about them!</EnglishText>
       <PointerOffset>3601</PointerOffset>
       <JapaneseText>ヒューマに防具を売らなくて
 大正解だったわ！</JapaneseText>
-      <EnglishText>It's a good thing I didn't
-sell any armor to Huma!</EnglishText>
+      <EnglishText>Ainda bem que não vendi
+armadura para os Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -520,9 +519,9 @@ sell any armor to Huma!</EnglishText>
       <JapaneseText>ウチの防具を使ったら、
 兵隊さんの攻撃にも耐えちゃって
 今ごろ、まだ戦いが続いてたわね。</JapaneseText>
-      <EnglishText>They'd have shaken off the soldiers'
-attacks and still be fighting if they
-had our armor on them.</EnglishText>
+      <EnglishText>Eles teriam aguentado os ataques dos
+soldados e continuariam lutando se
+estivessem com nossas armaduras.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
@@ -533,7 +532,7 @@ had our armor on them.</EnglishText>
       <JapaneseText>ぼ、防具は誰にでも
 売ってあげるわ……！
 </JapaneseText>
-      <EnglishText>I-I'll sell armor to anyone...</EnglishText>
+      <EnglishText>E-Eu vendo para qualquer um...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -542,7 +541,7 @@ had our armor on them.</EnglishText>
     <Entry>
       <PointerOffset>3695</PointerOffset>
       <JapaneseText>だから、助けて……！</JapaneseText>
-      <EnglishText>So, please...help us!</EnglishText>
+      <EnglishText>Então, por favor... ajudem-nos!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -552,9 +551,9 @@ had our armor on them.</EnglishText>
       <PointerOffset>3720</PointerOffset>
       <JapaneseText>備えあればうれいなし。
 防具あれば大ケガなし。</JapaneseText>
-      <EnglishText>Better to be safe than sorry.
-My armor will keep you from
-getting seriously injured.</EnglishText>
+      <EnglishText>Melhor prevenir do que remediar.
+Minha armadura evita que
+você se machuque gravemente.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>45</Id>
@@ -563,8 +562,8 @@ getting seriously injured.</EnglishText>
     <Entry>
       <PointerOffset>3742</PointerOffset>
       <JapaneseText>何事も、用心用心よ！</JapaneseText>
-      <EnglishText>Stay safe, stay protected,
-away from harm!</EnglishText>
+      <EnglishText>Fique seguro, fique protegido,
+longe do perigo!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -573,7 +572,7 @@ away from harm!</EnglishText>
     <Entry>
       <PointerOffset>2529</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -583,8 +582,8 @@ away from harm!</EnglishText>
       <PointerOffset>2574</PointerOffset>
       <JapaneseText>なんなの!?　アレ!?
 どうなの!?　コレ!?</JapaneseText>
-      <EnglishText>Which do you want, that one?
-What do you prefer, this one?</EnglishText>
+      <EnglishText>Qual você quer, aquela?
+Qual prefere, esta?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -603,7 +602,7 @@ What do you prefer, this one?</EnglishText>
     <Entry>
       <PointerOffset>2713</PointerOffset>
       <JapaneseText>どうぞどうぞ。</JapaneseText>
-      <EnglishText>Please take a look.</EnglishText>
+      <EnglishText>Fique à vontade para olhar.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -614,9 +613,9 @@ What do you prefer, this one?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　防具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Armor
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armadura
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
@@ -625,7 +624,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2794</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>52</Id>
@@ -634,7 +633,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2858</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
@@ -643,7 +642,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2927</PointerOffset>
       <JapaneseText>う、売ってあげるわよ……!!</JapaneseText>
-      <EnglishText>Ugh... I'll sell it to you, I guess!</EnglishText>
+      <EnglishText>Ugh... Acho que vendo pra você!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
@@ -652,7 +651,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2961</PointerOffset>
       <JapaneseText>ど、どうぞ……!!</JapaneseText>
-      <EnglishText>P-Please...have a look!</EnglishText>
+      <EnglishText>P-Por favor... dê uma olhada!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>55</Id>
@@ -663,9 +662,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　防具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Armor
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armadura
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
@@ -674,7 +673,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3042</PointerOffset>
       <JapaneseText>た、助けて……！</JapaneseText>
-      <EnglishText>H-Help...me!</EnglishText>
+      <EnglishText>S-Socorro!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -683,7 +682,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3106</PointerOffset>
       <JapaneseText>た、助けて……！</JapaneseText>
-      <EnglishText>H-Help...me!</EnglishText>
+      <EnglishText>S-Socorro!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>58</Id>
@@ -692,7 +691,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3137</PointerOffset>
       <JapaneseText>どうぞどうぞ。</JapaneseText>
-      <EnglishText>Please take a look.</EnglishText>
+      <EnglishText>Fique à vontade para olhar.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>59</Id>
@@ -703,9 +702,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　防具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Armor
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armadura
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>60</Id>
@@ -714,7 +713,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3218</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>61</Id>
@@ -723,7 +722,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3263</PointerOffset>
       <JapaneseText>用心用心ですよ。</JapaneseText>
-      <EnglishText>Stay safe, stay protected.</EnglishText>
+      <EnglishText>Fique seguro, fique protegido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>62</Id>
@@ -736,7 +735,7 @@ Cancel</EnglishText>
       <PointerOffset>987</PointerOffset>
       <JapaneseText>うちはガジュマにしか
 売らないぞ。</JapaneseText>
-      <EnglishText>We only sell to Gajuma.</EnglishText>
+      <EnglishText>Só vendemos para Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>63</Id>
@@ -745,7 +744,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1018</PointerOffset>
       <JapaneseText>おお、いらっしゃい。</JapaneseText>
-      <EnglishText>Oh, welcome.</EnglishText>
+      <EnglishText>Ah, bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
@@ -756,9 +755,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　武器を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Weapons
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armas
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>65</Id>
@@ -768,7 +767,7 @@ Cancel</EnglishText>
       <PointerOffset>1099</PointerOffset>
       <JapaneseText>ウチの品ぞろえはどうじゃ？
 </JapaneseText>
-      <EnglishText>How's our selection? </EnglishText>
+      <EnglishText>Que tal nosso estoque?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -778,7 +777,7 @@ Cancel</EnglishText>
       <PointerOffset>1948</PointerOffset>
       <JapaneseText>ヒューマなんかに武器を
 売れないよなぁ！</JapaneseText>
-      <EnglishText>We don't sell weapons to Huma!</EnglishText>
+      <EnglishText>Não vendemos armas para Huma!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
@@ -788,9 +787,9 @@ Cancel</EnglishText>
       <PointerOffset>1970</PointerOffset>
       <JapaneseText>バカとハサミはなんとやらで、
 ヒューマに武器は使わせられん。</JapaneseText>
-      <EnglishText>I can't let Huma use weapons,
-because it would be like letting
-a child run with scissors.</EnglishText>
+      <EnglishText>Não posso deixar Huma usar armas,
+seria como deixar uma criança
+correr com tesoura.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
@@ -800,8 +799,8 @@ a child run with scissors.</EnglishText>
       <PointerOffset>2020</PointerOffset>
       <JapaneseText>なんでワシは今までヒューマに
 武器なんぞ、売ってたんだろうな。</JapaneseText>
-      <EnglishText>I don't know why I ever
-sold weapons to Huma.</EnglishText>
+      <EnglishText>Não sei por que um dia vendi
+armas para Huma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>69</Id>
@@ -811,8 +810,8 @@ sold weapons to Huma.</EnglishText>
       <PointerOffset>2042</PointerOffset>
       <JapaneseText>街の連中からは
 全部取り上げてやったが……</JapaneseText>
-      <EnglishText>I've gotten all of the weapons
-from the other townsfolk, but...</EnglishText>
+      <EnglishText>Consegui todas as armas com os
+outros moradores, mas...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -822,8 +821,8 @@ from the other townsfolk, but...</EnglishText>
       <PointerOffset>2064</PointerOffset>
       <JapaneseText>旅のヒューマどもに売った武器は
 今はどこに……</JapaneseText>
-      <EnglishText>Where are the weapons that
-I've sold to Huma travelers...</EnglishText>
+      <EnglishText>Onde estão as armas que vendi
+aos viajantes Huma...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
@@ -833,8 +832,8 @@ I've sold to Huma travelers...</EnglishText>
       <PointerOffset>2114</PointerOffset>
       <JapaneseText>ヒューマどもは群れないと
 何もできないんだ！</JapaneseText>
-      <EnglishText>If Huma can't congregate,
-then they can't do anything!</EnglishText>
+      <EnglishText>Se os Huma não podem se reunir,
+não podem fazer nada!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>72</Id>
@@ -844,9 +843,9 @@ then they can't do anything!</EnglishText>
       <PointerOffset>2136</PointerOffset>
       <JapaneseText>外出禁止ってのは、
 最高の防犯対策だな。</JapaneseText>
-      <EnglishText>Keeping them from going
-outside is the best crime
-prevention method there is.</EnglishText>
+      <EnglishText>Impedir que saiam de casa é
+o melhor método de prevenir
+crimes que existe.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>73</Id>
@@ -856,8 +855,8 @@ prevention method there is.</EnglishText>
       <PointerOffset>2186</PointerOffset>
       <JapaneseText>ヒューマだろうと何だろうと
 もう関係ないわ……</JapaneseText>
-      <EnglishText>Huma or not, it doesn't
-matter anymore...</EnglishText>
+      <EnglishText>Huma ou não, já não
+importa mais...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>74</Id>
@@ -867,9 +866,9 @@ matter anymore...</EnglishText>
       <PointerOffset>2208</PointerOffset>
       <JapaneseText>この天変地異をなんとかしてくれる
 なら、いくらでも武器を売るぞ！</JapaneseText>
-      <EnglishText>I'll sell you all the weapons
-you desire, so long as you do
-something about this cataclysm!</EnglishText>
+      <EnglishText>Vendo todas as armas que quiser,
+desde que façam algo a respeito
+deste cataclismo!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>75</Id>
@@ -879,8 +878,8 @@ something about this cataclysm!</EnglishText>
       <PointerOffset>2233</PointerOffset>
       <JapaneseText>品ぞろえには自信がある。
 じっくり見ていっておくれ。</JapaneseText>
-      <EnglishText>We are confident in our goods.
-Please take your time.</EnglishText>
+      <EnglishText>Confiamos em nossos produtos.
+Fique à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>76</Id>
@@ -891,8 +890,8 @@ Please take your time.</EnglishText>
       <JapaneseText>品ぞろえには自信が
 あるんじゃがのう……
 </JapaneseText>
-      <EnglishText>Well, I have confidence
-in our selection...</EnglishText>
+      <EnglishText>Bem, tenho confiança no
+nosso estoque...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>77</Id>
@@ -902,8 +901,8 @@ in our selection...</EnglishText>
       <PointerOffset>1208</PointerOffset>
       <JapaneseText>すごい音じゃ……
 世界の終わりか……!?</JapaneseText>
-      <EnglishText>That's one hell of a sound...
-Is the world coming to an end...?!</EnglishText>
+      <EnglishText>Que barulho... O mundo
+está acabando...?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>78</Id>
@@ -913,7 +912,7 @@ Is the world coming to an end...?!</EnglishText>
       <PointerOffset>1282</PointerOffset>
       <JapaneseText>ワシに……
 話しかけるでない。</JapaneseText>
-      <EnglishText>...Don't talk to me.</EnglishText>
+      <EnglishText>...Não fale comigo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>79</Id>
@@ -922,7 +921,7 @@ Is the world coming to an end...?!</EnglishText>
     <Entry>
       <PointerOffset>1313</PointerOffset>
       <JapaneseText>おお、いらっしゃい。</JapaneseText>
-      <EnglishText>Oh, welcome.</EnglishText>
+      <EnglishText>Ah, bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>80</Id>
@@ -933,9 +932,9 @@ Is the world coming to an end...?!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　武器を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Weapons
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armas
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>81</Id>
@@ -945,7 +944,7 @@ Cancel</EnglishText>
       <PointerOffset>1394</PointerOffset>
       <JapaneseText>ウチの品ぞろえはどうじゃ？
 </JapaneseText>
-      <EnglishText>How's our selection? </EnglishText>
+      <EnglishText>Que tal nosso estoque?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>82</Id>
@@ -956,8 +955,8 @@ Cancel</EnglishText>
       <JapaneseText>品ぞろえには自信が
 あるんじゃがのう……
 </JapaneseText>
-      <EnglishText>Well, I have confidence
-in our selection...</EnglishText>
+      <EnglishText>Bem, tenho confiança no
+nosso estoque...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>83</Id>
@@ -966,7 +965,7 @@ in our selection...</EnglishText>
     <Entry>
       <PointerOffset>1527</PointerOffset>
       <JapaneseText>買ってけ、買ってけ!!</JapaneseText>
-      <EnglishText>Come and spend your money!</EnglishText>
+      <EnglishText>Venha gastar seu dinheiro!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>84</Id>
@@ -975,7 +974,7 @@ in our selection...</EnglishText>
     <Entry>
       <PointerOffset>1552</PointerOffset>
       <JapaneseText>おお、いらっしゃい。</JapaneseText>
-      <EnglishText>Oh, welcome.</EnglishText>
+      <EnglishText>Ah, bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>85</Id>
@@ -986,9 +985,9 @@ in our selection...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　武器を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Weapons
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armas
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>86</Id>
@@ -998,9 +997,9 @@ Cancel</EnglishText>
       <PointerOffset>1633</PointerOffset>
       <JapaneseText>ヒューマもガジュマも関係ない！
 この状況をなんとかしてくれ!!</JapaneseText>
-      <EnglishText>I don't care if you're Huma or
-Gajuma! Something needs to
-be done about this situation!</EnglishText>
+      <EnglishText>Não me importa se é Huma ou
+Gajuma! Precisam fazer algo
+sobre esta situação!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>87</Id>
@@ -1010,9 +1009,9 @@ be done about this situation!</EnglishText>
       <PointerOffset>1697</PointerOffset>
       <JapaneseText>ヒューマもガジュマも関係ない！
 この状況をなんとかしてくれ!!</JapaneseText>
-      <EnglishText>I don't care if you're Huma or
-Gajuma! Something needs to
-be done about this situation!</EnglishText>
+      <EnglishText>Não me importa se é Huma ou
+Gajuma! Precisam fazer algo
+sobre esta situação!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>88</Id>
@@ -1022,7 +1021,7 @@ be done about this situation!</EnglishText>
       <PointerOffset>1728</PointerOffset>
       <JapaneseText>何がいいかのう？
 </JapaneseText>
-      <EnglishText>What would you like? </EnglishText>
+      <EnglishText>O que vai querer?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>89</Id>
@@ -1033,9 +1032,9 @@ be done about this situation!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　武器を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Weapons
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Armas
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>90</Id>
@@ -1045,7 +1044,7 @@ Cancel</EnglishText>
       <PointerOffset>1809</PointerOffset>
       <JapaneseText>ウチの品ぞろえはどうじゃ？
 </JapaneseText>
-      <EnglishText>How's our selection? </EnglishText>
+      <EnglishText>Que tal nosso estoque?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>91</Id>
@@ -1056,8 +1055,8 @@ Cancel</EnglishText>
       <JapaneseText>品ぞろえには自信が
 あるんじゃがのう……
 </JapaneseText>
-      <EnglishText>Well, I have confidence
-in our selection...</EnglishText>
+      <EnglishText>Bem, tenho confiança no
+nosso estoque...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>92</Id>
@@ -1073,11 +1072,11 @@ in our selection...</EnglishText>
 道具屋の店員の好物。
 仕事中に時々食べている。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Small Potted Plant -
-A potted plant of parsley.
-A favorite food of the item
-shop clerk. He sometimes
-eats it while working.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Vasinho de Planta -
+Um vaso de salsinha. Comida
+favorita do atendente da loja
+de itens, que às vezes a come
+enquanto trabalha.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>93</Id>
@@ -1093,12 +1092,12 @@ eats it while working.</EnglishText>
 ミナールリング、ミナールピアス、
 ミナール化粧品、ミナール缶詰。
 どこがミナールなのかは不明。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Shelf Goods -
-Souvenirs from Minal are lined
-up on display. Minal rings, Minal
-earrings, Minal cosmetics, Minal
-canned goods... It's not clear
-what about these screams "Minal."</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Prateleira -
+Lembranças de Minal em exposição.
+Anéis de Minal, brincos de Minal,
+cosméticos de Minal, enlatados de
+Minal... Não dá pra saber o que
+tem de tão "Minal" nisso.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>94</Id>
@@ -1116,13 +1115,12 @@ what about these screams "Minal."</EnglishText>
 公式行事以外ではヨロイを着用せずに
 生身の肉弾戦法で戦ったという。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- King Giga's Armor - (not for sale)
-A replica of the armor that was made
-for Giga, Callegea's sixth king. It is
-said that the wild king would only
-wear his armor at official functions
-and preferred to fight as though he
-had a death wish.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Armadura do Rei Giga - (não vendida)
+Réplica da armadura feita para
+Giga, o sexto rei de Callegea. Dizem
+que o rei selvagem só usava a armadura
+em eventos oficiais e preferia lutar
+como se quisesse morrer.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>95</Id>

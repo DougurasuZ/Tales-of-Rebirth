@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>2408</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>3620</PointerOffset>
       <JapaneseText>船員</JapaneseText>
-      <EnglishText>Sailor</EnglishText>
+      <EnglishText>Marinheiro</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
       <VoiceId>3c000000</VoiceId>
       <JapaneseText>これから私は、
 君を連れてバルカに向かう。</JapaneseText>
-      <EnglishText>You will be accompanying me to Balka.</EnglishText>
+      <EnglishText>Você me acompanhará a Balka.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -104,10 +104,10 @@
       <VoiceId>3c000001</VoiceId>
       <JapaneseText>味方ばかりとは言えないが、
 カレギア城にいれば安全だ。</JapaneseText>
-      <EnglishText>I can't say that everyone there
-will be welcoming, but so long 
-as you're in the castle, your 
-safety is assured.</EnglishText>
+      <EnglishText>Não posso dizer que todos ali
+serão receptivos, mas, enquanto
+estiver no castelo, sua segurança
+estará garantida.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -119,9 +119,9 @@ safety is assured.</EnglishText>
       <JapaneseText>くれぐれも、君と陛下が
 入れ替わっているという事は
 内密に願いたい。</JapaneseText>
-      <EnglishText>I would implore you to keep the
-fact that you and Her Majesty
-switched bodies a secret.</EnglishText>
+      <EnglishText>Peço que mantenha em segredo que
+você e Sua Majestade trocaram
+de corpo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -133,9 +133,9 @@ switched bodies a secret.</EnglishText>
       <JapaneseText>あくまでも君は、
 カレギア女王アガーテ陛下だ。
 そのようにふるまうよう。</JapaneseText>
-      <EnglishText>For all intents and purposes, you
-are now Queen Agarte of Callegea.
-Conduct yourself accordingly.</EnglishText>
+      <EnglishText>Para todos os efeitos, você
+agora é a Rainha Agarte de
+Callegea. Comporte-se como tal.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -145,7 +145,7 @@ Conduct yourself accordingly.</EnglishText>
       <PointerOffset>2792</PointerOffset>
       <VoiceId>3c000004</VoiceId>
       <JapaneseText>わかりました。</JapaneseText>
-      <EnglishText>I understand.</EnglishText>
+      <EnglishText>Entendo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -155,8 +155,8 @@ Conduct yourself accordingly.</EnglishText>
       <PointerOffset>2823</PointerOffset>
       <VoiceId>3c000005</VoiceId>
       <JapaneseText>……では参りましょう、&lt;Cyan&gt;陛下&lt;White&gt;。</JapaneseText>
-      <EnglishText>...Then shall we be
-going, &lt;Cyan&gt;Your Majesty&lt;White&gt;?</EnglishText>
+      <EnglishText>...Então vamos,
+&lt;Cyan&gt;Vossa Majestade&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -169,8 +169,8 @@ going, &lt;Cyan&gt;Your Majesty&lt;White&gt;?</EnglishText>
       <PointerOffset>3068</PointerOffset>
       <JapaneseText>昨日、ここでのもめごとを止めた、
 ヒューマの娘に覚えはないか？</JapaneseText>
-      <EnglishText>Do you remember seeing a Huma
-girl who stopped a fight yesterday?</EnglishText>
+      <EnglishText>Lembra de uma garota Huma que
+parou uma briga ontem?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -179,7 +179,7 @@ girl who stopped a fight yesterday?</EnglishText>
     <Entry>
       <PointerOffset>3090</PointerOffset>
       <JapaneseText>ヒューマが外に出ていいのかよ。</JapaneseText>
-      <EnglishText>They're letting the Huma outside?</EnglishText>
+      <EnglishText>Estão deixando os Huma saírem?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -188,7 +188,7 @@ girl who stopped a fight yesterday?</EnglishText>
     <Entry>
       <PointerOffset>3111</PointerOffset>
       <JapaneseText>聞いているのはオレだ！</JapaneseText>
-      <EnglishText>I'm the one asking questions here!</EnglishText>
+      <EnglishText>Quem pergunta sou eu!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -197,7 +197,7 @@ girl who stopped a fight yesterday?</EnglishText>
     <Entry>
       <PointerOffset>3151</PointerOffset>
       <JapaneseText>そ、そんなやつがいたなぁ。</JapaneseText>
-      <EnglishText>O-Okay, yeah, I saw her...</EnglishText>
+      <EnglishText>T-Tá, sim, eu vi ela...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -207,8 +207,8 @@ girl who stopped a fight yesterday?</EnglishText>
       <PointerOffset>3172</PointerOffset>
       <JapaneseText>……その娘はどこへいった!?
 その後、街で見かけなかったか？</JapaneseText>
-      <EnglishText>Where did she go? Have you seen
-her around town since that incident?</EnglishText>
+      <EnglishText>Para onde ela foi? Você a viu
+pela cidade depois do incidente?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -219,9 +219,9 @@ her around town since that incident?</EnglishText>
       <JapaneseText>ヒューマの娘なんて
 どこにだっているし、
 見分けなんてつかねえよ。</JapaneseText>
-      <EnglishText>As if I'm going to remember
-the face of every Huma girl
-I see walking around!</EnglishText>
+      <EnglishText>Como vou lembrar do rosto de
+toda garota Huma que vejo
+andando por aí?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -232,9 +232,9 @@ I see walking around!</EnglishText>
       <JapaneseText>とってもキレイな人なんだヨ！
 ひと目見たら、きっと忘れないと
 思うんだけどなぁ？</JapaneseText>
-      <EnglishText>She's really pretty! I'm pretty
-sure even one look at her is
-enough to remember her by!</EnglishText>
+      <EnglishText>Ela é linda demais! Com certeza
+basta uma olhada pra lembrar
+dela!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -243,7 +243,7 @@ enough to remember her by!</EnglishText>
     <Entry>
       <PointerOffset>3237</PointerOffset>
       <JapaneseText>キレイなヒューマだぁ？</JapaneseText>
-      <EnglishText>A pretty Huma, eh?</EnglishText>
+      <EnglishText>Uma Huma bonita, é?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
@@ -254,10 +254,10 @@ enough to remember her by!</EnglishText>
       <JapaneseText>ガジュマのべっぴんさんなら
 忘れねえんだがな。
 そっちのお嬢さんみたいに。</JapaneseText>
-      <EnglishText>Now if she were a Gajuma
-beauty, I'm sure I'd remember.
-Especially if she looked like
-that girl over there.</EnglishText>
+      <EnglishText>Agora, se fosse uma Gajuma
+bonita, eu lembraria. Ainda mais
+se fosse parecida com aquela
+moça ali.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -285,7 +285,7 @@ that girl over there.</EnglishText>
       <PointerOffset>3318</PointerOffset>
       <JapaneseText>&lt;Agarte&gt;……
 どこへ行ったんだ！</JapaneseText>
-      <EnglishText>&lt;Agarte&gt;... Where the hell are you?!</EnglishText>
+      <EnglishText>&lt;Agarte&gt;... Onde diabos você está?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -296,7 +296,7 @@ that girl over there.</EnglishText>
       <JapaneseText>キレイなヒューマの女って
 言われてもなあ……
 </JapaneseText>
-      <EnglishText>A pretty Huma girl...</EnglishText>
+      <EnglishText>Uma garota Huma bonita...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -305,7 +305,7 @@ that girl over there.</EnglishText>
     <Entry>
       <PointerOffset>2486</PointerOffset>
       <JapaneseText>あんたはどうなんだ？</JapaneseText>
-      <EnglishText>How about you?</EnglishText>
+      <EnglishText>E você?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -316,8 +316,8 @@ that girl over there.</EnglishText>
       <JapaneseText>キレイなヒューマの女って
 言われても
 ピンとこねえなあ……</JapaneseText>
-      <EnglishText>A "beautiful female Huma" doesn't
-really ring a bell to me...</EnglishText>
+      <EnglishText>"Mulher Huma bonita" não me
+diz nada...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -329,7 +329,7 @@ really ring a bell to me...</EnglishText>
     <Entry>
       <PointerOffset>3651</PointerOffset>
       <JapaneseText>定期船は欠航となっております。</JapaneseText>
-      <EnglishText>The liners are currently unavailable.</EnglishText>
+      <EnglishText>Os navios estão indisponíveis.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
@@ -340,9 +340,9 @@ really ring a bell to me...</EnglishText>
       <JapaneseText>&lt;font:80000002&gt;お金が足りないようですね。
 定期船のご利用料金は
 一律&lt;nmb:12C&gt;ガルドです。</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;You seem to be short of money.
-The fee for embarking is a flat 
-rate of &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Parece que lhe falta dinheiro.
+A taxa de embarque é fixa, de
+&lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
@@ -352,8 +352,8 @@ rate of &lt;nmb:12C&gt; Gald.</EnglishText>
       <PointerOffset>3717</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;定期船をご利用なさいますか？
 料金は一律&lt;nmb:12C&gt;ガルドです。</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;Do you want to embark?
-The fee is &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Quer embarcar?
+A taxa é de &lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
@@ -364,9 +364,9 @@ The fee is &lt;nmb:12C&gt; Gald.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;定期船を利用しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Embark?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Embarcar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
@@ -407,7 +407,7 @@ No</EnglishText>
       <PointerOffset>4948</PointerOffset>
       <JapaneseText>　バビログラード港　
 </JapaneseText>
-      <EnglishText>Babilograd Harbor
+      <EnglishText>Porto de Babilograd
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -418,7 +418,7 @@ No</EnglishText>
       <PointerOffset>4988</PointerOffset>
       <JapaneseText>　バルカ港　
 </JapaneseText>
-      <EnglishText>Balka Harbor
+      <EnglishText>Porto de Balka
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -429,7 +429,7 @@ No</EnglishText>
       <PointerOffset>5029</PointerOffset>
       <JapaneseText>　ラジルダ港　
 </JapaneseText>
-      <EnglishText>Razilda Harbor
+      <EnglishText>Porto de Razilda
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -451,7 +451,7 @@ No</EnglishText>
       <PointerOffset>5109</PointerOffset>
       <JapaneseText>　ベルサス港　
 </JapaneseText>
-      <EnglishText>Belsas Harbor
+      <EnglishText>Porto de Belsas
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -462,7 +462,7 @@ No</EnglishText>
       <PointerOffset>5299</PointerOffset>
       <JapaneseText>　定期船に乗らない　
 </JapaneseText>
-      <EnglishText>Don't Embark
+      <EnglishText>Não embarcar
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -484,7 +484,7 @@ No</EnglishText>
       <PointerOffset>5214</PointerOffset>
       <JapaneseText>　ベルサス港　
 </JapaneseText>
-      <EnglishText>Belsas Harbor
+      <EnglishText>Porto de Belsas
 </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -517,9 +517,9 @@ No</EnglishText>
 料金&lt;nmb:12C&gt;ガルド
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48F40428B8048880&gt;is &lt;nmb:12C&gt; Gald.
-Embark
-Stay</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Passagem para &lt;unk18:48F40428B8048880&gt;: &lt;nmb:12C&gt; Gald.
+Embarcar
+Ficar</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>41</Id>
@@ -533,9 +533,9 @@ Stay</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>

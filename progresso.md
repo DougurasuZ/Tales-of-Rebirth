@@ -36,6 +36,14 @@
 | 2_translated/story/10266.xml | 2026-09-30 |
 | 2_translated/story/10267.xml | 2026-09-30 |
 | 2_translated/story/10268.xml | 2026-09-30 |
+| 2_translated/story/10269.xml | 2026-09-30 |
+| 2_translated/story/10270.xml | 2026-09-30 |
+| 2_translated/story/10271.xml | 2026-09-30 |
+| 2_translated/story/10272.xml | 2026-09-30 |
+| 2_translated/story/10273.xml | 2026-09-30 |
+| 2_translated/story/10274.xml | 2026-09-30 |
+| 2_translated/story/10275.xml | 2026-09-30 |
+| 2_translated/story/10276.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -118,4 +126,15 @@
 - 10266.xml, Id 16: o "？" largo do inglês foi mantido. Id 111: o "ー" do inglês mantido ("...estamosー"). Ids 73/74: `<unk19:...>` seguido de " entrou para o grupo." / " agora viaja com você." (conferir espaço/gênero no jogo).
 - 10266.xml, Id 158: mesmo formato de 10229 ("Passagem para <unk18:...>: <nmb:12C> Gald."). Ids 141/142 copiam o texto de 10229 Ids 42/43.
 - 10266.xml, Id 65: "Walto" mantido como no inglês (provavelmente Waltran; verificar).
+- Lote 10269–10276 (2026-09-30): o relatório anterior tinha 0 problemas (só PENDENTE de nomes/interjeições, mantidos). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 0 problemas (2 rodadas de ajuste de TAMANHO/LINHAS).
+- 10269–10276, rótulos de falante: "Man" → "Homem", "Callegean Soldier" → "Soldado Callegeano", "Bar Manager" → "Dono do Bar", "Girl" → "Menina", "Boy" → "Menino", "Sailor" → "Marinheiro", "Inn Employee" → "Funcionário da Pousada", "Innkeeper" → "Pousadeiro", "Grocer" → "Dono da Mercearia", "Notice" → "Aviso", lojas → "Loja de Itens/Armaduras/Armas". Nomes (Tomich, Misha, Curia, Helen, Milhaust) mantidos.
+- 10275.xml: o SpeakerId 15 (rótulo "Callegean Soldier") é usado nas falas do pousadeiro/recepção ("One night is... Gald", "Enjoy your stay"); parece erro do original. Rótulo traduzido como está.
+- 10269.xml, Id 168: "Wooden Box acquired" → "Obteve Wooden Box" (item mantido em inglês). Id 165: opções "Nós carregamos / Espere um pouco" (Id 166 repete "Nós carregamos.").
+- 10269.xml, Id 56: a fala de Misha foi encurtada (não cabia em 3 linhas): "Um Huma alto, de cabelo longo, espada e cara assustadora, chamado <Veigue>, viria aqui."
+- 10269/10270/10272/10273/10275: "Human" (ヒト, não a raça) → "humano/humanos" minúsculo; "Inheritance" → "Herança" (Battle Book, 10274 Ids 4 e 6); "Enhance" → "Aprimorar".
+- 10270.xml, Id 62/65 e 10269 Id 72: "Royal Shield" → "Escudo Real" e "Dusk of Ladras" → "Crepúsculo de Ladras" (glossário).
+- 10271.xml, Ids 29–39: nomes de destino mantidos; "[Nome] Harbor" → "Porto de [Nome]" (glossário). Id 41: mesmo formato de 10229/10266 ("Passagem para <unk18:...>: <nmb:12C> Gald.").
+- 10275.xml, Ids 69–87: o código `<unk17:340C80>` (preço) foi preservado; Id 83/84 ficou numa linha só ("Gastar <unk17:...> Gald para descansar?"). Id 87 encurtado para "<unk17:...> Gald para passar a noite?".
+- 10275.xml, Id 57: "Silent Night" → "Noite Silenciosa" (glossário). Id 55: "Day of Goldba" → "Dia de Goldba". Id 59: "Suzu plant" → "planta Suzu" (nome da planta mantido).
+- 10274.xml, Ids 93–95: textos de objetos examináveis traduzidos ("Vasinho de Planta", "Prateleira", "Armadura do Rei Giga"); "Minal" entre aspas retas mantido como no inglês.
 - 10253.xml: "Half" (raça mista) mantido em inglês; "Lady Zilva" mantido; "Etoray Bridge" → "Ponte de Etoray"; "Biruses" → "Birus". Ids 31/32/34/45 (avisos de tutorial) condensados para caber nas linhas.

@@ -14,7 +14,11 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Armor Shop | Loja de Armaduras | |
 | Callegea Castle | Castelo de Callegea | |
 | Claire's House - Basement | Casa de Claire - Porão | |
+| Dining Hall | Refeitório | |
 | Etoray Bridge | Ponte de Etoray | Nome misto |
+| Gymnasium | Ginásio | |
+| [Nome] Harbor | Porto de [Nome] | Ex.: "Porto de Balka" |
+| Road to Harbor | Caminho do Porto | |
 | Alvan Mountains - Shack | Montanhas de Alvan - Cabana | |
 | General Store | Armazém | |
 | Island of Illusions | Ilha das Ilusões | |
@@ -51,6 +55,7 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Inn | Pousada | |
 | Enhance | Aprimorar | Menu de equipamento (confirmar) |
 | Four Stars | Quatro Estrelas | Organização militar (Saleh, Tohma, Militsa) |
+| Inheritance | Herança | Sistema de equipamento (Battle Book) |
 | Keketto Hostel | Hospedaria Keketto | |
 | Records | Registros | Seção do Battle Book |
 | Royal Shield | Escudo Real | Organização militar (Agarte) |

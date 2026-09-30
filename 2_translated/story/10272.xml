@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>4091,4091,4091,4091,4091,4091,4091,3780,3780,3780,3780,3780,3780,3780,3780</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>3381,3381,3381,3381,3381,3381,3381,3381,3381,3381,3381</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>3001,3001,3001,3001,3001,3001,3001,3001</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>2381</PointerOffset>
       <JapaneseText>役場</JapaneseText>
-      <EnglishText>Town Hall</EnglishText>
+      <EnglishText>Prefeitura</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
       <VoiceId>3b00008d</VoiceId>
       <JapaneseText>どこに行ったんだ、
 クレア……!?</JapaneseText>
-      <EnglishText>Claire, where did you go?!</EnglishText>
+      <EnglishText>Claire, para onde você foi?!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -115,8 +115,8 @@
       <JapaneseText>ミーシャ、クレアを……
 アガーテの姿をした
 クレアを見なかったか？</JapaneseText>
-      <EnglishText>Misha, have you seen Claire...
-the one that looks like Agarte?</EnglishText>
+      <EnglishText>Misha, você viu a Claire...
+aquela que parece a Agarte?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -128,9 +128,9 @@ the one that looks like Agarte?</EnglishText>
       <JapaneseText>見ました！
 でも、なんだか様子が変で……
 呼んだのに返事もなかったし。</JapaneseText>
-      <EnglishText>I did! Something seemed off
-about her though... I called out
-to her, but she didn't respond!</EnglishText>
+      <EnglishText>Vi! Ela parecia estranha...
+Chamei por ela, mas ela
+não respondeu!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -142,8 +142,8 @@ to her, but she didn't respond!</EnglishText>
       <JapaneseText>気になったから、
 &lt;Veigue&gt;さんに
 伝えようと思って……！</JapaneseText>
-      <EnglishText>I found that concerning, so I
-came here to tell you about it!</EnglishText>
+      <EnglishText>Fiquei preocupado e
+vim avisar você!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -163,7 +163,7 @@ came here to tell you about it!</EnglishText>
       <PointerOffset>4750</PointerOffset>
       <VoiceId>3b000093</VoiceId>
       <JapaneseText>それで、クレアはどこへ……!?</JapaneseText>
-      <EnglishText>Where was she headed?</EnglishText>
+      <EnglishText>Para onde ela estava indo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -174,7 +174,7 @@ came here to tell you about it!</EnglishText>
       <VoiceId>3b000094</VoiceId>
       <JapaneseText>北へ……北へ向かってた
 みたいですけど……</JapaneseText>
-      <EnglishText>I believe she was going north.</EnglishText>
+      <EnglishText>Acho que ia para o norte.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -184,7 +184,7 @@ came here to tell you about it!</EnglishText>
       <PointerOffset>4810</PointerOffset>
       <VoiceId>3b000095</VoiceId>
       <JapaneseText>北へ……？</JapaneseText>
-      <EnglishText>North...?</EnglishText>
+      <EnglishText>Norte...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -197,8 +197,8 @@ came here to tell you about it!</EnglishText>
       <PointerOffset>4153</PointerOffset>
       <JapaneseText>巡回中である。
 邪魔しないでほしいのである。</JapaneseText>
-      <EnglishText>I'm in the middle of a patrol.
-Please don't disturb me.</EnglishText>
+      <EnglishText>Estou em patrulha.
+Não me incomodem.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -208,7 +208,7 @@ Please don't disturb me.</EnglishText>
       <PointerOffset>4178</PointerOffset>
       <JapaneseText>ヒューマはさっさと
 屋内に入るのである。</JapaneseText>
-      <EnglishText>Huma are supposed to stay indoors!</EnglishText>
+      <EnglishText>Huma devem ficar em casa!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -218,7 +218,7 @@ Please don't disturb me.</EnglishText>
       <PointerOffset>4200</PointerOffset>
       <JapaneseText>戒厳下なので、そういう
 決まりなのである。</JapaneseText>
-      <EnglishText>That's how it is under martial law!</EnglishText>
+      <EnglishText>É assim sob lei marcial!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -228,7 +228,7 @@ Please don't disturb me.</EnglishText>
       <PointerOffset>4239</PointerOffset>
       <JapaneseText>なんであるか、
 この地鳴りは……！</JapaneseText>
-      <EnglishText>What is up with this earthquake—!</EnglishText>
+      <EnglishText>Que terremoto é esse—!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -239,10 +239,10 @@ Please don't disturb me.</EnglishText>
       <JapaneseText>何があっても、我々はこの街を、
 海を、山を、ふるさとを……
 そしてこの国を守るのである。</JapaneseText>
-      <EnglishText>No matter what happens
-we will protect this town,
-the ocean, the mountains,
-and most of all this country.</EnglishText>
+      <EnglishText>Aconteça o que acontecer, vamos
+proteger esta cidade, o mar, as
+montanhas e, acima de tudo,
+este país.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -252,8 +252,8 @@ and most of all this country.</EnglishText>
       <PointerOffset>4311</PointerOffset>
       <JapaneseText>それが軍人としての職務を
 まっとうする事なのである。</JapaneseText>
-      <EnglishText>Those are my duties
-as a soldier.</EnglishText>
+      <EnglishText>Esses são meus deveres
+como soldado.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -264,9 +264,9 @@ as a soldier.</EnglishText>
       <JapaneseText>私は誇り高きカレギア軍の
 誇り高き兵士なのである。
 給料は高くないのである。</JapaneseText>
-      <EnglishText>I am a proud soldier of the
-highly esteemed Callegean Army.
-My pay isn't that high, though...</EnglishText>
+      <EnglishText>Sou um orgulhoso soldado do
+honrado Exército de Callegea.
+Mas o soldo não é grande...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -279,8 +279,8 @@ My pay isn't that high, though...</EnglishText>
       <PointerOffset>3842</PointerOffset>
       <JapaneseText>この国の秩序を守るためならば、
 どのような手段も辞さない構えだ。</JapaneseText>
-      <EnglishText>I'm prepared to do anything in order
-to uphold this country's order.</EnglishText>
+      <EnglishText>Estou pronto para fazer qualquer
+coisa pela ordem deste país.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -290,8 +290,8 @@ to uphold this country's order.</EnglishText>
       <PointerOffset>3864</PointerOffset>
       <JapaneseText>例えこの手を
 血で汚そうとも……</JapaneseText>
-      <EnglishText>Even if I have to dirty
-my hands...</EnglishText>
+      <EnglishText>Mesmo que eu tenha que sujar
+as mãos...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -302,8 +302,8 @@ my hands...</EnglishText>
       <JapaneseText>ヒューマの外出禁止令が
 出ている事を、よもや
 知らないとは言わせんぞ。</JapaneseText>
-      <EnglishText>Don't tell me you were unaware that
-Huma are supposed to be in lockdown.</EnglishText>
+      <EnglishText>Não me diga que não sabia que os
+Huma devem ficar trancados.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -313,7 +313,7 @@ Huma are supposed to be in lockdown.</EnglishText>
       <PointerOffset>3922</PointerOffset>
       <JapaneseText>さっさと屋内へ入れ！
 さもなくば……</JapaneseText>
-      <EnglishText>Go back indoors, or else...</EnglishText>
+      <EnglishText>Volte para dentro, ou então...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -323,7 +323,7 @@ Huma are supposed to be in lockdown.</EnglishText>
       <PointerOffset>3967</PointerOffset>
       <JapaneseText>何が……何が
 起ころうとしているのだ……？</JapaneseText>
-      <EnglishText>Wh-What's going to happen?</EnglishText>
+      <EnglishText>O-O que vai acontecer?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -333,8 +333,8 @@ Huma are supposed to be in lockdown.</EnglishText>
       <PointerOffset>4017</PointerOffset>
       <JapaneseText>今こそ、我らカレギアの兵士の
 勇気が試される試練の時。</JapaneseText>
-      <EnglishText>As of now, our bravery as Callegean
-soldiers are being tested.</EnglishText>
+      <EnglishText>Neste momento, nossa bravura como
+soldados de Callegea é testada.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -344,8 +344,8 @@ soldiers are being tested.</EnglishText>
       <PointerOffset>4039</PointerOffset>
       <JapaneseText>この命散ろうとも、
 我らは戦う……!!</JapaneseText>
-      <EnglishText>Though our lives may be cut
-short, we shall fight...!</EnglishText>
+      <EnglishText>Mesmo que nossas vidas sejam
+ceifadas, lutaremos...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -355,8 +355,8 @@ short, we shall fight...!</EnglishText>
       <PointerOffset>4064</PointerOffset>
       <JapaneseText>カレギア軍の誇りにかけて
 私は私の任務を遂行する!!</JapaneseText>
-      <EnglishText>I will carry out my mission with
-the pride of the Callegean Army!</EnglishText>
+      <EnglishText>Cumprirei minha missão com o
+orgulho do Exército de Callegea!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -369,8 +369,8 @@ the pride of the Callegean Army!</EnglishText>
       <PointerOffset>3430</PointerOffset>
       <JapaneseText>なんか少し前に兵隊さんが来て
 お船に乗れなくしちゃったんだよ。</JapaneseText>
-      <EnglishText>Some soldiers came by and now
-you can't take any ships.</EnglishText>
+      <EnglishText>Uns soldados apareceram e
+agora não dá pra pegar navios.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -381,8 +381,8 @@ you can't take any ships.</EnglishText>
       <JapaneseText>本当はお船に乗って、
 キョグエンに行く
 予定だったのにな……</JapaneseText>
-      <EnglishText>Right when I was actually planning
-on taking a ship to Kyogen...</EnglishText>
+      <EnglishText>Justo quando eu planejava pegar
+um navio para Kyogen...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -392,7 +392,7 @@ on taking a ship to Kyogen...</EnglishText>
       <PointerOffset>3502</PointerOffset>
       <JapaneseText>ガジュマの男の子？
 知らなーい。</JapaneseText>
-      <EnglishText>A Gajuma boy? Dunno.</EnglishText>
+      <EnglishText>Um garoto Gajuma? Sei lá.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -403,8 +403,8 @@ on taking a ship to Kyogen...</EnglishText>
       <JapaneseText>ゴメンね、おじさん
 ガジュマの人と
 お話しちゃダメなんだって。</JapaneseText>
-      <EnglishText>Sorry, mister, my parents told
-me not to talk to Gajuma.</EnglishText>
+      <EnglishText>Desculpe, moço, meus pais
+mandaram não falar com Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
@@ -414,8 +414,8 @@ me not to talk to Gajuma.</EnglishText>
       <PointerOffset>3587</PointerOffset>
       <JapaneseText>……別に私、そんなの
 どうでもいいんだけど……</JapaneseText>
-      <EnglishText>I don't really mind talking
-to them though...</EnglishText>
+      <EnglishText>Eu até não me importo de
+falar com eles...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -425,8 +425,8 @@ to them though...</EnglishText>
       <PointerOffset>3612</PointerOffset>
       <JapaneseText>私、別にガジュマが嫌いとか
 そういうの、どうでもいいわ。</JapaneseText>
-      <EnglishText>I don't really care if people
-hate Gajuma or not.</EnglishText>
+      <EnglishText>Não ligo se as pessoas
+odeiam os Gajuma ou não.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -436,8 +436,8 @@ hate Gajuma or not.</EnglishText>
       <PointerOffset>3634</PointerOffset>
       <JapaneseText>だって、ガジュマの
 お友達はいないもの。</JapaneseText>
-      <EnglishText>Because I don't really have
-any friends that are Gajuma.</EnglishText>
+      <EnglishText>Porque eu não tenho
+amigos Gajuma mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -447,8 +447,8 @@ any friends that are Gajuma.</EnglishText>
       <PointerOffset>3684</PointerOffset>
       <JapaneseText>なんだか
 みんなバカみたい。</JapaneseText>
-      <EnglishText>Is it me, or is everyone acting
-like a bunch of dummies?</EnglishText>
+      <EnglishText>Sou eu, ou todo mundo está
+agindo como bobo?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
@@ -458,10 +458,9 @@ like a bunch of dummies?</EnglishText>
       <PointerOffset>3706</PointerOffset>
       <JapaneseText>ケンカするほど嫌いなら、
 しゃべらなきゃいいのにね。</JapaneseText>
-      <EnglishText>Why talk to each other if
-you hate each other so
-much to the point where
-you're always fighting?</EnglishText>
+      <EnglishText>Pra que conversar se vocês se
+odeiam tanto a ponto de
+viver brigando?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
@@ -471,10 +470,9 @@ you're always fighting?</EnglishText>
       <PointerOffset>3731</PointerOffset>
       <JapaneseText>そこの階段を降りたところが体育館。
 この街はブンブリョウドウの街だって。</JapaneseText>
-      <EnglishText>You'll find the Gymnasium if
-you go down these stairs.
-We're a town of both soldiers
-and scholars, after all.</EnglishText>
+      <EnglishText>O Ginásio fica descendo estas
+escadas. Somos uma cidade de
+soldados e estudiosos, afinal.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -483,8 +481,8 @@ and scholars, after all.</EnglishText>
     <Entry>
       <PointerOffset>3753</PointerOffset>
       <JapaneseText>……誰かがそう言ってたの。</JapaneseText>
-      <EnglishText>...At least that's what
-I've been told.</EnglishText>
+      <EnglishText>...Pelo menos é o que
+me contaram.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -498,9 +496,9 @@ I've been told.</EnglishText>
       <JapaneseText>ヘレンって子が
 いなくなったらしいけど……
 どこに行ったか、知らない？</JapaneseText>
-      <EnglishText>I heard that a girl called
-Helen disappeared. Do you
-know where she went?</EnglishText>
+      <EnglishText>Ouvi dizer que uma garota
+chamada Helen desapareceu.
+Sabe para onde ela foi?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
@@ -510,8 +508,8 @@ know where she went?</EnglishText>
       <PointerOffset>3100</PointerOffset>
       <JapaneseText>何？　どうしたの？
 何か大変な事が起こってるの？</JapaneseText>
-      <EnglishText>What? What's the matter?
-Did something bad happen?</EnglishText>
+      <EnglishText>O quê? O que houve?
+Aconteceu algo ruim?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -522,8 +520,8 @@ Did something bad happen?</EnglishText>
       <JapaneseText>ガジュマは
 ボクたちの仲間に
 入れてあげないよーだ！</JapaneseText>
-      <EnglishText>We're not letting Gajuma
-play with us!</EnglishText>
+      <EnglishText>Não deixamos Gajuma
+brincar com a gente!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
@@ -533,8 +531,8 @@ play with us!</EnglishText>
       <PointerOffset>3205</PointerOffset>
       <JapaneseText>やっぱりヒューマはヒューマ同士、
 仲良く遊んだ方が楽しいよね。</JapaneseText>
-      <EnglishText>Playing with fellow Huma
-is so much more fun!</EnglishText>
+      <EnglishText>Brincar com outros Huma
+é muito mais divertido!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>42</Id>
@@ -544,8 +542,8 @@ is so much more fun!</EnglishText>
       <PointerOffset>3279</PointerOffset>
       <JapaneseText>ガジュマなんか、この世から
 いなくなっちゃえばいいんだ……！</JapaneseText>
-      <EnglishText>It would be better if Gajuma
-disappeared from this world!</EnglishText>
+      <EnglishText>Seria melhor se os Gajuma
+sumissem deste mundo!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -555,7 +553,7 @@ disappeared from this world!</EnglishText>
       <PointerOffset>3310</PointerOffset>
       <JapaneseText>なんでガジュマなんか
 いるんだろ。</JapaneseText>
-      <EnglishText>Why do Gajuma exist anyway?</EnglishText>
+      <EnglishText>Por que os Gajuma existem?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>44</Id>
@@ -565,7 +563,7 @@ disappeared from this world!</EnglishText>
       <PointerOffset>3332</PointerOffset>
       <JapaneseText>あーあ、やだなったら、
 やだな……</JapaneseText>
-      <EnglishText>Noo... I don't like this...</EnglishText>
+      <EnglishText>Nãão... Não gosto disso...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
@@ -576,10 +574,10 @@ disappeared from this world!</EnglishText>
       <JapaneseText>正面の建物は役場だよ。
 信用があれば、図書館で
 本を貸してもらえるよ。</JapaneseText>
-      <EnglishText>That building in front of us is
-the Town Hall. If they trust
-you, they'll let you borrow
-some books.</EnglishText>
+      <EnglishText>O prédio na nossa frente é
+a Prefeitura. Se confiarem
+em você, vão te emprestar
+uns livros.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
@@ -593,9 +591,9 @@ some books.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>47</Id>

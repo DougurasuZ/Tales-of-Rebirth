@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>9786</PointerOffset>
       <JapaneseText>体育館</JapaneseText>
-      <EnglishText>Gymnasium</EnglishText>
+      <EnglishText>Ginásio</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>9807</PointerOffset>
       <JapaneseText>体育館</JapaneseText>
-      <EnglishText>Gymnasium</EnglishText>
+      <EnglishText>Ginásio</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -76,7 +76,7 @@
       <PointerOffset>315</PointerOffset>
       <JapaneseText>クレア……
 あなたクレアでしょ!?</JapaneseText>
-      <EnglishText>Claire... It's you, isn't it?</EnglishText>
+      <EnglishText>Claire... É você, não é?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -87,9 +87,9 @@
       <JapaneseText>私、ヘレンよ。
 あなたたちと別れてから、
 ずっと心配してたの。</JapaneseText>
-      <EnglishText>It's me, Helen. I've been
-worried about you ever
-since they separated us.</EnglishText>
+      <EnglishText>Sou eu, Helen. Estou preocupada
+com você desde que nos
+separaram.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -100,8 +100,8 @@ since they separated us.</EnglishText>
       <JapaneseText>みんなが故郷に
 帰ったらしいって
 聞いてたけど、</JapaneseText>
-      <EnglishText>I'd heard that everyone
-had been released.</EnglishText>
+      <EnglishText>Ouvi dizer que todos
+tinham sido libertados.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -111,8 +111,8 @@ had been released.</EnglishText>
       <PointerOffset>399</PointerOffset>
       <JapaneseText>ホントかどうか
 気になって……</JapaneseText>
-      <EnglishText>I'd wondered if that was
-actually the case...</EnglishText>
+      <EnglishText>Fiquei me perguntando se era
+verdade...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -122,7 +122,7 @@ actually the case...</EnglishText>
       <PointerOffset>421</PointerOffset>
       <JapaneseText>あなたの元気な顔を見れて
 よかった。</JapaneseText>
-      <EnglishText>I'm glad to see you're okay.</EnglishText>
+      <EnglishText>Que bom ver que você está bem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -133,10 +133,10 @@ actually the case...</EnglishText>
       <JapaneseText>今は家の手伝いをしているの。
 心配かけちゃったぶん、
 親孝行しなきゃね。</JapaneseText>
-      <EnglishText>I'm helping out at home now.
-I've been taking care of my
-parents since they were
-so worried about me.</EnglishText>
+      <EnglishText>Agora estou ajudando em casa.
+Tenho cuidado dos meus pais,
+que ficaram tão preocupados
+comigo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -145,7 +145,7 @@ so worried about me.</EnglishText>
     <Entry>
       <PointerOffset>10150</PointerOffset>
       <JapaneseText>波音が心にしみるわ……</JapaneseText>
-      <EnglishText>The sound of the waves is soothing.</EnglishText>
+      <EnglishText>O som das ondas é tão calmante.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -155,8 +155,8 @@ so worried about me.</EnglishText>
       <PointerOffset>10172</PointerOffset>
       <JapaneseText>波間に照り映える太陽の光が
 瞳にしみるし……</JapaneseText>
-      <EnglishText>The sun's rays reflecting off
-the waves hurts my eyes...</EnglishText>
+      <EnglishText>Os raios de sol refletindo
+nas ondas machucam meus olhos...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -165,7 +165,7 @@ the waves hurts my eyes...</EnglishText>
     <Entry>
       <PointerOffset>10194</PointerOffset>
       <JapaneseText>潮風が身体にしみる……</JapaneseText>
-      <EnglishText>I can feel the ocean breeze...</EnglishText>
+      <EnglishText>Sinto a brisa do mar...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -175,8 +175,8 @@ the waves hurts my eyes...</EnglishText>
       <PointerOffset>10022</PointerOffset>
       <JapaneseText>会えてうれしかったわ。
 よかったらまた来てね。</JapaneseText>
-      <EnglishText>I'm so glad we met. I hope
-we can see each other again.</EnglishText>
+      <EnglishText>Que bom que nos encontramos.
+Espero que nos vejamos de novo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -185,7 +185,7 @@ we can see each other again.</EnglishText>
     <Entry>
       <PointerOffset>912</PointerOffset>
       <JapaneseText>クレア……来てくれたのね。</JapaneseText>
-      <EnglishText>Claire... I'm glad you're here.</EnglishText>
+      <EnglishText>Claire... Que bom que você veio.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -196,8 +196,8 @@ we can see each other again.</EnglishText>
       <JapaneseText>みんな仲が悪くなって
 ケンカばかりするように
 なってしまったの……</JapaneseText>
-      <EnglishText>Everyone started acting out
-and getting into fights...</EnglishText>
+      <EnglishText>Todo mundo começou a ficar
+agitado e a brigar...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -207,8 +207,8 @@ and getting into fights...</EnglishText>
       <PointerOffset>956</PointerOffset>
       <JapaneseText>前みたいに仲良くなって
 ほしいんだけど、</JapaneseText>
-      <EnglishText>And I just want everyone to get 
-along like we all used to, however...</EnglishText>
+      <EnglishText>E eu só queria que todos se
+dessem bem, como antes, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -218,8 +218,8 @@ along like we all used to, however...</EnglishText>
       <PointerOffset>978</PointerOffset>
       <JapaneseText>私もガジュマが怖くて、
 私……どうすればいいの？</JapaneseText>
-      <EnglishText>I also feel intimidated by the Gajuma,
-I... What do you think I should do?</EnglishText>
+      <EnglishText>Também tenho medo dos Gajuma,
+eu... O que acha que devo fazer?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -230,11 +230,11 @@ I... What do you think I should do?</EnglishText>
       <JapaneseText>ガジュマも同じ&lt;Yellow&gt;ヒト&lt;White&gt;よ。
 怖いわけないわ。
 真剣に話せば気持ちは通じるはずよ。</JapaneseText>
-      <EnglishText>Gajuma are &lt;Yellow&gt;Human&lt;White&gt;, too. There's
-no reason to be afraid of them.
-If you take the time to earnestly
-speak with them, I'm sure they'll
-come to understand your feelings.</EnglishText>
+      <EnglishText>Gajuma também são &lt;Yellow&gt;humanos&lt;White&gt;. Não
+há por que ter medo deles.
+Se conversar com eles com
+sinceridade, tenho certeza de que
+vão entender seus sentimentos.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -244,9 +244,9 @@ come to understand your feelings.</EnglishText>
       <PointerOffset>1022</PointerOffset>
       <JapaneseText>……そうよね。
 ありがとう。私、頑張ってみる。</JapaneseText>
-      <EnglishText>You're right... 
-Thank you.
-I'll do my best.</EnglishText>
+      <EnglishText>Você tem razão...
+Obrigada.
+Vou me esforçar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -257,10 +257,10 @@ I'll do my best.</EnglishText>
       <JapaneseText>捕らえられていた時と同じね……
 またクレアに励まされちゃった。
 私も頑張ってみんなと話してみるわ。</JapaneseText>
-      <EnglishText>Just like when we were kidnapped,
-Claire was there to help me find
-the courage... I'll do my best to
-to talk to everyone.</EnglishText>
+      <EnglishText>Como quando fomos sequestradas,
+a Claire estava lá pra me ajudar
+a achar coragem... Vou me esforçar
+para falar com todos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -274,9 +274,9 @@ to talk to everyone.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>

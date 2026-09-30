@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :   5.6% das falas traduzidas (1753 de 31269) | arquivos iniciados: 32 | sem problemas: 32
+story :   7.9% das falas traduzidas (2456 de 31269) | arquivos iniciados: 40 | sem problemas: 40
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 4.2% das falas traduzidas (1753 de 41924)
+TOTAL : 5.9% das falas traduzidas (2456 de 41924)
 Problemas encontrados (sem contar pendentes): 0
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -150,3 +150,42 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 [story/10268.xml]
   Id 5: PENDENTE (igual ao inglês): Misha?
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10269.xml]
+  Id 23: PENDENTE (igual ao inglês): ...?
+  Id 29: PENDENTE (igual ao inglês): ...?
+  Id 42: PENDENTE (igual ao inglês): ...?
+  Id 77: PENDENTE (igual ao inglês): ...?
+  Id 86: PENDENTE (igual ao inglês): ...?
+  Id 93: PENDENTE (igual ao inglês): ...?
+  Id 122: PENDENTE (igual ao inglês): Coo... Coo...
+  Id 143: PENDENTE (igual ao inglês): ...!
+  Id 144: PENDENTE (igual ao inglês): Aaaagh... Aaaaaghhh!!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10270.xml]
+  Id 20: PENDENTE (igual ao inglês): Tch!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10271.xml]
+  Id 19: PENDENTE (igual ao inglês): Tch!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal; Id 29: Minal; Id 30: Sunnytown; Id 34: Nolzen; Id 37: Nolzen; Id 39: Minal
+
+[story/10272.xml]
+  Id 9: PENDENTE (igual ao inglês): ...!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10273.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10274.xml]
+  Id 49: PENDENTE (igual ao inglês): Huma... Hmph!
+
+[story/10275.xml]
+  Id 43: PENDENTE (igual ao inglês): Claire...
+  Id 93: PENDENTE (igual ao inglês): ...Hmm...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Minal
+
+[story/10276.xml]
+  Id 6: PENDENTE (igual ao inglês): ...!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal

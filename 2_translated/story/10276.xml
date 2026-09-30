@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>211</PointerOffset>
       <JapaneseText>ミナール・宿屋</JapaneseText>
-      <EnglishText>Minal - Inn</EnglishText>
+      <EnglishText>Minal - Pousada</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -70,8 +70,8 @@
       <JapaneseText>あ、気がついたんですね、
 &lt;Veigue&gt;さん。
 身体は大丈夫ですか？</JapaneseText>
-      <EnglishText>Ah, you're awake now, &lt;Veigue&gt;.
-How are you feeling?</EnglishText>
+      <EnglishText>Ah, você acordou, &lt;Veigue&gt;.
+Como está se sentindo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -81,7 +81,7 @@ How are you feeling?</EnglishText>
       <PointerOffset>953</PointerOffset>
       <VoiceId>3b000083</VoiceId>
       <JapaneseText>……オレは一体……</JapaneseText>
-      <EnglishText>What happened to me...?</EnglishText>
+      <EnglishText>O que aconteceu comigo...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -93,8 +93,8 @@ How are you feeling?</EnglishText>
       <JapaneseText>……&lt;Veigue&gt;さんは……
 &lt;Veigue&gt;さんのフォルスは……
 暴走を……</JapaneseText>
-      <EnglishText>Well, &lt;Veigue&gt;...your
-Force went berserk...</EnglishText>
+      <EnglishText>Bem, &lt;Veigue&gt;... o seu
+Force saiu do controle...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -114,7 +114,7 @@ Force went berserk...</EnglishText>
       <PointerOffset>1039</PointerOffset>
       <VoiceId>3b000086</VoiceId>
       <JapaneseText>……みんなは？</JapaneseText>
-      <EnglishText>How is everyone else?</EnglishText>
+      <EnglishText>Como estão os outros?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -125,8 +125,8 @@ Force went berserk...</EnglishText>
       <VoiceId>3b000087</VoiceId>
       <JapaneseText>まだ眠ってます……その……
 激しい戦いでしたから……</JapaneseText>
-      <EnglishText>They're all still sleeping, because,
-well, it was a rather intense fight...</EnglishText>
+      <EnglishText>Ainda estão todos dormindo, pois
+foi uma luta bem intensa...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -146,7 +146,7 @@ well, it was a rather intense fight...</EnglishText>
       <PointerOffset>1112</PointerOffset>
       <VoiceId>3b000089</VoiceId>
       <JapaneseText>……クレアは？</JapaneseText>
-      <EnglishText>Where's Claire?</EnglishText>
+      <EnglishText>Onde está a Claire?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -158,9 +158,9 @@ well, it was a rather intense fight...</EnglishText>
       <JapaneseText>えっ？　&lt;Veigue&gt;さんに、
 つきっきりで看病していた
 はずですけど……？</JapaneseText>
-      <EnglishText>Hm? I thought that she
-was waiting by your
-bedside this whole time?</EnglishText>
+      <EnglishText>Hm? Achei que ela estava
+ao seu lado na cama
+o tempo todo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -170,7 +170,7 @@ bedside this whole time?</EnglishText>
       <PointerOffset>1205</PointerOffset>
       <VoiceId>3b00008b</VoiceId>
       <JapaneseText>どうしたんですか？</JapaneseText>
-      <EnglishText>Did something happen?</EnglishText>
+      <EnglishText>Aconteceu alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -180,7 +180,7 @@ bedside this whole time?</EnglishText>
       <PointerOffset>1234</PointerOffset>
       <VoiceId>3b00008c</VoiceId>
       <JapaneseText>クレアを探してくる!!</JapaneseText>
-      <EnglishText>I need to go look for her!</EnglishText>
+      <EnglishText>Preciso ir procurá-la!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -193,8 +193,8 @@ bedside this whole time?</EnglishText>
       <PointerOffset>685</PointerOffset>
       <JapaneseText>こんなところで
 私としゃべってる場合？</JapaneseText>
-      <EnglishText>Do you really have time to
-be speaking to me right now?</EnglishText>
+      <EnglishText>Você realmente tem tempo para
+falar comigo agora?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -217,9 +217,9 @@ be speaking to me right now?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
