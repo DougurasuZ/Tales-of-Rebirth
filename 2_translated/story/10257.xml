@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>6517</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>1057</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>1054</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -77,7 +77,7 @@
       <VoiceId>0f000054</VoiceId>
       <JapaneseText>雪のかたまりか……
 &lt;Mao&gt;……！</JapaneseText>
-      <EnglishText>A snowdrift, huh? &lt;Mao&gt;!</EnglishText>
+      <EnglishText>Um monte de neve, é? &lt;Mao&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -88,7 +88,7 @@
       <VoiceId>0f000055</VoiceId>
       <JapaneseText>うん！
 ボクの出番だね♪</JapaneseText>
-      <EnglishText>Got it! Now's my time to shine♪</EnglishText>
+      <EnglishText>Pode deixar! Hora de brilhar♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -98,7 +98,7 @@
       <PointerOffset>6427</PointerOffset>
       <VoiceId>0f000056</VoiceId>
       <JapaneseText>&lt;Mao&gt;、いけそうか？</JapaneseText>
-      <EnglishText>Think you can manage it?</EnglishText>
+      <EnglishText>Acha que consegue dar conta?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -109,8 +109,8 @@
       <VoiceId>0f000057</VoiceId>
       <JapaneseText>イケるイケる♪
 こんな雪、カンタンさ。</JapaneseText>
-      <EnglishText>No problemo♪ Snow like
-this is a piece of cake.</EnglishText>
+      <EnglishText>Sem problema♪ Uma neve assim
+é moleza.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -120,8 +120,8 @@ this is a piece of cake.</EnglishText>
       <PointerOffset>6520</PointerOffset>
       <JapaneseText>&lt;Green&gt;『フォルスボタン（&lt;icon:32&gt;ボタン）』を押して
 雪のかたまりを溶かして下さい。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Press the Force Button (&lt;icon:32&gt;)
-in order to melt the snow.</EnglishText>
+      <EnglishText>&lt;Green&gt;Aperte o botão Force (&lt;icon:32&gt;)
+para derreter a neve.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -135,9 +135,9 @@ in order to melt the snow.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>

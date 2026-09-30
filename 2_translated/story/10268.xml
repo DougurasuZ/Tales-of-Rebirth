@@ -76,7 +76,7 @@
       <PointerOffset>2831</PointerOffset>
       <VoiceId>1100013d</VoiceId>
       <JapaneseText>いた！　ミーシャだ!!</JapaneseText>
-      <EnglishText>Over there! It's Misha!</EnglishText>
+      <EnglishText>Ali! É o Misha!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -86,7 +86,7 @@
       <PointerOffset>2868</PointerOffset>
       <VoiceId>1100013e</VoiceId>
       <JapaneseText>……来ないで……!!</JapaneseText>
-      <EnglishText>...Stay away!</EnglishText>
+      <EnglishText>...Fique longe!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -106,7 +106,7 @@
       <PointerOffset>2943</PointerOffset>
       <VoiceId>11000140</VoiceId>
       <JapaneseText>来ないでって言ってるんだ!!</JapaneseText>
-      <EnglishText>I said stay away!!</EnglishText>
+      <EnglishText>Eu disse para ficar longe!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -117,8 +117,8 @@
       <VoiceId>11000141</VoiceId>
       <JapaneseText>落ち着くんだ、ミーシャ。
 それ以上、心を乱せば君は……</JapaneseText>
-      <EnglishText>Calm down, Misha. If you lose
-your composure, you might...</EnglishText>
+      <EnglishText>Acalme-se, Misha. Se perder a
+compostura, você pode...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -128,7 +128,7 @@ your composure, you might...</EnglishText>
       <PointerOffset>3034</PointerOffset>
       <VoiceId>11000142</VoiceId>
       <JapaneseText>来るな！　来るなぁッ!!</JapaneseText>
-      <EnglishText>Stay away... STAY AWAY!!</EnglishText>
+      <EnglishText>Fique longe... FIQUE LONGE!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -139,8 +139,8 @@ your composure, you might...</EnglishText>
       <VoiceId>11000143</VoiceId>
       <JapaneseText>かなりマズイ。
 もう暴走寸前だよ!!</JapaneseText>
-      <EnglishText>This is really bad. He's
-about to lose control!</EnglishText>
+      <EnglishText>Isso é muito ruim. Ele está
+prestes a perder o controle!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -151,8 +151,8 @@ about to lose control!</EnglishText>
       <VoiceId>11000144</VoiceId>
       <JapaneseText>ミーシャ、頼む、
 落ち着いてくれ。</JapaneseText>
-      <EnglishText>Misha, please, we need
-you to calm down.</EnglishText>
+      <EnglishText>Misha, por favor, precisamos
+que você se acalme.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -164,8 +164,8 @@ you to calm down.</EnglishText>
       <JapaneseText>ぼくに……
 ぼくにかまわないでって
 言ってるんだぁぁぁッ!!</JapaneseText>
-      <EnglishText>Leave me alone... I'm telling
-you to leave me alone!!</EnglishText>
+      <EnglishText>Me deixem em paz... Estou dizendo
+pra me deixarem em paz!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -175,7 +175,7 @@ you to leave me alone!!</EnglishText>
       <PointerOffset>3401</PointerOffset>
       <VoiceId>11000146</VoiceId>
       <JapaneseText>海岸の方に向かってる!!</JapaneseText>
-      <EnglishText>He's heading to the beach!</EnglishText>
+      <EnglishText>Ele está indo para a praia!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -189,9 +189,9 @@ you to leave me alone!!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>

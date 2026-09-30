@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066,2066</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>1217</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>1214</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -77,9 +77,8 @@
       <JapaneseText>こんにちは。
 色々、扱ってるけど、
 何か欲しいものはあるかい？</JapaneseText>
-      <EnglishText>Good day! I brought a lot of
-things with me, would you
-like to buy something?</EnglishText>
+      <EnglishText>Bom dia! Trouxe muita coisa,
+quer comprar alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -91,9 +90,9 @@ like to buy something?</EnglishText>
 　世間話をする　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -102,7 +101,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2167</PointerOffset>
       <JapaneseText>じゃあね。</JapaneseText>
-      <EnglishText>See ya!</EnglishText>
+      <EnglishText>Até mais!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -111,7 +110,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2208</PointerOffset>
       <JapaneseText>毎度、ありがとう！</JapaneseText>
-      <EnglishText>Thank you!</EnglishText>
+      <EnglishText>Obrigado!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -122,9 +121,9 @@ Cancel</EnglishText>
       <JapaneseText>あんたら、ミナールに行くのかい？
 それならこの先、
 ミナール平原を抜ければすぐさ。</JapaneseText>
-      <EnglishText>Are you all heading out to Minal?
-If so, it should be just past the
-Minal Plains up ahead.</EnglishText>
+      <EnglishText>Vocês estão indo pra Minal?
+Se for, fica logo depois das
+Planícies de Minal, adiante.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -135,9 +134,8 @@ Minal Plains up ahead.</EnglishText>
       <JapaneseText>間違っても
 その脇にあるエトレー橋を
 渡っちゃいけないよ。</JapaneseText>
-      <EnglishText>Just be careful not to accidentally
-head over the Etoray Bridge from
-that side.</EnglishText>
+      <EnglishText>Só cuidado pra não atravessar a
+Ponte de Etoray desse lado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -149,9 +147,9 @@ that side.</EnglishText>
 久々に仕入れに街へ行ったら
 様子がおかしいんだよね。
 </JapaneseText>
-      <EnglishText>I've been doing business here for a
-while, and when I went to town
-to stock up, something felt off.</EnglishText>
+      <EnglishText>Faço negócios aqui há um tempo,
+e quando fui abastecer na cidade,
+algo me pareceu estranho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -163,9 +161,9 @@ to stock up, something felt off.</EnglishText>
 ヒューマとガジュマが
 ケンカしててさ……
 </JapaneseText>
-      <EnglishText>It seemed like the Huma and
-Gajuma are at each other's
-throats no matter where I go.</EnglishText>
+      <EnglishText>Parece que os Huma e os Gajuma
+estão se estranhando onde quer
+que eu vá.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -174,7 +172,7 @@ throats no matter where I go.</EnglishText>
     <Entry>
       <PointerOffset>2397</PointerOffset>
       <JapaneseText>何かあったのかねえ……</JapaneseText>
-      <EnglishText>I wonder what happened...?</EnglishText>
+      <EnglishText>O que será que aconteceu...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -186,8 +184,8 @@ throats no matter where I go.</EnglishText>
 仕入れに行ったんだけどさ
 まいったよ……
 </JapaneseText>
-      <EnglishText>So I went to Minal to stock
-up on supplies recently... </EnglishText>
+      <EnglishText>Então fui a Minal me reabastecer
+há pouco tempo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -199,10 +197,9 @@ up on supplies recently... </EnglishText>
 「ガジュマには絶対に売るな」って
 言われたんだよ……
 </JapaneseText>
-      <EnglishText>...and when I went to restock
-from a Huma merchant, they
-told me "Don't you ever sell
-this to a Gajuma."</EnglishText>
+      <EnglishText>...e quando fui reabastecer com um
+comerciante Huma, ele me disse:
+"Nunca venda isso a um Gajuma."</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -212,8 +209,8 @@ this to a Gajuma."</EnglishText>
       <PointerOffset>2491</PointerOffset>
       <JapaneseText>そうは言っても
 商売だからねえ……</JapaneseText>
-      <EnglishText>Even if you tell me that,
-I still have to do my job...</EnglishText>
+      <EnglishText>Mesmo que me diga isso, eu ainda
+tenho que fazer meu trabalho...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -225,10 +222,9 @@ I still have to do my job...</EnglishText>
 っていうガジュマに会ったんだけど
 大変だったんだって……!?
 </JapaneseText>
-      <EnglishText>I met a Gajuma that fled
-from Belsas who told me
-something terrible had
-happened there...</EnglishText>
+      <EnglishText>Conheci um Gajuma que fugiu de
+Belsas e disse que aconteceu
+algo terrível por lá...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -240,10 +236,10 @@ happened there...</EnglishText>
 処刑されそうになったって……
 世も末だなぁ……
 </JapaneseText>
-      <EnglishText>Apparently the Queen, or at least
-someone who looked like her,
-was nearly executed...
-What is this world coming to...?</EnglishText>
+      <EnglishText>Parece que a Rainha, ou alguém
+parecido com ela, quase foi
+executada... Aonde este mundo
+vai parar...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -253,8 +249,8 @@ What is this world coming to...?</EnglishText>
       <PointerOffset>2585</PointerOffset>
       <JapaneseText>ま、俺は関係なく
 バリバリ商売するよ！</JapaneseText>
-      <EnglishText>Well, doesn't matter to me!
-I'll just focus on my job!</EnglishText>
+      <EnglishText>Bom, isso não importa! Vou me
+concentrar no meu trabalho!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -265,9 +261,8 @@ I'll just focus on my job!</EnglishText>
       <JapaneseText>ついこの前来たお客さんが
 世の中大変だっていうのさ。
 </JapaneseText>
-      <EnglishText>Recently a customer told me
-that there's something wrong
-with society.</EnglishText>
+      <EnglishText>Um cliente me disse há pouco que
+tem algo errado com a sociedade.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -278,9 +273,8 @@ with society.</EnglishText>
       <JapaneseText>ラジルダは沈んだっていうし、
 空は変な色になってるって……
 </JapaneseText>
-      <EnglishText>Razilda has sunk into the
-ocean and the sky has
-turned an ominous color...</EnglishText>
+      <EnglishText>Razilda afundou no oceano e o
+céu ficou com uma cor sinistra...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -292,10 +286,9 @@ turned an ominous color...</EnglishText>
 いつも吹雪いてるし、
 実感ないんだよねえ……
 </JapaneseText>
-      <EnglishText>But I hardly feel like anything's
-different, because there's always
-a blizzard here in the Alvan
-Mountains...</EnglishText>
+      <EnglishText>Mas eu nem sinto diferença, pois
+sempre tem nevasca aqui nas
+Montanhas de Alvan...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -305,8 +298,8 @@ Mountains...</EnglishText>
       <PointerOffset>2704</PointerOffset>
       <JapaneseText>どうしてこんなところで
 商売してるかって？</JapaneseText>
-      <EnglishText>Why am I selling wares
-in a place like this?</EnglishText>
+      <EnglishText>Por que estou vendendo
+mercadorias num lugar assim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -317,9 +310,9 @@ in a place like this?</EnglishText>
       <JapaneseText>商売を成功させる秘訣は
 周りに競合する店がない事！
 これに限るね。</JapaneseText>
-      <EnglishText>Well, the secret to commercial success
-is setting up business where there's
-little to no competition! That's all!</EnglishText>
+      <EnglishText>Bom, o segredo do sucesso é abrir
+negócio onde quase não há
+concorrência! Só isso!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -329,7 +322,7 @@ little to no competition! That's all!</EnglishText>
       <PointerOffset>2748</PointerOffset>
       <JapaneseText>……これでもうちょっと
 お客さんが来ればなあ……</JapaneseText>
-      <EnglishText>Now if only I had customers...</EnglishText>
+      <EnglishText>Se ao menos eu tivesse clientes...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -342,7 +335,7 @@ little to no competition! That's all!</EnglishText>
       <PointerOffset>10879</PointerOffset>
       <VoiceId>0f00005b</VoiceId>
       <JapaneseText>えいッ！</JapaneseText>
-      <EnglishText>Take that!</EnglishText>
+      <EnglishText>Toma essa!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -353,9 +346,9 @@ little to no competition! That's all!</EnglishText>
       <VoiceId>0f00005c</VoiceId>
       <JapaneseText>山小屋に戻る場合は
 ここから登ればいい。</JapaneseText>
-      <EnglishText>With this, we should be able
-to get back to the shack at
-the peak with ease.</EnglishText>
+      <EnglishText>Com isso, devemos conseguir
+voltar à cabana no topo
+com facilidade.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -365,7 +358,7 @@ the peak with ease.</EnglishText>
       <PointerOffset>11076</PointerOffset>
       <VoiceId>0f00005d</VoiceId>
       <JapaneseText>なるほど。</JapaneseText>
-      <EnglishText>I see...</EnglishText>
+      <EnglishText>Entendo...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -375,7 +368,7 @@ the peak with ease.</EnglishText>
       <PointerOffset>11110</PointerOffset>
       <VoiceId>0f00005e</VoiceId>
       <JapaneseText>えっ、戻るの？</JapaneseText>
-      <EnglishText>Wait, we're going back?</EnglishText>
+      <EnglishText>Peraí, a gente vai voltar?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -385,7 +378,7 @@ the peak with ease.</EnglishText>
       <PointerOffset>11145</PointerOffset>
       <VoiceId>0f00005f</VoiceId>
       <JapaneseText>戻る場合について話しただけだ。</JapaneseText>
-      <EnglishText>It's just in case we need to.</EnglishText>
+      <EnglishText>É só por precaução.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -396,7 +389,7 @@ the peak with ease.</EnglishText>
       <VoiceId>0f000060</VoiceId>
       <JapaneseText>そういうコトね。
 じゃ、行こっか！</JapaneseText>
-      <EnglishText>Ohhh, I get it now. Let's go!</EnglishText>
+      <EnglishText>Ahh, agora entendi. Vamos!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
@@ -411,9 +404,9 @@ the peak with ease.</EnglishText>
       <JapaneseText>この先は、雪解け水が凍りついて
 滑りやすくなっている。
 足元に気をつけるんだ。</JapaneseText>
-      <EnglishText>Ice from the snowmelt is making
-the ground slippery. Watch your
-step.</EnglishText>
+      <EnglishText>O gelo do degelo deixa o chão
+escorregadio. Cuidado onde
+pisa.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -423,7 +416,7 @@ step.</EnglishText>
       <PointerOffset>10637</PointerOffset>
       <VoiceId>0f00005a</VoiceId>
       <JapaneseText>わかった。</JapaneseText>
-      <EnglishText>Right.</EnglishText>
+      <EnglishText>Certo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
@@ -437,9 +430,9 @@ step.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>

@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>3534,3583,1643,1318,1367,183,1464,1488</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>1886,1517,1517,1517,1517,1517,1517,1517,1517</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>830</PointerOffset>
       <JapaneseText>アルヴァン山脈・山小屋</JapaneseText>
-      <EnglishText>Alvan Mountains - Shack</EnglishText>
+      <EnglishText>Montanhas de Alvan - Cabana</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>827</PointerOffset>
       <JapaneseText>アルヴァン山脈・山小屋</JapaneseText>
-      <EnglishText>Alvan Mountains - Shack</EnglishText>
+      <EnglishText>Montanhas de Alvan - Cabana</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -101,9 +101,8 @@
       <VoiceId>0f000031</VoiceId>
       <JapaneseText>うわぁ、ある程度は予想してたけど、
 それ以上にボロボロだよ。</JapaneseText>
-      <EnglishText>Yikes. I was expecting it to
-be kinda shabby, but this is
-pretty rough...</EnglishText>
+      <EnglishText>Nossa. Esperava uma cabana meio
+velha, mas isso é bem tosco...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -113,8 +112,8 @@ pretty rough...</EnglishText>
       <PointerOffset>2140</PointerOffset>
       <VoiceId>0f000032</VoiceId>
       <JapaneseText>雨風がしのげれば充分だ。</JapaneseText>
-      <EnglishText>If it shelters us from the wind
-and rain, then it's sufficient.</EnglishText>
+      <EnglishText>Se nos abriga do vento e da
+chuva, já é suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -133,7 +132,7 @@ and rain, then it's sufficient.</EnglishText>
       <PointerOffset>2188</PointerOffset>
       <VoiceId>0f000034</VoiceId>
       <JapaneseText>どうした&lt;Veigue&gt;？</JapaneseText>
-      <EnglishText>What's the matter, &lt;Veigue&gt;?</EnglishText>
+      <EnglishText>O que foi, &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -144,7 +143,7 @@ and rain, then it's sufficient.</EnglishText>
       <VoiceId>0f000035</VoiceId>
       <JapaneseText>……もしクレアに
 追いついたとしても……</JapaneseText>
-      <EnglishText>Even if we do reach Claire...</EnglishText>
+      <EnglishText>Mesmo se chegarmos até Claire...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -166,9 +165,9 @@ and rain, then it's sufficient.</EnglishText>
       <JapaneseText>……やはり……今のオレでは、
 クレアをあいつらから
 取り戻す事は無理なのか？</JapaneseText>
-      <EnglishText>I just wonder... Am I really
-not capable of saving Claire
-with my current skills?</EnglishText>
+      <EnglishText>Só me pergunto... Será que eu
+não consigo salvar Claire com
+minhas habilidades atuais?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -180,9 +179,8 @@ with my current skills?</EnglishText>
       <JapaneseText>わからん……おまえは確実に、
 以前よりフォルスを使いこなせる
 ようになっている。</JapaneseText>
-      <EnglishText>I wouldn't know. You certainly
-have a better handle on your
-Force than you did before.</EnglishText>
+      <EnglishText>Não sei dizer. Mas você domina o
+seu Force bem melhor que antes.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -195,11 +193,10 @@ Force than you did before.</EnglishText>
 おまえはもっと強くなれる。
 俺は、そう確信している。
 そうすればクレアさんも……</JapaneseText>
-      <EnglishText>You still fall short of Saleh's
-strength, but I'm certain that
-you will grow stronger. Do
-that, and you will have the
-power to save her.</EnglishText>
+      <EnglishText>Ainda falta para alcançar a força
+de Saleh, mas tenho certeza de que
+você ficará mais forte. Assim,
+terá poder para salvá-la.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -210,9 +207,8 @@ power to save her.</EnglishText>
       <VoiceId>0f00003a</VoiceId>
       <JapaneseText>ラッキー♪　まきが残ってる。
 ちちんぷいぷいッ!!　……と。</JapaneseText>
-      <EnglishText>Lucky us! There's still some
-firewood left. Firekazam!!
-...Ahem.</EnglishText>
+      <EnglishText>Que sorte! Ainda sobrou lenha.
+Firekazam!! ...Ahem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -223,8 +219,8 @@ firewood left. Firekazam!!
       <VoiceId>0f00003b</VoiceId>
       <JapaneseText>うん♪　フォルスは人の
 幸せのために使わないとネ♪</JapaneseText>
-      <EnglishText>There we go! Gotta use Force
-for the sake of others♪</EnglishText>
+      <EnglishText>Pronto! Usar o Force pelo bem
+dos outros♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -234,7 +230,7 @@ for the sake of others♪</EnglishText>
       <PointerOffset>2712</PointerOffset>
       <VoiceId>0f00003c</VoiceId>
       <JapaneseText>人の幸せのため……か。</JapaneseText>
-      <EnglishText>The sake of others...</EnglishText>
+      <EnglishText>Pelo bem dos outros...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -255,8 +251,8 @@ for the sake of others♪</EnglishText>
       <VoiceId>0f00003e</VoiceId>
       <JapaneseText>&lt;Veigue&gt;、おまえも
 こっちへ来て、体を温めろ。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, come over
-here and warm up.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, venha cá
+se aquecer.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -266,7 +262,7 @@ here and warm up.</EnglishText>
       <PointerOffset>2827</PointerOffset>
       <VoiceId>0f00003f</VoiceId>
       <JapaneseText>ああ。</JapaneseText>
-      <EnglishText>Sure.</EnglishText>
+      <EnglishText>Certo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -277,8 +273,8 @@ here and warm up.</EnglishText>
       <VoiceId>0f000040</VoiceId>
       <JapaneseText>人の幸せのために
 フォルスを使う……</JapaneseText>
-      <EnglishText>Using Force for the
-sake of others...</EnglishText>
+      <EnglishText>Usar o Force pelo bem
+dos outros...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -291,11 +287,10 @@ sake of others...</EnglishText>
 使い方を知らないヒューマが、
 突然フォルスを発現させたのは、
 国王がフォルスを放出したからだったな？</JapaneseText>
-      <EnglishText>For Force to suddenly materialize
-within a Huma like me, who
-wouldn't know how to use it... 
-That was because the King
-unleashed his own Force, right?</EnglishText>
+      <EnglishText>Para o Force surgir de repente num
+Huma como eu, que nem saberia
+usá-lo... foi porque o Rei
+liberou o próprio Force, não foi?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -305,7 +300,7 @@ unleashed his own Force, right?</EnglishText>
       <PointerOffset>2972</PointerOffset>
       <VoiceId>0f000042</VoiceId>
       <JapaneseText>ああ、そうだ。</JapaneseText>
-      <EnglishText>Yes, that's correct.</EnglishText>
+      <EnglishText>Sim, é isso mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -315,8 +310,8 @@ unleashed his own Force, right?</EnglishText>
       <PointerOffset>3001</PointerOffset>
       <VoiceId>0f000043</VoiceId>
       <JapaneseText>国王はなぜそんな事を……</JapaneseText>
-      <EnglishText>Why would the King do
-something like that?</EnglishText>
+      <EnglishText>Por que o Rei faria
+uma coisa dessas?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -326,7 +321,7 @@ something like that?</EnglishText>
       <PointerOffset>3022</PointerOffset>
       <VoiceId>0f000044</VoiceId>
       <JapaneseText>なぜ……？</JapaneseText>
-      <EnglishText>Why...?</EnglishText>
+      <EnglishText>Por quê...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -338,10 +333,9 @@ something like that?</EnglishText>
       <JapaneseText>能力者を手元に置いて、
 監視しようとしていたのは
 国王だろう？</JapaneseText>
-      <EnglishText>The King was someone who
-would keep Force Users close
-by so that he could keep an
-eye on them, right?</EnglishText>
+      <EnglishText>O Rei mantinha os usuários de
+Force por perto para vigiá-los,
+não era?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -353,10 +347,9 @@ eye on them, right?</EnglishText>
       <JapaneseText>だが、能力者がこんなにも
 増えた状態では、それも
 できなくなるんじゃないのか？</JapaneseText>
-      <EnglishText>But since the number of Force users
-increased so much, wouldn't that have
-made it impossible to keep tabs on
-all of them?</EnglishText>
+      <EnglishText>Mas com tantos usuários de Force
+surgindo, não ficaria impossível
+vigiar todos eles?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -379,11 +372,10 @@ all of them?</EnglishText>
 この力はどう使えばいい……
 国王はなぜ、オレたちに
 こんな事をしたんだ？</JapaneseText>
-      <EnglishText>If Force really is to be used
-for the sake of others...then
-what am I supposed to do
-with this power? Why did
-the King do this to us?</EnglishText>
+      <EnglishText>Se o Force deve ser usado pelo
+bem dos outros... então o que
+eu devo fazer com esse poder?
+Por que o Rei fez isso conosco?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -395,9 +387,9 @@ the King do this to us?</EnglishText>
       <JapaneseText>&lt;Veigue&gt;……その答は
 俺たちにもわからない。
 だが、これだけは言える。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;... We don't have all the
-answers right now. However, I
-can say this much...</EnglishText>
+      <EnglishText>&lt;Veigue&gt;... Ainda não temos
+todas as respostas. Mas posso
+dizer isto...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
@@ -408,9 +400,9 @@ can say this much...</EnglishText>
       <VoiceId>0f00004a</VoiceId>
       <JapaneseText>陛下は、平和を愛し、
 情に篤いお方だった。</JapaneseText>
-      <EnglishText>His Majesty was a man who
-valued peace and compassion
-above all else.</EnglishText>
+      <EnglishText>Sua Majestade era um homem que
+valorizava a paz e a compaixão
+acima de tudo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -423,11 +415,11 @@ above all else.</EnglishText>
 世界を混乱に巻き込むとは思えん。
 陛下がフォルスを目覚めさせたのなら
 それは人々のためを思っての事だ。</JapaneseText>
-      <EnglishText>It's hard to imagine that he would bring
-chaos into the world just because of his
-struggle for sanity. Rather, I believe that
-he caused the awakening of Force for the
-sake of his people.</EnglishText>
+      <EnglishText>É difícil imaginar que ele traria
+caos ao mundo só por causa de sua
+luta pela sanidade. Acredito, ao
+contrário, que ele despertou o
+Force pelo bem de seu povo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -439,10 +431,9 @@ sake of his people.</EnglishText>
       <JapaneseText>フォルスが発現した事で、
 周りに迷惑をかける者が
 現れたとしてもか？</JapaneseText>
-      <EnglishText>For our sake, even though
-it awakened in those who
-would use their Force to
-harm others as well?</EnglishText>
+      <EnglishText>Pelo nosso bem, mesmo que tenha
+despertado em quem usa o Force
+para ferir os outros?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -454,9 +445,9 @@ harm others as well?</EnglishText>
       <JapaneseText>……俺は陛下を信じる。
 だからこそ、真相を
 解き明かしたいんだ……</JapaneseText>
-      <EnglishText>...I have faith in His Majesty. It's what
-drives me to uncover the truth about all
-that's happened.</EnglishText>
+      <EnglishText>...Tenho fé em Sua Majestade. É isso
+que me move a descobrir a verdade
+sobre tudo o que aconteceu.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -480,9 +471,9 @@ that's happened.</EnglishText>
 大事なのは、ボクたちがフォルスを
 どう使うかってコトじゃないの？
 </JapaneseText>
-      <EnglishText>Seems like it's gotten preeetty gloomy
-in here, huh? What matters is how WE
-decide to use our Force, isn't it?</EnglishText>
+      <EnglishText>O clima ficou beeem pesado aqui,
+hein? O que importa é como NÓS
+usamos o nosso Force, não é?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -492,7 +483,7 @@ decide to use our Force, isn't it?</EnglishText>
       <PointerOffset>3351</PointerOffset>
       <VoiceId>0f000050</VoiceId>
       <JapaneseText>&lt;Mao&gt;の言うとおりだ。</JapaneseText>
-      <EnglishText>You're absolutely right, &lt;Mao&gt;.</EnglishText>
+      <EnglishText>Você tem toda a razão, &lt;Mao&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -504,10 +495,10 @@ decide to use our Force, isn't it?</EnglishText>
       <JapaneseText>とにかく今は休もうよ。
 アレコレ考えるのは禁止でネ！
 頭も休めないと疲れはとれないよ。</JapaneseText>
-      <EnglishText>Anyway, let's hit the sack. And
-no gloomy thoughts! You're not
-really resting if you spend your
-downtime being broody.</EnglishText>
+      <EnglishText>Enfim, vamos dormir. E nada de
+pensamentos tristes! Não é
+descansar de verdade se passar
+o tempo todo remoendo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -517,7 +508,7 @@ downtime being broody.</EnglishText>
       <PointerOffset>3409</PointerOffset>
       <VoiceId>0f000052</VoiceId>
       <JapaneseText>……ああ。</JapaneseText>
-      <EnglishText>...Right.</EnglishText>
+      <EnglishText>...Certo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -528,8 +519,8 @@ downtime being broody.</EnglishText>
       <VoiceId>0f000053</VoiceId>
       <JapaneseText>じゃあ、疲れをとるおまじない。
 ちちんぷいぷい!!</JapaneseText>
-      <EnglishText>Okay then, just leave the sweet
-dreams to me! Firekazam!!</EnglishText>
+      <EnglishText>Então deixa os sonhos doces
+comigo! Firekazam!!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -538,7 +529,7 @@ dreams to me! Firekazam!!</EnglishText>
     <Entry>
       <PointerOffset>3537</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;Red&gt;エンハンス&lt;Green&gt;が実行可能になりました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;Red&gt;Enhance&lt;Green&gt; menu is now available.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;Red&gt;Aprimorar&lt;Green&gt; disponível no menu.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -549,9 +540,9 @@ dreams to me! Firekazam!!</EnglishText>
       <JapaneseText>&lt;Red&gt;エンハンス&lt;Green&gt;によって、
 武具は真の力を発揮する事ができます。
 戦いを重ね、武具を強化しましょう。</JapaneseText>
-      <EnglishText>&lt;Red&gt;Enhancing&lt;Green&gt; your equipment will allow it
-to reach its full potential. Fight more
-battles to strengthen them.</EnglishText>
+      <EnglishText>&lt;Red&gt;Aprimorar&lt;Green&gt; seus equipamentos permite
+que eles alcancem todo o potencial. Lute
+mais batalhas para fortalecê-los.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -562,9 +553,9 @@ battles to strengthen them.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;バトルブックを読みますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Read the Battle Book?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Ler o Battle Book?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -578,10 +569,10 @@ No</EnglishText>
       <JapaneseText>ガジュマの行商人なら
 ケケット街道で見かけたな……
 スールズの方に向かってたぞ。</JapaneseText>
-      <EnglishText>If you're looking for a Gajuma 
-to sell you things, there's one
-at the Keketto Hostel. It's
-somewhere over by Sulz.</EnglishText>
+      <EnglishText>Se procura um Gajuma para lhe
+vender coisas, tem um na
+Hospedaria Keketto. Fica por
+perto de Sulz.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>41</Id>
@@ -595,9 +586,9 @@ somewhere over by Sulz.</EnglishText>
       <JapaneseText>はぁー。珍しい品を探して
 ここまできたんだけど、
 疲れて動けなくなっちゃった。</JapaneseText>
-      <EnglishText>Haah... I came all the way here in
-search of something rare, but I'm
-so tired... I can hardly move.</EnglishText>
+      <EnglishText>Haah... Vim até aqui atrás de algo
+raro, mas estou tão cansado... mal
+consigo me mexer.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
@@ -606,8 +597,8 @@ so tired... I can hardly move.</EnglishText>
     <Entry>
       <PointerOffset>1844</PointerOffset>
       <JapaneseText>結局何も見つからないし……</JapaneseText>
-      <EnglishText>And in the end... I
-didn't find anything...</EnglishText>
+      <EnglishText>E no fim... não encontrei
+nada...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>43</Id>
@@ -618,10 +609,10 @@ didn't find anything...</EnglishText>
       <JapaneseText>旅行記でも読んで、ちゃんと
 アルヴァン山脈の情報を確認してくれば
 よかったんだよなぁ。</JapaneseText>
-      <EnglishText>If only I had read a Travelogue
-and researched the Alvan Mountains
-thoroughly before I bothered to
-come out here...</EnglishText>
+      <EnglishText>Se eu tivesse lido um Travelogue e
+pesquisado bem as Montanhas de
+Alvan antes de me dar ao trabalho
+de vir até aqui...</EnglishText>
       <Notes>What?
 </Notes>
       <SpeakerId>5</SpeakerId>
@@ -633,8 +624,8 @@ come out here...</EnglishText>
       <JapaneseText>君、旅行記を持ってない？
 持ってるなら、
 少し貸して欲しいんだけど……</JapaneseText>
-      <EnglishText>Say, do you have a Travelogue
-on you? Mind if I borrow it...?</EnglishText>
+      <EnglishText>Ei, você tem um Travelogue aí?
+Pode me emprestar...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>45</Id>
@@ -644,8 +635,8 @@ on you? Mind if I borrow it...?</EnglishText>
       <PointerOffset>1593</PointerOffset>
       <JapaneseText>　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>Yes
-No</EnglishText>
+      <EnglishText>Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
@@ -654,7 +645,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1646</PointerOffset>
       <JapaneseText>&lt;Green&gt;『旅行記』を貸し出しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You lent the Travelogue.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você emprestou o Travelogue.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -663,7 +654,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1668</PointerOffset>
       <JapaneseText>助かるよ！　ありがとう！</JapaneseText>
-      <EnglishText>Thanks!</EnglishText>
+      <EnglishText>Valeu!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>48</Id>
@@ -672,7 +663,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1709</PointerOffset>
       <JapaneseText>はぁ……旅行記があればなぁ。</JapaneseText>
-      <EnglishText>Oh, if only I had a Travelogue...</EnglishText>
+      <EnglishText>Ah, se eu tivesse um Travelogue...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>49</Id>
@@ -682,9 +673,9 @@ No</EnglishText>
       <PointerOffset>1759</PointerOffset>
       <JapaneseText>まだ調べ終わってないから、
 この本、貸しておいてね。</JapaneseText>
-      <EnglishText>I still haven't finished reading
-this, so can I keep it for a
-little while longer?</EnglishText>
+      <EnglishText>Ainda não terminei de ler isto,
+posso ficar com ele por mais
+um pouco?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>50</Id>
@@ -694,9 +685,8 @@ little while longer?</EnglishText>
       <PointerOffset>1796</PointerOffset>
       <JapaneseText>うーん。
 特に珍しい品物はないなぁ……</JapaneseText>
-      <EnglishText>Hmm... It doesn't seem like
-there's anything particularly
-rare around here...</EnglishText>
+      <EnglishText>Hmm... Parece que não há nada
+particularmente raro por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>51</Id>
@@ -710,8 +700,8 @@ rare around here...</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものが入ってるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty in here! Lemme take a bite.</EnglishText>
+      <EnglishText>Ooh! Parece que tem algo gostoso
+aqui! Deixa eu dar uma mordida.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>52</Id>
@@ -720,7 +710,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>1321</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000001&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Ate "&lt;item:20000001&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Comeu "&lt;item:20000001&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
@@ -729,7 +719,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>1370</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000001&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000001&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:20000001&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
@@ -747,7 +737,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>1467</PointerOffset>
       <JapaneseText>&lt;Green&gt;料理が入っていました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There's food inside.</EnglishText>
+      <EnglishText>&lt;Green&gt;Tem comida aí dentro.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>56</Id>
@@ -757,9 +747,9 @@ tasty in here! Lemme take a bite.</EnglishText>
       <PointerOffset>1491</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、誰のものかわからないので
 とりあえず、袋を閉じました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Since you don't know
-who it belongs to, you
-leave it alone for now.</EnglishText>
+      <EnglishText>&lt;Green&gt;Como você não sabe
+de quem é, deixa isso
+quieto por enquanto.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -773,9 +763,9 @@ leave it alone for now.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
@@ -788,8 +778,8 @@ No</EnglishText>
       <PointerOffset>289</PointerOffset>
       <JapaneseText>……前に来た時には、
 こんなものはなかった……</JapaneseText>
-      <EnglishText>There wasn't anything here the
-last time we were here...</EnglishText>
+      <EnglishText>Não tinha nada aqui da última
+vez que estivemos aqui...</EnglishText>
       <Notes>I believe dialogue changes on character - this one's Veigue</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -799,9 +789,8 @@ last time we were here...</EnglishText>
       <PointerOffset>318</PointerOffset>
       <JapaneseText>ラッキー!!　前に来た時には
 何もなかったのに！</JapaneseText>
-      <EnglishText>It's my lucky day! There
-wasn't anything the last
-time we were here!</EnglishText>
+      <EnglishText>Que dia de sorte! Não tinha nada
+aqui da última vez!</EnglishText>
       <Notes>This one's Mao</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>60</Id>
@@ -811,8 +800,8 @@ time we were here!</EnglishText>
       <PointerOffset>347</PointerOffset>
       <JapaneseText>うむ……以前、ここには
 何もなかったと思うが……</JapaneseText>
-      <EnglishText>Hmm... I don't think there was
-anything here last time...</EnglishText>
+      <EnglishText>Hmm... Acho que não tinha nada
+aqui da última vez...</EnglishText>
       <Notes>This one's Eugene I think</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>61</Id>
@@ -822,9 +811,9 @@ anything here last time...</EnglishText>
       <PointerOffset>377</PointerOffset>
       <JapaneseText>まさか、こんなところに……
 とても意外な感じね。</JapaneseText>
-      <EnglishText>I never expected to
-find something here,
-of all places...</EnglishText>
+      <EnglishText>Nunca imaginei encontrar algo
+logo aqui, entre todos os
+lugares...</EnglishText>
       <Notes>This one's Annie I think</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>62</Id>
@@ -834,9 +823,8 @@ of all places...</EnglishText>
       <PointerOffset>407</PointerOffset>
       <JapaneseText>おう、こんなとこに発見が！
 おどろき桃の木だぜ！</JapaneseText>
-      <EnglishText>Well, would you look at that!
-To think I'd discover something
-here!</EnglishText>
+      <EnglishText>Olha só! Quem diria que eu
+descobriria algo aqui!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>63</Id>
@@ -846,9 +834,8 @@ here!</EnglishText>
       <PointerOffset>437</PointerOffset>
       <JapaneseText>こんなところに……
 そう、こんな事もあるのね。</JapaneseText>
-      <EnglishText>How'd this get here...?
-Well, I guess things like
-that just happen.</EnglishText>
+      <EnglishText>Como isso veio parar aqui...?
+Bom, coisas assim acontecem.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
@@ -868,9 +855,9 @@ that just happen.</EnglishText>
       <JapaneseText>一度行った場所でも、
 何か見つかる場合が
 あるという事か……</JapaneseText>
-      <EnglishText>I guess this means you can
-still find things in places
-you've already been...</EnglishText>
+      <EnglishText>Acho que isso quer dizer que ainda
+dá pra achar coisas em lugares
+onde já estivemos...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>66</Id>
@@ -881,9 +868,9 @@ you've already been...</EnglishText>
       <JapaneseText>一度行ったところでも、
 調べに行ったら、
 新しい発見があるかもネ！</JapaneseText>
-      <EnglishText>We might be able to discover
-things in other places that
-we've already been to!</EnglishText>
+      <EnglishText>Talvez dê para descobrir coisas
+em outros lugares por onde já
+passamos!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>67</Id>
@@ -893,9 +880,8 @@ we've already been to!</EnglishText>
       <PointerOffset>355</PointerOffset>
       <JapaneseText>一度行った場所でも、
 新しい発見があるかもしれんな。</JapaneseText>
-      <EnglishText>I suppose we might find things
-in places that we've already
-visited.</EnglishText>
+      <EnglishText>Suponho que possamos achar coisas
+em lugares que já visitamos.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>68</Id>
@@ -905,9 +891,9 @@ visited.</EnglishText>
       <PointerOffset>385</PointerOffset>
       <JapaneseText>一度行った場所でも、こうやって
 調べたら何かみつかるかも……？</JapaneseText>
-      <EnglishText>Perhaps we can find new things
-if we explore places we've
-already been...?</EnglishText>
+      <EnglishText>Talvez a gente ache coisas novas
+se explorar lugares onde já
+estivemos...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>69</Id>
@@ -918,9 +904,9 @@ already been...?</EnglishText>
       <JapaneseText>前に行った場所でも、
 もういっぺん行ってみたら、
 何か見つかるかもしれないな！</JapaneseText>
-      <EnglishText>Maybe we can find new
-things in other places
-we've been to too!</EnglishText>
+      <EnglishText>Talvez a gente ache coisas
+novas em outros lugares
+por onde já passamos também!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>70</Id>
@@ -932,9 +918,9 @@ we've been to too!</EnglishText>
 もう一度調べたら、何か見つかる
 かもしれないって事ね……
 </JapaneseText>
-      <EnglishText>We might be able to find things
-in other places we've been to
-if we stop by them again...</EnglishText>
+      <EnglishText>Talvez dê pra achar coisas em
+outros lugares onde já estivemos
+se passarmos por lá de novo...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>71</Id>
@@ -960,13 +946,12 @@ if we stop by them again...</EnglishText>
 身体がポッカポカになる。
 旅人の身体を温めるために置かれていた。
 今はもうカラッポ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Broken Barrel -
-The smell of plum wine lingers inside.
-It's a very strong liquor that makes those
-who drink it feel warm inside. Travelers
-have placed it here for those who seek
-warmth from the cold. Currently, it is
-empty.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Barril Quebrado -
+O cheiro de vinho de ameixa persiste
+lá dentro. É uma bebida muito forte que
+aquece quem a bebe. Viajantes o deixaram
+aqui para quem busca calor contra o frio.
+No momento, está vazio.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>

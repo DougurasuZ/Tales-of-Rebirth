@@ -28,6 +28,14 @@
 | 2_translated/story/10254.xml | 2026-09-30 |
 | 2_translated/story/10255.xml | 2026-09-30 |
 | 2_translated/story/10256.xml | 2026-09-30 |
+| 2_translated/story/10257.xml | 2026-09-30 |
+| 2_translated/story/10258.xml | 2026-09-30 |
+| 2_translated/story/10259.xml | 2026-09-30 |
+| 2_translated/story/10260.xml | 2026-09-30 |
+| 2_translated/story/10265.xml | 2026-09-30 |
+| 2_translated/story/10266.xml | 2026-09-30 |
+| 2_translated/story/10267.xml | 2026-09-30 |
+| 2_translated/story/10268.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -101,4 +109,13 @@
 - 10245.xml, Id 71: mantido o espaço do inglês depois de `<speed:0>` ("<speed:0> - Rostos da Minha Família -"). Id 58: a fala de Marco a "Claire" foi mantida como no inglês (pode ser outro destinatário).
 - 10246.xml, Id 38: "Ms. Poplar's pies" virou no singular ("A torta da dona Poplar é a melhor!") para caber em 1 linha.
 - 10248.xml: "Force of Ice" → "Force do Gelo"; "Ice/Fire" (Id 25) → "Gelo/Fogo". Id 21: "she was, well..." (ambíguo) → "ela... bom...".
+- Lote 10257–10268 (2026-09-30): o relatório anterior tinha 0 problemas (só PENDENTE de nomes/interjeições, mantidos). Traduzido com script temporário na pasta de rascunho (fora do projeto). Arquivos 10261–10264 não existem. Validador rodado: 0 problemas.
+- 10257–10268, rótulos de falante: "Peddler" → "Mascate", "Notice" → "Aviso", "Carriage Coach" → "Cocheiro", "Old Woman" → "Idosa", "Callegean Soldier" → "Soldado Callegeano", "Man" → "Homem", "Girl" → "Menina". "Select", "????" e nomes mantidos.
+- 10260.xml, Ids 38/39: menu "Enhance" traduzido como "Aprimorar"; confirmar se o nome do menu deve ficar em inglês. "Travelogue" (item) e "Firekazam" (grito da Mao) mantidos em inglês. "Keketto Hostel" → "Hospedaria Keketto".
+- 10260.xml, Ids 65 e 72: "First Time Item Conversation" parece rótulo interno de desenvolvimento; mantido em inglês. Id 6 do 10260 e Id 14 do 10258 etc.: falas do Mascate sem gênero definido (usei "Obrigado!").
+- 10260.xml, Id 55 ([VARIABLE]) e 10266.xml, Ids 157 e 191 (códigos/arrulho "Coo... Coo...") mantidos.
+- 10266.xml: "Four Stars" → "Quatro Estrelas"; "Island of Illusions" → "Ilha das Ilusões"; "Silent Night" (pousada, Id 230) → "Noite Silenciosa"; "Doctor Curia" → "Doutora Curia" (feminino pelo inglês "She"); "Roaring Seas" → "Mares Rugentes"; "Town Hall" → "Prefeitura".
+- 10266.xml, Id 16: o "？" largo do inglês foi mantido. Id 111: o "ー" do inglês mantido ("...estamosー"). Ids 73/74: `<unk19:...>` seguido de " entrou para o grupo." / " agora viaja com você." (conferir espaço/gênero no jogo).
+- 10266.xml, Id 158: mesmo formato de 10229 ("Passagem para <unk18:...>: <nmb:12C> Gald."). Ids 141/142 copiam o texto de 10229 Ids 42/43.
+- 10266.xml, Id 65: "Walto" mantido como no inglês (provavelmente Waltran; verificar).
 - 10253.xml: "Half" (raça mista) mantido em inglês; "Lady Zilva" mantido; "Etoray Bridge" → "Ponte de Etoray"; "Biruses" → "Birus". Ids 31/32/34/45 (avisos de tutorial) condensados para caber nas linhas.

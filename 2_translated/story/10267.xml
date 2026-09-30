@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>3178,3178,3178,3178,3178,3178,3178</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>2649,2649,2649,2649,2649,2649,2649,2649,2649,2649,2649,2649,2649</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>2333</PointerOffset>
       <JapaneseText>酒場</JapaneseText>
-      <EnglishText>Tavern</EnglishText>
+      <EnglishText>Taverna</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -80,8 +80,8 @@
       <PointerOffset>3234</PointerOffset>
       <JapaneseText>今のヒューマ……何だ……？
 ……何があったんだ……？</JapaneseText>
-      <EnglishText>Wh-Who was that Huma...?
-...Did something happen?</EnglishText>
+      <EnglishText>Q-Quem era aquele Huma...?
+...Aconteceu alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -91,7 +91,7 @@
       <PointerOffset>3273</PointerOffset>
       <JapaneseText>ひ、ひぃぃ……
 お助けを……!!</JapaneseText>
-      <EnglishText>A-Ahhh!! S-Save me!</EnglishText>
+      <EnglishText>A-Ahhh!! S-Socorro!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -101,8 +101,8 @@
       <PointerOffset>3323</PointerOffset>
       <JapaneseText>な、何があっても
 退かんぞ……！</JapaneseText>
-      <EnglishText>I-I'm not retreating
-no matter what!</EnglishText>
+      <EnglishText>Eu n-não vou recuar
+de jeito nenhum!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -112,8 +112,8 @@ no matter what!</EnglishText>
       <PointerOffset>3345</PointerOffset>
       <JapaneseText>我らは勇敢なる
 カレギアの兵士だからな……！</JapaneseText>
-      <EnglishText>Because I'm a courageous
-soldier of Callegea...!</EnglishText>
+      <EnglishText>Porque sou um soldado
+corajoso de Callegea...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -122,9 +122,9 @@ soldier of Callegea...!</EnglishText>
     <Entry>
       <PointerOffset>3383</PointerOffset>
       <JapaneseText>世界中に騒乱の火種がある。</JapaneseText>
-      <EnglishText>The seeds of conflict
-are spread throughout
-the world.</EnglishText>
+      <EnglishText>As sementes do conflito
+estão espalhadas pelo
+mundo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -135,9 +135,9 @@ the world.</EnglishText>
       <JapaneseText>我々カレギア軍は、
 全土に警戒態勢を敷き、
 万一の時に備えている。</JapaneseText>
-      <EnglishText>We, the Callegean army, are
-on high alert throughout the
-land, ready for any emergency.</EnglishText>
+      <EnglishText>Nós, o exército de Callegea,
+estamos em alerta máximo pela
+terra, prontos para emergências.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -147,8 +147,8 @@ land, ready for any emergency.</EnglishText>
       <PointerOffset>3430</PointerOffset>
       <JapaneseText>ヒューマは外出禁止だ。
 室内に入ってろ！</JapaneseText>
-      <EnglishText>Huma are not allowed
-outside! Go back indoors!</EnglishText>
+      <EnglishText>Huma não podem ficar do lado de
+fora! Voltem para dentro!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -162,9 +162,9 @@ outside! Go back indoors!</EnglishText>
       <JapaneseText>なんかすごい勢いでミーシャが
 港の方へ走ってったけど……
 誰かとケンカでもしたの？</JapaneseText>
-      <EnglishText>I just saw Misha running away
-full speed towards the Harbor.
-Did he get in a fight?</EnglishText>
+      <EnglishText>Acabei de ver o Misha correndo a
+toda para o Porto. Será que
+ele brigou?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -175,9 +175,9 @@ Did he get in a fight?</EnglishText>
       <JapaneseText>ミーシャ、今度は畑の方へ
 走ってったけど……
 何があったの？</JapaneseText>
-      <EnglishText>Misha went towards the vegetable
-garden this time. What's going on
-with him?</EnglishText>
+      <EnglishText>Dessa vez o Misha foi pra horta.
+O que será que está havendo
+com ele?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -188,9 +188,9 @@ with him?</EnglishText>
       <JapaneseText>ミーシャっていつも
 とってもおとなしいのに……
 さっきはなんかコワかった……</JapaneseText>
-      <EnglishText>Misha has always been so
-well behaved, but he was
-kinda scary just now....</EnglishText>
+      <EnglishText>O Misha sempre foi tão bem
+comportado, mas agora ele tava
+meio assustador....</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -200,9 +200,9 @@ kinda scary just now....</EnglishText>
       <PointerOffset>2804</PointerOffset>
       <JapaneseText>え？　あ、街の上の方に
 行ったみたいだけど……</JapaneseText>
-      <EnglishText>Huh? Ahh... It looks like he
-went to the upper part of
-town this time...</EnglishText>
+      <EnglishText>Hã? Ahh... Parece que dessa vez
+ele foi para a parte alta da
+cidade...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -213,8 +213,8 @@ town this time...</EnglishText>
       <JapaneseText>なんか最近、みんな
 怒りっぽくなってるのよね。
 気のせいかしら？</JapaneseText>
-      <EnglishText>Is it just me, or does everyone
-seem kinda touchy lately?</EnglishText>
+      <EnglishText>Sou eu, ou todo mundo anda
+meio irritadiço ultimamente?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -225,9 +225,9 @@ seem kinda touchy lately?</EnglishText>
       <JapaneseText>ミナール全体がイヤーな
 感じなのよね……みんな、
 ケンカばかりしてるし……</JapaneseText>
-      <EnglishText>All everyone does here is
-fight. I don't like what's
-become of this town...</EnglishText>
+      <EnglishText>Tudo o que todo mundo faz aqui é
+brigar. Não gosto do que essa
+cidade virou...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -238,9 +238,9 @@ become of this town...</EnglishText>
       <JapaneseText>今、怖い顔したお兄さんが、
 街の上の方に向かって
 走ってったけど……</JapaneseText>
-      <EnglishText>Some man with a scary face
-just ran towards the upper
-part of town just now...</EnglishText>
+      <EnglishText>Um homem de cara assustadora
+acabou de correr para a parte
+alta da cidade...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -250,8 +250,8 @@ part of town just now...</EnglishText>
       <PointerOffset>2965</PointerOffset>
       <JapaneseText>最近、ああいうの、
 はやってるの？</JapaneseText>
-      <EnglishText>...I guess things like that have
-been happening a lot more lately...</EnglishText>
+      <EnglishText>...Acho que coisas assim têm
+acontecido bem mais ultimamente...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -262,9 +262,9 @@ been happening a lot more lately...</EnglishText>
       <JapaneseText>ケンカするくらいなら、
 ガジュマとヒューマは別々に
 暮らせばいいと思うんだけど……</JapaneseText>
-      <EnglishText>I think that Gajuma and Huma
-should live away from each other
-if all they're gonna do is fight...</EnglishText>
+      <EnglishText>Acho que Gajuma e Huma deveriam
+viver longe uns dos outros se
+só sabem brigar...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -273,7 +273,7 @@ if all they're gonna do is fight...</EnglishText>
     <Entry>
       <PointerOffset>3054</PointerOffset>
       <JapaneseText>何？　何か落ちてくるの？</JapaneseText>
-      <EnglishText>What? Did something fall?</EnglishText>
+      <EnglishText>O quê? Caiu alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -283,8 +283,8 @@ if all they're gonna do is fight...</EnglishText>
       <PointerOffset>3104</PointerOffset>
       <JapaneseText>なんか気持ち悪い……
 とってもイヤな感じがする……</JapaneseText>
-      <EnglishText>This is making me feel
-unwell... I really hate this...</EnglishText>
+      <EnglishText>Isso está me fazendo mal...
+Eu realmente odeio isso...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -294,9 +294,8 @@ unwell... I really hate this...</EnglishText>
       <PointerOffset>3129</PointerOffset>
       <JapaneseText>この街から船に乗れば、
 首都バルカまで一直せーん……♪</JapaneseText>
-      <EnglishText>If you take a boat from here,
-you'll be able to head straight
-to Balka...♪</EnglishText>
+      <EnglishText>Se pegar um barco daqui, dá pra
+ir direto para Balka...♪</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -305,9 +304,8 @@ to Balka...♪</EnglishText>
     <Entry>
       <PointerOffset>3151</PointerOffset>
       <JapaneseText>のはずなんだけどね……</JapaneseText>
-      <EnglishText>...Or at least, you're
-supposed to be able
-to.</EnglishText>
+      <EnglishText>...Ou pelo menos, deveria
+ser possível.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>

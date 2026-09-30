@@ -15,6 +15,14 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Callegea Castle | Castelo de Callegea | |
 | Claire's House - Basement | Casa de Claire - Porão | |
 | Etoray Bridge | Ponte de Etoray | Nome misto |
+| Alvan Mountains - Shack | Montanhas de Alvan - Cabana | |
+| General Store | Armazém | |
+| Island of Illusions | Ilha das Ilusões | |
+| Minal Plains | Planícies de Minal | Nome misto |
+| Roaring Seas (City of the) | Cidade dos Mares Rugentes | Apelido de Minal |
+| Silent Night (inn) | Noite Silenciosa | Nome de pousada |
+| Tavern | Taverna | |
+| Town Hall | Prefeitura | |
 | Claire's House | Casa de Claire | |
 | Dusk of Ladras | Crepúsculo de Ladras | Nome de evento; "Ladras" mantido |
 | Front of Meeting House | Frente da Casa de Reuniões | Ex.: "Sulz - Frente da Casa de Reuniões" |
@@ -41,6 +49,9 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Guidepost | Placa | Título das placas de sinalização |
 | Half | Half | Raça mista (Huma/Gajuma), mantida como Huma e Gajuma |
 | Inn | Pousada | |
+| Enhance | Aprimorar | Menu de equipamento (confirmar) |
+| Four Stars | Quatro Estrelas | Organização militar (Saleh, Tohma, Militsa) |
+| Keketto Hostel | Hospedaria Keketto | |
 | Records | Registros | Seção do Battle Book |
 | Royal Shield | Escudo Real | Organização militar (Agarte) |
 | Titles | Títulos | Sistema de títulos dos personagens (tutorial) |

@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :   4.5% das falas traduzidas (1405 de 31269) | arquivos iniciados: 24 | sem problemas: 24
+story :   5.6% das falas traduzidas (1753 de 31269) | arquivos iniciados: 32 | sem problemas: 32
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 3.4% das falas traduzidas (1405 de 41924)
+TOTAL : 4.2% das falas traduzidas (1753 de 41924)
 Problemas encontrados (sem contar pendentes): 0
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -126,3 +126,27 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 [story/10256.xml]
   Id 11: PENDENTE (igual ao inglês): Claire...
   Id 13: PENDENTE (igual ao inglês): ...?
+
+[story/10260.xml]
+  Id 8: PENDENTE (igual ao inglês): Hm...?
+  Id 55: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 65: PENDENTE (igual ao inglês): First Time Item Conversation
+  Id 72: PENDENTE (igual ao inglês): First Time Item Conversation
+
+[story/10265.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10266.xml]
+  Id 54: PENDENTE (igual ao inglês): Hehehe...
+  Id 67: PENDENTE (igual ao inglês): Militsa?
+  Id 109: PENDENTE (igual ao inglês): ...?
+  Id 191: PENDENTE (igual ao inglês): Coo... Coo...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal; Id 3: Minal; Id 145: Sulz; Id 146: Minal; Id 147: Petnadjanka; Id 148: Sunnytown; Id 149: Anikamal; Id 150: Babilograd; Id 152: Razilda; Id 153: Pipista; Id 154: Kyogen; Id 155: Nolzen; Id 156: Mocrado
+
+[story/10267.xml]
+  Id 4: PENDENTE (igual ao inglês): Coo... Coo...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
+
+[story/10268.xml]
+  Id 5: PENDENTE (igual ao inglês): Misha?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
