@@ -1,12 +1,12 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :   2.3% das falas traduzidas (725 de 31269) | arquivos iniciados: 11 | sem problemas: 9
+story :   3.1% das falas traduzidas (980 de 31269) | arquivos iniciados: 16 | sem problemas: 11
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 1.7% das falas traduzidas (725 de 41924)
-Problemas encontrados (sem contar pendentes): 2
+TOTAL : 2.3% das falas traduzidas (980 de 41924)
+Problemas encontrados (sem contar pendentes): 7
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
 PENDENTE = fala ainda em inglês num arquivo que já foi iniciado.
@@ -53,7 +53,6 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 39: PENDENTE (igual ao inglês): Force...
   Id 41: PENDENTE (igual ao inglês): Hmph...
   Id 52: PENDENTE (igual ao inglês): Saleh!
-  Id 66 (Strings): TAMANHO: linha com 41 caracteres: quanto a deserção do <Blue>Escudo Real<White>
   Id 72: PENDENTE (igual ao inglês): ...!?
   Id 82: PENDENTE (igual ao inglês): Guaaghh!!
   Id 84: PENDENTE (igual ao inglês): Ugh...!
@@ -70,7 +69,29 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
 
 [story/10238.xml]
-  Id 20 (Strings): TAMANHO: linha com 35 caracteres: Doces levam a <Yellow>humanidade<White>
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
+
+[story/10239.xml]
+  Id 27 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
+
+[story/10240.xml]
+  Id 22 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
+  Id 85 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
+  Id 97 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
+  Id 99: PENDENTE (igual ao inglês): Steve...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
+
+[story/10241.xml]
+  Id 20 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
+
+[story/10242.xml]
+  Id 9 (Strings): TAMANHO: linha com 37 caracteres: <speed:0>- Informações sobre Várias Pousadas -
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
+
+[story/10243.xml]
+  Id 2 (Strings): TAMANHO: linha com 35 caracteres: Sulz - Pousada - Quarto de Hóspedes
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
 
 [story/10247.xml]

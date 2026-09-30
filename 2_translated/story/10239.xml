@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2149,2149,2149,2149,2149,2149,2149,2149</PointerOffset>
       <JapaneseText>サムの父親</JapaneseText>
-      <EnglishText>Sam's Father</EnglishText>
+      <EnglishText>Pai de Sam</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365,1365</PointerOffset>
       <JapaneseText>サムの母親</JapaneseText>
-      <EnglishText>Sam's Mother</EnglishText>
+      <EnglishText>Mãe de Sam</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>221</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>227</PointerOffset>
       <JapaneseText>スールズ・民家</JapaneseText>
-      <EnglishText>Sulz - Residence</EnglishText>
+      <EnglishText>Sulz - Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -93,9 +93,8 @@
       <JapaneseText>そりゃ、みんなと仲良く
 パイは食べたいけど……
 </JapaneseText>
-      <EnglishText>Well, I do like the idea of
-eating pie together with
-everyone again, but...</EnglishText>
+      <EnglishText>Bem, até queria comer torta
+com todo mundo de novo, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -106,8 +105,8 @@ everyone again, but...</EnglishText>
       <JapaneseText>俺、ヒューマたちに
 ヒドイ事言っちゃったもんな……
 </JapaneseText>
-      <EnglishText>I said some pretty terrible
-things to the Huma.</EnglishText>
+      <EnglishText>Eu disse umas coisas horríveis
+pros Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -118,10 +117,10 @@ things to the Huma.</EnglishText>
       <JapaneseText>ケンカしてもすぐ仲直りできた。
 それはオレたちが長年、ともに
 同じ村で暮らしてきた仲間だからだ。</JapaneseText>
-      <EnglishText>Even after having disputes, we've always
-been able to make up soon after—all because
-we've been living together in this village
-for so long.</EnglishText>
+      <EnglishText>Mesmo depois de brigar, sempre
+fazíamos as pazes logo. É porque
+vivemos juntos nesta vila há
+tanto tempo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -131,8 +130,8 @@ for so long.</EnglishText>
       <PointerOffset>2461</PointerOffset>
       <JapaneseText>今だって、それは
 変わらないんじゃないのか？</JapaneseText>
-      <EnglishText>Why should things be
-any different now?</EnglishText>
+      <EnglishText>Por que agora seria
+diferente?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -142,7 +141,7 @@ any different now?</EnglishText>
       <PointerOffset>2483</PointerOffset>
       <JapaneseText>うーん……そうかな……
 そうだといいんだけど……</JapaneseText>
-      <EnglishText>Well, you're not wrong, but...</EnglishText>
+      <EnglishText>Bem, você tem razão, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -151,7 +150,7 @@ any different now?</EnglishText>
     <Entry>
       <PointerOffset>2505</PointerOffset>
       <JapaneseText>行って……みようかな……</JapaneseText>
-      <EnglishText>I guess I'll go...</EnglishText>
+      <EnglishText>Acho que vou lá...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -161,8 +160,8 @@ any different now?</EnglishText>
       <PointerOffset>2216</PointerOffset>
       <JapaneseText>なんか行きづらいなぁ……
 どうしようかな……</JapaneseText>
-      <EnglishText>I don't want to go...
-What should I do...?</EnglishText>
+      <EnglishText>Não quero ir...
+O que eu faço...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -172,8 +171,8 @@ What should I do...?</EnglishText>
       <PointerOffset>2238</PointerOffset>
       <JapaneseText>ちょっとヒドイ事言いすぎたよな……
 本当に許してくれるかな……？</JapaneseText>
-      <EnglishText>I've said some terrible stuff...
-Do you think they'll forgive me...?</EnglishText>
+      <EnglishText>Eu disse coisas horríveis...
+Será que vão me perdoar...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -184,8 +183,8 @@ Do you think they'll forgive me...?</EnglishText>
       <JapaneseText>はあ……俺……
 どうしてヒューマの事、
 ひどく言ったりしたんだろ……</JapaneseText>
-      <EnglishText>Ugh...why was I saying such
-terrible things about Huma...?</EnglishText>
+      <EnglishText>Ugh... por que eu falei coisas
+tão horríveis dos Huma...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -195,8 +194,8 @@ terrible things about Huma...?</EnglishText>
       <PointerOffset>2285</PointerOffset>
       <JapaneseText>あーあ……
 みんなと顔合わせづらいよ……</JapaneseText>
-      <EnglishText>Ugh...I don't want to
-show my face to anyone...</EnglishText>
+      <EnglishText>Ugh... não quero mostrar
+a cara pra ninguém...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -208,7 +207,7 @@ show my face to anyone...</EnglishText>
     <Entry>
       <PointerOffset>1427</PointerOffset>
       <JapaneseText>クレアちゃん、かわいそうにね……</JapaneseText>
-      <EnglishText>Poor Claire...</EnglishText>
+      <EnglishText>Pobre Claire...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -219,8 +218,8 @@ show my face to anyone...</EnglishText>
       <JapaneseText>どなたさん？
 この辺りでは
 見ない顔だけど……</JapaneseText>
-      <EnglishText>Who are you? I haven't seen
-your face around here.</EnglishText>
+      <EnglishText>Quem é você? Nunca vi você
+aqui por perto.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -232,9 +231,9 @@ your face around here.</EnglishText>
 あんたが来ると
 うちの子供が怖がるの、
 凍らされるって。</JapaneseText>
-      <EnglishText>I'm sorry &lt;Veigue&gt;, but my child
-gets scared when you come over.
-He thinks that you'll freeze him.</EnglishText>
+      <EnglishText>Desculpe, &lt;Veigue&gt;, mas meu filho
+fica com medo quando você vem.
+Ele acha que vai ser congelado.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -244,7 +243,7 @@ He thinks that you'll freeze him.</EnglishText>
       <PointerOffset>1566</PointerOffset>
       <JapaneseText>そりゃ、あんたが助けに
 行くのがスジってもんよ。</JapaneseText>
-      <EnglishText>You need to save Claire.</EnglishText>
+      <EnglishText>Você tem que salvar a Claire.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -254,8 +253,8 @@ He thinks that you'll freeze him.</EnglishText>
       <PointerOffset>1588</PointerOffset>
       <JapaneseText>あの子を氷に閉じ込めた
 償いをちゃんとしなさい。</JapaneseText>
-      <EnglishText>You need to atone for
-trapping her in ice.</EnglishText>
+      <EnglishText>Você precisa reparar o erro
+de tê-la aprisionado no gelo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -264,7 +263,7 @@ trapping her in ice.</EnglishText>
     <Entry>
       <PointerOffset>1639</PointerOffset>
       <JapaneseText>忙しい、忙しい……</JapaneseText>
-      <EnglishText>I'm busy, busy...</EnglishText>
+      <EnglishText>Ocupada, ocupada...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -274,7 +273,7 @@ trapping her in ice.</EnglishText>
       <PointerOffset>1661</PointerOffset>
       <JapaneseText>えっ、うちの旦那？
 さあ……？</JapaneseText>
-      <EnglishText>Oh, my husband? Well...</EnglishText>
+      <EnglishText>Ah, meu marido? Bem...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -285,8 +284,8 @@ trapping her in ice.</EnglishText>
       <JapaneseText>あの人が急に、ヒューマの
 ために働くのはイヤだって
 言い出したの。</JapaneseText>
-      <EnglishText>He said that he didn't want
-to work for Huma anymore.</EnglishText>
+      <EnglishText>Ele disse que não queria mais
+trabalhar para os Huma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -295,7 +294,7 @@ to work for Huma anymore.</EnglishText>
     <Entry>
       <PointerOffset>1733</PointerOffset>
       <JapaneseText>どうしたのかしら？</JapaneseText>
-      <EnglishText>Why is that?</EnglishText>
+      <EnglishText>Por que será?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -306,9 +305,9 @@ to work for Huma anymore.</EnglishText>
       <JapaneseText>でも私も前から
 不満はあったのよね……
 いえ、こっちの話……</JapaneseText>
-      <EnglishText>But I also have my
-own complaints...
-I'll stop there...</EnglishText>
+      <EnglishText>Mas eu também tenho as
+minhas queixas...
+Melhor parar por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -318,9 +317,9 @@ I'll stop there...</EnglishText>
       <PointerOffset>1805</PointerOffset>
       <JapaneseText>旦那が働かなくても
 私は家族のために働くの。</JapaneseText>
-      <EnglishText>Since my husband hasn't been
-working, I've been having to
-work to support this family.</EnglishText>
+      <EnglishText>Como meu marido não tem
+trabalhado, eu tenho que
+trabalhar pra sustentar a família.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -329,7 +328,7 @@ work to support this family.</EnglishText>
     <Entry>
       <PointerOffset>1827</PointerOffset>
       <JapaneseText>それが主婦の務めですもの。</JapaneseText>
-      <EnglishText>That's my duty as a housewife.</EnglishText>
+      <EnglishText>É meu dever de dona de casa.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -338,7 +337,7 @@ work to support this family.</EnglishText>
     <Entry>
       <PointerOffset>1876</PointerOffset>
       <JapaneseText>あーあ、忙しい、忙しい……</JapaneseText>
-      <EnglishText>Ooh, I'm busy, busy...</EnglishText>
+      <EnglishText>Nossa, ocupada, ocupada...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -348,7 +347,8 @@ work to support this family.</EnglishText>
       <PointerOffset>1926</PointerOffset>
       <JapaneseText>あら、ポプラおばさんの
 ピーチパイを？</JapaneseText>
-      <EnglishText>Oh, Ms. Poplar's peach pies?</EnglishText>
+      <EnglishText>Ah, as tortas de pêssego da
+dona Poplar?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -358,8 +358,8 @@ work to support this family.</EnglishText>
       <PointerOffset>1948</PointerOffset>
       <JapaneseText>じゃあ、私も何かお料理を
 持って行こうかしら……</JapaneseText>
-      <EnglishText>I wonder if I should bring
-some food, as well...</EnglishText>
+      <EnglishText>Será que eu também devia levar
+algo pra comer?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
@@ -369,8 +369,8 @@ some food, as well...</EnglishText>
       <PointerOffset>1985</PointerOffset>
       <JapaneseText>……これは
 忙しくなるわね……</JapaneseText>
-      <EnglishText>...But that sounds like
-more busywork...</EnglishText>
+      <EnglishText>...Mas isso parece mais
+trabalho ainda...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
@@ -380,8 +380,8 @@ more busywork...</EnglishText>
       <PointerOffset>2035</PointerOffset>
       <JapaneseText>さっきの地鳴りで
 野菜類が崩れちゃったの。</JapaneseText>
-      <EnglishText>That earthquake caused the
-vegetables to tumble.</EnglishText>
+      <EnglishText>Aquele tremor fez as verduras
+desabarem.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -392,9 +392,9 @@ vegetables to tumble.</EnglishText>
       <JapaneseText>なんとか片付けたけど……
 もうないわよね……？
 あんな地鳴り。</JapaneseText>
-      <EnglishText>I've managed to tidy them
-up but...it's over, right?
-The earthquake, that is.</EnglishText>
+      <EnglishText>Consegui arrumar tudo, mas...
+já passou, né?
+O tremor, digo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
@@ -403,7 +403,7 @@ The earthquake, that is.</EnglishText>
     <Entry>
       <PointerOffset>2094</PointerOffset>
       <JapaneseText>忙しい、忙しい……</JapaneseText>
-      <EnglishText>I'm busy, busy...</EnglishText>
+      <EnglishText>Ocupada, ocupada...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
@@ -414,7 +414,7 @@ The earthquake, that is.</EnglishText>
       <JapaneseText>あ……！
 あれはどこに
 やったかしらね……</JapaneseText>
-      <EnglishText>Ah...! Where did I put it...?</EnglishText>
+      <EnglishText>Ah...! Onde foi que eu pus...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
@@ -427,8 +427,8 @@ The earthquake, that is.</EnglishText>
       <PointerOffset>866</PointerOffset>
       <JapaneseText>誰？　どこから来た人？
 &lt;Veigue&gt;のお友達？</JapaneseText>
-      <EnglishText>Who are you? Where are you from?
-Are you &lt;Veigue&gt;'s friends?</EnglishText>
+      <EnglishText>Quem é você? De onde você veio?
+Você é da turma do &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -438,7 +438,7 @@ Are you &lt;Veigue&gt;'s friends?</EnglishText>
       <PointerOffset>888</PointerOffset>
       <JapaneseText>やっぱり人を
 凍らせちゃうの？</JapaneseText>
-      <EnglishText>Is it true that he freezes people?</EnglishText>
+      <EnglishText>É verdade que ele congela gente?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
@@ -448,8 +448,8 @@ Are you &lt;Veigue&gt;'s friends?</EnglishText>
       <PointerOffset>913</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;!!
 僕、何も悪い事してないよ？</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;! I haven't done
-anything wrong.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;! Eu não fiz nada
+de errado.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
@@ -458,7 +458,7 @@ anything wrong.</EnglishText>
     <Entry>
       <PointerOffset>935</PointerOffset>
       <JapaneseText>だから、凍らせないで？</JapaneseText>
-      <EnglishText>So please don't freeze me, okay?</EnglishText>
+      <EnglishText>Então não me congela, tá?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -467,7 +467,7 @@ anything wrong.</EnglishText>
     <Entry>
       <PointerOffset>998</PointerOffset>
       <JapaneseText>クレアちゃん、かわいそう……</JapaneseText>
-      <EnglishText>Poor Claire...</EnglishText>
+      <EnglishText>Pobre Claire...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -476,7 +476,7 @@ anything wrong.</EnglishText>
     <Entry>
       <PointerOffset>1023</PointerOffset>
       <JapaneseText>クレアちゃん、助けにいくの？</JapaneseText>
-      <EnglishText>Are you going to rescue Claire?</EnglishText>
+      <EnglishText>Você vai resgatar a Claire?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -486,10 +486,9 @@ anything wrong.</EnglishText>
       <PointerOffset>1062</PointerOffset>
       <JapaneseText>え、お父さん？　知らないよ？
 さっきまで家の前で働いてたけど……</JapaneseText>
-      <EnglishText>Oh, my dad? You don't
-know? He was working
-in front of the house
-til just now...</EnglishText>
+      <EnglishText>Ah, meu pai? Você não sabe?
+Ele tava trabalhando na frente
+da casa até agorinha...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
@@ -500,9 +499,9 @@ til just now...</EnglishText>
       <JapaneseText>お父さんに、トムくんとは
 遊ぶなって言われちゃった……
 どうして？</JapaneseText>
-      <EnglishText>My father told me I
-couldn't play with
-Tom... Why's that?</EnglishText>
+      <EnglishText>Meu pai disse que eu não
+podia brincar com o Tom...
+Por quê?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -513,9 +512,9 @@ Tom... Why's that?</EnglishText>
       <JapaneseText>最近、うちの父ちゃん、
 窓の外を見てため息ばかり……
 ……どうして？</JapaneseText>
-      <EnglishText>Lately, my dad's been
-looking out the window
-and sighing... Why's that?</EnglishText>
+      <EnglishText>Ultimamente meu pai fica
+olhando pela janela e
+suspirando... Por quê?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
@@ -525,8 +524,8 @@ and sighing... Why's that?</EnglishText>
       <PointerOffset>1212</PointerOffset>
       <JapaneseText>村のみんなで
 ピーチパイを……？</JapaneseText>
-      <EnglishText>Everyone in the village
-is going to eat peach pie?</EnglishText>
+      <EnglishText>Todo mundo da vila vai
+comer torta de pêssego?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -536,7 +535,7 @@ is going to eat peach pie?</EnglishText>
       <PointerOffset>1234</PointerOffset>
       <JapaneseText>じゃあ、トムくんも
 来るかな？</JapaneseText>
-      <EnglishText>So, is Tom going, too?</EnglishText>
+      <EnglishText>Então o Tom vai também?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -545,7 +544,7 @@ is going to eat peach pie?</EnglishText>
     <Entry>
       <PointerOffset>1272</PointerOffset>
       <JapaneseText>「ろうどうは、とおとい」！</JapaneseText>
-      <EnglishText>"Labor is noble"!</EnglishText>
+      <EnglishText>"O trabalho é nobre"!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>45</Id>
@@ -556,8 +555,8 @@ is going to eat peach pie?</EnglishText>
       <JapaneseText>……らしいよ。
 父ちゃんと母ちゃんの
 受け売りだけどね。</JapaneseText>
-      <EnglishText>...I think. I'm just repeating
-what my Mom and Dad tell me.</EnglishText>
+      <EnglishText>...Acho. Eu só repito o que
+meu pai e minha mãe dizem.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -568,8 +567,8 @@ what my Mom and Dad tell me.</EnglishText>
       <JapaneseText>母ちゃんに言われて、
 窓拭きしてたんだけど……
 </JapaneseText>
-      <EnglishText>I told my mom that I
-would clean the windows...</EnglishText>
+      <EnglishText>Eu disse pra minha mãe que
+limpava as janelas...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -579,8 +578,8 @@ would clean the windows...</EnglishText>
       <PointerOffset>1341</PointerOffset>
       <JapaneseText>疲れちゃったから、
 休憩中……</JapaneseText>
-      <EnglishText>But I'm tired, so
-I'm taking a break...</EnglishText>
+      <EnglishText>Mas eu cansei, então
+tô descansando...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -594,9 +593,9 @@ I'm taking a break...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
@@ -613,11 +612,11 @@ No</EnglishText>
 室内を乾燥させないように
 お湯を沸かすのも生活の知恵。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Sulz-type Stove -
-It is not only used for heating the
-house, but also excellent for cooking.
-It's common practice to boil water on
-it to keep the indoors from drying out.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Fogão de Sulz -
+Não serve só para aquecer a
+casa, mas também para cozinhar.
+É comum ferver água nele pra
+não deixar o ambiente seco.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>50</Id>
@@ -633,10 +632,10 @@ it to keep the indoors from drying out.</EnglishText>
 半地下に食材置き場を作るのが
 一般的。ひんやりしている。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Pantry -
-In Sulz, where it's cold all year
-round, it's common to build a food
-storage area in the semi-basement.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Despensa -
+Em Sulz, onde faz frio o ano todo,
+é comum fazer a despensa no
+semiporão.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>51</Id>

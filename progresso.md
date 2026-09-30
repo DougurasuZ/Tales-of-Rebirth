@@ -15,6 +15,11 @@
 | 2_translated/story/10236.xml | 2026-09-30 |
 | 2_translated/story/10237.xml | 2026-09-30 |
 | 2_translated/story/10238.xml | 2026-09-30 |
+| 2_translated/story/10239.xml | 2026-09-30 |
+| 2_translated/story/10240.xml | 2026-09-30 |
+| 2_translated/story/10241.xml | 2026-09-30 |
+| 2_translated/story/10242.xml | 2026-09-30 |
+| 2_translated/story/10243.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -69,4 +74,12 @@
 - Rótulos de falante traduzidos: "Notice" → "Aviso", "Old Woman" → "Idosa", "Callegean Soldier" → "Soldado Callegeano", "Royal Shield Knight" → "Cavaleiro do Escudo Real", "Man" → "Homem", "Woman" → "Mulher". Nomes (Monica, Steve, Marco, Rakia, Poplar, Tohma, Saleh, Zapie) e "Select" mantidos; "???" e "??" intactos.
 - 10237.xml, 10238.xml: "Little Veigue/Claire" (Poplar) → "pequeno Veigue/pequena Claire". Símbolos ♪ e — mantidos como no inglês.
 - 10238.xml, Id 2: "2nd Floor" virou "Andar 2" porque "º" não está na lista de caracteres permitidos.
+- Correções do relatório (2026-09-30): 10236 Id 66 e 10238 Id 20 (TAMANHO) refeitos ("humanidade" virou "humanos" em 10238 Id 20). Os PENDENTE restantes são nomes, reticências ou interjeições ("Hmph...", "Ugh!", "[VARIABLE]"); mantidos de propósito.
+- 10239–10243: traduzidos com script temporário (já apagado/fora do projeto); conferi XML, linhas e caracteres. Rodar o validador para confirmar.
+- 10239–10243: "Sam's Father/Mother" → "Pai/Mãe de Sam"; "Inn Hostess" → "Dona da Pousada"; "Innkeeper" → "Pousadeiro"; "Grocer" → "Dono da Mercearia"; "Armor Shop" → "Loja de Armaduras"; "Old Swordsman" → "Velho Espadachim"; "Girl" → "Menina"; "Notice" → "Aviso".
+- 10240.xml, Id 65 e outros: "Ms./Aunt Poplar" traduzido como "dona Poplar" / "tia Poplar" (Id 29, fala da dona da loja de armaduras). Conferir consistência.
+- 10240.xml, Id 28: "Mhm..." traduzido como "Hum...". 10241.xml, Id 36: "Auto Cooking" traduzido como "modo Auto" para caber.
+- 10241.xml, Id 28: "Dusk of Ladras" → "Crepúsculo de Ladras" (glossário), frase reduzida para caber em 1 linha.
+- 10243.xml, Id 8: "~♪" mantido do inglês. Id 10: o código `<speed:00>` do inglês foi mantido exatamente (difere de `<speed:0>` dos outros).
+- 10243.xml, Id 9 e 10242.xml: "Lilavich" (flor) mantido em inglês; "Mural"/"Pintura na Parede" e títulos de objetos examináveis traduzidos.
 - 10237.xml, Id 9: usei "…" (reticências unicode, já permitido) em uma frase para caber na linha.

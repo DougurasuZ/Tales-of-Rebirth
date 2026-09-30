@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>716,716,716,716</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>168</PointerOffset>
       <JapaneseText>スールズ・宿屋</JapaneseText>
-      <EnglishText>Sulz - Inn</EnglishText>
+      <EnglishText>Sulz - Pousada</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -52,8 +52,8 @@
       <PointerOffset>765</PointerOffset>
       <JapaneseText>はあ……
 なんだかね……</JapaneseText>
-      <EnglishText>Hmph... What do you
-need from me...?</EnglishText>
+      <EnglishText>Hmph... O que você quer
+comigo...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -63,7 +63,7 @@ need from me...?</EnglishText>
       <PointerOffset>840</PointerOffset>
       <JapaneseText>ポプラおばさんの……
 パイ……ねえ……</JapaneseText>
-      <EnglishText>Ms. Poplar's pie... Well...</EnglishText>
+      <EnglishText>A torta da dona Poplar... Bem...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -73,8 +73,8 @@ need from me...?</EnglishText>
       <PointerOffset>862</PointerOffset>
       <JapaneseText>行きたいけど……
 どうしようかしら……</JapaneseText>
-      <EnglishText>I'd like to go, but...
-Oh, what should I do...?</EnglishText>
+      <EnglishText>Eu queria ir, mas...
+Ah, o que eu faço...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -101,12 +101,12 @@ Oh, what should I do...?</EnglishText>
 目を盗んで描いた花の絵。
 花言葉「強欲」</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Mural -
-Over twenty years ago, when forced to
-stay here, an artist on a journey to
-create various pieces painted these
-flowers while the innkeepers weren't
-looking. In the language of flowers,
-these blossoms represent "Greed."</EnglishText>
+Há mais de vinte anos, um artista
+viajante, forçado a ficar aqui,
+pintou estas flores enquanto os
+donos da pousada não olhavam. Na
+linguagem das flores, elas
+significam "Ganância".</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -122,10 +122,10 @@ these blossoms represent "Greed."</EnglishText>
 ポプラおばさんが作るパイを
 村人みんなで食べるパーティ。
 このポスターは去年のもの。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Poplar's Peach Pie Party Poster -
-A party held periodically in Sulz where
-Ms. Poplar makes peach pies for everyone
-to eat. This poster is from last year's.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Cartaz da Festa da Torta da Poplar -
+Festa feita de vez em quando em Sulz,
+onde a dona Poplar faz tortas de pêssego
+pra todos. Este cartaz é do ano passado.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -141,12 +141,12 @@ to eat. This poster is from last year's.</EnglishText>
 何年も前に貼ったものなので、
 宿賃などが変わっている可能性大。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Information on Various Inns -
-A flyer with information about inns
-in other villages written on it.
-It's been a few years since it
-was posted, so the room fees and
-such listed are likely out of date.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Informações sobre Várias Pousadas -
+Panfleto com informações sobre
+pousadas de outras vilas. Foi
+afixado há alguns anos, então os
+preços dos quartos e outros dados
+provavelmente estão desatualizados.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -163,12 +163,11 @@ such listed are likely out of date.</EnglishText>
 この家の絵はすべて同様にして
 手に入れた作品ばかり。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Sulz in the Evening -
-Some twenty years ago, a painter
-who had been forced to stay in
-Sulz painted this piece. All
-the paintings in this building
-were obtained in a similar manner.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Sulz ao Entardecer -
+Há cerca de vinte anos, um pintor
+forçado a ficar em Sulz fez esta
+obra. Todos os quadros desta casa
+foram obtidos de modo parecido.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>

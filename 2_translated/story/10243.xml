@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>379,379,379,379,379,379</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>132</PointerOffset>
       <JapaneseText>スールズ・宿屋・客室</JapaneseText>
-      <EnglishText>Sulz - Inn - Guest Room</EnglishText>
+      <EnglishText>Sulz - Pousada - Quarto de Hóspedes</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -53,8 +53,8 @@
       <JapaneseText>大人はみんな、
 つまんない事で
 モメてるし……</JapaneseText>
-      <EnglishText>The grown-ups are all 
-fighting over boring stuff...</EnglishText>
+      <EnglishText>Os adultos estão todos
+brigando por coisa boba...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -64,8 +64,8 @@ fighting over boring stuff...</EnglishText>
       <PointerOffset>450</PointerOffset>
       <JapaneseText>あの子……
 元気かな……</JapaneseText>
-      <EnglishText>I wonder how that
-other girl is doing...</EnglishText>
+      <EnglishText>Será que aquela outra
+menina está bem...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -75,8 +75,8 @@ other girl is doing...</EnglishText>
       <PointerOffset>500</PointerOffset>
       <JapaneseText>最近、村の中が
 前に比べて静かなの……</JapaneseText>
-      <EnglishText>The village is a lot quieter
-than it was before...</EnglishText>
+      <EnglishText>A vila está bem mais quieta
+do que antes...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -86,8 +86,8 @@ than it was before...</EnglishText>
       <PointerOffset>522</PointerOffset>
       <JapaneseText>遊びに行きたいな……
 行っちゃダメかな……？</JapaneseText>
-      <EnglishText>I want to go play...
-but maybe I shouldn't...?</EnglishText>
+      <EnglishText>Quero ir brincar...
+mas talvez eu não deva...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -96,7 +96,7 @@ but maybe I shouldn't...?</EnglishText>
     <Entry>
       <PointerOffset>572</PointerOffset>
       <JapaneseText>ピーチパイ？</JapaneseText>
-      <EnglishText>Peach pie?</EnglishText>
+      <EnglishText>Torta de pêssego?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -106,8 +106,8 @@ but maybe I shouldn't...?</EnglishText>
       <PointerOffset>605</PointerOffset>
       <JapaneseText>行く、行く♪
 絶対行くからねっ！</JapaneseText>
-      <EnglishText>You can count me in~♪!
-I ain't gonna miss it!</EnglishText>
+      <EnglishText>Pode contar comigo~♪!
+Não vou perder de jeito nenhum!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -124,12 +124,12 @@ I ain't gonna miss it!</EnglishText>
 ザピィはこの花の実と
 ヒマワリの種が好物。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Flower Vase -
-Inside are Lilavich flowers,
-which bloom in the vicinity 
-of Sulz. Zapie likes to eat 
-the seeds of these, as 
-well as sunflower seeds.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Vaso de Flores -
+Dentro há flores de Lilavich,
+que florescem perto de Sulz.
+Zapie adora comer as sementes
+delas, e também sementes de
+girassol.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -147,13 +147,12 @@ well as sunflower seeds.</EnglishText>
 足りなくなり、空なのに茶色で
 描かれている。味はある。
 </JapaneseText>
-      <EnglishText>&lt;speed:00&gt;- The Large Clouds over Sulz -
-Over twenty years ago, a painter who 
-had been forced to stay in Sulz painted 
-this piece. Having exhausted his paint 
-on various other parts of the piece, he 
-wound up painting the sky with brown. 
-It has its charm.</EnglishText>
+      <EnglishText>&lt;speed:00&gt;- As Grandes Nuvens sobre Sulz -
+Há mais de vinte anos, um pintor que
+foi forçado a ficar em Sulz fez esta
+obra. Gastou a tinta em outras partes
+e acabou pintando o céu de marrom.
+Tem seu charme.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>

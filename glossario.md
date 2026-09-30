@@ -10,9 +10,11 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Balka | Balka | Nome próprio, mantido |
 | Bordalia | Bordalia | Nome próprio (região), mantido |
 | Callegea (Kingdom of Callegea) | Callegea (Reino de Callegea) | Nome próprio mantido; "Kingdom" traduzido |
+| Armor Shop | Loja de Armaduras | |
 | Claire's House | Casa de Claire | |
 | Dusk of Ladras | Crepúsculo de Ladras | Nome de evento; "Ladras" mantido |
 | Front of Meeting House | Frente da Casa de Reuniões | Ex.: "Sulz - Frente da Casa de Reuniões" |
+| Inn - Guest Room | Pousada - Quarto de Hóspedes | Ex.: "Sulz - Pousada - Quarto de Hóspedes" |
 | Inn - Grocery Store | Pousada - Mercearia | |
 | Item Shop | Loja de Itens | |
 | Meeting House | Casa de Reuniões | |

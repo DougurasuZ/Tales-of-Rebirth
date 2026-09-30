@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983,2983</PointerOffset>
       <JapaneseText>宿屋のおかみ</JapaneseText>
-      <EnglishText>Inn Hostess</EnglishText>
+      <EnglishText>Dona da Pousada</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773,1773</PointerOffset>
       <JapaneseText>食材屋「雪割草」</JapaneseText>
-      <EnglishText>Grocer</EnglishText>
+      <EnglishText>Dono da Mercearia</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>2802,2826,2850</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115,1115</PointerOffset>
       <JapaneseText>宿屋「白銀亭」</JapaneseText>
-      <EnglishText>Innkeeper</EnglishText>
+      <EnglishText>Pousadeiro</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>533</PointerOffset>
       <JapaneseText>宿屋・食材屋</JapaneseText>
-      <EnglishText>Inn - Grocery Store</EnglishText>
+      <EnglishText>Pousada - Mercearia</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>542</PointerOffset>
       <JapaneseText>スールズ・宿屋・食材屋</JapaneseText>
-      <EnglishText>Sulz - Inn - Grocery Store</EnglishText>
+      <EnglishText>Sulz - Pousada - Mercearia</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -100,8 +100,8 @@
       <PointerOffset>3045</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;……あまりウチに
 来ないでほしいねぇ……</JapaneseText>
-      <EnglishText>...I don't really want you
-coming by here, &lt;Veigue&gt;...</EnglishText>
+      <EnglishText>...Não quero muito que você
+venha aqui, &lt;Veigue&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -110,8 +110,8 @@ coming by here, &lt;Veigue&gt;...</EnglishText>
     <Entry>
       <PointerOffset>3067</PointerOffset>
       <JapaneseText>ウチの子にも近寄らないでおくれ。</JapaneseText>
-      <EnglishText>Don't go anywhere near
-my child either.</EnglishText>
+      <EnglishText>E não chegue perto do meu
+filho também.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -120,7 +120,7 @@ my child either.</EnglishText>
     <Entry>
       <PointerOffset>3092</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;の知り合いかい？</JapaneseText>
-      <EnglishText>You know &lt;Veigue&gt;?</EnglishText>
+      <EnglishText>Você conhece o &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -130,8 +130,8 @@ my child either.</EnglishText>
       <PointerOffset>3114</PointerOffset>
       <JapaneseText>ふーん……
 どんなもんなのかねえ……</JapaneseText>
-      <EnglishText>Hmmm... I'm not sure what
-to think of that...</EnglishText>
+      <EnglishText>Hmmm... Não sei o que pensar
+disso...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -141,7 +141,7 @@ to think of that...</EnglishText>
       <PointerOffset>3177</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、あんた必ず
 クレアを助けておいでよ！</JapaneseText>
-      <EnglishText>You need to save
+      <EnglishText>Você tem que salvar a
 &lt;Claire&gt;, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -151,7 +151,7 @@ to think of that...</EnglishText>
     <Entry>
       <PointerOffset>3202</PointerOffset>
       <JapaneseText>大変な事になっちまったよ……</JapaneseText>
-      <EnglishText>How awful...</EnglishText>
+      <EnglishText>Que horror...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -162,9 +162,9 @@ to think of that...</EnglishText>
       <JapaneseText>あの子は村一番の器量よしで、
 この村の誇りだったんだ。
 それを、なんでまた……</JapaneseText>
-      <EnglishText>She was the most beautiful girl
-in the village, the pride and joy
-of Sulz... Gone once more...</EnglishText>
+      <EnglishText>Ela era a moça mais bonita da
+vila, o orgulho de Sulz...
+E foi levada de novo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -173,7 +173,7 @@ of Sulz... Gone once more...</EnglishText>
     <Entry>
       <PointerOffset>3263</PointerOffset>
       <JapaneseText>うちの旦那？</JapaneseText>
-      <EnglishText>My husband?</EnglishText>
+      <EnglishText>Meu marido?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -184,8 +184,8 @@ of Sulz... Gone once more...</EnglishText>
       <JapaneseText>なんか集会所に行くとか
 なんとかって……
 言ってたけど……</JapaneseText>
-      <EnglishText>He said something about going
-to the Meeting House...</EnglishText>
+      <EnglishText>Ele disse algo sobre ir
+à Casa de Reuniões...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -196,8 +196,8 @@ to the Meeting House...</EnglishText>
       <JapaneseText>ちょっとあんた、また、
 何かやらかしたんじゃ
 ないでしょうね？</JapaneseText>
-      <EnglishText>Hey, you didn't do anything
-troublesome again, hm?</EnglishText>
+      <EnglishText>Ei, você não aprontou nada
+de novo, hein?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -207,8 +207,8 @@ troublesome again, hm?</EnglishText>
       <PointerOffset>3370</PointerOffset>
       <JapaneseText>なんか村の中が
 ぎくしゃくしちゃってさ……</JapaneseText>
-      <EnglishText>Then why is it that the
-village is so tense...?</EnglishText>
+      <EnglishText>Então por que a vila está
+tão tensa...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -219,9 +219,9 @@ village is so tense...?</EnglishText>
       <JapaneseText>あんたがクレアを氷に
 閉じ込めた時みたいになるのは
 もうゴメンだよ。</JapaneseText>
-      <EnglishText>I don't want this village to go
-back to how it was when you
-had &lt;Claire&gt; trapped in ice.</EnglishText>
+      <EnglishText>Não quero que a vila volte a
+ser como era quando você
+tinha a &lt;Claire&gt; presa no gelo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -232,9 +232,9 @@ had &lt;Claire&gt; trapped in ice.</EnglishText>
       <JapaneseText>ほら、あんたは知らないかも
 しれないけど、あんたをかばう人と
 モメたんだよ。</JapaneseText>
-      <EnglishText>You might not know this, or maybe
-you do, but I took issue with the
-folks who sheltered you.</EnglishText>
+      <EnglishText>Você pode não saber, ou talvez
+saiba, mas eu tive um atrito
+com quem te abrigou.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -244,7 +244,7 @@ folks who sheltered you.</EnglishText>
       <PointerOffset>3436</PointerOffset>
       <JapaneseText>村の中でごたごたするのは
 たくさんだね。</JapaneseText>
-      <EnglishText>There's a lot of trouble in town.</EnglishText>
+      <EnglishText>Tem muita confusão na vila.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -254,8 +254,8 @@ folks who sheltered you.</EnglishText>
       <PointerOffset>3461</PointerOffset>
       <JapaneseText>うちの旦那、ポプラおばさんに
 すっかり感化されちゃってさ。</JapaneseText>
-      <EnglishText>My husband was inspired
-by what Ms. Poplar said.</EnglishText>
+      <EnglishText>Meu marido se empolgou com
+o que a dona Poplar disse.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -265,7 +265,7 @@ by what Ms. Poplar said.</EnglishText>
       <PointerOffset>3483</PointerOffset>
       <JapaneseText>まあ、私もわからなくは
 ないけどさ……</JapaneseText>
-      <EnglishText>Me, well, I'm still unsure...</EnglishText>
+      <EnglishText>Eu, bem, ainda tenho dúvidas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -275,7 +275,8 @@ by what Ms. Poplar said.</EnglishText>
       <PointerOffset>3546</PointerOffset>
       <JapaneseText>ちょっと、あんた……
 クレアを助け出してから……</JapaneseText>
-      <EnglishText>Hold on... Since you saved &lt;Claire&gt;...</EnglishText>
+      <EnglishText>Espera aí... Desde que você
+salvou a &lt;Claire&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -285,7 +286,7 @@ by what Ms. Poplar said.</EnglishText>
       <PointerOffset>3568</PointerOffset>
       <JapaneseText>がんばってるみたい
 じゃないの……？</JapaneseText>
-      <EnglishText>You're doing your best, right?</EnglishText>
+      <EnglishText>Você tá se esforçando, né?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -296,9 +297,8 @@ by what Ms. Poplar said.</EnglishText>
       <JapaneseText>ヒューマが、何かと
 つっかかってくるから
 ムキになったりしてたけど……</JapaneseText>
-      <EnglishText>Those Huma keep driving
-me up the wall with their
-incessant arguing...</EnglishText>
+      <EnglishText>Esses Huma me tiram do sério
+com tanta discussão...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -307,7 +307,7 @@ incessant arguing...</EnglishText>
     <Entry>
       <PointerOffset>3615</PointerOffset>
       <JapaneseText>くだらない張り合いよね……</JapaneseText>
-      <EnglishText>It's not worth the hassle...</EnglishText>
+      <EnglishText>Não vale a pena o aborrecimento...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -319,9 +319,9 @@ incessant arguing...</EnglishText>
 パイは食べたいけど……
 あんたたちヒューマも、
 来るんでしょう……？</JapaneseText>
-      <EnglishText>Hmmm... I'd love to have some of
-Ms. Poplar's pies... But are you
-Huma going to be there as well...?</EnglishText>
+      <EnglishText>Hmmm... Queria comer as tortas
+da dona Poplar... Mas vocês,
+Huma, também vão estar lá...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -332,11 +332,10 @@ Huma going to be there as well...?</EnglishText>
       <JapaneseText>はい……気まずいでしょうが、
 直接会って話せば、お互いの気持ちが
 わかるんじゃないでしょうか？</JapaneseText>
-      <EnglishText>Yes... It might be awkward
-after all that's happened, but
-would we not be able to come
-to an understanding if we talk
-face to face?</EnglishText>
+      <EnglishText>Sim... Pode ser constrangedor
+depois de tudo o que houve, mas
+não conseguiríamos nos entender
+se conversássemos pessoalmente?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -346,7 +345,7 @@ face to face?</EnglishText>
       <PointerOffset>3995</PointerOffset>
       <JapaneseText>……そうねぇ……
 どうしようかしら。</JapaneseText>
-      <EnglishText>I see... Let me consider it.</EnglishText>
+      <EnglishText>Entendo... Vou pensar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -357,8 +356,8 @@ face to face?</EnglishText>
       <JapaneseText>……みんなでパイをねぇ……
 ……そうねぇ……
 どうしようかしら。</JapaneseText>
-      <EnglishText>Everyone is going to have pie...
-I see... Should I go as well?</EnglishText>
+      <EnglishText>Todo mundo vai comer torta...
+Entendo... Será que eu vou também?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -368,8 +367,8 @@ I see... Should I go as well?</EnglishText>
       <PointerOffset>3733</PointerOffset>
       <JapaneseText>また&lt;Blue&gt;ラドラスの落日&lt;White&gt;みたいな事が
 起こったりしない……わよね。</JapaneseText>
-      <EnglishText>At least this isn't another
-&lt;Blue&gt;Dusk of Ladras&lt;White&gt;...I hope.</EnglishText>
+      <EnglishText>Tomara que não seja outro
+&lt;Blue&gt;Crepúsculo de Ladras&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -378,7 +377,7 @@ I see... Should I go as well?</EnglishText>
     <Entry>
       <PointerOffset>3771</PointerOffset>
       <JapaneseText>元気かい？</JapaneseText>
-      <EnglishText>Are you well?</EnglishText>
+      <EnglishText>Tudo bem com você?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -387,7 +386,7 @@ I see... Should I go as well?</EnglishText>
     <Entry>
       <PointerOffset>3796</PointerOffset>
       <JapaneseText>ウチでゆっくりしてくかい？</JapaneseText>
-      <EnglishText>Are you going to rest here?</EnglishText>
+      <EnglishText>Vai descansar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -401,9 +400,9 @@ I see... Should I go as well?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
@@ -417,9 +416,9 @@ No</EnglishText>
       <JapaneseText>いいところに来た。
 お前たちにいい事を
 教えてやろう。</JapaneseText>
-      <EnglishText>You've come at the right time.
-I've got some good advice I'd
-like to share with you.</EnglishText>
+      <EnglishText>Chegaram na hora certa.
+Tenho um bom conselho pra
+dar a vocês.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -429,9 +428,9 @@ like to share with you.</EnglishText>
       <PointerOffset>2771</PointerOffset>
       <JapaneseText>旅の途中で疲れた時は
 ちゃんと食事をしなされ。</JapaneseText>
-      <EnglishText>When you are worn out on
-your travels, make sure to
-have a proper meal.</EnglishText>
+      <EnglishText>Quando estiverem esgotados
+na viagem, façam uma
+refeição de verdade.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -441,9 +440,9 @@ have a proper meal.</EnglishText>
       <PointerOffset>2805</PointerOffset>
       <JapaneseText>&lt;Green&gt;戦闘終了後のＨＰ回復には
 &lt;Red&gt;料理&lt;Green&gt;が役に立ちます。</JapaneseText>
-      <EnglishText>&lt;Red&gt;Cooking&lt;Green&gt; is useful
-for recovering HP
-after battle.</EnglishText>
+      <EnglishText>&lt;Red&gt;Cozinhar&lt;Green&gt; é útil para
+recuperar o HP depois
+da batalha.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
@@ -454,9 +453,9 @@ after battle.</EnglishText>
       <JapaneseText>&lt;Green&gt;次の戦闘に役立つ効果を発揮し、
 戦闘不能の回復もできるので
 料理を活用しましょう。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Cooking can also provide useful
-effects for the next battle and
-revive fallen allies.</EnglishText>
+      <EnglishText>&lt;Green&gt;Cozinhar também dá efeitos
+úteis para a próxima batalha e
+revive aliados caídos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
@@ -467,10 +466,10 @@ revive fallen allies.</EnglishText>
       <JapaneseText>&lt;Green&gt;料理の実行は一戦闘ごとにできます。
 オート設定にしておけば、
 毎回料理メニューを開く必要はなくなります。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You can cook one meal per battle.
-If you set Auto Cooking to on,
-you won't need to access the
-cooking menu after every battle.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você pode cozinhar uma vez
+por batalha. Com o modo Auto
+ligado, não precisa abrir o menu
+de cozinha após cada batalha.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -479,7 +478,7 @@ cooking menu after every battle.</EnglishText>
     <Entry>
       <PointerOffset>2875</PointerOffset>
       <JapaneseText>&lt;White&gt;料理の大切さがわかったか？</JapaneseText>
-      <EnglishText>&lt;White&gt;See how useful cooking is?</EnglishText>
+      <EnglishText>&lt;White&gt;Viu como cozinhar é útil?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -489,8 +488,8 @@ cooking menu after every battle.</EnglishText>
       <PointerOffset>2900</PointerOffset>
       <JapaneseText>これをやるから、
 実際にやってみるといい。</JapaneseText>
-      <EnglishText>You can have these.
-Try giving it a shot.</EnglishText>
+      <EnglishText>Fique com isto.
+Tente fazer na prática.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -500,8 +499,8 @@ Try giving it a shot.</EnglishText>
       <PointerOffset>1923</PointerOffset>
       <JapaneseText>クレアが戻って来て、
 よかったの、&lt;Veigue&gt;。</JapaneseText>
-      <EnglishText>It's wonderful that Claire
-is back, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Que bom que a Claire voltou,
+&lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -511,8 +510,8 @@ is back, &lt;Veigue&gt;.</EnglishText>
       <PointerOffset>1945</PointerOffset>
       <JapaneseText>早く家に戻ってやらなくて
 良いのかの？</JapaneseText>
-      <EnglishText>Shouldn't you be
-hurrying on home?</EnglishText>
+      <EnglishText>Não devia estar
+correndo pra casa?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
@@ -522,7 +521,7 @@ hurrying on home?</EnglishText>
       <PointerOffset>1970</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;んとこの
 お客さんかの？</JapaneseText>
-      <EnglishText>Are you with &lt;Veigue&gt;?</EnglishText>
+      <EnglishText>Você veio com o &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -532,9 +531,8 @@ hurrying on home?</EnglishText>
       <PointerOffset>1992</PointerOffset>
       <JapaneseText>何もない村じゃが、
 ゆっくり見ていっておくれ。</JapaneseText>
-      <EnglishText>There's not much here,
-so take your time and
-look at everything.</EnglishText>
+      <EnglishText>Não tem muita coisa aqui,
+mas olhem tudo com calma.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
@@ -543,7 +541,7 @@ look at everything.</EnglishText>
     <Entry>
       <PointerOffset>2026</PointerOffset>
       <JapaneseText>よう来たの。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -553,7 +551,7 @@ look at everything.</EnglishText>
       <PointerOffset>2051</PointerOffset>
       <JapaneseText>買い物も
 していくかね。</JapaneseText>
-      <EnglishText>Come by and buy something too.</EnglishText>
+      <EnglishText>Compre algo também.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -564,9 +562,9 @@ look at everything.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　食材を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Ingredients
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Ingredientes
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>45</Id>
@@ -575,7 +573,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2132</PointerOffset>
       <JapaneseText>食い物は大切にな。</JapaneseText>
-      <EnglishText>Food is important.</EnglishText>
+      <EnglishText>Comida é importante.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -584,8 +582,8 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2160</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -594,9 +592,9 @@ fruits of the Earth.</EnglishText>
     <Entry>
       <PointerOffset>2295</PointerOffset>
       <JapaneseText>食事は旅の大事な活力じゃ。</JapaneseText>
-      <EnglishText>You need food to
-stay vigorous on
-your journey.</EnglishText>
+      <EnglishText>Precisa de comida pra
+manter o vigor
+na sua jornada.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -605,8 +603,8 @@ your journey.</EnglishText>
     <Entry>
       <PointerOffset>2317</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>49</Id>
@@ -616,8 +614,8 @@ fruits of the Earth.</EnglishText>
       <PointerOffset>2356</PointerOffset>
       <JapaneseText>村の中が騒がしいが、
 それよりも……</JapaneseText>
-      <EnglishText>There's a ruckus going
-on in town... But...</EnglishText>
+      <EnglishText>Tem uma confusão na vila...
+Mas, mais que isso...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -626,8 +624,8 @@ on in town... But...</EnglishText>
     <Entry>
       <PointerOffset>2378</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>51</Id>
@@ -637,8 +635,8 @@ fruits of the Earth.</EnglishText>
       <PointerOffset>2428</PointerOffset>
       <JapaneseText>ガジュマだ、ヒューマの違いなど、
 前からあったというのに……</JapaneseText>
-      <EnglishText>Even before, there were differences
-between Huma and Gajuma...</EnglishText>
+      <EnglishText>Mesmo antes, já havia diferenças
+entre Huma e Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>52</Id>
@@ -648,8 +646,8 @@ between Huma and Gajuma...</EnglishText>
       <PointerOffset>2450</PointerOffset>
       <JapaneseText>ケンカの理由になるような
 話ではあるまいて……</JapaneseText>
-      <EnglishText>But those aren't good reasons
-to start quarreling...</EnglishText>
+      <EnglishText>Mas isso não é motivo
+pra começar a brigar...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
@@ -659,8 +657,8 @@ to start quarreling...</EnglishText>
       <PointerOffset>2500</PointerOffset>
       <JapaneseText>ピーチパイのお。
 桃はやはり山の恵みじゃな。</JapaneseText>
-      <EnglishText>Peach pie... Peaches truly are
-the blessings of the mountains...</EnglishText>
+      <EnglishText>Torta de pêssego... Pêssegos são
+mesmo bênçãos das montanhas...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
@@ -669,8 +667,8 @@ the blessings of the mountains...</EnglishText>
     <Entry>
       <PointerOffset>2522</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>55</Id>
@@ -681,9 +679,9 @@ fruits of the Earth.</EnglishText>
       <JapaneseText>大地は時として、
 災害ももたらすが
 怒ってはならん。</JapaneseText>
-      <EnglishText>The earth sometimes brings
-disasters, but do not get
-angry with Mother Earth.</EnglishText>
+      <EnglishText>A terra às vezes traz desastres,
+mas não se zangue com a
+Mãe Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>56</Id>
@@ -692,8 +690,8 @@ angry with Mother Earth.</EnglishText>
     <Entry>
       <PointerOffset>2594</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -702,8 +700,8 @@ fruits of the Earth.</EnglishText>
     <Entry>
       <PointerOffset>2619</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>58</Id>
@@ -712,8 +710,8 @@ fruits of the Earth.</EnglishText>
     <Entry>
       <PointerOffset>2224</PointerOffset>
       <JapaneseText>大地の恵みに感謝するんだぞ。</JapaneseText>
-      <EnglishText>Be thankful for the
-fruits of the Earth.</EnglishText>
+      <EnglishText>Agradeça pelos frutos
+da Terra.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>59</Id>
@@ -727,8 +725,8 @@ fruits of the Earth.</EnglishText>
       <JapaneseText>うちに&lt;Veigue&gt;は
 泊めちゃならないって
 言われてんだよ。</JapaneseText>
-      <EnglishText>I've been told not to let
-you stay here, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Disseram pra eu não deixar você
+ficar aqui, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>60</Id>
@@ -737,8 +735,7 @@ you stay here, &lt;Veigue&gt;.</EnglishText>
     <Entry>
       <PointerOffset>1199</PointerOffset>
       <JapaneseText>自分の家に帰ったらどうだ？</JapaneseText>
-      <EnglishText>How about going to
-your own house?</EnglishText>
+      <EnglishText>Que tal ir pra sua casa?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>61</Id>
@@ -747,7 +744,7 @@ your own house?</EnglishText>
     <Entry>
       <PointerOffset>1224</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;の友達？</JapaneseText>
-      <EnglishText>You're &lt;Veigue&gt;'s friend?</EnglishText>
+      <EnglishText>É da turma do &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>62</Id>
@@ -757,9 +754,9 @@ your own house?</EnglishText>
       <PointerOffset>1246</PointerOffset>
       <JapaneseText>だったら、&lt;Veigue&gt;の家に
 泊めてもらったらどうだい？</JapaneseText>
-      <EnglishText>If that's the case, why
-don't you stay the night
-over at his house?</EnglishText>
+      <EnglishText>Nesse caso, por que não
+passa a noite na casa
+dele?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>63</Id>
@@ -769,7 +766,7 @@ over at his house?</EnglishText>
       <PointerOffset>1309</PointerOffset>
       <JapaneseText>大変な事になった……
 </JapaneseText>
-      <EnglishText>How awful...</EnglishText>
+      <EnglishText>Que horror...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
@@ -780,8 +777,8 @@ over at his house?</EnglishText>
       <JapaneseText>&lt;Veigue&gt;と関わると
 ロクな事がないんだ……
 まったく……</JapaneseText>
-      <EnglishText>Nothing good ever comes to anyone
-who associates with you...</EnglishText>
+      <EnglishText>Quem se envolve com você
+nunca se dá bem...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>65</Id>
@@ -791,9 +788,9 @@ who associates with you...</EnglishText>
       <PointerOffset>1356</PointerOffset>
       <JapaneseText>ここだけの話、あんまり&lt;Veigue&gt;と
 関わらない方がいいよ。</JapaneseText>
-      <EnglishText>Just between you and me,
-you shouldn't get too close
-to &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Cá entre nós, é melhor não
+se aproximar demais
+do &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>66</Id>
@@ -803,8 +800,8 @@ to &lt;Veigue&gt;.</EnglishText>
       <PointerOffset>1419</PointerOffset>
       <JapaneseText>ポプラおばさんが言ってくれて、
 すっとしたよ。</JapaneseText>
-      <EnglishText>I was relieved when I heard
-what Ms. Poplar said.</EnglishText>
+      <EnglishText>Fiquei aliviado quando ouvi o
+que a dona Poplar disse.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>67</Id>
@@ -814,8 +811,8 @@ what Ms. Poplar said.</EnglishText>
       <PointerOffset>1441</PointerOffset>
       <JapaneseText>実は俺も前に似たような事を
 考えた事があったんでね。</JapaneseText>
-      <EnglishText>In fact, I'd been thinking the
-same thing before as well.</EnglishText>
+      <EnglishText>Na verdade, eu já pensava
+a mesma coisa antes.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>68</Id>
@@ -826,8 +823,8 @@ same thing before as well.</EnglishText>
       <JapaneseText>ヒューマは
 泊まらせない事にしたんだ。
 悪いが、帰ってくれ。</JapaneseText>
-      <EnglishText>Huma can't stay here. If that
-bothers you, then you can leave.</EnglishText>
+      <EnglishText>Huma não pode ficar aqui. Se
+isso incomoda, pode ir embora.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>69</Id>
@@ -837,8 +834,8 @@ bothers you, then you can leave.</EnglishText>
       <PointerOffset>1516</PointerOffset>
       <JapaneseText>はあ……なんだか
 みんな元気ないし……</JapaneseText>
-      <EnglishText>Ugh... Everyone's in a
-bad mood these days...</EnglishText>
+      <EnglishText>Ugh... Todo mundo tá de
+mau humor esses dias...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>70</Id>
@@ -849,8 +846,8 @@ bad mood these days...</EnglishText>
       <JapaneseText>ヒューマとかガジュマとか
 イチイチ考えるのも、
 面倒になって来たな……</JapaneseText>
-      <EnglishText>Thinking about "Huma this, Gajuma
-that" is starting to wear me down...</EnglishText>
+      <EnglishText>Ficar pensando em "Huma pra cá,
+Gajuma pra lá" tá me cansando...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>71</Id>
@@ -859,7 +856,7 @@ that" is starting to wear me down...</EnglishText>
     <Entry>
       <PointerOffset>1588</PointerOffset>
       <JapaneseText>ピーチパイ……</JapaneseText>
-      <EnglishText>Peach pie...</EnglishText>
+      <EnglishText>Torta de pêssego...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>72</Id>
@@ -869,8 +866,8 @@ that" is starting to wear me down...</EnglishText>
       <PointerOffset>1610</PointerOffset>
       <JapaneseText>他のガジュマたちが来るなら……
 行っても、いいかな？</JapaneseText>
-      <EnglishText>If the other Gajuma are going...
-Perhaps I should go as well?</EnglishText>
+      <EnglishText>Se os outros Gajuma forem...
+Talvez eu também devesse ir?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>73</Id>
@@ -880,9 +877,9 @@ Perhaps I should go as well?</EnglishText>
       <PointerOffset>1660</PointerOffset>
       <JapaneseText>こ、これから何が起きるんだ……？
 夜もおちおち寝てられないな……</JapaneseText>
-      <EnglishText>Wh-What's going on...?
-I can't get any rest
-even at night...</EnglishText>
+      <EnglishText>O-O que tá acontecendo...?
+Nem de noite consigo
+descansar...</EnglishText>
       <Notes>Maybe: "I can't sleep, even when night falls..." -dragon</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>74</Id>
@@ -892,9 +889,9 @@ even at night...</EnglishText>
       <PointerOffset>1682</PointerOffset>
       <JapaneseText>夜眠れなきゃ宿屋商売も
 上がったりだ……！</JapaneseText>
-      <EnglishText>If no one's sleeping,
-then my business is
-going to go under...!</EnglishText>
+      <EnglishText>Se ninguém dorme,
+meu negócio vai
+pro buraco...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>75</Id>
@@ -904,8 +901,8 @@ going to go under...!</EnglishText>
       <PointerOffset>1720</PointerOffset>
       <JapaneseText>がんばってるらしいね、&lt;Veigue&gt;
 泊まっていくかい？</JapaneseText>
-      <EnglishText>You've got this, &lt;Veigue&gt;.
-Are you going to rest?</EnglishText>
+      <EnglishText>Você vai conseguir, &lt;Veigue&gt;.
+Vai descansar?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
@@ -914,7 +911,7 @@ Are you going to rest?</EnglishText>
     <Entry>
       <PointerOffset>1745</PointerOffset>
       <JapaneseText>泊まっていくかい？</JapaneseText>
-      <EnglishText>Are you going to rest?</EnglishText>
+      <EnglishText>Vai descansar?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>77</Id>
@@ -931,14 +928,13 @@ Are you going to rest?</EnglishText>
 描かされた旅の画家が、住人の
 目を盗んで描いた花の絵。
 花言葉「翼をください」</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Wall Painting -
-Twenty years ago, a traveling
-artist who was forced to stay
-and create many paintings drew
-this piece of a flower that
-catches the viewer's eye.
-In the language of flowers,
-it means "Please Give me Wings."</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Pintura na Parede -
+Há vinte anos, um pintor viajante
+forçado a ficar e pintar vários
+quadros desenhou esta flor, que
+chama a atenção de quem olha.
+Na linguagem das flores,
+significa "Dê-me asas".</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>78</Id>
@@ -955,13 +951,13 @@ it means "Please Give me Wings."</EnglishText>
 その画家がなぜこの絵を描いたかは
 不明だが、何か強い意志のような
 ものを感じる迫力ある作品。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Pack Animal -
-Over twenty years ago, an artist who
-was forced to stay in the village
-drew this piece. The artist made
-this piece for reasons unknown,
-but it's a powerful piece that
-radiates a resolute feeling.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Animal de Carga -
+Há mais de vinte anos, um pintor
+forçado a ficar na vila desenhou
+esta obra. Ele a fez por motivos
+desconhecidos, mas é uma obra
+poderosa que irradia uma sensação
+de determinação.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>79</Id>
@@ -978,12 +974,11 @@ radiates a resolute feeling.</EnglishText>
 スールズ近くの山から見下ろした
 光景を描いたもの。
 かなりぞんざいに描かれている。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- A Distant Look at Sulz -
-Over twenty years ago, an artist who
-was forced to stay in the village
-drew this piece. It's a view looking
-down from the mountains around Sulz.
-It was painted rather sloppily.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Sulz ao Longe -
+Há mais de vinte anos, um pintor
+forçado a ficar na vila fez esta
+obra, vista das montanhas ao redor
+de Sulz. Foi pintada sem capricho.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>80</Id>
