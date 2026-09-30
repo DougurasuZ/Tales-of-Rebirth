@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>242</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes>This place's name (generalized)</Notes>
       <Id>1</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>239</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes>This place's name in the menu</Notes>
       <Id>2</Id>
       <Status>Done</Status>
@@ -70,9 +70,9 @@
       <JapaneseText>ふぅーやっと峠か。
 さすがに疲れたネ……
 少し休憩しようよ。</JapaneseText>
-      <EnglishText>Phew, we've made it to the top.
-All this climbing sure takes it out
-of you... Let's take a break.</EnglishText>
+      <EnglishText>Ufa, chegamos ao topo. Essa
+escalada cansa demais... Vamos
+fazer uma pausa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -83,7 +83,7 @@ of you... Let's take a break.</EnglishText>
       <VoiceId>0f00001d</VoiceId>
       <JapaneseText>ダメだ。オレたちが
 こうしている間にクレアは……</JapaneseText>
-      <EnglishText>No. As we speak, Claire is...</EnglishText>
+      <EnglishText>Não. Agora mesmo, a Claire está...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -96,10 +96,10 @@ of you... Let's take a break.</EnglishText>
 強行軍のうえ、この山越えで
 フォルスを使ったおまえは
 かなり消耗しているはずだ。</JapaneseText>
-      <EnglishText>Didn't I say not to push yourself?
-Not only has the climb itself been
-strenuous, you must be exhausted
-after using your Force so much.</EnglishText>
+      <EnglishText>Não disse para não se esforçar?
+Além de a própria subida ser
+cansativa, você deve estar exausto
+por usar tanto o seu Force.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -111,8 +111,8 @@ after using your Force so much.</EnglishText>
       <JapaneseText>……大丈夫だ。
 これくらい大した事じゃない。
 クレアに比べれば……</JapaneseText>
-      <EnglishText>I'm fine. This is nothing compared
-to what Claire's going through.</EnglishText>
+      <EnglishText>Estou bem. Isso não é nada perto
+do que a Claire está passando.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -123,9 +123,9 @@ to what Claire's going through.</EnglishText>
       <VoiceId>0f000020</VoiceId>
       <JapaneseText>……あいつは一年も氷の中にいて、
 やっと自由になれたのに……</JapaneseText>
-      <EnglishText>After being trapped in ice for a
-whole year, she barely had the
-chance to enjoy her freedom...</EnglishText>
+      <EnglishText>Depois de um ano inteiro presa
+no gelo, ela mal teve chance
+de aproveitar a liberdade...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -135,7 +135,7 @@ chance to enjoy her freedom...</EnglishText>
       <PointerOffset>1023</PointerOffset>
       <VoiceId>0f000021</VoiceId>
       <JapaneseText>それはナニ？</JapaneseText>
-      <EnglishText>Hey, what's that?</EnglishText>
+      <EnglishText>Ei, o que é isso?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -145,7 +145,7 @@ chance to enjoy her freedom...</EnglishText>
       <PointerOffset>1044</PointerOffset>
       <VoiceId>0f000022</VoiceId>
       <JapaneseText>これは……</JapaneseText>
-      <EnglishText>Oh, this?</EnglishText>
+      <EnglishText>Ah, isto?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -157,9 +157,9 @@ chance to enjoy her freedom...</EnglishText>
       <JapaneseText>そっか……そのキレイな石は、
 クレアさんからのプレゼント
 だったんだ。</JapaneseText>
-      <EnglishText>Ah, so that pretty stone
-you carry with you was
-a gift from Claire.</EnglishText>
+      <EnglishText>Ah, então aquela pedra bonita
+que você carrega foi
+um presente da Claire.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -181,9 +181,9 @@ a gift from Claire.</EnglishText>
       <JapaneseText>おまえの気持ちはわかる。
 だが、ここで体力を使い果たして、
 どうやって彼女を救う？</JapaneseText>
-      <EnglishText>I understand how you feel, &lt;Veigue&gt;. But
-how do you intend to save her if you
-use up all of your energy here?</EnglishText>
+      <EnglishText>Entendo você, &lt;Veigue&gt;. Mas como
+pretende salvá-la se gastar toda
+a sua energia aqui?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -205,9 +205,9 @@ use up all of your energy here?</EnglishText>
       <JapaneseText>サレたちに追いつけば、
 ただで彼女を返してもらえると
 思うのか？</JapaneseText>
-      <EnglishText>When we catch up to Saleh,
-do you expect him to just
-let her go?</EnglishText>
+      <EnglishText>Quando alcançarmos o Saleh,
+acha que ele vai simplesmente
+deixá-la ir?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -219,9 +219,9 @@ let her go?</EnglishText>
       <JapaneseText>彼女に追いつく事だけが
 目的じゃない。
 それを忘れるな。</JapaneseText>
-      <EnglishText>Catching up with Claire isn't the
-only thing that we'll have to do.
-Don't forget that.</EnglishText>
+      <EnglishText>Alcançar a Claire não é a única
+coisa que teremos de fazer.
+Não se esqueça disso.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -243,10 +243,10 @@ Don't forget that.</EnglishText>
       <JapaneseText>&lt;Veigue&gt;、休んで体力が回復したら
 その分、スピードアップしよう!!
 ボク、走っちゃうヨ!!　……なんてネ♪</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, if we rest up now, we'll
-be able to speed up afterward!
-I'll be zipping down the mountain!
-...Just kidding♪</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, se a gente descansar
+agora, depois a gente acelera!
+Vou descer a montanha voando!
+...Brincadeirinha♪</EnglishText>
       <Notes>
 </Notes>
       <SpeakerId>0</SpeakerId>
@@ -257,7 +257,7 @@ I'll be zipping down the mountain!
       <PointerOffset>1503</PointerOffset>
       <VoiceId>0f000030</VoiceId>
       <JapaneseText>&lt;Mao&gt;……わかった。</JapaneseText>
-      <EnglishText>Got it, &lt;Mao&gt;.</EnglishText>
+      <EnglishText>Entendi, &lt;Mao&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -271,9 +271,9 @@ I'll be zipping down the mountain!
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>

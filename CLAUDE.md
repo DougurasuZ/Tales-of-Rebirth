@@ -98,3 +98,11 @@ Termos de raça: "Huma" e "Gajuma" ficam como estão (não traduzir).
 - Registre cada arquivo concluído em `progresso.md` (nome do arquivo e data).
 - Se encontrar algo que não sabe como tratar (código estranho, trecho ambíguo, texto que não
   cabe no limite), NÃO invente: anote em `progresso.md`, na seção "Dúvidas", e siga para o próximo.
+- O validador fica fora do projeto, em `D:\projeto_traducao_PT_BR\ToR\PythonLib\validar_traducao.py`,
+  e deve ser executado a partir dessa pasta com: `py -3.11 validar_traducao.py`.
+  Ele gera o `relatorio_validacao.txt` na pasta do projeto.
+- Ao final de cada lote, rode o validador e corrija os problemas apontados (CODIGO, LINHAS,
+  TAMANHO, ESPACO, CARACTERE, INGLES). Faça no máximo 2 rodadas de correção; o que sobrar,
+  anote em "Dúvidas" no `progresso.md`.
+- Não faça commit nem push. Ao final, sugira a mensagem de commit no formato
+  "Story lote X: primeiro a último arquivo".

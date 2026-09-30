@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>11018</PointerOffset>
       <JapaneseText>男の人の声</JapaneseText>
-      <EnglishText>Man's Voice</EnglishText>
+      <EnglishText>Voz de Homem</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>10923</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>1858,1882,1906,6642,7335,7359,7431</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>1154</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>1151</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>1360</PointerOffset>
       <JapaneseText>アルヴァン山脈</JapaneseText>
-      <EnglishText>Alvan Mountains</EnglishText>
+      <EnglishText>Montanhas de Alvan</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -108,8 +108,8 @@
       <PointerOffset>5687</PointerOffset>
       <VoiceId>0f000000</VoiceId>
       <JapaneseText>ここから山を越えるのか？</JapaneseText>
-      <EnglishText>Can we cross the mountain
-from here?</EnglishText>
+      <EnglishText>Dá pra atravessar a montanha
+por aqui?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -121,8 +121,8 @@ from here?</EnglishText>
       <JapaneseText>そうだ。
 険しい山道のうえ、
 荒れ果てている。</JapaneseText>
-      <EnglishText>Yes. It's a steep climb, however,
-and it's falling into ruin.</EnglishText>
+      <EnglishText>Sim. Porém, a subida é íngreme
+e está em ruínas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -133,9 +133,8 @@ and it's falling into ruin.</EnglishText>
       <VoiceId>0f000002</VoiceId>
       <JapaneseText>この山、前に訓練で来たけど
 けっこう大変なんだよね。</JapaneseText>
-      <EnglishText>We've been here before
-for training, and it's
-pretty rough.</EnglishText>
+      <EnglishText>A gente já veio aqui treinar,
+e é bem puxado.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -146,9 +145,9 @@ pretty rough.</EnglishText>
       <VoiceId>0f000003</VoiceId>
       <JapaneseText>エトレー橋が渡れない以上、
 ここを行くしかない。</JapaneseText>
-      <EnglishText>With the Etoray Bridge out
-of service, our only option
-is to pass through here.</EnglishText>
+      <EnglishText>Com a Ponte de Etoray fora de
+serviço, nossa única opção é
+passar por aqui.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -159,8 +158,8 @@ is to pass through here.</EnglishText>
       <VoiceId>0f000004</VoiceId>
       <JapaneseText>あの三人組がいなければ、
 今ごろ……</JapaneseText>
-      <EnglishText>If it weren't for those three,
-we would be there by now...</EnglishText>
+      <EnglishText>Se não fossem aqueles três,
+já estaríamos lá...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -171,9 +170,8 @@ we would be there by now...</EnglishText>
       <VoiceId>0f000005</VoiceId>
       <JapaneseText>サレたちに追いつくためにも
 がんばって登ろうヨ！</JapaneseText>
-      <EnglishText>If we want to catch up to
-Saleh and the others, we'd
-better give it our all!</EnglishText>
+      <EnglishText>Pra alcançar o Saleh e os outros,
+é melhor a gente dar tudo!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -195,9 +193,9 @@ better give it our all!</EnglishText>
       <JapaneseText>……なんという強さだ！
 これがハーフの力……
 いいぞ、&lt;Hilda&gt;。</JapaneseText>
-      <EnglishText>Such strength! So this is
-the power of a Half... 
-Good work, &lt;Hilda&gt;!</EnglishText>
+      <EnglishText>Que força! Então esse é
+o poder de um Half...
+Bom trabalho, &lt;Hilda&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -208,7 +206,7 @@ Good work, &lt;Hilda&gt;!</EnglishText>
       <VoiceId>34000043</VoiceId>
       <JapaneseText>ジルバ様のおっしゃった
 とおりだ……</JapaneseText>
-      <EnglishText>It's just as Lady Zilva said.</EnglishText>
+      <EnglishText>Tudo como disse a Lady Zilva.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -220,9 +218,9 @@ Good work, &lt;Hilda&gt;!</EnglishText>
       <JapaneseText>おまえは最高の兵士になれる。
 おまえを育ててきたかいが
 あったというものだ。</JapaneseText>
-      <EnglishText>You will become an impressive
-soldier. Raising you has certainly 
-paid off.</EnglishText>
+      <EnglishText>Você vai se tornar uma força de
+combate impressionante. Criar você
+valeu a pena, sem dúvida.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -233,9 +231,9 @@ paid off.</EnglishText>
       <VoiceId>34000045</VoiceId>
       <JapaneseText>さあ、もう一度、俺に見せてくれ!!
 おまえの……ハーフの力を。</JapaneseText>
-      <EnglishText>All right, show me your 
-power once more... Show 
-me your power as a Half!</EnglishText>
+      <EnglishText>Muito bem, mostre-me seu poder
+mais uma vez... Mostre-me o poder
+de um Half!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -246,8 +244,8 @@ me your power as a Half!</EnglishText>
       <VoiceId>34000046</VoiceId>
       <JapaneseText>遠慮はいらん。
 こいつらは皆、罪人だ。</JapaneseText>
-      <EnglishText>Don't bother holding back.
-They're criminals, after all.</EnglishText>
+      <EnglishText>Não precisa se conter.
+Afinal, são criminosos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -258,8 +256,8 @@ They're criminals, after all.</EnglishText>
       <VoiceId>34000047</VoiceId>
       <JapaneseText>い、いやだ、助けてくれ!!
 化け物め……来るな、来るなッ!!</JapaneseText>
-      <EnglishText>N-No, help me! You monster!
-Get away from me! Get away...!</EnglishText>
+      <EnglishText>N-Não, socorro! Monstro!
+Afaste-se de mim! Afaste-se...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
@@ -282,8 +280,8 @@ Get away from me! Get away...!</EnglishText>
       <PointerOffset>1861</PointerOffset>
       <JapaneseText>&lt;Green&gt;この辺りのバイラスは、
 特定の攻撃後に防御を固めます。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Biruses in this area will
-defend after attacking.</EnglishText>
+      <EnglishText>&lt;Green&gt;Os Birus desta área vão se
+defender depois de atacar.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
@@ -294,8 +292,8 @@ defend after attacking.</EnglishText>
       <JapaneseText>&lt;Green&gt;敵の攻撃をよく見て
 反撃タイミングを
 考えてください。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Watch the enemy's attacks carefully
-and consider when to counterattack.</EnglishText>
+      <EnglishText>&lt;Green&gt;Observe bem os ataques do inimigo
+e decida quando contra-atacar.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
@@ -307,10 +305,10 @@ and consider when to counterattack.</EnglishText>
 １／４に減らされてしまいます。
 無闇に攻撃して、逆に反撃を
 受けないように気をつけましょう。</JapaneseText>
-      <EnglishText>&lt;Green&gt;When an enemy blocks an attack, it
-reduces the damage you inflict by
-1/4. Be careful not to attack blindly
-or you might get counterattacked.</EnglishText>
+      <EnglishText>&lt;Green&gt;Quando o inimigo bloqueia um
+ataque, o dano causado cai em
+1/4. Cuidado para não atacar às
+cegas ou será contra-atacado.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
@@ -324,8 +322,8 @@ or you might get counterattacked.</EnglishText>
       <VoiceId>0f00000c</VoiceId>
       <JapaneseText>この崖は、さすがに
 飛び越せないね。</JapaneseText>
-      <EnglishText>There's no way we
-can make this jump.</EnglishText>
+      <EnglishText>Não tem como a gente
+pular isso aqui.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -335,8 +333,8 @@ can make this jump.</EnglishText>
       <PointerOffset>6951</PointerOffset>
       <VoiceId>0f00000d</VoiceId>
       <JapaneseText>ここまで来て引き返すのか……？</JapaneseText>
-      <EnglishText>Are we going to have to turn
-back after coming this far...?</EnglishText>
+      <EnglishText>Vamos ter que voltar depois de
+chegar até aqui...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -347,8 +345,8 @@ back after coming this far...?</EnglishText>
       <VoiceId>0f00000e</VoiceId>
       <JapaneseText>いや、今こそキミの出番だ、
 &lt;Veigue&gt;！</JapaneseText>
-      <EnglishText>Not quite. It's your time
-to shine, &lt;Veigue&gt;!</EnglishText>
+      <EnglishText>Nem tanto. É a sua hora
+de brilhar, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -360,9 +358,9 @@ to shine, &lt;Veigue&gt;!</EnglishText>
       <JapaneseText>では、問題です！
 何を使えば、この崖を
 渡れるんでしょうか？</JapaneseText>
-      <EnglishText>All right, question time!
-What can we use to
-help us get across?</EnglishText>
+      <EnglishText>Certo, hora da pergunta!
+O que a gente pode usar
+pra ajudar a atravessar?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -372,7 +370,7 @@ help us get across?</EnglishText>
       <PointerOffset>7071</PointerOffset>
       <VoiceId>0f000010</VoiceId>
       <JapaneseText>何を……使う？</JapaneseText>
-      <EnglishText>What can...we use?</EnglishText>
+      <EnglishText>O que... podemos usar?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -383,9 +381,8 @@ help us get across?</EnglishText>
       <VoiceId>0f000011</VoiceId>
       <JapaneseText>答えはキミ自身の中にある！
 落ちついて考えてみてネ。</JapaneseText>
-      <EnglishText>The answer is right inside
-of you! Focus your mind
-and think about it.</EnglishText>
+      <EnglishText>A resposta tá dentro de você!
+Concentre-se e pense nisso.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -395,7 +392,7 @@ and think about it.</EnglishText>
       <PointerOffset>7183</PointerOffset>
       <VoiceId>0f000012</VoiceId>
       <JapaneseText>……オレのフォルスか？</JapaneseText>
-      <EnglishText>...My Force?</EnglishText>
+      <EnglishText>...O meu Force?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -416,8 +413,8 @@ and think about it.</EnglishText>
       <VoiceId>0f000014</VoiceId>
       <JapaneseText>&lt;Yellow&gt;氷のフォルス&lt;White&gt;を使うんだ。
 できるな、&lt;Veigue&gt;。</JapaneseText>
-      <EnglishText>Use your &lt;Yellow&gt;Force of Ice&lt;White&gt;.
-You can do it, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Use seu &lt;Yellow&gt;Force do Gelo&lt;White&gt;.
+Você consegue, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -427,7 +424,7 @@ You can do it, &lt;Veigue&gt;.</EnglishText>
       <PointerOffset>7304</PointerOffset>
       <VoiceId>0f000015</VoiceId>
       <JapaneseText>さあ、キミの出番だ!!</JapaneseText>
-      <EnglishText>This is your time to shine!</EnglishText>
+      <EnglishText>É a sua hora de brilhar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -438,9 +435,9 @@ You can do it, &lt;Veigue&gt;.</EnglishText>
       <JapaneseText>&lt;Green&gt;頭の上にフォルスキューブの
 バルーンが表示されている場所で
 フォルスを使う事ができます。</JapaneseText>
-      <EnglishText>&lt;Green&gt;A place where Force can be used is
-indicated whenever there is a Force
-Cube bubble over a character.</EnglishText>
+      <EnglishText>&lt;Green&gt;Quando aparece uma bolha de
+Force Cube sobre um personagem, é
+possível usar o Force ali.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
@@ -451,10 +448,9 @@ Cube bubble over a character.</EnglishText>
       <JapaneseText>&lt;Green&gt;『フォルスボタン（&lt;icon:32&gt;ボタン）』を押すと
 氷のフォルスを使って
 氷の足場を作る事ができます。</JapaneseText>
-      <EnglishText>&lt;Green&gt;By pressing the Force
-button (&lt;icon:32&gt;), you can
-create a foothold using
-Veigue's Force of Ice.</EnglishText>
+      <EnglishText>&lt;Green&gt;Ao apertar o botão Force (&lt;icon:32&gt;),
+você cria um apoio usando o
+Force do Gelo do Veigue.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>32</Id>
@@ -465,9 +461,9 @@ Veigue's Force of Ice.</EnglishText>
       <VoiceId>0f000016</VoiceId>
       <JapaneseText>確かに、足場を作れば
 飛び越せそうだな。</JapaneseText>
-      <EnglishText>If I build a foothold
-with my ice, I can
-use it to jump over.</EnglishText>
+      <EnglishText>Se eu criar um apoio
+com meu gelo, posso
+usá-lo para pular.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -478,10 +474,10 @@ use it to jump over.</EnglishText>
       <JapaneseText>&lt;Green&gt;『フォルスボタン（&lt;icon:32&gt;ボタン）』を押して
 氷の足場を作って下さい。
 （&lt;icon:34&gt;ボタン&lt;icon:35&gt;ボタンで方向が変えられます。）</JapaneseText>
-      <EnglishText>Press the Force button (&lt;icon:32&gt;)
-to create a foothold. You can
-change which direction you're
-facing by pressing &lt;icon:35&gt;.</EnglishText>
+      <EnglishText>Aperte o botão Force (&lt;icon:32&gt;)
+para criar um apoio. Você pode
+mudar a direção em que está
+virado apertando &lt;icon:35&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>34</Id>
@@ -493,10 +489,9 @@ facing by pressing &lt;icon:35&gt;.</EnglishText>
       <JapaneseText>この過酷な山道で、ムダにフォルスを
 使って力を消費するのは得策ではない。
 無理をするなよ。</JapaneseText>
-      <EnglishText>It's not a good idea to needlessly
-waste your Force on such a harsh
-mountain road. Don't push yourself
-too hard.</EnglishText>
+      <EnglishText>Não convém gastar seu Force à toa
+numa trilha de montanha tão árdua.
+Não se esforce demais.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -506,7 +501,7 @@ too hard.</EnglishText>
       <PointerOffset>7502</PointerOffset>
       <VoiceId>0f000019</VoiceId>
       <JapaneseText>わかっている。</JapaneseText>
-      <EnglishText>Understood.</EnglishText>
+      <EnglishText>Entendido.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>36</Id>
@@ -516,7 +511,7 @@ too hard.</EnglishText>
       <PointerOffset>7531</PointerOffset>
       <VoiceId>0f00001a</VoiceId>
       <JapaneseText>頼りにしてるヨ、&lt;Veigue&gt;♪</JapaneseText>
-      <EnglishText>We're counting on you, &lt;Veigue&gt;♪</EnglishText>
+      <EnglishText>Contamos com você, &lt;Veigue&gt;♪</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -526,7 +521,7 @@ too hard.</EnglishText>
       <PointerOffset>7560</PointerOffset>
       <VoiceId>0f00001b</VoiceId>
       <JapaneseText>よし、先を急ごう。</JapaneseText>
-      <EnglishText>Okay, let's proceed forward.</EnglishText>
+      <EnglishText>Muito bem, vamos seguir em frente.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
@@ -540,8 +535,8 @@ too hard.</EnglishText>
       <VoiceId>0f000006</VoiceId>
       <JapaneseText>行き止まりだ。
 ここが山を越える道じゃないのか？</JapaneseText>
-      <EnglishText>It's a dead end. Shouldn't 
-there be a mountain pass?</EnglishText>
+      <EnglishText>É um beco sem saída. Não devia
+haver uma passagem na montanha?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>
@@ -553,9 +548,9 @@ there be a mountain pass?</EnglishText>
       <JapaneseText>そのはずなんだが……
 おそらく、嵐か大水が出たかして、
 道が崩れて、そのままなのだろう。</JapaneseText>
-      <EnglishText>There should be... Most likely a
-storm or flood caused the path
-to collapse, leaving it like this.</EnglishText>
+      <EnglishText>Deveria haver... Provavelmente uma
+tempestade ou enchente derrubou o
+caminho, deixando-o assim.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
@@ -566,9 +561,8 @@ to collapse, leaving it like this.</EnglishText>
       <VoiceId>0f000008</VoiceId>
       <JapaneseText>……地盤がこんな不安定な状態で
 先に進む事ができるのか？</JapaneseText>
-      <EnglishText>...Can we really continue
-on with the ground being
-this unstable?</EnglishText>
+      <EnglishText>...Dá mesmo pra continuar com o
+chão tão instável assim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>41</Id>
@@ -578,7 +572,7 @@ this unstable?</EnglishText>
       <PointerOffset>6438</PointerOffset>
       <VoiceId>0f000009</VoiceId>
       <JapaneseText>大丈夫みたいだよ……ホラ！</JapaneseText>
-      <EnglishText>I think we'll manage... Watch!</EnglishText>
+      <EnglishText>Acho que dá... Olha só!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -588,7 +582,7 @@ this unstable?</EnglishText>
       <PointerOffset>6576</PointerOffset>
       <VoiceId>0f00000a</VoiceId>
       <JapaneseText>ネ？　大丈夫でしょ♪</JapaneseText>
-      <EnglishText>See? Piece of cake♪</EnglishText>
+      <EnglishText>Viu? Moleza♪</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>43</Id>
@@ -599,8 +593,8 @@ this unstable?</EnglishText>
       <VoiceId>0f00000b</VoiceId>
       <JapaneseText>というわけだ。
 行くぞ、&lt;Veigue&gt;。</JapaneseText>
-      <EnglishText>That answers that. Let's
-press on, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Isso responde à questão.
+Vamos em frente, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -611,9 +605,9 @@ press on, &lt;Veigue&gt;.</EnglishText>
       <JapaneseText>&lt;Green&gt;画面右下にアイコンが表示される場所で
 『&lt;icon:30&gt;ボタン』を押すとジャンプをします。
 (注意：助走が必要です。)</JapaneseText>
-      <EnglishText>&lt;Green&gt;To jump, press the &lt;icon:30&gt; button when the
-icon appears in the lower right corner of
-the screen. A running start is required.</EnglishText>
+      <EnglishText>&lt;Green&gt;Para pular, aperte o botão &lt;icon:30&gt; quando o
+ícone aparecer no canto inferior direito
+da tela. É preciso tomar impulso.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>45</Id>
@@ -627,9 +621,9 @@ the screen. A running start is required.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>46</Id>

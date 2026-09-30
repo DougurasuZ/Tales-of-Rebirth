@@ -10,11 +10,15 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Balka | Balka | Nome próprio, mantido |
 | Bordalia | Bordalia | Nome próprio (região), mantido |
 | Callegea (Kingdom of Callegea) | Callegea (Reino de Callegea) | Nome próprio mantido; "Kingdom" traduzido |
+| Alvan Mountains | Montanhas de Alvan | Nome misto: só a parte comum traduzida |
 | Armor Shop | Loja de Armaduras | |
+| Callegea Castle | Castelo de Callegea | |
+| Claire's House - Basement | Casa de Claire - Porão | |
+| Etoray Bridge | Ponte de Etoray | Nome misto |
 | Claire's House | Casa de Claire | |
 | Dusk of Ladras | Crepúsculo de Ladras | Nome de evento; "Ladras" mantido |
 | Front of Meeting House | Frente da Casa de Reuniões | Ex.: "Sulz - Frente da Casa de Reuniões" |
-| Inn - Guest Room | Pousada - Quarto de Hóspedes | Ex.: "Sulz - Pousada - Quarto de Hóspedes" |
+| Inn - Guest Room | Pousada - Quarto | Ex.: "Sulz - Pousada - Quarto" (versão completa passava de 34 caracteres) |
 | Inn - Grocery Store | Pousada - Mercearia | |
 | Item Shop | Loja de Itens | |
 | Meeting House | Casa de Reuniões | |
@@ -35,6 +39,7 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Gald | Gald | Moeda, mantida |
 | Grocery Store / grocer | Mercearia | |
 | Guidepost | Placa | Título das placas de sinalização |
+| Half | Half | Raça mista (Huma/Gajuma), mantida como Huma e Gajuma |
 | Inn | Pousada | |
 | Records | Registros | Seção do Battle Book |
 | Royal Shield | Escudo Real | Organização militar (Agarte) |

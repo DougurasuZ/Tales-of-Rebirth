@@ -20,6 +20,14 @@
 | 2_translated/story/10241.xml | 2026-09-30 |
 | 2_translated/story/10242.xml | 2026-09-30 |
 | 2_translated/story/10243.xml | 2026-09-30 |
+| 2_translated/story/10244.xml | 2026-09-30 |
+| 2_translated/story/10245.xml | 2026-09-30 |
+| 2_translated/story/10246.xml | 2026-09-30 |
+| 2_translated/story/10248.xml | 2026-09-30 |
+| 2_translated/story/10253.xml | 2026-09-30 |
+| 2_translated/story/10254.xml | 2026-09-30 |
+| 2_translated/story/10255.xml | 2026-09-30 |
+| 2_translated/story/10256.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -83,3 +91,14 @@
 - 10243.xml, Id 8: "~♪" mantido do inglês. Id 10: o código `<speed:00>` do inglês foi mantido exatamente (difere de `<speed:0>` dos outros).
 - 10243.xml, Id 9 e 10242.xml: "Lilavich" (flor) mantido em inglês; "Mural"/"Pintura na Parede" e títulos de objetos examináveis traduzidos.
 - 10237.xml, Id 9: usei "…" (reticências unicode, já permitido) em uma frase para caber na linha.
+- Correções do relatório (2026-09-30): 10239 Id 27, 10240 Ids 22/85/97, 10241 Id 20 (LINHAS) condensados para 1 linha; 10242 Id 9 (TAMANHO) virou "- Informações sobre Pousadas -"; 10243 Id 2 (TAMANHO) virou "Sulz - Pousada - Quarto" (glossário atualizado). Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10244–10256 (2026-09-30): traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 0 problemas. Arquivos 10249–10252 não existem na pasta; 10254 e 10255 só têm o nome do lugar ("Alvan Mountains" → "Montanhas de Alvan").
+- 10244.xml, rótulos de falante: "Claire's Mom - Rakia" → "Mãe da Claire - Rakia", "Claire's Dad - Marco" → "Pai da Claire - Marco", "Poplar's Voice" → "Voz de Poplar", "Notice" → "Aviso". 10253.xml: "Man's Voice" → "Voz de Homem", "Man" → "Homem". "Select" e nomes mantidos.
+- 10244.xml, Ids 106 e 107: o código `<unk19:...>` (nome do personagem que entra no grupo) ficou seguido de " entrou para o grupo." / " agora viaja com você." Conferir no jogo se o nome vem com espaço/gênero adequado.
+- 10244.xml, Id 55: "The Bennetts" virou "os Bennett" (sobrenome da família de Claire). Id 41/154/160/188: "Little Veigue/Claire" → "pequeno Veigue/pequena Claire" (como em 10237/10238).
+- 10244.xml, Id 122: "Human" (ヒト, não a raça) → "humanos" minúsculo. Id 219: a frase final foi encurtada ("Então ela é legal.") para caber no limite com a assinatura "-Veigue". Ids 218/219: espaços ideográficos e espaços do original mantidos.
+- 10244.xml, Id 17/20/30: "Force" usado no plural ("os Forces") e como "o Force". Conferir se o gênero/plural agrada.
+- 10245.xml, Id 71: mantido o espaço do inglês depois de `<speed:0>` ("<speed:0> - Rostos da Minha Família -"). Id 58: a fala de Marco a "Claire" foi mantida como no inglês (pode ser outro destinatário).
+- 10246.xml, Id 38: "Ms. Poplar's pies" virou no singular ("A torta da dona Poplar é a melhor!") para caber em 1 linha.
+- 10248.xml: "Force of Ice" → "Force do Gelo"; "Ice/Fire" (Id 25) → "Gelo/Fogo". Id 21: "she was, well..." (ambíguo) → "ela... bom...".
+- 10253.xml: "Half" (raça mista) mantido em inglês; "Lady Zilva" mantido; "Etoray Bridge" → "Ponte de Etoray"; "Biruses" → "Birus". Ids 31/32/34/45 (avisos de tutorial) condensados para caber nas linhas.

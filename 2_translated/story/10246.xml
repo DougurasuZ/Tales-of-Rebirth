@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>5100</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -117,7 +117,7 @@
     <Entry>
       <PointerOffset>2275</PointerOffset>
       <JapaneseText>スールズの老剣士</JapaneseText>
-      <EnglishText>Old Swordsman</EnglishText>
+      <EnglishText>Velho Espadachim</EnglishText>
       <Notes/>
       <Id>13</Id>
       <Status>Done</Status>
@@ -125,7 +125,7 @@
     <Entry>
       <PointerOffset>1803,2086</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>14</Id>
       <Status>Done</Status>
@@ -168,7 +168,7 @@
     <Entry>
       <PointerOffset>881</PointerOffset>
       <JapaneseText>集会所</JapaneseText>
-      <EnglishText>Meeting House</EnglishText>
+      <EnglishText>Casa de Reuniões</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -176,7 +176,7 @@
     <Entry>
       <PointerOffset>970</PointerOffset>
       <JapaneseText>町の人たちが祈りを捧げている。</JapaneseText>
-      <EnglishText>The townsfolk are all praying.</EnglishText>
+      <EnglishText>Os moradores estão todos rezando.</EnglishText>
       <Notes>Floating text</Notes>
       <Id>4</Id>
       <Status>Done</Status>
@@ -190,8 +190,8 @@
       <JapaneseText>&lt;Veigue&gt;ちゃん……
 クレアちゃん……
 </JapaneseText>
-      <EnglishText>Oh, my Little &lt;Veigue&gt;... 
-My Little Claire...</EnglishText>
+      <EnglishText>Ah, meu pequeno &lt;Veigue&gt;...
+Minha pequena Claire...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -225,9 +225,9 @@ My Little Claire...</EnglishText>
       <JapaneseText>&lt;Veigue&gt;ちゃん、ありがと。
 おばさん、元気が出て来たわ。
 あなたのおかげよ。</JapaneseText>
-      <EnglishText>Thank you, my Little &lt;Veigue&gt;.
-It's all thanks to you that I 
-feel cheerful again.</EnglishText>
+      <EnglishText>Obrigada, meu pequeno &lt;Veigue&gt;.
+É tudo graças a você que eu
+me sinto animada de novo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -239,8 +239,8 @@ feel cheerful again.</EnglishText>
       <JapaneseText>オレのほうこそ……
 おばさんのピーチパイで救われたんだ。
 ありがとう……</JapaneseText>
-      <EnglishText>Same here... Your pies
-saved me... Thank you...</EnglishText>
+      <EnglishText>Comigo também... Suas tortas
+me salvaram... Obrigado...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -251,8 +251,8 @@ saved me... Thank you...</EnglishText>
       <VoiceId>3c0000b4</VoiceId>
       <JapaneseText>……また焼いてあげるからね。
 楽しみにしててちょうだい。</JapaneseText>
-      <EnglishText>...I'll bake more some other time. 
-You'd best look forward to it.</EnglishText>
+      <EnglishText>...Vou assar mais outro dia.
+Pode esperar ansioso por isso.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -264,9 +264,9 @@ You'd best look forward to it.</EnglishText>
       <JapaneseText>それじゃあ、わたしは帰るわね。
 &lt;Veigue&gt;ちゃん、皆さん、
 本当にありがと♪</JapaneseText>
-      <EnglishText>Well, I'll be headed home now.
-I'd like to extend my thanks to my
-Little &lt;Veigue&gt; and all his friends♪</EnglishText>
+      <EnglishText>Bom, já vou pra casa. Quero
+agradecer ao meu pequeno &lt;Veigue&gt;
+e a todos os amigos dele♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -276,7 +276,7 @@ Little &lt;Veigue&gt; and all his friends♪</EnglishText>
       <PointerOffset>3508</PointerOffset>
       <VoiceId>3c0000b6</VoiceId>
       <JapaneseText>&lt;Veigue&gt;、もう大丈夫だな？</JapaneseText>
-      <EnglishText>Feeling better now, &lt;Veigue&gt;?</EnglishText>
+      <EnglishText>Melhorou agora, &lt;Veigue&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -288,8 +288,8 @@ Little &lt;Veigue&gt; and all his friends♪</EnglishText>
       <JapaneseText>……ああ。
 みんな、心配をかけてすまなかった。
 ……いや……</JapaneseText>
-      <EnglishText>Yeah, I'm sorry for making 
-you guys worry... No...</EnglishText>
+      <EnglishText>É, desculpem por deixar vocês
+preocupados... Não...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -300,8 +300,8 @@ you guys worry... No...</EnglishText>
       <VoiceId>3c0000b8</VoiceId>
       <JapaneseText>心配してくれて……
 ありがとう。</JapaneseText>
-      <EnglishText>I want to thank you 
-all...for your concern.</EnglishText>
+      <EnglishText>Quero agradecer a todos
+...pela preocupação.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -314,8 +314,8 @@ all...for your concern.</EnglishText>
       <PointerOffset>4407</PointerOffset>
       <JapaneseText>モニカ……やっと
 元気になったな。</JapaneseText>
-      <EnglishText>You look like you're in 
-good spirits again, Monica.</EnglishText>
+      <EnglishText>Você parece animada
+de novo, Monica.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -334,8 +334,8 @@ good spirits again, Monica.</EnglishText>
       <PointerOffset>4460</PointerOffset>
       <JapaneseText>クレアの友だちだっていう
 ガジュマのお嬢様のおかげだ。</JapaneseText>
-      <EnglishText>It's all thanks to that Gajuma girl 
-who said she was Claire's friend.</EnglishText>
+      <EnglishText>É tudo graças àquela garota Gajuma
+que disse ser amiga da Claire.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
@@ -345,9 +345,9 @@ who said she was Claire's friend.</EnglishText>
       <PointerOffset>4528</PointerOffset>
       <JapaneseText>クレア……いまさらだけど、
 もう一度謝らせて……</JapaneseText>
-      <EnglishText>Claire... Even after all 
-this time, I'd like to
-apologize once more.</EnglishText>
+      <EnglishText>Claire... Mesmo depois de tanto
+tempo, quero pedir desculpas
+mais uma vez.</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>18</Id>
@@ -357,8 +357,8 @@ apologize once more.</EnglishText>
       <PointerOffset>4558</PointerOffset>
       <JapaneseText>あなたがさらわれた時の事、
 本当にごめんなさい……</JapaneseText>
-      <EnglishText>I'm really sorry about 
-getting you kidnapped...</EnglishText>
+      <EnglishText>Sinto muito por ter feito
+você ser sequestrada...</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>19</Id>
@@ -367,7 +367,7 @@ getting you kidnapped...</EnglishText>
     <Entry>
       <PointerOffset>4607</PointerOffset>
       <JapaneseText>モニカ……あなたは悪くない。</JapaneseText>
-      <EnglishText>Monica... It wasn't your fault.</EnglishText>
+      <EnglishText>Monica... Não foi culpa sua.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>20</Id>
@@ -379,9 +379,9 @@ getting you kidnapped...</EnglishText>
 あなたや村の人たちに
 こんな思いをさせた……
 奴らよ……</JapaneseText>
-      <EnglishText>The ones who should shoulder the
-blame...are those who put you and
-the other townsfolk through that...</EnglishText>
+      <EnglishText>Quem deve assumir a culpa...
+são os que fizeram você e os
+demais moradores sofrerem isso...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>21</Id>
@@ -391,8 +391,8 @@ the other townsfolk through that...</EnglishText>
       <PointerOffset>4660</PointerOffset>
       <JapaneseText>それに、終わってしまった事は、
 もう元には戻せないけど……</JapaneseText>
-      <EnglishText>Besides, what's done is done.
-The past cannot be changed.</EnglishText>
+      <EnglishText>Além disso, o que passou, passou.
+O passado não pode ser mudado.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>22</Id>
@@ -403,9 +403,9 @@ The past cannot be changed.</EnglishText>
       <JapaneseText>大切なのは、その経験を
 これからの自分に活かす事
 じゃないのかな？</JapaneseText>
-      <EnglishText>What's important is that we make 
-the most out of whatever life 
-throws at us. Wouldn't you agree? </EnglishText>
+      <EnglishText>O importante é aproveitarmos ao
+máximo o que a vida nos traz.
+Você não concorda?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>23</Id>
@@ -415,8 +415,8 @@ throws at us. Wouldn't you agree? </EnglishText>
       <PointerOffset>4721</PointerOffset>
       <JapaneseText>う、うん……
 クレア、ありがとう……</JapaneseText>
-      <EnglishText>Y-You're right...
-Thank you, Claire.</EnglishText>
+      <EnglishText>V-Você tem razão...
+Obrigada, Claire.</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>24</Id>
@@ -427,9 +427,9 @@ Thank you, Claire.</EnglishText>
       <JapaneseText>ううん、私の方こそ、
 モニカにつらい思いをさせて……
 ごめんなさい。</JapaneseText>
-      <EnglishText>Don't thank me. I ought 
-to apologize as well for 
-making you upset.</EnglishText>
+      <EnglishText>Não agradeça. Eu também devo
+pedir desculpas por ter
+deixado você chateada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
@@ -449,9 +449,9 @@ making you upset.</EnglishText>
       <JapaneseText>やっぱり、クレアはクレアだな！
 でもってさ、&lt;Veigue&gt;……
 これは俺からのお礼だ……</JapaneseText>
-      <EnglishText>You haven't changed a bit, Claire! 
-Oh by the way, &lt;Veigue&gt;, I want to 
-give you a token of my appreciation...</EnglishText>
+      <EnglishText>Você não mudou nada, Claire!
+Ah, a propósito, &lt;Veigue&gt;, quero
+te dar um presente de gratidão...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -462,9 +462,9 @@ give you a token of my appreciation...</EnglishText>
       <JapaneseText>……なんて言うか……その……
 おまえのおかげで、俺の気持ちが
 モニカに伝わったって言うか……</JapaneseText>
-      <EnglishText>How do I say this... Well... It's 
-all thanks to you that I was able 
-to tell Monica how I really feel...</EnglishText>
+      <EnglishText>Como dizer... Bem... Foi graças
+a você que consegui dizer à Monica
+o que realmente sinto...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
@@ -475,8 +475,8 @@ to tell Monica how I really feel...</EnglishText>
       <JapaneseText>ああ、もう相変わらず
 おまえもおまえだな！
 なんでもいいや、受け取ってくれ！</JapaneseText>
-      <EnglishText>Hah, you haven't changed,
-either! Here, just take it.</EnglishText>
+      <EnglishText>Rá, você também não mudou!
+Toma, pega logo.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
@@ -485,7 +485,7 @@ either! Here, just take it.</EnglishText>
     <Entry>
       <PointerOffset>4967</PointerOffset>
       <JapaneseText>一体、どうなっているんだ……？</JapaneseText>
-      <EnglishText>What is he going on about...?</EnglishText>
+      <EnglishText>Do que ele está falando...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -494,7 +494,7 @@ either! Here, just take it.</EnglishText>
     <Entry>
       <PointerOffset>4997</PointerOffset>
       <JapaneseText>……モニカ、よかったわね……</JapaneseText>
-      <EnglishText>I'm happy for you, Monica.</EnglishText>
+      <EnglishText>Fico feliz por você, Monica.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
@@ -503,7 +503,7 @@ either! Here, just take it.</EnglishText>
     <Entry>
       <PointerOffset>5027</PointerOffset>
       <JapaneseText>うん♪</JapaneseText>
-      <EnglishText>Thanks♪</EnglishText>
+      <EnglishText>Obrigada♪</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>32</Id>
@@ -531,7 +531,7 @@ either! Here, just take it.</EnglishText>
       <PointerOffset>5227</PointerOffset>
       <JapaneseText>……あの子……
 ちょっとうらやましいな……</JapaneseText>
-      <EnglishText>I'm somewhat jealous of her...</EnglishText>
+      <EnglishText>Tenho um pouco de inveja dela...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>35</Id>
@@ -549,7 +549,7 @@ either! Here, just take it.</EnglishText>
     <Entry>
       <PointerOffset>2916</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、ありがとな！</JapaneseText>
-      <EnglishText>Thanks, &lt;Veigue&gt;!</EnglishText>
+      <EnglishText>Obrigada, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>37</Id>
@@ -559,7 +559,7 @@ either! Here, just take it.</EnglishText>
       <PointerOffset>2941</PointerOffset>
       <JapaneseText>やっぱり、おばさんのピーチパイは
 最高だな！</JapaneseText>
-      <EnglishText>Ms. Poplar's pies sure are the best!</EnglishText>
+      <EnglishText>A torta da dona Poplar é a melhor!</EnglishText>
       <Notes/>
       <SpeakerId>5,6</SpeakerId>
       <Id>38</Id>
@@ -571,7 +571,7 @@ either! Here, just take it.</EnglishText>
     <Entry>
       <PointerOffset>2809</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;、ありがとう！</JapaneseText>
-      <EnglishText>Thanks, &lt;Veigue&gt;!</EnglishText>
+      <EnglishText>Obrigada, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>39</Id>
@@ -581,8 +581,7 @@ either! Here, just take it.</EnglishText>
       <PointerOffset>2834</PointerOffset>
       <JapaneseText>こうやって、みんなが集まれるのって
 素敵よね……</JapaneseText>
-      <EnglishText>It's nice seeing everyone
-get together...</EnglishText>
+      <EnglishText>É bom ver todos reunidos...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
@@ -596,8 +595,8 @@ get together...</EnglishText>
       <JapaneseText>&lt;Veigue&gt;ちゃん……
 みんなとっても嬉しそうに
 帰って行ったわ……</JapaneseText>
-      <EnglishText>Oh, Little &lt;Veigue&gt;... It looks 
-like everyone had a great time...</EnglishText>
+      <EnglishText>Ah, pequeno &lt;Veigue&gt;... Parece
+que todos se divertiram muito...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>41</Id>
@@ -608,9 +607,9 @@ like everyone had a great time...</EnglishText>
       <JapaneseText>よかった……私……
 もうみんなと仲良くなんて
 できないって思ってたから……</JapaneseText>
-      <EnglishText>Thank goodness. I was worried 
-that I'd never be able to make
-amends with everyone.</EnglishText>
+      <EnglishText>Ainda bem. Eu temia não
+conseguir me reconciliar
+com todos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>42</Id>
@@ -635,8 +634,8 @@ amends with everyone.</EnglishText>
       <PointerOffset>2595</PointerOffset>
       <JapaneseText>甘いものは好きじゃないけど、
 これは別ね……</JapaneseText>
-      <EnglishText>I'm not one for sweets, but I can 
-make an exception for these pies...</EnglishText>
+      <EnglishText>Não gosto de doces, mas posso
+abrir exceção pra essas tortas...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -649,8 +648,8 @@ make an exception for these pies...</EnglishText>
       <PointerOffset>2540</PointerOffset>
       <JapaneseText>ううーん、おれのパイと
 何が違うんだろうな……</JapaneseText>
-      <EnglishText>Hmm... Why don't &lt;Italic&gt;my&lt;/Italic&gt; 
-pies taste this good...?</EnglishText>
+      <EnglishText>Hmm... Por que as &lt;Italic&gt;minhas&lt;/Italic&gt;
+tortas não ficam tão boas...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
@@ -662,8 +661,8 @@ pies taste this good...?</EnglishText>
     <Entry>
       <PointerOffset>2485</PointerOffset>
       <JapaneseText>……なつかしい味だった……</JapaneseText>
-      <EnglishText>The taste sure brings 
-back memories...</EnglishText>
+      <EnglishText>O sabor realmente traz
+lembranças de volta...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>46</Id>
@@ -675,7 +674,7 @@ back memories...</EnglishText>
     <Entry>
       <PointerOffset>2431</PointerOffset>
       <JapaneseText>わたしも感動してます……</JapaneseText>
-      <EnglishText>What a moving experience...</EnglishText>
+      <EnglishText>Que experiência comovente...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>47</Id>
@@ -687,7 +686,7 @@ back memories...</EnglishText>
     <Entry>
       <PointerOffset>2377</PointerOffset>
       <JapaneseText>ホントにおいしかったよネ。</JapaneseText>
-      <EnglishText>Those pies were really delicious!</EnglishText>
+      <EnglishText>Aquelas tortas estavam deliciosas!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>48</Id>
@@ -701,8 +700,8 @@ back memories...</EnglishText>
       <JapaneseText>突然、ガジュマどもが
 ヒューマに対して、
 反感を抱き出したんじゃ。</JapaneseText>
-      <EnglishText>Suddenly, the Gajuma have
-taken issue with Huma.</EnglishText>
+      <EnglishText>De repente, os Gajuma
+implicaram com os Huma.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>49</Id>
@@ -712,9 +711,9 @@ taken issue with Huma.</EnglishText>
       <PointerOffset>2313</PointerOffset>
       <JapaneseText>いつも仲良くしとったじいさんも、
 冷たくあたりよる……</JapaneseText>
-      <EnglishText>Even the other old man
-who I would always get
-along with is acting cold...</EnglishText>
+      <EnglishText>Até o outro velho, com quem
+eu sempre me dava bem,
+está agindo com frieza...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>50</Id>
@@ -724,9 +723,9 @@ along with is acting cold...</EnglishText>
       <PointerOffset>2335</PointerOffset>
       <JapaneseText>ここでガジュマとヒューマの子らが
 遊んでいた姿も久しく見んな……</JapaneseText>
-      <EnglishText>And it's been a while since 
-I've seen the Huma and Gajuma
-children play here together...</EnglishText>
+      <EnglishText>E faz tempo que não vejo
+crianças Huma e Gajuma
+brincando juntas aqui...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>51</Id>
@@ -740,8 +739,8 @@ children play here together...</EnglishText>
       <JapaneseText>&lt;Veigue&gt;……
 いい子にしてるから……
 凍らせないでね？</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;... I've been a good kid, 
-so please don't freeze me.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;... fui uma boa criança,
+então não me congele, por favor.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>52</Id>
@@ -751,9 +750,9 @@ so please don't freeze me.</EnglishText>
       <PointerOffset>2173</PointerOffset>
       <JapaneseText>氷が解けたから、
 集会所で遊べるようになったよー。</JapaneseText>
-      <EnglishText>Now that the ice is melted,
-we can play in the Meeting
-House again~!</EnglishText>
+      <EnglishText>Agora que o gelo derreteu,
+podemos brincar na Casa de
+Reuniões de novo~!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>53</Id>
@@ -763,8 +762,8 @@ House again~!</EnglishText>
       <PointerOffset>2223</PointerOffset>
       <JapaneseText>建物全体がすごく揺れたよ……
 コワイよ……</JapaneseText>
-      <EnglishText>The whole building 
-was shaking... Scary...</EnglishText>
+      <EnglishText>O prédio inteiro
+tremia... Que medo...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>54</Id>
@@ -774,7 +773,7 @@ was shaking... Scary...</EnglishText>
       <PointerOffset>2248</PointerOffset>
       <JapaneseText>ここなら……
 みつかりにくいよね？</JapaneseText>
-      <EnglishText>Maybe this is a good hiding place?</EnglishText>
+      <EnglishText>Aqui parece um bom esconderijo?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>55</Id>
@@ -787,8 +786,8 @@ was shaking... Scary...</EnglishText>
       <PointerOffset>1865</PointerOffset>
       <JapaneseText>ここに……クレアが
 閉じ込められてたの……？</JapaneseText>
-      <EnglishText>So here...is where Claire
-was trapped...?</EnglishText>
+      <EnglishText>Então foi aqui... que a Claire
+ficou presa...?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>56</Id>
@@ -798,8 +797,8 @@ was trapped...?</EnglishText>
       <PointerOffset>1890</PointerOffset>
       <JapaneseText>ここにクレアってお姉ちゃんが、
 氷の中に閉じ込められてたんだけど……</JapaneseText>
-      <EnglishText>This is where a girl named
-Claire was trapped in ice...</EnglishText>
+      <EnglishText>Foi aqui que uma menina chamada
+Claire ficou presa no gelo...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>57</Id>
@@ -808,7 +807,7 @@ Claire was trapped in ice...</EnglishText>
     <Entry>
       <PointerOffset>1912</PointerOffset>
       <JapaneseText>なんだか信じらんない……</JapaneseText>
-      <EnglishText>It's hard to believe...</EnglishText>
+      <EnglishText>É difícil de acreditar...</EnglishText>
       <Notes>You better believe it</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>58</Id>
@@ -818,8 +817,8 @@ Claire was trapped in ice...</EnglishText>
       <PointerOffset>1962</PointerOffset>
       <JapaneseText>またあの子と……
 ここで遊べたらな……</JapaneseText>
-      <EnglishText>I want to play with that 
-other girl here again...</EnglishText>
+      <EnglishText>Queria brincar aqui de novo
+com aquela outra menina...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>59</Id>
@@ -829,8 +828,8 @@ other girl here again...</EnglishText>
       <PointerOffset>2012</PointerOffset>
       <JapaneseText>かくれんぼしてたのに、
 いきなりあの地鳴り……</JapaneseText>
-      <EnglishText>We were playing Hide-and-Seek,
-when there was this huge tremor...</EnglishText>
+      <EnglishText>Brincávamos de esconde-esconde,
+quando veio um tremor enorme...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>60</Id>
@@ -839,7 +838,7 @@ when there was this huge tremor...</EnglishText>
     <Entry>
       <PointerOffset>2034</PointerOffset>
       <JapaneseText>コワかった……</JapaneseText>
-      <EnglishText>Scary...</EnglishText>
+      <EnglishText>Que medo...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>61</Id>
@@ -849,8 +848,8 @@ when there was this huge tremor...</EnglishText>
       <PointerOffset>2059</PointerOffset>
       <JapaneseText>しーっ！
 かくれんぼしてるのよ……！</JapaneseText>
-      <EnglishText>Shhhh! We're playing
-Hide-and-Seek...!</EnglishText>
+      <EnglishText>Shhhh! Estamos brincando
+de esconde-esconde...!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>62</Id>
@@ -864,9 +863,9 @@ Hide-and-Seek...!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>63</Id>
@@ -880,10 +879,10 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『集会所の壇上』
 ここに立つと、集会所内全体を
 見渡すことができる。</JapaneseText>
-      <EnglishText>- Raised Stage -
-If you stand here, you
-can get a good look of
-the whole Meeting House.</EnglishText>
+      <EnglishText>- Palco Elevado -
+Se ficar aqui, você pode ter
+uma boa vista de toda a
+Casa de Reuniões.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>64</Id>

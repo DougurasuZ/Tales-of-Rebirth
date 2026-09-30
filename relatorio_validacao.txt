@@ -1,12 +1,12 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :   3.1% das falas traduzidas (980 de 31269) | arquivos iniciados: 16 | sem problemas: 11
+story :   4.5% das falas traduzidas (1405 de 31269) | arquivos iniciados: 24 | sem problemas: 24
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 2.3% das falas traduzidas (980 de 41924)
-Problemas encontrados (sem contar pendentes): 7
+TOTAL : 3.4% das falas traduzidas (1405 de 41924)
+Problemas encontrados (sem contar pendentes): 0
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
 PENDENTE = fala ainda em inglês num arquivo que já foi iniciado.
@@ -72,27 +72,57 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
 
 [story/10239.xml]
-  Id 27 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
 
 [story/10240.xml]
-  Id 22 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
-  Id 85 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
-  Id 97 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
   Id 99: PENDENTE (igual ao inglês): Steve...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
 
 [story/10241.xml]
-  Id 20 (Strings): LINHAS: mais linhas que o inglês (2 > 1)
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
 
 [story/10242.xml]
-  Id 9 (Strings): TAMANHO: linha com 37 caracteres: <speed:0>- Informações sobre Várias Pousadas -
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
 
 [story/10243.xml]
-  Id 2 (Strings): TAMANHO: linha com 35 caracteres: Sulz - Pousada - Quarto de Hóspedes
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
+
+[story/10244.xml]
+  Id 40: PENDENTE (igual ao inglês): Kikee!
+  Id 130: PENDENTE (igual ao inglês): ...!
+  Id 192: PENDENTE (igual ao inglês): Keekeekee!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
+
+[story/10245.xml]
+  Id 8: PENDENTE (igual ao inglês): Uugh...
+  Id 19: PENDENTE (igual ao inglês): Kee...
+  Id 20: PENDENTE (igual ao inglês): Zapie?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
+
+[story/10246.xml]
+  Id 6: PENDENTE (igual ao inglês): Claire...
+  Id 26: PENDENTE (igual ao inglês): Claire...
+  Id 34: PENDENTE (igual ao inglês): [VARIABLE]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
 
 [story/10247.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10248.xml]
+  Id 5: PENDENTE (igual ao inglês): Force?
+  Id 29: PENDENTE (igual ao inglês): Huaaah!
+  Id 30: PENDENTE (igual ao inglês): Claire!
+  Id 31: PENDENTE (igual ao inglês): Keee!
+  Id 33: PENDENTE (igual ao inglês): ...?
+  Id 36: PENDENTE (igual ao inglês): Claire...
+  Id 40: PENDENTE (igual ao inglês): Claire!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10253.xml]
+  Id 10: PENDENTE (igual ao inglês): Gyaaaaaahhh!!
+  Id 17: PENDENTE (igual ao inglês): Gyaaaaaahhh!!
+  Id 28: PENDENTE (igual ao inglês): Bingooo!
+
+[story/10256.xml]
+  Id 11: PENDENTE (igual ao inglês): Claire...
+  Id 13: PENDENTE (igual ao inglês): ...?
