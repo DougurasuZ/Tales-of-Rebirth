@@ -10,6 +10,11 @@
 | 2_translated/story/10231.xml | 2026-09-29 |
 | 2_translated/story/10232.xml | 2026-09-29 |
 | 2_translated/story/10233.xml | 2026-09-29 |
+| 2_translated/story/10234.xml | 2026-09-30 |
+| 2_translated/story/10235.xml | 2026-09-30 |
+| 2_translated/story/10236.xml | 2026-09-30 |
+| 2_translated/story/10237.xml | 2026-09-30 |
+| 2_translated/story/10238.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -50,3 +55,18 @@
 - 10232.xml, Id 36 e 10233.xml, Id 40: as setas (← ↑ →) e os espaços ideográficos do original foram mantidos, apesar de não estarem na lista de caracteres permitidos; verificar se a fonte do jogo suporta.
 - 10233.xml, Ids 3–5: "Battle Book" mantido em inglês (recurso do jogo); "Records" virou "Registros".
 - 10233.xml, Id 19: "a friend of Veigue's" traduzido como "você conhece Veigue?" para evitar marca de gênero.
+- Revisão do relatorio_validacao.txt (2026-09-30): 0 problemas. Os PENDENTE restantes (10229 Id 16 "Agarte...", Id 33 "...?"; 10230 Id 9 "Kii!", Id 17 "Minal?") são nome próprio, reticências ou onomatopeia; mantidos em inglês de propósito.
+- 10234–10238: a ferramenta de validação não foi rodada de novo; conferi só linhas, tamanho e caracteres na aplicação. Rodar o validador para confirmar.
+- 10234.xml, Ids 75–103 e 141–154: falas de Claire/Agarte (SpeakerId 7 e 9, Agarte no corpo de Claire) em tom formal. Ids 62 e 67–72 (Agarte fingindo ser Claire) também.
+- 10234.xml, Id 100 e 10238.xml, Id 20: "Human/Humanity" (ヒト, não a raça Huma) traduzido como "humano/humanidade" minúsculo.
+- 10234.xml, Id 22 / 10236.xml: "Dusk of Ladras" → "Crepúsculo de Ladras"; "Royal Shield" → "Escudo Real" (glossário).
+- 10234.xml, Ids 49–51: tutorial de Títulos condensado para caber no limite de linha; "Titles" → "Títulos".
+- 10235.xml, Id 42 e 10236: "Ice Birus", "Frost Crow" e "Birus" mantidos em inglês (nome de monstro). Conferir se é a decisão desejada.
+- 10236.xml, Id 138: "Kikee!" (SpeakerId 11, Saleh) mantido igual; no japonês provavelmente é Zapie. Verificar o falante no jogo.
+- 10236.xml, Id 3 ("Hit Effect Display"): item de menu/opção traduzido como "Exibir Efeitos de Golpe"; confirmar contexto.
+- 10236.xml, Id 98: "perdão" no lugar de "me desculpe" para caber no limite de caracteres.
+- 10236.xml, Ids 44 e 46: Tohma fala "Gelo" (Ice) sobre o Force de Veigue; mantido como no inglês.
+- Rótulos de falante traduzidos: "Notice" → "Aviso", "Old Woman" → "Idosa", "Callegean Soldier" → "Soldado Callegeano", "Royal Shield Knight" → "Cavaleiro do Escudo Real", "Man" → "Homem", "Woman" → "Mulher". Nomes (Monica, Steve, Marco, Rakia, Poplar, Tohma, Saleh, Zapie) e "Select" mantidos; "???" e "??" intactos.
+- 10237.xml, 10238.xml: "Little Veigue/Claire" (Poplar) → "pequeno Veigue/pequena Claire". Símbolos ♪ e — mantidos como no inglês.
+- 10238.xml, Id 2: "2nd Floor" virou "Andar 2" porque "º" não está na lista de caracteres permitidos.
+- 10237.xml, Id 9: usei "…" (reticências unicode, já permitido) em uma frase para caber na linha.

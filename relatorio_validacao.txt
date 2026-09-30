@@ -1,0 +1,77 @@
+RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
+============================================================
+
+story :   2.3% das falas traduzidas (725 de 31269) | arquivos iniciados: 11 | sem problemas: 9
+skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
+menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
+
+TOTAL : 1.7% das falas traduzidas (725 de 41924)
+Problemas encontrados (sem contar pendentes): 2
+
+Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
+PENDENTE = fala ainda em inglês num arquivo que já foi iniciado.
+Arquivos de debug (Debug Do Not Translate) são ignorados.
+============================================================
+
+[story/10229.xml]
+  Id 16: PENDENTE (igual ao inglês): Agarte...
+  Id 33: PENDENTE (igual ao inglês): ...?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz; Id 3: Sulz; Id 46: Sulz; Id 47: Minal; Id 48: Petnadjanka; Id 49: Sunnytown; Id 50: Anikamal; Id 51: Babilograd; Id 53: Razilda; Id 54: Pipista; Id 55: Kyogen; Id 56: Nolzen; Id 57: Mocrado
+
+[story/10230.xml]
+  Id 9: PENDENTE (igual ao inglês): Kii!
+  Id 17: PENDENTE (igual ao inglês): Minal?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10231.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10232.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10233.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10234.xml]
+  Id 46: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 47: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 48: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 61: PENDENTE (igual ao inglês): ...Claire?
+  Id 70: PENDENTE (igual ao inglês): Kiki!!
+  Id 74: PENDENTE (igual ao inglês): Agarte!
+  Id 79: PENDENTE (igual ao inglês): ...?
+  Id 121: PENDENTE (igual ao inglês): ...?
+
+[story/10235.xml]
+  Id 12: PENDENTE (igual ao inglês): Gallardo.
+
+[story/10236.xml]
+  Id 8: PENDENTE (igual ao inglês): M-Monica...
+  Id 28: PENDENTE (igual ao inglês): Monica...
+  Id 32: PENDENTE (igual ao inglês): Monica!
+  Id 38: PENDENTE (igual ao inglês): H-Heeeee!
+  Id 39: PENDENTE (igual ao inglês): Force...
+  Id 41: PENDENTE (igual ao inglês): Hmph...
+  Id 52: PENDENTE (igual ao inglês): Saleh!
+  Id 66 (Strings): TAMANHO: linha com 41 caracteres: quanto a deserção do <Blue>Escudo Real<White>
+  Id 72: PENDENTE (igual ao inglês): ...!?
+  Id 82: PENDENTE (igual ao inglês): Guaaghh!!
+  Id 84: PENDENTE (igual ao inglês): Ugh...!
+  Id 85: PENDENTE (igual ao inglês): ...Huaaaah!!
+  Id 86: PENDENTE (igual ao inglês): Ugh!
+  Id 93: PENDENTE (igual ao inglês): Claire...!
+  Id 107: PENDENTE (igual ao inglês): Claire!!
+  Id 113: PENDENTE (igual ao inglês): Muahahahaha!!
+  Id 114: PENDENTE (igual ao inglês): Hahahahaha...
+  Id 138: PENDENTE (igual ao inglês): Kikee!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz
+
+[story/10237.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Sulz
+
+[story/10238.xml]
+  Id 20 (Strings): TAMANHO: linha com 35 caracteres: Doces levam a <Yellow>humanidade<White>
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz
+
+[story/10247.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sulz; Id 2: Sulz

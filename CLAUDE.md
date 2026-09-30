@@ -20,22 +20,30 @@ O texto fica nos arquivos XML dentro da pasta `2_translated`. Siga TODAS as regr
   (pode ter menos, se a frase couber). Distribua o texto de forma equilibrada entre as linhas,
   evitando deixar uma palavra sozinha na última linha.
   A continuação de uma linha começa colada na margem esquerda, sem espaços antes.
-- Tamanho das linhas: no máximo 34 caracteres por linha. O português costuma ficar mais longo
-  que o inglês, então condense a frase quando necessário, sem perder o sentido.
+- Tamanho das linhas: no máximo 34 caracteres por linha OU o tamanho da maior linha do inglês
+  daquela mesma entrada, o que for MAIOR (algumas janelas, como tutoriais, são mais largas).
+  O português costuma ficar mais longo que o inglês, então condense quando necessário.
 - Caracteres permitidos: letras sem acento, números, pontuação comum (. , ! ? : ; ' " - ( ) … —)
   e SOMENTE estes acentos: á à â ã é ê í ó ô õ ú ç Á À Â Ã É Ê Í Ó Ô Õ Ú Ç.
   Não use ü, ñ, aspas curvas (“ ” ‘ ’) nem outros símbolos.
+  Exceção: qualquer caractere que já exista no inglês daquela entrada (setas ← ↑ →,
+  espaços ideográficos, símbolos) pode ser mantido, pois a fonte já o suporta.
 - Não altere nenhum arquivo fora da pasta `2_translated`, com exceção de `glossario.md` e `progresso.md`.
+- Não crie scripts nem arquivos auxiliares na pasta do projeto. Se precisar de um arquivo
+  temporário, apague-o ao terminar.
 - Não execute comandos git.
 - Depois de editar cada arquivo, confira se o XML continua válido (todas as tags abertas e fechadas).
 
 ## 2. Nomes
 
-- Personagens, técnicas (artes, magias) e itens: MANTER o nome exatamente como está em inglês.
+- Personagens, técnicas (artes, magias), itens e monstros: MANTER o nome exatamente como está em inglês.
 - Lugares:
   - Nomes descritivos (palavras comuns): TRADUZIR. Ex.: "Meeting House" → "Casa de Reuniões".
   - Nomes próprios inventados (cidades, regiões): MANTER como estão.
   - Nomes mistos: traduzir só a parte comum. Ex.: "[Nome] Forest" → "Floresta de [Nome]".
+- Rótulos de falante genéricos (profissões, descrições como "Coachman", "Woman", "Innkeeper's Son"):
+  TRADUZIR. Nomes próprios de NPCs: manter.
+- Termos fixos do jogo mantidos em inglês: Force, Gald, Huma, Gajuma.
 - Antes de traduzir um nome de lugar ou termo recorrente, consulte `glossario.md`.
   Se o termo já estiver lá, use exatamente a tradução registrada.
   Se for novo, escolha a tradução e ACRESCENTE no glossário.

@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757,757</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Idosa</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>156</PointerOffset>
       <JapaneseText>スールズ・ポプラの家・二階</JapaneseText>
-      <EnglishText>Sulz - Poplar's House - 2nd Floor</EnglishText>
+      <EnglishText>Sulz - Casa de Poplar - Andar 2</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -51,7 +51,7 @@
     <Entry>
       <PointerOffset>1511</PointerOffset>
       <JapaneseText>ニャオーン♪</JapaneseText>
-      <EnglishText>Meow♪</EnglishText>
+      <EnglishText>Miau♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -65,9 +65,9 @@
       <JapaneseText>この村のもんは大抵、
 この村で生まれて、
 この村で死んでゆく。</JapaneseText>
-      <EnglishText>Most of the people in this village
-were born here, and they'll likely
-die here, too.</EnglishText>
+      <EnglishText>A maioria das pessoas desta vila
+nasceu aqui e provavelmente
+vai morrer aqui também.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -77,7 +77,7 @@ die here, too.</EnglishText>
       <PointerOffset>841</PointerOffset>
       <JapaneseText>私も村の外に出る事なんて
 めったにない。</JapaneseText>
-      <EnglishText>I hardly leave the village myself.</EnglishText>
+      <EnglishText>Eu mesma quase nunca saio da vila.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -87,9 +87,9 @@ die here, too.</EnglishText>
       <PointerOffset>863</PointerOffset>
       <JapaneseText>……前の国王、ラドラス様の
 即位の時には都に行ったけども。</JapaneseText>
-      <EnglishText>...But I did visit the Capital
-when our last ruler, King
-Ladras, was crowned.</EnglishText>
+      <EnglishText>...Mas fui à Capital quando nosso
+último governante, o Rei Ladras,
+foi coroado.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -99,10 +99,10 @@ Ladras, was crowned.</EnglishText>
       <PointerOffset>913</PointerOffset>
       <JapaneseText>兵隊なぞ、どうしてこの村に……
 平和だけがとりえだというのに。</JapaneseText>
-      <EnglishText>To think there were soldiers in
-this village...and they say this
-is a nice place to live because
-it's always peaceful here.</EnglishText>
+      <EnglishText>Pensar que havia soldados nesta
+vila... e dizem que aqui é um bom
+lugar para viver porque é sempre
+tranquilo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -111,7 +111,7 @@ it's always peaceful here.</EnglishText>
     <Entry>
       <PointerOffset>935</PointerOffset>
       <JapaneseText>ああ……恐ろしい事だ……</JapaneseText>
-      <EnglishText>Ohhh... How awful...</EnglishText>
+      <EnglishText>Ohhh... Que horror...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -121,8 +121,8 @@ it's always peaceful here.</EnglishText>
       <PointerOffset>957</PointerOffset>
       <JapaneseText>あと二十歳ほど若ければ、
 私が連れて行かれたかもしれん……</JapaneseText>
-      <EnglishText>If I were twenty years younger,
-I might've tagged along...</EnglishText>
+      <EnglishText>Se eu tivesse vinte anos a menos,
+talvez tivesse ido junto...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -132,8 +132,8 @@ I might've tagged along...</EnglishText>
       <PointerOffset>982</PointerOffset>
       <JapaneseText>この村ではヒューマもガジュマも
 仲良くやっている。</JapaneseText>
-      <EnglishText>In this village, Huma and
-Gajuma get along well.</EnglishText>
+      <EnglishText>Nesta vila, Huma e Gajuma
+se dão bem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -143,8 +143,8 @@ Gajuma get along well.</EnglishText>
       <PointerOffset>1004</PointerOffset>
       <JapaneseText>郷に入りては郷に従えと言う。
 </JapaneseText>
-      <EnglishText>They say, "When in Sulz,
-do as the Sulzians do."</EnglishText>
+      <EnglishText>Dizem: "Em Sulz, faça como fazem
+os sulzianos."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -154,8 +154,8 @@ do as the Sulzians do."</EnglishText>
       <PointerOffset>1026</PointerOffset>
       <JapaneseText>客人よ、私らの和を
 乱さんでくれよ。</JapaneseText>
-      <EnglishText>You visitors, don't go
-disturbing the peace.</EnglishText>
+      <EnglishText>Vocês, visitantes, não
+perturbem a paz.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -165,8 +165,8 @@ disturbing the peace.</EnglishText>
       <PointerOffset>1093</PointerOffset>
       <JapaneseText>&lt;Veigue&gt;よ、
 欲を出すでないぞ。</JapaneseText>
-      <EnglishText>Don't get in over
-your head, &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>Não dê um passo maior que a
+perna, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -177,9 +177,8 @@ your head, &lt;Veigue&gt;.</EnglishText>
       <JapaneseText>この村で生まれ、
 この村で育った事が
 おぬしの幸せだ。</JapaneseText>
-      <EnglishText>You were born and raised
-in this village, and you'll
-be happy if you stay.</EnglishText>
+      <EnglishText>Você nasceu e cresceu nesta vila,
+e será feliz se ficar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -189,8 +188,8 @@ be happy if you stay.</EnglishText>
       <PointerOffset>1137</PointerOffset>
       <JapaneseText>多くを求めんとあがけば
 ロクな事にはなるまい。</JapaneseText>
-      <EnglishText>If you ask for too much,
-you will end up in trouble.</EnglishText>
+      <EnglishText>Se pedir demais, vai acabar
+em apuros.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -201,9 +200,8 @@ you will end up in trouble.</EnglishText>
       <JapaneseText>&lt;Veigue&gt;、大切なものを
 奪われたからと言って、
 見苦しく取り乱すでない。</JapaneseText>
-      <EnglishText>I know you've lost something
-important to you, but don't
-let yourself fall to pieces.</EnglishText>
+      <EnglishText>Sei que perdeu algo importante,
+mas não se deixe desmoronar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -213,9 +211,9 @@ let yourself fall to pieces.</EnglishText>
       <PointerOffset>1209</PointerOffset>
       <JapaneseText>まだ失われたわけではない。
 絶望したもんではないぞ。</JapaneseText>
-      <EnglishText>You don't need to
-lose anything else.
-It's not hopeless.</EnglishText>
+      <EnglishText>Você não precisa perder
+mais nada. Nem tudo
+está perdido.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -225,9 +223,9 @@ It's not hopeless.</EnglishText>
       <PointerOffset>1231</PointerOffset>
       <JapaneseText>頭を冷やせ、目を開け。
 おのずと光は見えてこよう。</JapaneseText>
-      <EnglishText>Cool your temper, open your
-eyes, and you will see the
-light intrinsically.</EnglishText>
+      <EnglishText>Acalme o gênio, abra os olhos
+e você enxergará a luz
+dentro de si.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -237,8 +235,8 @@ light intrinsically.</EnglishText>
       <PointerOffset>1281</PointerOffset>
       <JapaneseText>パイ……か。
 長く口にしておらんの。</JapaneseText>
-      <EnglishText>Pie... Hmm, I could go
-on and on about it.</EnglishText>
+      <EnglishText>Torta... Hmm, eu poderia falar
+sobre isso o dia todo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -248,8 +246,8 @@ on and on about it.</EnglishText>
       <PointerOffset>1303</PointerOffset>
       <JapaneseText>甘きものは
 &lt;Yellow&gt;ヒト&lt;White&gt;を堕落させる……</JapaneseText>
-      <EnglishText>Sweet things will lead
-&lt;Yellow&gt;Humanity&lt;White&gt; to ruin...</EnglishText>
+      <EnglishText>Doces levam a &lt;Yellow&gt;humanidade&lt;White&gt;
+à ruína...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -259,7 +257,7 @@ on and on about it.</EnglishText>
       <PointerOffset>1325</PointerOffset>
       <JapaneseText>堕落、堕落……
 …………</JapaneseText>
-      <EnglishText>Depravity, corruption...</EnglishText>
+      <EnglishText>Depravação, corrupção...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -268,7 +266,7 @@ on and on about it.</EnglishText>
     <Entry>
       <PointerOffset>1347</PointerOffset>
       <JapaneseText>……それもよいかものう……</JapaneseText>
-      <EnglishText>...Maybe that's just fine...</EnglishText>
+      <EnglishText>...Talvez isso seja bom assim...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -279,8 +277,8 @@ on and on about it.</EnglishText>
       <JapaneseText>平和な村でも、
 天災からだけは
 逃れる事はできない……</JapaneseText>
-      <EnglishText>Even in this peaceful village,
-one cannot escape nature...</EnglishText>
+      <EnglishText>Mesmo nesta vila pacífica,
+ninguém escapa da natureza...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -291,9 +289,9 @@ one cannot escape nature...</EnglishText>
       <JapaneseText>大自然の脅威は
 甘んじて受けるしか
 ないのだ。</JapaneseText>
-      <EnglishText>We have no choice but
-to accept that nature
-is a harsh mistress.</EnglishText>
+      <EnglishText>Não temos escolha senão
+aceitar que a natureza
+é uma amante severa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -304,9 +302,9 @@ is a harsh mistress.</EnglishText>
       <JapaneseText>ベルサスのあたりでは、
 ひどいガジュマ差別をしてる
 奴らがいるって話だ。</JapaneseText>
-      <EnglishText>I've heard that
-they treat Gajuma
-horribly in Belsas.</EnglishText>
+      <EnglishText>Ouvi dizer que tratam os
+Gajuma de forma horrível
+em Belsas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -316,9 +314,9 @@ horribly in Belsas.</EnglishText>
       <PointerOffset>1466</PointerOffset>
       <JapaneseText>だが、ヒューマだの
 ガジュマだの無意味な話さ。</JapaneseText>
-      <EnglishText>But it's just another
-senseless story about
-Huma and Gajuma.</EnglishText>
+      <EnglishText>Mas é só mais uma história
+sem sentido sobre Huma
+e Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -334,10 +332,10 @@ Huma and Gajuma.</EnglishText>
 ワイングラスが並んでいる。
 年代物の高級品も少なくない。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Sideboard -
-Poplar's mother's favorite cups
-and wine glasses are on display.
-Many of them are old and expensive.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Aparador -
+As xícaras e taças favoritas da mãe
+de Poplar estão expostas. Muitas
+são antigas e caras.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -353,12 +351,12 @@ Many of them are old and expensive.</EnglishText>
 旅の画家ケイトが勝手に描いた
 かれんな花の絵。
 花言葉「あなたは僕を愛してるはずだ」</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Wall Painting -
-More than twenty years ago,
-Kate, a traveling artist visiting
-Sulz, took the liberty of painting
-a beautiful flower.
-Title: I Know You Love Me</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Pintura na Parede -
+Há mais de vinte anos, Kate, uma
+artista itinerante visitando Sulz,
+tomou a liberdade de pintar uma
+bela flor.
+Título: Sei Que Você Me Ama</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -377,15 +375,15 @@ Title: I Know You Love Me</EnglishText>
 ポプラのお母さんの口調が堅いのは
 この本の強い影響だと言われている。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Quotes from Callegea's Rulers -
-A book treasured by Poplar's mother.
-This book is a compilation of quotes
-and instructions from all the rulers
-of The Kingdom of Callegea, from the
-first King Goldba to the late King
-Ladras. It is said that Poplar's
-mother's harsh tone is due to being
-strongly influenced by this book.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Citações dos Reis de Callegea -
+Livro estimado pela mãe de Poplar.
+É uma compilação de citações e
+instruções de todos os governantes
+do Reino de Callegea, do primeiro
+Rei Goldba ao falecido Rei Ladras.
+Dizem que o tom severo da mãe de
+Poplar vem da forte influência
+deste livro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -402,13 +400,13 @@ strongly influenced by this book.</EnglishText>
 三十年もの、五十年もの。
 中身はすでにポプラに飲まれ、
 別のワインにすり替えられている。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Wine Collection -
-Poplar's mother's collection.
-Wine ages, from left to right: 20,
-30, and 50-years. The original
-contents have already been drunk
-by Poplar and replaced with
-different wines.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Coleção de Vinhos -
+Coleção da mãe de Poplar.
+Idade dos vinhos, da esquerda para
+a direita: 20, 30 e 50 anos. O
+conteúdo original já foi bebido
+pela Poplar e trocado por outros
+vinhos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -425,14 +423,14 @@ different wines.</EnglishText>
 描きあげたポプラの肖像画。
 画家の想い入れを差し引いても
 なかなかの美女。おばさんも若かった。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Poplar, Aged 20 -
-Over 20 years ago, a painter visited
-the village, and having fallen in
-love with Poplar at first sight,
-painted a portrait of her in a single
-night. Regardless of the painter's
-feelings for her, she was quite a beauty.
-Even she was young, once upon a time.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Poplar aos 20 Anos -
+Há mais de 20 anos, um pintor visitou
+a vila e, tendo se apaixonado por
+Poplar à primeira vista, pintou um
+retrato dela em uma única noite.
+Sentimentos do pintor à parte, ela era
+mesmo uma beldade. Até ela já foi jovem,
+um dia.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
