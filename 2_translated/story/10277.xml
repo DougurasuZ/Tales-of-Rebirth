@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>406,406,406,406</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>135</PointerOffset>
       <JapaneseText>ミナール・宿屋・客室</JapaneseText>
-      <EnglishText>Minal - Inn - Guest Room</EnglishText>
+      <EnglishText>Minal - Pousada - Quarto</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -52,7 +52,7 @@
       <PointerOffset>429</PointerOffset>
       <JapaneseText>病は気から……
 そうだよね……!?</JapaneseText>
-      <EnglishText>Sickness is a state of mind, right?</EnglishText>
+      <EnglishText>Doença é coisa da cabeça, né?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -62,8 +62,8 @@
       <PointerOffset>454</PointerOffset>
       <JapaneseText>ラジルダがメチャクチャになって、
 みんなバラバラになっちゃった……</JapaneseText>
-      <EnglishText>Everyone got separated when
-Razilda was destroyed...</EnglishText>
+      <EnglishText>Todo mundo se separou quando
+Razilda foi destruída...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -74,8 +74,8 @@ Razilda was destroyed...</EnglishText>
       <JapaneseText>でも、僕決めたんだ……
 元気になって、もう一度
 ラジルダを作り直すんだって！</JapaneseText>
-      <EnglishText>But you know what? I'm going to
-get healthy and help rebuild Razilda!</EnglishText>
+      <EnglishText>Mas sabe de uma coisa? Vou ficar
+bom e ajudar a reconstruir Razilda!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -85,7 +85,7 @@ get healthy and help rebuild Razilda!</EnglishText>
       <PointerOffset>498</PointerOffset>
       <JapaneseText>そのためには早く
 元気にならなくっちゃって！</JapaneseText>
-      <EnglishText>So I need to get well soon!</EnglishText>
+      <EnglishText>Por isso preciso melhorar logo!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -100,10 +100,10 @@ get healthy and help rebuild Razilda!</EnglishText>
 時々、愛の告白が書いてあるが、
 その相手が読むとは限らない。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Notebook -
-Sometimes a confession of love 
-will be written in it. This does
-not mean it will be read.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Caderno -
+Às vezes há confissões de amor
+escritas aqui. Isso não quer dizer
+que serão lidas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>

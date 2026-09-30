@@ -44,6 +44,14 @@
 | 2_translated/story/10274.xml | 2026-09-30 |
 | 2_translated/story/10275.xml | 2026-09-30 |
 | 2_translated/story/10276.xml | 2026-09-30 |
+| 2_translated/story/10277.xml | 2026-09-30 |
+| 2_translated/story/10278.xml | 2026-09-30 |
+| 2_translated/story/10279.xml | 2026-09-30 |
+| 2_translated/story/10280.xml | 2026-09-30 |
+| 2_translated/story/10281.xml | 2026-09-30 |
+| 2_translated/story/10282.xml | 2026-09-30 |
+| 2_translated/story/10283.xml | 2026-09-30 |
+| 2_translated/story/10288.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -137,4 +145,14 @@
 - 10275.xml, Ids 69–87: o código `<unk17:340C80>` (preço) foi preservado; Id 83/84 ficou numa linha só ("Gastar <unk17:...> Gald para descansar?"). Id 87 encurtado para "<unk17:...> Gald para passar a noite?".
 - 10275.xml, Id 57: "Silent Night" → "Noite Silenciosa" (glossário). Id 55: "Day of Goldba" → "Dia de Goldba". Id 59: "Suzu plant" → "planta Suzu" (nome da planta mantido).
 - 10274.xml, Ids 93–95: textos de objetos examináveis traduzidos ("Vasinho de Planta", "Prateleira", "Armadura do Rei Giga"); "Minal" entre aspas retas mantido como no inglês.
+- Lote 10277–10283 + 10288 (2026-09-30): o relatório anterior tinha 0 problemas (só PENDENTE de nomes/interjeições, mantidos de propósito). Arquivos 10284–10287 e 10289+ fora do lote; 10284–10287 não existem. Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 48 problemas na 1ª rodada (TAMANHO/LINHAS/CARACTERE), 1 na 2ª, 0 na 3ª.
+- 10278–10283, rótulos de falante: "Boy" → "Menino", "Girl" → "Menina", "Man" → "Homem", "Woman" → "Mulher", "Bartender" → "Barman", "Drunkard" → "Bêbado", "Bar Manager" → "Dono do Bar", "Cashier" → "Caixa", "Ex-Cashier" → "Ex-Caixa", "Librarian" → "Bibliotecário" (gênero não definido no inglês), "Woman with Glasses" → "Mulher de Óculos", "Town Hall Old Man" → "Idoso da Prefeitura", "Town Hall Lady" → "Moça da Prefeitura", "Ex-Warrior" → "Ex-Guerreiro", "Restauranteur" → "Dono do Restaurante", "MENU" → "CARDÁPIO", "<Nome>'s Title Bonuses" → "Bônus de Títulos de <Nome>". "Select", "????", [VARIABLE] e nomes mantidos.
+- 10280.xml, livros da biblioteca: nomes de livros tratados como itens e mantidos em inglês (History Book, Philosophy Book, Dictionary, Reference Book, Romance Novel, Mystery Novel, Historical Novel, Biography, Travelogue, Adventure Novel, Poetry Collection, Art Book); no menu viram "Pegar o/a ...". "Library Card" → "Cartão da Biblioteca". Conferir se agrada.
+- 10280.xml, Títulos: "Title" → "Título", "Free Title" → "Título Livre"; nomes dos Títulos livres (Ids 240–250) traduzidos: "Jovem Livre", "Menino Livre", "Homem Livre", "Menina Livre", "Cara Livre", "Dama Livre". Ids 251–259 começam com ": " porque o nome do personagem vem antes (ex.: "<Veigue>: Título "..."."). Conferir no jogo.
+- 10280.xml, Ids 148–210 e 230–233 ([VARIABLE]/só códigos) deixados como estão. Ids 170/171: "window no. 4/2" → "guichê número 4/2" ("º" não permitido). Id 220: "Swordsman" e "Cold Faced" (nomes de Títulos) mantidos em inglês.
+- 10280.xml, Id 134: "Woman who Loves Freedom" → "Mulher que Ama a Liberdade" (código `<scale:12C>` preservado). Id 225: "gels" mantido em inglês (item).
+- 10281.xml, Ids 15–34: títulos de livros lidos mantidos em inglês ("Poetry Collection", "Art Book", "Travelogue", "Adventure Story", "Historical Novel", "Biography", "Romance Novel", "Mystery Novel"); "Force of Moon" mantido (nome de técnica). Id 12: frase do bibliotecário/homem cortada ("Talvez seja verdade que os Huma na verdade... Vou parar por aqui.") — interpretação livre.
+- 10282.xml, Id 24: nomes dos pratos (Minalian Shellfish Paella, Lemon Apple Pie, Hasta Pasta, Deep-fried Centipede, Sauteed Ice Cream) mantidos em inglês (itens). Ids 17–19 e 32: "gald" → "Gald". Id 39: só código `<unk1A:...>`, não mexi.
+- 10283.xml, Ids 4/6/10: "catalogued/cataloguing" → "catalogou/catalogar"; "Battle Book" mantido. Id 9: "1000000 gald" → "1000000 Gald" como no inglês. Id 35: "1st/100th" virou "Primeira/Centésimo" (por causa do "º").
+- 10288.xml: "Forest Labyrinth" → "Floresta Labirinto" (glossário). Id 45–47: "RG"/"Rush Gauge"/"RG Gauge" mantidos em inglês (termo de batalha). Id 9: fala de Amzil "Guaaahh!! N-Nayla... <Hilda>..." mantida como está (onomatopeia + nomes).
 - 10253.xml: "Half" (raça mista) mantido em inglês; "Lady Zilva" mantido; "Etoray Bridge" → "Ponte de Etoray"; "Biruses" → "Birus". Ids 31/32/34/45 (avisos de tutorial) condensados para caber nas linhas.

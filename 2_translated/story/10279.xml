@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>4432</PointerOffset>
       <JapaneseText>客&lt;unk17:38E405C18C80&gt;</JapaneseText>
-      <EnglishText>Customer &lt;unk17:38E405C18C80&gt;</EnglishText>
+      <EnglishText>Cliente &lt;unk17:38E405C18C80&gt;</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>761,6676,8218</PointerOffset>
       <JapaneseText>バーテンダー</JapaneseText>
-      <EnglishText>Bartender</EnglishText>
+      <EnglishText>Barman</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>201,2132,2225,8303,8370,8594</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>6683</PointerOffset>
       <JapaneseText>よっぱらい</JapaneseText>
-      <EnglishText>Drunkard</EnglishText>
+      <EnglishText>Bêbado</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>1228</PointerOffset>
       <JapaneseText>酒場の主人</JapaneseText>
-      <EnglishText>Bar Manager</EnglishText>
+      <EnglishText>Dono do Bar</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -125,7 +125,7 @@
     <Entry>
       <PointerOffset>1028</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>14</Id>
       <Status>Done</Status>
@@ -133,7 +133,7 @@
     <Entry>
       <PointerOffset>937</PointerOffset>
       <JapaneseText>レジの女</JapaneseText>
-      <EnglishText>Cashier</EnglishText>
+      <EnglishText>Caixa</EnglishText>
       <Notes/>
       <Id>15</Id>
       <Status>Done</Status>
@@ -144,7 +144,7 @@
     <Entry>
       <PointerOffset>357</PointerOffset>
       <JapaneseText>酒場</JapaneseText>
-      <EnglishText>Tavern</EnglishText>
+      <EnglishText>Taverna</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -152,7 +152,7 @@
     <Entry>
       <PointerOffset>366</PointerOffset>
       <JapaneseText>ミナール酒場</JapaneseText>
-      <EnglishText>Minal Tavern</EnglishText>
+      <EnglishText>Taverna de Minal</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -160,7 +160,7 @@
     <Entry>
       <PointerOffset>363</PointerOffset>
       <JapaneseText>ミナール・酒場</JapaneseText>
-      <EnglishText>Minal - Tavern</EnglishText>
+      <EnglishText>Minal - Taverna</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -192,7 +192,7 @@
     <Entry>
       <PointerOffset>6537</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;START!!</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;START!</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;JÁ!</EnglishText>
       <Notes>Minigame countdown.</Notes>
       <Id>7</Id>
       <Status>Done</Status>
@@ -203,7 +203,7 @@
     <Entry>
       <PointerOffset>2642</PointerOffset>
       <JapaneseText>ウイスキー</JapaneseText>
-      <EnglishText>some whiskey</EnglishText>
+      <EnglishText>um uísque</EnglishText>
       <Notes>Drink type for the minigame.</Notes>
       <Id>8</Id>
       <Status>Proofreading</Status>
@@ -211,7 +211,7 @@
     <Entry>
       <PointerOffset>2657</PointerOffset>
       <JapaneseText>カクテル</JapaneseText>
-      <EnglishText>a cocktail</EnglishText>
+      <EnglishText>um coquetel</EnglishText>
       <Notes>Drink type for the minigame</Notes>
       <Id>9</Id>
       <Status>Proofreading</Status>
@@ -219,7 +219,7 @@
     <Entry>
       <PointerOffset>2672</PointerOffset>
       <JapaneseText>生</JapaneseText>
-      <EnglishText>a draft beer</EnglishText>
+      <EnglishText>um chope</EnglishText>
       <Notes>Drink type for the minigame.</Notes>
       <Id>10</Id>
       <Status>Proofreading</Status>
@@ -227,7 +227,7 @@
     <Entry>
       <PointerOffset>2687</PointerOffset>
       <JapaneseText>地酒</JapaneseText>
-      <EnglishText>some local wine</EnglishText>
+      <EnglishText>um vinho local</EnglishText>
       <Notes>Drink type for the minigame.</Notes>
       <Id>11</Id>
       <Status>Proofreading</Status>
@@ -235,7 +235,7 @@
     <Entry>
       <PointerOffset>2717</PointerOffset>
       <JapaneseText>のんびり飲むか。</JapaneseText>
-      <EnglishText>I'm here for a drink.</EnglishText>
+      <EnglishText>Vim tomar uma bebida.</EnglishText>
       <Notes>Client 1 - opening line 1.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -244,7 +244,7 @@
     <Entry>
       <PointerOffset>2728</PointerOffset>
       <JapaneseText>ヤケ酒だ！</JapaneseText>
-      <EnglishText>I'm here to drown my sorrows!</EnglishText>
+      <EnglishText>Vim afogar as mágoas!</EnglishText>
       <Notes>Client 1 - opening line 2.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -253,7 +253,7 @@
     <Entry>
       <PointerOffset>2739</PointerOffset>
       <JapaneseText>&lt;unk18:489C0538CC058880&gt;をくれ！</JapaneseText>
-      <EnglishText>I'll have &lt;unk18:489C0538CC058880&gt;!</EnglishText>
+      <EnglishText>Quero &lt;unk18:489C0538CC058880&gt;!</EnglishText>
       <Notes>Client 1 - line when ordering a drink. The tag is the name the drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -264,9 +264,8 @@
       <JapaneseText>遅せぇ！
 ほか行って飲むから
 もういいぜ！</JapaneseText>
-      <EnglishText>This is taking too long!
-I'm going to go get a
-drink somewhere else!</EnglishText>
+      <EnglishText>Tá demorando demais! Vou tomar
+uma bebida em outro lugar!</EnglishText>
       <Notes>Client 1 - line when time runs out.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -275,7 +274,7 @@ drink somewhere else!</EnglishText>
     <Entry>
       <PointerOffset>2761</PointerOffset>
       <JapaneseText>お～い！　店員さ～ん！</JapaneseText>
-      <EnglishText>Yoohoo! Server!</EnglishText>
+      <EnglishText>Ô de casa! Garçom!</EnglishText>
       <Notes>Client 1 - line when you quit the minigame.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -284,7 +283,7 @@ drink somewhere else!</EnglishText>
     <Entry>
       <PointerOffset>2772</PointerOffset>
       <JapaneseText>おうおう、待ちかねたぜ♪</JapaneseText>
-      <EnglishText>Oh, I can't wait to drink it♪</EnglishText>
+      <EnglishText>Ah, mal posso esperar pra beber♪</EnglishText>
       <Notes>Client 1 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -294,8 +293,8 @@ drink somewhere else!</EnglishText>
       <PointerOffset>2783</PointerOffset>
       <JapaneseText>おっと！
 頼んでないけどサービスかい、それ？</JapaneseText>
-      <EnglishText>Oh! I didn't ask for this.
-Is it on the house?</EnglishText>
+      <EnglishText>Ah! Eu não pedi isso.
+É cortesia da casa?</EnglishText>
       <Notes>Client 1 - line when you give them other client's drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -304,7 +303,7 @@ Is it on the house?</EnglishText>
     <Entry>
       <PointerOffset>2808</PointerOffset>
       <JapaneseText>まったり飲むか。</JapaneseText>
-      <EnglishText>I'd like something to drink.</EnglishText>
+      <EnglishText>Quero algo pra beber.</EnglishText>
       <Notes>Client 2 - opening line 1.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -313,7 +312,7 @@ Is it on the house?</EnglishText>
     <Entry>
       <PointerOffset>2819</PointerOffset>
       <JapaneseText>飲みまくるぞ！</JapaneseText>
-      <EnglishText>Let's get some drinks going!</EnglishText>
+      <EnglishText>Vamos começar a beber!</EnglishText>
       <Notes>Client 2 - opening line 2.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -322,7 +321,7 @@ Is it on the house?</EnglishText>
     <Entry>
       <PointerOffset>2830</PointerOffset>
       <JapaneseText>&lt;unk18:489C0538CC058880&gt;よろしく。</JapaneseText>
-      <EnglishText>I'd like &lt;unk18:489C0538CC058880&gt;.</EnglishText>
+      <EnglishText>Quero &lt;unk18:489C0538CC058880&gt;.</EnglishText>
       <Notes>Client 2 - line when ordering a drink. The tag is the name the drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -333,10 +332,9 @@ Is it on the house?</EnglishText>
       <JapaneseText>遅せぇ！
 いつまで待たせんだよ！
 もう帰っから、いらね～よ！</JapaneseText>
-      <EnglishText>This is taking too long! How long do
-you plan to keep me waiting?! Well,
-I'm leaving, so you can keep the
-drink!</EnglishText>
+      <EnglishText>Tá demorando demais! Até quando vai
+me fazer esperar?! Bom, eu vou
+embora, pode ficar com a bebida!</EnglishText>
       <Notes>Client 2 - line when time runs out.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -345,7 +343,7 @@ drink!</EnglishText>
     <Entry>
       <PointerOffset>2852</PointerOffset>
       <JapaneseText>あれ？　店員さ～ん！</JapaneseText>
-      <EnglishText>Huh? Where's my server?!</EnglishText>
+      <EnglishText>Hã? Cadê meu garçom?!</EnglishText>
       <Notes>Client 2 - line when you quit the minigame.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -354,7 +352,7 @@ drink!</EnglishText>
     <Entry>
       <PointerOffset>2863</PointerOffset>
       <JapaneseText>お、きたきた♪</JapaneseText>
-      <EnglishText>Oh, thank you♪</EnglishText>
+      <EnglishText>Ah, obrigado♪</EnglishText>
       <Notes>Client 2 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -364,8 +362,8 @@ drink!</EnglishText>
       <PointerOffset>2874</PointerOffset>
       <JapaneseText>頼んでないぞ？
 でもいいや、もらおう！</JapaneseText>
-      <EnglishText>I didn't ask for this?
-Oh well, I'll take it!</EnglishText>
+      <EnglishText>Eu não pedi isso?
+Bom, vou aceitar!</EnglishText>
       <Notes>Client 2 - line when you give them other client's drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -374,7 +372,7 @@ Oh well, I'll take it!</EnglishText>
     <Entry>
       <PointerOffset>2899</PointerOffset>
       <JapaneseText>ゆっくり飲むかのう。</JapaneseText>
-      <EnglishText>Time to savor a drink.</EnglishText>
+      <EnglishText>Hora de saborear uma bebida.</EnglishText>
       <Notes>Client 3 - opening line 1.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -383,7 +381,7 @@ Oh well, I'll take it!</EnglishText>
     <Entry>
       <PointerOffset>2910</PointerOffset>
       <JapaneseText>飲まなきゃやってられん！</JapaneseText>
-      <EnglishText>I can't go without a drink!</EnglishText>
+      <EnglishText>Não passo sem uma bebida!</EnglishText>
       <Notes>Client 3 - opening line 2.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -392,7 +390,7 @@ Oh well, I'll take it!</EnglishText>
     <Entry>
       <PointerOffset>2921</PointerOffset>
       <JapaneseText>&lt;unk18:489C0538CC058880&gt;を頼む。</JapaneseText>
-      <EnglishText>Could I have &lt;unk18:489C0538CC058880&gt;, please?</EnglishText>
+      <EnglishText>Pode me trazer &lt;unk18:489C0538CC058880&gt;, por favor?</EnglishText>
       <Notes>Client 3 - line when ordering a drink. The tag is the name the drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -402,9 +400,8 @@ Oh well, I'll take it!</EnglishText>
       <PointerOffset>2932</PointerOffset>
       <JapaneseText>夜が明けてしまう！
 もう結構じゃ！</JapaneseText>
-      <EnglishText>Do you plan on keeping me
-all night?! I've had enough
-of this!</EnglishText>
+      <EnglishText>Vai me deixar aqui a noite
+toda?! Já chega disso!</EnglishText>
       <Notes>Client 3 - line when time runs out.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -413,7 +410,7 @@ of this!</EnglishText>
     <Entry>
       <PointerOffset>2943</PointerOffset>
       <JapaneseText>むむ？　店員さんや～い。</JapaneseText>
-      <EnglishText>Mhm? Oh waiter—!</EnglishText>
+      <EnglishText>Hum? Ah, garçom—!</EnglishText>
       <Notes>Client 3 - line when you quit the minigame.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -422,7 +419,7 @@ of this!</EnglishText>
     <Entry>
       <PointerOffset>2954</PointerOffset>
       <JapaneseText>うむ。ありがとう。</JapaneseText>
-      <EnglishText>Oh, thank you.</EnglishText>
+      <EnglishText>Ah, obrigado.</EnglishText>
       <Notes>Client 3 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -432,8 +429,8 @@ of this!</EnglishText>
       <PointerOffset>2965</PointerOffset>
       <JapaneseText>ただでくれるのかい？
 すまないのう。</JapaneseText>
-      <EnglishText>Are you giving this to me
-for free? Thank you.</EnglishText>
+      <EnglishText>Está me dando isso de graça?
+Obrigado.</EnglishText>
       <Notes>Client 3 - line when you give them other client's drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -442,7 +439,7 @@ for free? Thank you.</EnglishText>
     <Entry>
       <PointerOffset>2990</PointerOffset>
       <JapaneseText>落ちついて頂きましょうかねぇ。</JapaneseText>
-      <EnglishText>Time to enjoy my drink.</EnglishText>
+      <EnglishText>Hora de curtir minha bebida.</EnglishText>
       <Notes>Client 4 - opening line 1.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -451,7 +448,7 @@ for free? Thank you.</EnglishText>
     <Entry>
       <PointerOffset>3001</PointerOffset>
       <JapaneseText>今日は飲みたい気分なの。</JapaneseText>
-      <EnglishText>I'd like to drink something &lt;Italic&gt;today&lt;/Italic&gt;.</EnglishText>
+      <EnglishText>Quero tomar algo &lt;Italic&gt;hoje&lt;/Italic&gt;.</EnglishText>
       <Notes>Client 4 - opening line 2.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -460,7 +457,7 @@ for free? Thank you.</EnglishText>
     <Entry>
       <PointerOffset>3012</PointerOffset>
       <JapaneseText>&lt;unk18:489C0538CC058880&gt;を頂ける？</JapaneseText>
-      <EnglishText>Could I get &lt;unk18:489C0538CC058880&gt;?</EnglishText>
+      <EnglishText>Pode me trazer &lt;unk18:489C0538CC058880&gt;?</EnglishText>
       <Notes>Client 4 - line when ordering a drink. The tag is the name the drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -470,9 +467,8 @@ for free? Thank you.</EnglishText>
       <PointerOffset>3023</PointerOffset>
       <JapaneseText>いつまで待てばいいのかしら？
 もう結構です。失礼するわ！</JapaneseText>
-      <EnglishText>How long are you going to keep
-me waiting? I'm tired of this.
-Now if you'll excuse me!</EnglishText>
+      <EnglishText>Até quando vai me fazer esperar?
+Cansei disso. Com licença!</EnglishText>
       <Notes>Client 4 - line when time runs out.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>36</Id>
@@ -481,7 +477,7 @@ Now if you'll excuse me!</EnglishText>
     <Entry>
       <PointerOffset>3034</PointerOffset>
       <JapaneseText>あら？　店員さん!?</JapaneseText>
-      <EnglishText>Huh? Where did my server go?!</EnglishText>
+      <EnglishText>Hã? Pra onde foi meu garçom?!</EnglishText>
       <Notes>Client 4 - line when you quit the minigame.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -490,7 +486,7 @@ Now if you'll excuse me!</EnglishText>
     <Entry>
       <PointerOffset>3045</PointerOffset>
       <JapaneseText>ご苦労さま。</JapaneseText>
-      <EnglishText>Thank you very much.</EnglishText>
+      <EnglishText>Muito obrigado.</EnglishText>
       <Notes>Client 4 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -500,8 +496,8 @@ Now if you'll excuse me!</EnglishText>
       <PointerOffset>3056</PointerOffset>
       <JapaneseText>おや、サービスかい？
 ありがたく頂戴するよ。</JapaneseText>
-      <EnglishText>Oh, is this on the house?
-You have my thanks.</EnglishText>
+      <EnglishText>Ah, é cortesia da casa?
+Agradeço.</EnglishText>
       <Notes>Client 4 - line when you give them other client's drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>
@@ -510,7 +506,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4629</PointerOffset>
       <JapaneseText>はい……</JapaneseText>
-      <EnglishText>Sure thing...</EnglishText>
+      <EnglishText>Pois não...</EnglishText>
       <Notes>Veigue's line to acknowledge the order.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>40</Id>
@@ -519,7 +515,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3076</PointerOffset>
       <JapaneseText>間に合わなかったか。</JapaneseText>
-      <EnglishText>Looks like I took too long.</EnglishText>
+      <EnglishText>Parece que demorei demais.</EnglishText>
       <Notes>Veigue's line when time runs out.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>41</Id>
@@ -537,7 +533,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3098</PointerOffset>
       <JapaneseText>……どうぞ。</JapaneseText>
-      <EnglishText>...Here you go.</EnglishText>
+      <EnglishText>...Aqui está.</EnglishText>
       <Notes>Veigue's line when giving the order.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>43</Id>
@@ -546,7 +542,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4668</PointerOffset>
       <JapaneseText>はーい♪</JapaneseText>
-      <EnglishText>You got it♪</EnglishText>
+      <EnglishText>Pode deixar♪</EnglishText>
       <Notes>Mao's line to acknowledge the order.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -555,7 +551,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3113</PointerOffset>
       <JapaneseText>あれ？　もうダメなの!?</JapaneseText>
-      <EnglishText>Huh? Was I too slow?!</EnglishText>
+      <EnglishText>Hã? Fui lento demais?!</EnglishText>
       <Notes>Mao's line when time runs out.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>45</Id>
@@ -564,7 +560,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3124</PointerOffset>
       <JapaneseText>あっ！　こぼしちゃった。</JapaneseText>
-      <EnglishText>Ah! I spilled it.</EnglishText>
+      <EnglishText>Ah! Derramei.</EnglishText>
       <Notes>Mao's line when tripping.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>46</Id>
@@ -573,7 +569,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3135</PointerOffset>
       <JapaneseText>はい。お待たせ♪</JapaneseText>
-      <EnglishText>Here's your order♪</EnglishText>
+      <EnglishText>Aqui está seu pedido♪</EnglishText>
       <Notes>Mao's line when giving the order.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
@@ -582,7 +578,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4707</PointerOffset>
       <JapaneseText>かしこまりました。</JapaneseText>
-      <EnglishText>Of course.</EnglishText>
+      <EnglishText>Claro.</EnglishText>
       <Notes>Eugene's line to acknowledge the order.</Notes>
       <SpeakerId>10</SpeakerId>
       <Id>48</Id>
@@ -591,7 +587,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3150</PointerOffset>
       <JapaneseText>遅すぎたか……</JapaneseText>
-      <EnglishText>I was too slow...</EnglishText>
+      <EnglishText>Fui lento demais...</EnglishText>
       <Notes>Eugene's line when time runs out.</Notes>
       <SpeakerId>10</SpeakerId>
       <Id>49</Id>
@@ -609,7 +605,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3172</PointerOffset>
       <JapaneseText>お待たせしました。</JapaneseText>
-      <EnglishText>Here you are.</EnglishText>
+      <EnglishText>Aqui está.</EnglishText>
       <Notes>Eugene's line when giving the order.</Notes>
       <SpeakerId>10</SpeakerId>
       <Id>51</Id>
@@ -618,7 +614,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4747</PointerOffset>
       <JapaneseText>少々、お待ちください！</JapaneseText>
-      <EnglishText>I'll have it for you in a moment!</EnglishText>
+      <EnglishText>Já trago num instante!</EnglishText>
       <Notes>Annie's line to acknowledge the order.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>52</Id>
@@ -627,7 +623,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3187</PointerOffset>
       <JapaneseText>……すみません。</JapaneseText>
-      <EnglishText>...My apologies.</EnglishText>
+      <EnglishText>...Minhas desculpas.</EnglishText>
       <Notes>Annie's line when time runs out.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>53</Id>
@@ -636,7 +632,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3198</PointerOffset>
       <JapaneseText>あっ！　……もう。</JapaneseText>
-      <EnglishText>Oh, dear!</EnglishText>
+      <EnglishText>Ai, meu Deus!</EnglishText>
       <Notes>Annie's line when tripping.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>54</Id>
@@ -645,7 +641,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3209</PointerOffset>
       <JapaneseText>お待たせ致しました♪</JapaneseText>
-      <EnglishText>Thank you for being patient♪</EnglishText>
+      <EnglishText>Obrigada pela paciência♪</EnglishText>
       <Notes>Annie's line when giving the order.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>55</Id>
@@ -654,7 +650,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4787</PointerOffset>
       <JapaneseText>よろこんで！</JapaneseText>
-      <EnglishText>It's my pleasure!</EnglishText>
+      <EnglishText>Com prazer!</EnglishText>
       <Notes>Tytree's line to acknowledge the order.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>56</Id>
@@ -663,7 +659,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3224</PointerOffset>
       <JapaneseText>やっちまった！</JapaneseText>
-      <EnglishText>Well, I screwed up!</EnglishText>
+      <EnglishText>Ih, pisei na bola!</EnglishText>
       <Notes>Tytree's line when time runs out.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>57</Id>
@@ -672,7 +668,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3235</PointerOffset>
       <JapaneseText>やっちまった！</JapaneseText>
-      <EnglishText>Well, I screwed up!</EnglishText>
+      <EnglishText>Ih, pisei na bola!</EnglishText>
       <Notes>Tytree's line when tripping.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>58</Id>
@@ -681,7 +677,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3246</PointerOffset>
       <JapaneseText>ほい！　お待ちどおさん！</JapaneseText>
-      <EnglishText>All right! Sorry I kept you waiting!</EnglishText>
+      <EnglishText>Certo! Desculpe a demora!</EnglishText>
       <Notes>Tytree's line when giving the order.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>59</Id>
@@ -690,7 +686,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4827</PointerOffset>
       <JapaneseText>……わかったわ。</JapaneseText>
-      <EnglishText>...Understood.</EnglishText>
+      <EnglishText>...Entendido.</EnglishText>
       <Notes>Hilda's line to acknowledge the order.</Notes>
       <SpeakerId>13</SpeakerId>
       <Id>60</Id>
@@ -699,7 +695,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3261</PointerOffset>
       <JapaneseText>難しいものね……</JapaneseText>
-      <EnglishText>This is harder than it looks...</EnglishText>
+      <EnglishText>É mais difícil do que parece...</EnglishText>
       <Notes>Hilda's line when time runs out.</Notes>
       <SpeakerId>13</SpeakerId>
       <Id>61</Id>
@@ -708,7 +704,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3272</PointerOffset>
       <JapaneseText>難しいものね……</JapaneseText>
-      <EnglishText>This is harder than it looks...</EnglishText>
+      <EnglishText>É mais difícil do que parece...</EnglishText>
       <Notes>Hilda's line when tripping.</Notes>
       <SpeakerId>13</SpeakerId>
       <Id>62</Id>
@@ -717,7 +713,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3283</PointerOffset>
       <JapaneseText>どうぞ。</JapaneseText>
-      <EnglishText>Here.</EnglishText>
+      <EnglishText>Aqui.</EnglishText>
       <Notes>Hilda's line when giving the order.</Notes>
       <SpeakerId>13</SpeakerId>
       <Id>63</Id>
@@ -737,9 +733,9 @@ You have my thanks.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;リタイアしますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Call it quits?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Desistir?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>65</Id>
@@ -750,9 +746,9 @@ No</EnglishText>
       <JapaneseText>ちゃんとやってくれたみたいだな。
 あんたのおかげで、用事が済んだよ。
 ありがとう。</JapaneseText>
-      <EnglishText>It looks like you did a good
-job. I was able to get what
-I needed done. Thank you.</EnglishText>
+      <EnglishText>Parece que você se saiu bem.
+Consegui fazer o que precisava.
+Obrigado.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -762,7 +758,7 @@ I needed done. Thank you.</EnglishText>
       <PointerOffset>8266</PointerOffset>
       <JapaneseText>これがお礼だ、
 受け取ってくれ。</JapaneseText>
-      <EnglishText>Here's your reward.</EnglishText>
+      <EnglishText>Aqui está sua recompensa.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
@@ -771,7 +767,7 @@ I needed done. Thank you.</EnglishText>
     <Entry>
       <PointerOffset>8306</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Green&gt;&lt;unk17:340880&gt;ガルドを手に入れました。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;Green&gt;Received &lt;unk17:340880&gt; Gald.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;Green&gt;Recebeu &lt;unk17:340880&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>68</Id>
@@ -780,7 +776,7 @@ I needed done. Thank you.</EnglishText>
     <Entry>
       <PointerOffset>8373</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000016&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000016&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:20000016&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>69</Id>
@@ -789,7 +785,7 @@ I needed done. Thank you.</EnglishText>
     <Entry>
       <PointerOffset>8637</PointerOffset>
       <JapaneseText>また頼むぜ！</JapaneseText>
-      <EnglishText>I'll see you around!</EnglishText>
+      <EnglishText>Até mais!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -799,7 +795,7 @@ I needed done. Thank you.</EnglishText>
       <PointerOffset>7012</PointerOffset>
       <JapaneseText>あっ……
 冷てぇじゃねーかよ！</JapaneseText>
-      <EnglishText>Ah... That's cold!!</EnglishText>
+      <EnglishText>Ah... Que frio!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>71</Id>
@@ -809,9 +805,8 @@ I needed done. Thank you.</EnglishText>
       <PointerOffset>7033</PointerOffset>
       <JapaneseText>服も汚してくれちゃってよー！
 どーしてくれんの!?</JapaneseText>
-      <EnglishText>And you soiled my clothes, too!
-Just what do you think you're
-doing?!</EnglishText>
+      <EnglishText>E ainda sujou minha roupa!
+O que pensa que está fazendo?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>72</Id>
@@ -820,8 +815,8 @@ doing?!</EnglishText>
     <Entry>
       <PointerOffset>7054</PointerOffset>
       <JapaneseText>だいたい近頃の若いもんは……</JapaneseText>
-      <EnglishText>Why, young people
-these days, see...</EnglishText>
+      <EnglishText>Ora, esses jovens de
+hoje em dia...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>73</Id>
@@ -830,7 +825,7 @@ these days, see...</EnglishText>
     <Entry>
       <PointerOffset>7094</PointerOffset>
       <JapaneseText>うぉっ……!!</JapaneseText>
-      <EnglishText>Woah...!!</EnglishText>
+      <EnglishText>Uau...!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>74</Id>
@@ -841,9 +836,8 @@ these days, see...</EnglishText>
       <JapaneseText>何すんだよ！
 服が汚れちまったよ！
 どーしてくれんだ!?</JapaneseText>
-      <EnglishText>What are you doing?! You've
-ruined my clothes! Just what
-is your problem?!</EnglishText>
+      <EnglishText>O que está fazendo?! Estragou
+minha roupa! Qual é o problema?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>75</Id>
@@ -855,10 +849,10 @@ is your problem?!</EnglishText>
 どうしようもねえバイトだな……
 酒を運ぶ時はもっと手首を
 ぎゅっと固定して……</JapaneseText>
-      <EnglishText>Geez... You're a hopeless part timer,
-aren't you... You see, when you hold
-alcohol, you need to keep your wrist
-steady like so...</EnglishText>
+      <EnglishText>Nossa... Você é um bico sem jeito,
+não é... Olha, ao segurar bebida,
+é preciso manter o pulso firme
+assim...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>76</Id>
@@ -868,9 +862,8 @@ steady like so...</EnglishText>
       <PointerOffset>7230</PointerOffset>
       <JapaneseText>……人生長いんだ。
 ほんとにイロイロあるのさ。</JapaneseText>
-      <EnglishText>...You've got a long life
-ahead of you. There is
-much to experience.</EnglishText>
+      <EnglishText>...Você tem uma vida longa pela
+frente. Há muito a vivenciar.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>77</Id>
@@ -879,7 +872,7 @@ much to experience.</EnglishText>
     <Entry>
       <PointerOffset>7267</PointerOffset>
       <JapaneseText>あ、お帰り。</JapaneseText>
-      <EnglishText>Oh, welcome back.</EnglishText>
+      <EnglishText>Ah, bem-vindo de volta.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>78</Id>
@@ -889,8 +882,8 @@ much to experience.</EnglishText>
       <PointerOffset>7288</PointerOffset>
       <JapaneseText>このバイトさん、親切だね。
 俺の話にずっと付き合ってくれたよ。</JapaneseText>
-      <EnglishText>This part-timer is so nice. We've
-been talking for a while now.</EnglishText>
+      <EnglishText>Esse ajudante é muito simpático.
+Estamos conversando faz tempo.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>79</Id>
@@ -899,7 +892,7 @@ been talking for a while now.</EnglishText>
     <Entry>
       <PointerOffset>7309</PointerOffset>
       <JapaneseText>あ、と……もうこんな時間か。</JapaneseText>
-      <EnglishText>Oh, huh, it's getting late.</EnglishText>
+      <EnglishText>Ah, nossa, já está ficando tarde.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>80</Id>
@@ -910,9 +903,8 @@ been talking for a while now.</EnglishText>
       <JapaneseText>あい、お金。
 んじゃ、ま、帰るわ。
 また来るぜ。</JapaneseText>
-      <EnglishText>Here's your money. Well,
-I'm heading out. I'll be
-back some other time.</EnglishText>
+      <EnglishText>Aqui está o dinheiro. Bom,
+vou indo. Volto outro dia.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>81</Id>
@@ -922,8 +914,8 @@ back some other time.</EnglishText>
       <PointerOffset>7375</PointerOffset>
       <JapaneseText>……人生って不思議なもんだぜ。
 ほんとにイロイロあるな。</JapaneseText>
-      <EnglishText>...Life truly is strange. There
-is much to experience.</EnglishText>
+      <EnglishText>...A vida é mesmo estranha. Há
+muito a vivenciar.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>82</Id>
@@ -932,7 +924,7 @@ is much to experience.</EnglishText>
     <Entry>
       <PointerOffset>7412</PointerOffset>
       <JapaneseText>おっ、お帰り。</JapaneseText>
-      <EnglishText>Oh, you're back.</EnglishText>
+      <EnglishText>Ah, você voltou.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>83</Id>
@@ -943,8 +935,8 @@ is much to experience.</EnglishText>
       <JapaneseText>このバイト、親切だな。
 俺の話にずっと
 付き合ってくれたんだぜ。</JapaneseText>
-      <EnglishText>This part-timer is so nice. We've
-been talking for forever, it seems.</EnglishText>
+      <EnglishText>Esse ajudante é muito simpático.
+Conversamos há uma eternidade.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>84</Id>
@@ -954,7 +946,7 @@ been talking for forever, it seems.</EnglishText>
       <PointerOffset>7454</PointerOffset>
       <JapaneseText>おっと、そろそろ
 行かなきゃなんねえな。</JapaneseText>
-      <EnglishText>Oops, I should get going.</EnglishText>
+      <EnglishText>Ops, preciso ir.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>85</Id>
@@ -965,8 +957,8 @@ been talking for forever, it seems.</EnglishText>
       <JapaneseText>勘定はこれでいいな。
 ごちそうさん、また来るぜ。
 </JapaneseText>
-      <EnglishText>This should be enough.
-Well, I'll be back. Bye!</EnglishText>
+      <EnglishText>Isso deve bastar.
+Bom, eu volto. Tchau!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>86</Id>
@@ -976,9 +968,9 @@ Well, I'll be back. Bye!</EnglishText>
       <PointerOffset>7973</PointerOffset>
       <JapaneseText>常連さんが怒って帰っていったぞ！
 あんたを信用して店をまかせたのに！</JapaneseText>
-      <EnglishText>You've made my regulars so mad
-they up and left! To think I left
-this establishment in your hands!</EnglishText>
+      <EnglishText>Você deixou meus clientes tão
+bravos que foram embora! E eu
+deixei o bar nas suas mãos!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>87</Id>
@@ -987,7 +979,7 @@ this establishment in your hands!</EnglishText>
     <Entry>
       <PointerOffset>7994</PointerOffset>
       <JapaneseText>今回はもういいよ……</JapaneseText>
-      <EnglishText>That's enough for now...</EnglishText>
+      <EnglishText>Por ora, chega...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>88</Id>
@@ -998,10 +990,10 @@ this establishment in your hands!</EnglishText>
       <JapaneseText>「客の相手」っていっても、
 他のお客さんをほったらかしに
 してちゃダメだろ！</JapaneseText>
-      <EnglishText>You can't waste your time
-chatting with one customer
-while leaving the others
-high and dry!</EnglishText>
+      <EnglishText>Não dá pra perder tempo
+conversando com um cliente
+e deixar os outros
+à míngua!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>89</Id>
@@ -1010,7 +1002,7 @@ high and dry!</EnglishText>
     <Entry>
       <PointerOffset>8049</PointerOffset>
       <JapaneseText>今回はもういいよ……</JapaneseText>
-      <EnglishText>That's enough for now...</EnglishText>
+      <EnglishText>Por ora, chega...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>90</Id>
@@ -1024,9 +1016,8 @@ high and dry!</EnglishText>
       <JapaneseText>最近、軍から外出禁止の
 お達しがあったろう？
 </JapaneseText>
-      <EnglishText>Haven't you heard that the
-military has instituted a
-curfew?</EnglishText>
+      <EnglishText>Não soube que os militares
+decretaram toque de recolher?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>91</Id>
@@ -1036,9 +1027,8 @@ curfew?</EnglishText>
       <PointerOffset>5742</PointerOffset>
       <JapaneseText>そんなもんだから、みんなこっそり
 隠れて飲みに来ては、グチばかり……</JapaneseText>
-      <EnglishText>That's why everyone snuck
-over here to drink and
-complain about it...</EnglishText>
+      <EnglishText>Por isso todo mundo vem
+beber aqui e reclamar...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>92</Id>
@@ -1049,10 +1039,9 @@ complain about it...</EnglishText>
       <JapaneseText>その相手をするだけで、
 俺はもうヘトヘトさ。
 いいかげん休みたくてさ……</JapaneseText>
-      <EnglishText>But I find those sorts of
-customers exhausting.
-Boy, would I like to
-take a break...</EnglishText>
+      <EnglishText>Mas esse tipo de cliente
+me cansa. Nossa, como eu
+queria tirar uma folga...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>93</Id>
@@ -1063,10 +1052,9 @@ take a break...</EnglishText>
       <JapaneseText>実は、嫁さんに買い物を
 頼まれててさ……
 でも仕事は抜けられないだろ？</JapaneseText>
-      <EnglishText>Actually, my wife asked me
-if I could go shopping...but
-I can't really get out of
-work, you know?</EnglishText>
+      <EnglishText>Na verdade, minha esposa pediu
+que eu fosse às compras... mas
+não posso sair do trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>94</Id>
@@ -1077,9 +1065,9 @@ work, you know?</EnglishText>
       <JapaneseText>実は、洗濯物を取り込むのを
 忘れててさ、今から家に帰らなきゃ
 ならないのさ。</JapaneseText>
-      <EnglishText>Actually, I have to go home
-because I forgot to bring the
-laundry in.</EnglishText>
+      <EnglishText>Na verdade, preciso ir pra casa
+porque esqueci de recolher
+a roupa do varal.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>95</Id>
@@ -1089,8 +1077,8 @@ laundry in.</EnglishText>
       <PointerOffset>5879</PointerOffset>
       <JapaneseText>海の方ででっかい魚が
 上がったって言うんだ。</JapaneseText>
-      <EnglishText>I heard that there are large
-fish down by the ocean...</EnglishText>
+      <EnglishText>Ouvi dizer que há peixes grandes
+lá perto do mar...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>96</Id>
@@ -1100,9 +1088,8 @@ fish down by the ocean...</EnglishText>
       <PointerOffset>5901</PointerOffset>
       <JapaneseText>見に行きたいけど、
 店を離れられないし……</JapaneseText>
-      <EnglishText>I'd like to go see them,
-but I'm stuck here at
-work...</EnglishText>
+      <EnglishText>Queria ir vê-los, mas estou
+preso aqui no trabalho...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>97</Id>
@@ -1113,9 +1100,8 @@ work...</EnglishText>
       <JapaneseText>ちょっと家に帰って、
 子供の面倒を見なきゃ
 いけなくってさ。</JapaneseText>
-      <EnglishText>I need to go home
-for a bit to take
-care of my kid.</EnglishText>
+      <EnglishText>Preciso ir pra casa um
+instante cuidar do meu filho.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>98</Id>
@@ -1126,9 +1112,9 @@ care of my kid.</EnglishText>
       <JapaneseText>うちの息子が急に具合が
 悪くなってさ、様子を見に
 帰らなきゃいけなくなったんだ……</JapaneseText>
-      <EnglishText>My son got sick suddenly,
-so I need to go home to
-see how he's doing...</EnglishText>
+      <EnglishText>Meu filho passou mal de repente,
+então preciso ir pra casa
+ver como ele está...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>99</Id>
@@ -1138,9 +1124,9 @@ see how he's doing...</EnglishText>
       <PointerOffset>6009</PointerOffset>
       <JapaneseText>ちょっと酒の在庫を切らしちゃって、
 仕入れに行かなきゃならないんだ。</JapaneseText>
-      <EnglishText>I'm running low on liquor,
-so I need to go out and
-fetch some more.</EnglishText>
+      <EnglishText>Minha bebida está acabando,
+então preciso sair pra
+comprar mais.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>100</Id>
@@ -1151,8 +1137,8 @@ fetch some more.</EnglishText>
       <JapaneseText>実は今、俺……
 誰かに呼ばれてるような気が……
 するんだ……</JapaneseText>
-      <EnglishText>Actually, right now I feel
-someone...calling me...</EnglishText>
+      <EnglishText>Na verdade, agora sinto que
+alguém...está me chamando...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>101</Id>
@@ -1162,7 +1148,7 @@ someone...calling me...</EnglishText>
       <PointerOffset>6067</PointerOffset>
       <JapaneseText>だから……店には
 いられないんだ……</JapaneseText>
-      <EnglishText>So I...have to leave the tavern...</EnglishText>
+      <EnglishText>Então...preciso sair da taverna...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>102</Id>
@@ -1172,9 +1158,9 @@ someone...calling me...</EnglishText>
       <PointerOffset>6092</PointerOffset>
       <JapaneseText>お昼時にお客さんいっぱいで、
 もうヘトヘトさ。</JapaneseText>
-      <EnglishText>All the customers we had
-around lunchtime really
-took it out of me...</EnglishText>
+      <EnglishText>Os clientes do horário do
+almoço me deixaram
+esgotado...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>103</Id>
@@ -1184,9 +1170,9 @@ took it out of me...</EnglishText>
       <PointerOffset>6114</PointerOffset>
       <JapaneseText>ちょっと休憩を取りたいんだけど、
 代わりがいないしなあ……</JapaneseText>
-      <EnglishText>I'd like to take a break,
-but there's no one to
-cover for me.</EnglishText>
+      <EnglishText>Queria tirar uma folga, mas
+não tem ninguém pra
+me cobrir.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>104</Id>
@@ -1198,9 +1184,9 @@ cover for me.</EnglishText>
 お礼ははずむから、
 俺の代わりに仕事を
 してくれないか？</JapaneseText>
-      <EnglishText>So that's where you come in!
-I'll give you a reward, so could
-you cover my shift for a bit?</EnglishText>
+      <EnglishText>É aí que você entra! Dou uma
+recompensa. Pode cobrir meu
+turno por um tempo?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>105</Id>
@@ -1210,8 +1196,8 @@ you cover my shift for a bit?</EnglishText>
       <PointerOffset>4948</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>106</Id>
@@ -1221,7 +1207,7 @@ No</EnglishText>
       <PointerOffset>4990</PointerOffset>
       <JapaneseText>ああ、あんたか。
 </JapaneseText>
-      <EnglishText>Oh, it's you.</EnglishText>
+      <EnglishText>Ah, é você.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>107</Id>
@@ -1233,9 +1219,9 @@ No</EnglishText>
 俺の代わりに仕事してくれる人を
 探してたんだが……
 やる気はあるかい？</JapaneseText>
-      <EnglishText>So, I'm looking for someone
-to fill in for me for a bit...
-Are you feeling up to it?</EnglishText>
+      <EnglishText>Estou procurando alguém pra
+me substituir um pouco...
+Topa?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>108</Id>
@@ -1245,8 +1231,8 @@ Are you feeling up to it?</EnglishText>
       <PointerOffset>5040</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>109</Id>
@@ -1258,10 +1244,9 @@ No</EnglishText>
 ところに来てくれた。
 また俺の代わりをしてくれないか？
 ちゃんとお礼はするからさ！</JapaneseText>
-      <EnglishText>Boy, am I glad to see you!
-Would you mind filling in
-for me? I'll make it worth
-your while!</EnglishText>
+      <EnglishText>Que bom ver você! Pode me
+substituir? Vai valer a pena
+pra você!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>110</Id>
@@ -1271,8 +1256,8 @@ your while!</EnglishText>
       <PointerOffset>5096</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>111</Id>
@@ -1283,8 +1268,8 @@ No</EnglishText>
       <JapaneseText>そうか……
 気が変わったら、
 いつでも声かけてくれよ。</JapaneseText>
-      <EnglishText>I see... Come see me if
-you change your mind.</EnglishText>
+      <EnglishText>Entendo... Me procure se
+mudar de ideia.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>112</Id>
@@ -1293,8 +1278,8 @@ you change your mind.</EnglishText>
     <Entry>
       <PointerOffset>5181</PointerOffset>
       <JapaneseText>仕事の説明が必要かい？</JapaneseText>
-      <EnglishText>Would you like me to explain
-what you need to do?</EnglishText>
+      <EnglishText>Quer que eu explique o que
+você precisa fazer?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>113</Id>
@@ -1304,8 +1289,8 @@ what you need to do?</EnglishText>
       <PointerOffset>5204</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>114</Id>
@@ -1316,8 +1301,8 @@ No</EnglishText>
       <JapaneseText>俺がいない間の、
 お客さんの相手を頼む。
 </JapaneseText>
-      <EnglishText>Take care of the customers
-while I'm away.</EnglishText>
+      <EnglishText>Cuide dos clientes enquanto
+eu estiver fora.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>115</Id>
@@ -1328,9 +1313,8 @@ while I'm away.</EnglishText>
       <JapaneseText>厨房から、注文を受けた
 お客さんの席まで
 酒を運んでくれ。</JapaneseText>
-      <EnglishText>Once you've received their order
-from the kitchen, you need to
-take it to the customer's table.</EnglishText>
+      <EnglishText>Quando pegar o pedido na cozinha,
+levar até a mesa do cliente.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>116</Id>
@@ -1341,11 +1325,10 @@ take it to the customer's table.</EnglishText>
       <JapaneseText>ただし、走って運ぶとこぼれちまうし
 あんまり遅いとお客さんを怒らせちまうぞ。
 急がず、素早く、確実にこなすんだぜ。</JapaneseText>
-      <EnglishText>The customers will get angry if you
-take too long, but if you run then
-you'll likely spill the drink. Don't
-rush it, but you need to go fast
-without messing up.</EnglishText>
+      <EnglishText>Os clientes se irritam se demorar,
+mas se correr, a bebida cai.
+Sem pressa, mas rápido e
+sem errar.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>117</Id>
@@ -1356,8 +1339,8 @@ without messing up.</EnglishText>
       <JapaneseText>あと、俺が戻るまで、
 勝手に店から出て行ったり
 しないでくれよ！</JapaneseText>
-      <EnglishText>And don't leave the store
-while I'm away!</EnglishText>
+      <EnglishText>E não saia da loja
+enquanto eu estiver fora!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>118</Id>
@@ -1368,11 +1351,10 @@ while I'm away!</EnglishText>
       <JapaneseText>さぁ……お客さんのご来店だ。
 俺が戻ってくるまで頼んだぜ。
 「急がず、素早く、確実に」だぞ。</JapaneseText>
-      <EnglishText>Well... Looks like we've got
-company. Take care of the
-customers while I'm gone.
-Remember: "Don't rush, don't
-mess up, but do it fast!"</EnglishText>
+      <EnglishText>Bem... Parece que temos
+clientes. Cuide deles enquanto
+eu estiver fora. Lembre-se:
+"Sem pressa, sem erro, só rápido!"</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>119</Id>
@@ -1381,7 +1363,7 @@ mess up, but do it fast!"</EnglishText>
     <Entry>
       <PointerOffset>5361</PointerOffset>
       <JapaneseText>じゃあな！</JapaneseText>
-      <EnglishText>Well, I'm off!</EnglishText>
+      <EnglishText>Bom, estou indo!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>120</Id>
@@ -1391,7 +1373,7 @@ mess up, but do it fast!"</EnglishText>
       <PointerOffset>5432</PointerOffset>
       <JapaneseText>差し入れかい？
 わるいねぇ。</JapaneseText>
-      <EnglishText>A gift from a customer? Too bad.</EnglishText>
+      <EnglishText>Presente de cliente? Que pena.</EnglishText>
       <Notes>Double check</Notes>
       <SpeakerId>-1</SpeakerId>
       <Id>121</Id>
@@ -1400,7 +1382,7 @@ mess up, but do it fast!"</EnglishText>
     <Entry>
       <PointerOffset>5641</PointerOffset>
       <JapaneseText>え、いや、違……</JapaneseText>
-      <EnglishText>Huh? No, that's not it...</EnglishText>
+      <EnglishText>Hã? Não, não é isso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>122</Id>
@@ -1413,7 +1395,7 @@ mess up, but do it fast!"</EnglishText>
       <PointerOffset>1294</PointerOffset>
       <JapaneseText>ハンバーグがあるけど、
 食べていかないかい？</JapaneseText>
-      <EnglishText>Hey, wanna try out this
+      <EnglishText>Ei, quer experimentar este
 Hamburger Steak?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -1424,9 +1406,8 @@ Hamburger Steak?</EnglishText>
       <PointerOffset>1316</PointerOffset>
       <JapaneseText>普通の店のとはちょっと違う、
 当店自慢のハンバーグだ。</JapaneseText>
-      <EnglishText>This ain't your ordinary Hamburger
-Steak, this one here's the pride
-of this store!</EnglishText>
+      <EnglishText>Não é um Hamburger Steak qualquer,
+este aqui é o orgulho da casa!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>124</Id>
@@ -1437,9 +1418,9 @@ of this store!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;食べますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Take a bite?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Dar uma mordida?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>125</Id>
@@ -1448,7 +1429,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2135</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:2000000A&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Ate "&lt;item:2000000A&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Comeu "&lt;item:2000000A&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>126</Id>
@@ -1457,7 +1438,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2373</PointerOffset>
       <JapaneseText>うまい……</JapaneseText>
-      <EnglishText>It's good...</EnglishText>
+      <EnglishText>Está bom...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>127</Id>
@@ -1467,8 +1448,8 @@ No</EnglishText>
       <PointerOffset>2409</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good! It's
-so dang tasty!</EnglishText>
+      <EnglishText>Que gostoso! É muito,
+muito saboroso!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>128</Id>
@@ -1477,7 +1458,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>2445</PointerOffset>
       <JapaneseText>これはうまいな……</JapaneseText>
-      <EnglishText>This is delicious...</EnglishText>
+      <EnglishText>Está delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>129</Id>
@@ -1486,7 +1467,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>2482</PointerOffset>
       <JapaneseText>おいしいですね♪</JapaneseText>
-      <EnglishText>It's quite delicious indeed~!</EnglishText>
+      <EnglishText>Está realmente delicioso~!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>130</Id>
@@ -1496,8 +1477,8 @@ so dang tasty!</EnglishText>
       <PointerOffset>2519</PointerOffset>
       <JapaneseText>うめえぜ！
 こいつぁ五つ星だ！</JapaneseText>
-      <EnglishText>This is delicious! I
-give it five stars!</EnglishText>
+      <EnglishText>Está delicioso! Dou
+cinco estrelas!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>131</Id>
@@ -1507,7 +1488,7 @@ give it five stars!</EnglishText>
       <PointerOffset>2556</PointerOffset>
       <JapaneseText>おいしいわね……
 </JapaneseText>
-      <EnglishText>That was delicious...</EnglishText>
+      <EnglishText>Estava delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>132</Id>
@@ -1526,7 +1507,7 @@ give it five stars!</EnglishText>
       <PointerOffset>2179</PointerOffset>
       <JapaneseText>そうだろう、
 そうだろう。</JapaneseText>
-      <EnglishText>Isn't it?</EnglishText>
+      <EnglishText>Não é?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>134</Id>
@@ -1535,7 +1516,7 @@ give it five stars!</EnglishText>
     <Entry>
       <PointerOffset>2228</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:2000000A&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:2000000A&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:2000000A&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>135</Id>
@@ -1545,8 +1526,7 @@ give it five stars!</EnglishText>
       <PointerOffset>2309</PointerOffset>
       <JapaneseText>いつでも
 食べさせてあげるよ。</JapaneseText>
-      <EnglishText>I'll let you have some
-whenever you like.</EnglishText>
+      <EnglishText>Pode comer quando quiser.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>136</Id>
@@ -1556,9 +1536,9 @@ whenever you like.</EnglishText>
       <PointerOffset>1347</PointerOffset>
       <JapaneseText>ああ、いつぞやは荷物運びして
 もらって世話になったね。</JapaneseText>
-      <EnglishText>Ohh, you were the ones who
-helped me move that cargo a
-while back.</EnglishText>
+      <EnglishText>Ah, foram vocês que me ajudaram
+a carregar aquela carga
+um tempo atrás.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>137</Id>
@@ -1568,8 +1548,8 @@ while back.</EnglishText>
       <PointerOffset>1369</PointerOffset>
       <JapaneseText>お礼にうちのハンバーグを
 食べていってくれよ。</JapaneseText>
-      <EnglishText>Here's some Hamburger
-Steak, on the house!</EnglishText>
+      <EnglishText>Aqui está um Hamburger Steak,
+por conta da casa!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>138</Id>
@@ -1579,9 +1559,9 @@ Steak, on the house!</EnglishText>
       <PointerOffset>1391</PointerOffset>
       <JapaneseText>ただのハンバーグとあなどるなかれ、
 当店自慢のハンバーグだよ。</JapaneseText>
-      <EnglishText>Don't you go thinking it's
-just any old steak, this
-here's our signature dish!</EnglishText>
+      <EnglishText>Não pense que é um bife
+qualquer, é o nosso prato
+de assinatura!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>139</Id>
@@ -1592,9 +1572,9 @@ here's our signature dish!</EnglishText>
       <JapaneseText>誰か探してるのかい？
 うちの店には、誰も
 来なかったけどな……</JapaneseText>
-      <EnglishText>Are you looking for someone?
-Sorry, but no one came by
-this store...</EnglishText>
+      <EnglishText>Procurando alguém? Desculpe,
+mas ninguém passou
+por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>140</Id>
@@ -1605,9 +1585,9 @@ this store...</EnglishText>
       <JapaneseText>お昼時以外は見たとおり
 ガラガラなんだ。
 困った事にね……</JapaneseText>
-      <EnglishText>As you can see, this place is a
-ghost town outside of lunch
-time. It's quite a bother...</EnglishText>
+      <EnglishText>Como vê, este lugar é uma cidade
+fantasma fora do horário de
+almoço. É um incômodo...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>141</Id>
@@ -1617,8 +1597,8 @@ time. It's quite a bother...</EnglishText>
       <PointerOffset>1584</PointerOffset>
       <JapaneseText>客より店員が多いなんて……
 トホホ……</JapaneseText>
-      <EnglishText>I can't believe there're more
-employees than customers...
+      <EnglishText>Não acredito que há mais
+funcionários que clientes...
 Ahaha...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -1629,8 +1609,8 @@ Ahaha...</EnglishText>
       <PointerOffset>1609</PointerOffset>
       <JapaneseText>ああ、君たち、
 荷物運び、ご苦労だったね。</JapaneseText>
-      <EnglishText>Oh, it's you! thanks for helping
-me carry my luggage back then!</EnglishText>
+      <EnglishText>Ah, é você! Obrigada por me
+ajudar a carregar a bagagem!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>143</Id>
@@ -1641,9 +1621,9 @@ me carry my luggage back then!</EnglishText>
       <JapaneseText>早速、約束の名物料理を……と
 言いたいところだけど、
 君たち忙しそうだもんね……</JapaneseText>
-      <EnglishText>I'd serve you some of my shop's
-signature Hamburger Steak, but
-it looks like you guys are busy...</EnglishText>
+      <EnglishText>Eu serviria o Hamburger Steak da
+casa, mas parece que vocês
+estão ocupados...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>144</Id>
@@ -1654,9 +1634,8 @@ it looks like you guys are busy...</EnglishText>
       <JapaneseText>今の用事が済んで落ち着いたら
 うちの自慢の「ハンバーグ」を
 食べに来てくれよな！</JapaneseText>
-      <EnglishText>Feel free to come back and have
-some once you've finished with
-your work!</EnglishText>
+      <EnglishText>Volte para comer quando
+terminar o que está fazendo!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>145</Id>
@@ -1666,8 +1645,8 @@ your work!</EnglishText>
       <PointerOffset>1703</PointerOffset>
       <JapaneseText>イライラするのは、
 お腹が空いてるせいだ。</JapaneseText>
-      <EnglishText>I get angry when I'm
-on an empty stomach.</EnglishText>
+      <EnglishText>Fico irritado quando
+estou de barriga vazia.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>146</Id>
@@ -1678,9 +1657,8 @@ on an empty stomach.</EnglishText>
       <JapaneseText>だが、最近のこの街のガジュマには
 お腹が空いてなくても
 イライラさせられる……</JapaneseText>
-      <EnglishText>However, recently the Gajuma
-here have been getting on my
-nerves even when I'm full...</EnglishText>
+      <EnglishText>Mas ultimamente os Gajuma daqui
+me irritam até de barriga cheia...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>147</Id>
@@ -1691,9 +1669,8 @@ nerves even when I'm full...</EnglishText>
       <JapaneseText>街のあちらこちらで
 ケンカが頻発してるな。
 そのうち大きなのになるぞ……</JapaneseText>
-      <EnglishText>Fights have been occurring
-all over town lately. Things
-might turn messy...</EnglishText>
+      <EnglishText>Brigas têm acontecido pela cidade
+ultimamente. Pode dar confusão...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>148</Id>
@@ -1703,8 +1680,8 @@ might turn messy...</EnglishText>
       <PointerOffset>1814</PointerOffset>
       <JapaneseText>どうしたんだい、なにか
 焦ってるみたいだけど。</JapaneseText>
-      <EnglishText>What's wrong? You look
-like you're in a hurry.</EnglishText>
+      <EnglishText>O que foi? Parece que
+está com pressa.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>149</Id>
@@ -1714,8 +1691,8 @@ like you're in a hurry.</EnglishText>
       <PointerOffset>1864</PointerOffset>
       <JapaneseText>ヒューマ外出禁止だってさ。
 なんだかむかつくな……</JapaneseText>
-      <EnglishText>I'm getting pissed off that
-Huma can't go outside..</EnglishText>
+      <EnglishText>Estou ficando irritado porque
+os Huma não podem sair..</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>150</Id>
@@ -1725,9 +1702,8 @@ Huma can't go outside..</EnglishText>
       <PointerOffset>1903</PointerOffset>
       <JapaneseText>何が起きてるんだ……？
 海の向こうの方からっぽいな。</JapaneseText>
-      <EnglishText>What's going on...? It
-sounds like it's coming
-from the ocean...</EnglishText>
+      <EnglishText>O que está acontecendo...? Parece
+que vem do oceano...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>151</Id>
@@ -1737,8 +1713,8 @@ from the ocean...</EnglishText>
       <PointerOffset>1953</PointerOffset>
       <JapaneseText>東大陸の一部が海の中に
 沈んだんだってね。</JapaneseText>
-      <EnglishText>I heard part of Eastalia
-sunk into the sea.</EnglishText>
+      <EnglishText>Ouvi dizer que parte de Eastalia
+afundou no mar.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>152</Id>
@@ -1748,8 +1724,8 @@ sunk into the sea.</EnglishText>
       <PointerOffset>1975</PointerOffset>
       <JapaneseText>住んでた人もみんな
 海の底なのかな。</JapaneseText>
-      <EnglishText>I wonder if the people living
-there also sunk with it?</EnglishText>
+      <EnglishText>Será que as pessoas que moravam
+lá afundaram junto?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>153</Id>
@@ -1758,8 +1734,8 @@ there also sunk with it?</EnglishText>
     <Entry>
       <PointerOffset>1997</PointerOffset>
       <JapaneseText>……魚になってたりしてね。</JapaneseText>
-      <EnglishText>...Looks like they're sleeping
-with the fishes now.</EnglishText>
+      <EnglishText>...Parece que agora estão dormindo
+com os peixes.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>154</Id>
@@ -1769,9 +1745,9 @@ with the fishes now.</EnglishText>
       <PointerOffset>2022</PointerOffset>
       <JapaneseText>なんか知らないけど、
 店員同士の仲はあんまりよくないね。</JapaneseText>
-      <EnglishText>I don't know why, but it seems
-like my employees don't get
-along with each other.</EnglishText>
+      <EnglishText>Não sei por quê, mas parece que
+meus funcionários não se
+dão bem.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>155</Id>
@@ -1780,8 +1756,8 @@ along with each other.</EnglishText>
     <Entry>
       <PointerOffset>2044</PointerOffset>
       <JapaneseText>もっと楽しくやりたいなあ……</JapaneseText>
-      <EnglishText>I hope their relationship
-gets better...</EnglishText>
+      <EnglishText>Espero que a relação deles
+melhore...</EnglishText>
       <Notes> Sounds a little more romantic then I think it should </Notes>
       <SpeakerId>7</SpeakerId>
       <Id>156</Id>
@@ -1795,8 +1771,8 @@ gets better...</EnglishText>
       <JapaneseText>むむぅ……屋内に
 追いやられるとは……
 ……みじめだ……</JapaneseText>
-      <EnglishText>Hngg... What a pain... Why did
-I have to get assigned indoors?</EnglishText>
+      <EnglishText>Hngg... Que saco... Por que tive
+que ser escalado pra dentro?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>157</Id>
@@ -1806,8 +1782,8 @@ I have to get assigned indoors?</EnglishText>
       <PointerOffset>1116</PointerOffset>
       <JapaneseText>うおっ……
 外で何が起きてるんだ!?</JapaneseText>
-      <EnglishText>Wait... Is something
-happening outside!?</EnglishText>
+      <EnglishText>Espere... Está acontecendo
+algo lá fora!?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>158</Id>
@@ -1817,7 +1793,7 @@ happening outside!?</EnglishText>
       <PointerOffset>1172</PointerOffset>
       <JapaneseText>まだ揺れてる……
 揺れてる……</JapaneseText>
-      <EnglishText>It just keeps on shaking...</EnglishText>
+      <EnglishText>Não para de tremer...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>159</Id>
@@ -1826,7 +1802,7 @@ happening outside!?</EnglishText>
     <Entry>
       <PointerOffset>1194</PointerOffset>
       <JapaneseText>ん？　気のせいか……？</JapaneseText>
-      <EnglishText>Hmm? Was I imagining that...?</EnglishText>
+      <EnglishText>Hum? Foi impressão minha...?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>160</Id>
@@ -1839,8 +1815,8 @@ happening outside!?</EnglishText>
       <PointerOffset>982</PointerOffset>
       <JapaneseText>うちの店は万年、
 人手不足なんですよ。</JapaneseText>
-      <EnglishText>This store's always in need
-of cashiers, you know?</EnglishText>
+      <EnglishText>Esta loja sempre precisa
+de caixas, sabia?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>161</Id>
@@ -1850,8 +1826,8 @@ of cashiers, you know?</EnglishText>
       <PointerOffset>1004</PointerOffset>
       <JapaneseText>手伝ってくださる方が
 いらっしゃればねえ……</JapaneseText>
-      <EnglishText>Sure would be better if y'all
-came here to help us out.</EnglishText>
+      <EnglishText>Seria bom se vocês
+viessem nos ajudar.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>162</Id>
@@ -1866,9 +1842,9 @@ came here to help us out.</EnglishText>
 来てくれた。
 店番してくれないか？
 </JapaneseText>
-      <EnglishText>You've come at a good
-time. Could you watch
-the bar for me?</EnglishText>
+      <EnglishText>Você chegou na hora certa.
+Pode cuidar do bar
+por mim?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>163</Id>
@@ -1882,9 +1858,9 @@ the bar for me?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>164</Id>
@@ -1898,8 +1874,8 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『年代もののピアノ』
 触るのはやめておこう。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Vintage Piano -
-You decided to leave it alone.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Piano Antigo -
+Você decidiu deixá-lo em paz.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>165</Id>

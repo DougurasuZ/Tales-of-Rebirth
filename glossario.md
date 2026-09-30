@@ -20,7 +20,9 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | [Nome] Harbor | Porto de [Nome] | Ex.: "Porto de Balka" |
 | Road to Harbor | Caminho do Porto | |
 | Alvan Mountains - Shack | Montanhas de Alvan - Cabana | |
+| Forest Labyrinth | Floresta Labirinto | |
 | General Store | Armazém | |
+| Minal - Town Hall Library | Minal - Biblioteca da Prefeitura | |
 | Island of Illusions | Ilha das Ilusões | |
 | Minal Plains | Planícies de Minal | Nome misto |
 | Roaring Seas (City of the) | Cidade dos Mares Rugentes | Apelido de Minal |
@@ -60,6 +62,9 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Records | Registros | Seção do Battle Book |
 | Royal Shield | Escudo Real | Organização militar (Agarte) |
 | Titles | Títulos | Sistema de títulos dos personagens (tutorial) |
+| Free Title | Título Livre | Títulos escolhidos pelo jogador (Prefeitura de Minal) |
+| Library Card | Cartão da Biblioteca | |
+| Battle Records | Registros de Batalha | Seção do Battle Book |
 
 ## Nomes mantidos em inglês (não traduzir)
 
@@ -68,5 +73,8 @@ Registre aqui os casos que possam gerar dúvida.
 
 - Battle Book (nome de recurso do jogo, usado na frase: "Ler o Battle Book?")
 - Birus, Ice Birus, Frost Crow (monstros; "Birus" não flexiona no plural)
-- Force Cube
+- Force Cube, Force of Moon
+- Livros da biblioteca de Minal (itens): History Book, Philosophy Book, Dictionary, Reference Book, Romance Novel, Mystery Novel, Historical Novel, Biography, Travelogue, Adventure Novel, Poetry Collection, Art Book
+- Pratos do Refeitório de Minal: Minalian Shellfish Paella, Lemon Apple Pie, Hasta Pasta, Deep-fried Centipede, Sauteed Ice Cream; Hamburger Steak
+- RG, Rush Gauge, RG Gauge (termos de batalha)
 - Magical Pot

@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>2180,2229,219,2326,2350</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>872,2094</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>894</PointerOffset>
       <JapaneseText>食堂店員</JapaneseText>
-      <EnglishText>Restauranteur</EnglishText>
+      <EnglishText>Dono do Restaurante</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Proofreading</Status>
@@ -101,7 +101,7 @@
     <Entry>
       <PointerOffset>1358</PointerOffset>
       <JapaneseText>MENU</JapaneseText>
-      <EnglishText>MENU</EnglishText>
+      <EnglishText>CARDÁPIO</EnglishText>
       <Notes/>
       <Id>11</Id>
       <Status>Done</Status>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset>385</PointerOffset>
       <JapaneseText>食堂</JapaneseText>
-      <EnglishText>Dining Hall</EnglishText>
+      <EnglishText>Refeitório</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>394</PointerOffset>
       <JapaneseText>ミナール食堂</JapaneseText>
-      <EnglishText>Minal Dining Hall</EnglishText>
+      <EnglishText>Refeitório de Minal</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -128,7 +128,7 @@
     <Entry>
       <PointerOffset>391</PointerOffset>
       <JapaneseText>ミナール・食堂</JapaneseText>
-      <EnglishText>Minal - Dining Hall</EnglishText>
+      <EnglishText>Minal - Refeitório</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -141,8 +141,8 @@
       <JapaneseText>あっ♪
 おいしそうなものが入ってるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty in here! Lemme take a bite.</EnglishText>
+      <EnglishText>Oba! Parece que tem algo gostoso
+aqui! Deixa eu dar uma provada.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -151,7 +151,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>2183</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000002&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Ate "&lt;item:20000002&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Comeu "&lt;item:20000002&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -160,7 +160,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>2232</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000002&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000002&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:20000002&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -178,7 +178,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>2329</PointerOffset>
       <JapaneseText>&lt;Green&gt;料理が入っていました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There's food inside.</EnglishText>
+      <EnglishText>&lt;Green&gt;Há comida aqui dentro.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -188,9 +188,8 @@ tasty in here! Lemme take a bite.</EnglishText>
       <PointerOffset>2353</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、誰のものかわからないので
 とりあえず、袋を閉じました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Since you don't know
-who it belongs to, you
-leave it alone for now.</EnglishText>
+      <EnglishText>&lt;Green&gt;Como você não sabe de
+quem é, deixa por enquanto.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -205,8 +204,8 @@ leave it alone for now.</EnglishText>
 あんなふざけたガジュマと
 一緒に働いてらんないわ。
 </JapaneseText>
-      <EnglishText>Ugh... I don't want to work
-with that joke of a Gajuma.</EnglishText>
+      <EnglishText>Ugh... Não quero trabalhar
+com aquele Gajuma de araque.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -216,8 +215,8 @@ with that joke of a Gajuma.</EnglishText>
       <PointerOffset>2442</PointerOffset>
       <JapaneseText>やってらんないわよ……
 転職しようかしら……？</JapaneseText>
-      <EnglishText>I can't take this anymore...
-Maybe I should change jobs?</EnglishText>
+      <EnglishText>Não aguento mais...
+Talvez eu deva mudar de emprego?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -228,9 +227,8 @@ Maybe I should change jobs?</EnglishText>
       <JapaneseText>お客は来ないし……
 うちの店長、営業努力が
 足りないのよね……</JapaneseText>
-      <EnglishText>We aren't getting any customers,
-and my boss isn't even putting
-in any work...</EnglishText>
+      <EnglishText>Não temos clientes, e meu chefe
+nem se esforça pra trabalhar...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -240,9 +238,9 @@ in any work...</EnglishText>
       <PointerOffset>2489</PointerOffset>
       <JapaneseText>レジは壊れたまんまで
 買い換えてくれないし……</JapaneseText>
-      <EnglishText>He wouldn't even purchase a
-new cash register after this
-one broke...</EnglishText>
+      <EnglishText>Ele nem comprou uma caixa
+registradora nova depois que
+a antiga quebrou...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -256,9 +254,9 @@ one broke...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -271,8 +269,8 @@ No</EnglishText>
       <PointerOffset>2076</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『見下ろした風景』
 ミナールの街並みが描かれている。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Scenery from Below -
-A painting of the streets of Minal.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Cenário de Baixo -
+Uma pintura das ruas de Minal.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -287,9 +285,9 @@ A painting of the streets of Minal.</EnglishText>
 二人の人が並んでいる。
 店主が描いたらしい。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- A Portrait of Father and Mother -
-Two people are drawn here. It seems
-like the owner drew this.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Retrato de Pai e Mãe -
+Há duas pessoas desenhadas. Parece
+que o dono que desenhou.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -302,8 +300,8 @@ like the owner drew this.</EnglishText>
       <PointerOffset>1946</PointerOffset>
       <JapaneseText>１０００ガルド足す
 ８００ガルド……は……</JapaneseText>
-      <EnglishText>1000 gald plus
-800 gald is...</EnglishText>
+      <EnglishText>1000 Gald mais
+800 Gald é...</EnglishText>
       <Notes/>
       <SpeakerId>5,0,6,7,8,9</SpeakerId>
       <Id>17</Id>
@@ -321,7 +319,7 @@ like the owner drew this.</EnglishText>
     <Entry>
       <PointerOffset>1992</PointerOffset>
       <JapaneseText>０ガルド？</JapaneseText>
-      <EnglishText>0 gald?</EnglishText>
+      <EnglishText>0 Gald?</EnglishText>
       <Notes/>
       <SpeakerId>5,0,6,7,8,9</SpeakerId>
       <Id>19</Id>
@@ -331,8 +329,8 @@ like the owner drew this.</EnglishText>
       <PointerOffset>2016</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『壊れたレジスター』
 　計算ができない。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Broken Register -
-Calculating with this is impossible.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Caixa Quebrada -
+É impossível calcular com ela.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
@@ -345,8 +343,8 @@ Calculating with this is impossible.</EnglishText>
       <PointerOffset>956</PointerOffset>
       <JapaneseText>ヒューマの女が辞めて、
 せいせいしたよ。</JapaneseText>
-      <EnglishText>I'm glad that female
-Huma's finally gone.</EnglishText>
+      <EnglishText>Que bom que aquela Huma
+finalmente foi embora.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>21</Id>
@@ -357,9 +355,9 @@ Huma's finally gone.</EnglishText>
       <JapaneseText>あの給料ドロボウめ……
 働かないくせに
 給料はしっかり持ってってさ。</JapaneseText>
-      <EnglishText>That thief wasn't working,
-she was just waiting for
-her next paycheck!</EnglishText>
+      <EnglishText>Aquela ladra não trabalhava,
+só esperava o próximo
+pagamento!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>22</Id>
@@ -368,8 +366,8 @@ her next paycheck!</EnglishText>
     <Entry>
       <PointerOffset>1338</PointerOffset>
       <JapaneseText>いらっしゃい、何にする？</JapaneseText>
-      <EnglishText>Hi, welcome! What would
-you like to order?</EnglishText>
+      <EnglishText>Olá, bem-vindos! O que
+gostariam de pedir?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>23</Id>
@@ -397,9 +395,9 @@ Sauteed Ice Cream</EnglishText>
       <JapaneseText>なんだい、なんだい
 ここまで来て、何も
 頼まないっていうのかい!?</JapaneseText>
-      <EnglishText>You've got to be kidding me!
-You come all the way here,
-then you change your mind?</EnglishText>
+      <EnglishText>Só pode ser brincadeira!
+Vem até aqui e muda
+de ideia?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>25</Id>
@@ -410,8 +408,8 @@ then you change your mind?</EnglishText>
       <JapaneseText>じゃあ、これから
 貝を獲りに行くから
 待っててくれるかい？</JapaneseText>
-      <EnglishText>Fine, I'll just go get some shellfish.
-Would you mind waiting for me?</EnglishText>
+      <EnglishText>Tudo bem, vou buscar uns mariscos.
+Importa-se de esperar?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>26</Id>
@@ -421,8 +419,8 @@ Would you mind waiting for me?</EnglishText>
       <PointerOffset>1488</PointerOffset>
       <JapaneseText>何？　待てない？
 まったく、辛抱のない連中だな。</JapaneseText>
-      <EnglishText>What? You're not gonna
-wait? Tch. Impatient lot.</EnglishText>
+      <EnglishText>Quê? Não vai esperar?
+Tch. Gente impaciente.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>27</Id>
@@ -432,7 +430,7 @@ wait? Tch. Impatient lot.</EnglishText>
       <PointerOffset>1523</PointerOffset>
       <JapaneseText>そんなもん
 あるわけないだろ？</JapaneseText>
-      <EnglishText>Why would such a thing exist?</EnglishText>
+      <EnglishText>Por que uma coisa dessas existe?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>28</Id>
@@ -441,8 +439,8 @@ wait? Tch. Impatient lot.</EnglishText>
     <Entry>
       <PointerOffset>1576</PointerOffset>
       <JapaneseText>そりゃあ出せねえな。</JapaneseText>
-      <EnglishText>I'll have to pass on
-serving you that.</EnglishText>
+      <EnglishText>Vou ter que recusar
+servir isso a você.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>29</Id>
@@ -452,8 +450,8 @@ serving you that.</EnglishText>
       <PointerOffset>1630</PointerOffset>
       <JapaneseText>おまえ、ムカデなんて
 食うのかよ!?</JapaneseText>
-      <EnglishText>You're SERIOUSLY gonna
-eat a centipede!?</EnglishText>
+      <EnglishText>Vai comer centopeia
+MESMO!?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>30</Id>
@@ -462,7 +460,7 @@ eat a centipede!?</EnglishText>
     <Entry>
       <PointerOffset>1670</PointerOffset>
       <JapaneseText>なんだよ!?　食わねえのか？</JapaneseText>
-      <EnglishText>What!? So you're not!?</EnglishText>
+      <EnglishText>O quê!? Então não vai!?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>31</Id>
@@ -471,7 +469,7 @@ eat a centipede!?</EnglishText>
     <Entry>
       <PointerOffset>1706</PointerOffset>
       <JapaneseText>１０００万ガルドだ。</JapaneseText>
-      <EnglishText>1,000,000 gald.</EnglishText>
+      <EnglishText>1.000.000 Gald.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>32</Id>
@@ -481,9 +479,9 @@ eat a centipede!?</EnglishText>
       <PointerOffset>1746</PointerOffset>
       <JapaneseText>何？　ない？
 食い逃げしようってのか!?</JapaneseText>
-      <EnglishText>What? You don't have that
-money!? You're seriously
-gonna dine and dash, huh!?</EnglishText>
+      <EnglishText>Quê? Não tem esse dinheiro!?
+Vai mesmo sair sem
+pagar, é?!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>33</Id>
@@ -493,7 +491,7 @@ gonna dine and dash, huh!?</EnglishText>
       <PointerOffset>1050</PointerOffset>
       <JapaneseText>新しいレジ係、
 雇おうかな……</JapaneseText>
-      <EnglishText>Maybe I should hire a new cashier...</EnglishText>
+      <EnglishText>Devo contratar uma nova caixa...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>34</Id>
@@ -504,8 +502,8 @@ gonna dine and dash, huh!?</EnglishText>
       <JapaneseText>でもあの娘以外は
 あのいかれたレジ
 まともに触れないしな……</JapaneseText>
-      <EnglishText>But only that girl knew how
-to work that wacky cash register...</EnglishText>
+      <EnglishText>Mas só ela sabia mexer naquela
+caixa registradora maluca...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>35</Id>
@@ -515,8 +513,8 @@ to work that wacky cash register...</EnglishText>
       <PointerOffset>1144</PointerOffset>
       <JapaneseText>いやぁ、ヒューマを
 からかうのは楽しいねー。</JapaneseText>
-      <EnglishText>Hahaha, teasing Huma
-really is fun~.</EnglishText>
+      <EnglishText>Hahaha, provocar Huma é
+muito divertido~.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>36</Id>
@@ -526,9 +524,9 @@ really is fun~.</EnglishText>
       <PointerOffset>1166</PointerOffset>
       <JapaneseText>ありもしないメニューを言ったら、
 連中、目を白黒させてさ。</JapaneseText>
-      <EnglishText>They get real flustered when
-I tell them fake items that
-aren't on the menu.</EnglishText>
+      <EnglishText>Eles ficam bem atrapalhados quando
+digo itens falsos que não
+estão no cardápio.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>37</Id>
@@ -538,7 +536,7 @@ aren't on the menu.</EnglishText>
       <PointerOffset>1224</PointerOffset>
       <JapaneseText>あんたが今、
 覚えているレシピは……</JapaneseText>
-      <EnglishText>The recipes you currently know are...</EnglishText>
+      <EnglishText>As receitas que você conhece são...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>38</Id>
@@ -558,8 +556,8 @@ aren't on the menu.</EnglishText>
       <PointerOffset>1306</PointerOffset>
       <JapaneseText>ま、がんばって
 色々覚えてくれよ。</JapaneseText>
-      <EnglishText>Well, good luck and
-learn lots more.</EnglishText>
+      <EnglishText>Bem, boa sorte e
+aprenda bastante.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>40</Id>
