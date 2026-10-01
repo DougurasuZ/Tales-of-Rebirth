@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>617,617</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>720,775,159</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset>368</PointerOffset>
       <JapaneseText>クロダダク砂漠</JapaneseText>
-      <EnglishText>Kurodadaku Desert</EnglishText>
+      <EnglishText>Deserto de Kurodadaku</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>365</PointerOffset>
       <JapaneseText>クロダダク砂漠</JapaneseText>
-      <EnglishText>Kurodadaku Desert</EnglishText>
+      <EnglishText>Deserto de Kurodadaku</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -132,7 +132,7 @@
       <PointerOffset>1433</PointerOffset>
       <VoiceId>19000000</VoiceId>
       <JapaneseText>あっちーっ！</JapaneseText>
-      <EnglishText>It's freakin' HOT.</EnglishText>
+      <EnglishText>Tá um CALOR dos infernos!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -143,9 +143,9 @@
       <VoiceId>19000001</VoiceId>
       <JapaneseText>暑いと言うから
 よけいに暑くなるんだ。</JapaneseText>
-      <EnglishText>If you keep complaining about
-the heat, it's just going to feel
-even hotter.</EnglishText>
+      <EnglishText>Se você continuar reclamando do
+calor, ele só vai parecer ainda
+mais forte.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -156,8 +156,8 @@ even hotter.</EnglishText>
       <VoiceId>19000002</VoiceId>
       <JapaneseText>なぁ&lt;Veigue&gt;、
 氷作ってくれないか？</JapaneseText>
-      <EnglishText>Hey, &lt;Veigue&gt;, can you
-make me some ice?</EnglishText>
+      <EnglishText>Ei, &lt;Veigue&gt;, dá pra você
+fazer um gelo pra mim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -167,7 +167,7 @@ make me some ice?</EnglishText>
       <PointerOffset>1635</PointerOffset>
       <VoiceId>19000003</VoiceId>
       <JapaneseText>断わる。</JapaneseText>
-      <EnglishText>No.</EnglishText>
+      <EnglishText>Não.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -178,8 +178,8 @@ make me some ice?</EnglishText>
       <VoiceId>19000004</VoiceId>
       <JapaneseText>じゃあ&lt;Annie&gt;、
 雨降らせてくれよ……</JapaneseText>
-      <EnglishText>Then &lt;Annie&gt;, could you
-make it rain for me?</EnglishText>
+      <EnglishText>Então &lt;Annie&gt;, dá pra você
+fazer chover pra mim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -189,7 +189,7 @@ make it rain for me?</EnglishText>
       <PointerOffset>1754</PointerOffset>
       <VoiceId>19000005</VoiceId>
       <JapaneseText>何言ってるんですか……</JapaneseText>
-      <EnglishText>Oh, come now.</EnglishText>
+      <EnglishText>Ora, por favor.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -201,9 +201,8 @@ make it rain for me?</EnglishText>
       <JapaneseText>バビログラードに行くには
 この砂漠を越えなきゃ
 いけないんだろ？</JapaneseText>
-      <EnglishText>Do we really have to go through
-the desert if we want to get to
-Babilograd?</EnglishText>
+      <EnglishText>A gente tem mesmo que passar pelo
+deserto pra chegar em Babilograd?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -215,9 +214,9 @@ Babilograd?</EnglishText>
       <JapaneseText>そうだ。陸路で行くには、
 このクロダダク砂漠を
 避ける事はできない。</JapaneseText>
-      <EnglishText>Yes, we do. There's no way to
-bypass the Kurodadaku Desert
-if you travel by land.</EnglishText>
+      <EnglishText>Sim. Não há como contornar o
+Deserto de Kurodadaku se
+viajarmos por terra.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -228,8 +227,8 @@ if you travel by land.</EnglishText>
       <VoiceId>19000008</VoiceId>
       <JapaneseText>この砂漠……
 四つ星……半のヤバさだぜ……</JapaneseText>
-      <EnglishText>I give this desert... Four stars...
-and a half. In terribleness.</EnglishText>
+      <EnglishText>Eu dou pra esse deserto... Quatro
+estrelas... e meia. Em horror.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -239,7 +238,7 @@ and a half. In terribleness.</EnglishText>
       <PointerOffset>2015</PointerOffset>
       <VoiceId>1900000a</VoiceId>
       <JapaneseText>うわぁぁぁぁぁぁぁぁっ!!</JapaneseText>
-      <EnglishText>Uwaaaaaah!!</EnglishText>
+      <EnglishText>Uaaaaaah!!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -286,7 +285,7 @@ and a half. In terribleness.</EnglishText>
       <PointerOffset>2256</PointerOffset>
       <VoiceId>19000010</VoiceId>
       <JapaneseText>おーい。大丈夫？</JapaneseText>
-      <EnglishText>Heeey! Are you okay?</EnglishText>
+      <EnglishText>Ei, ei! Você tá bem?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -307,9 +306,9 @@ and a half. In terribleness.</EnglishText>
       <JapaneseText>さよなら、&lt;Tytree&gt;。
 おっちょこちょいだったけど
 キライじゃなかったよ。</JapaneseText>
-      <EnglishText>So long, &lt;Tytree&gt;. You were
-an airhead, but we liked
-you well enough.</EnglishText>
+      <EnglishText>Adeus, &lt;Tytree&gt;. Você era um
+cabeça-oca, mas a gente até
+gostava de você.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
@@ -319,8 +318,8 @@ you well enough.</EnglishText>
       <PointerOffset>2351</PointerOffset>
       <VoiceId>19000012</VoiceId>
       <JapaneseText>人を勝手にコロスなァッ!!</JapaneseText>
-      <EnglishText>You can't just kill
-me off like that!</EnglishText>
+      <EnglishText>Não dá pra me matar
+assim do nada!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -331,7 +330,7 @@ me off like that!</EnglishText>
       <VoiceId>19000013</VoiceId>
       <JapaneseText>&lt;Tytree&gt;さん！
 大丈夫ですか!?</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;! Are you all right?!</EnglishText>
+      <EnglishText>&lt;Tytree&gt;! Você está bem?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -342,7 +341,7 @@ me off like that!</EnglishText>
       <VoiceId>19000014</VoiceId>
       <JapaneseText>大丈夫もなにも、
 最高の気分だぜ！</JapaneseText>
-      <EnglishText>Forget "all right," I'm SUPER!</EnglishText>
+      <EnglishText>Bem? Eu tô SENSACIONAL!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -353,8 +352,8 @@ me off like that!</EnglishText>
       <VoiceId>19000015</VoiceId>
       <JapaneseText>打ちどころが
 悪かったんでしょうか……？</JapaneseText>
-      <EnglishText>Did he hit his head on
-the way down...?</EnglishText>
+      <EnglishText>Será que ele bateu a cabeça
+na queda...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -364,8 +363,8 @@ the way down...?</EnglishText>
       <PointerOffset>2608</PointerOffset>
       <VoiceId>19000016</VoiceId>
       <JapaneseText>……もとからでしょ？</JapaneseText>
-      <EnglishText>As if that would make
-any difference?</EnglishText>
+      <EnglishText>Como se isso fizesse
+alguma diferença?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -376,8 +375,8 @@ any difference?</EnglishText>
       <VoiceId>19000017</VoiceId>
       <JapaneseText>&lt;scale:120&gt;聞こえてるぞー!!
 おれは頭なんか打ってない!!</JapaneseText>
-      <EnglishText>I can hear you! And no,
-I did not hit my head!</EnglishText>
+      <EnglishText>Eu tô ouvindo! E não, eu
+não bati a cabeça!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -387,8 +386,8 @@ I did not hit my head!</EnglishText>
       <PointerOffset>2690</PointerOffset>
       <VoiceId>19000018</VoiceId>
       <JapaneseText>だって、最高の気分って……</JapaneseText>
-      <EnglishText>Well, then what do you
-mean you're "super?"</EnglishText>
+      <EnglishText>Então o que você quer dizer
+com "sensacional"?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -399,8 +398,8 @@ mean you're "super?"</EnglishText>
       <VoiceId>19000019</VoiceId>
       <JapaneseText>この中がヒンヤリして
 最高だって事だよ！</JapaneseText>
-      <EnglishText>It's nice and cool down
-here! It feels great!</EnglishText>
+      <EnglishText>É fresquinho aqui embaixo!
+Tá uma delícia!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -412,10 +411,9 @@ here! It feels great!</EnglishText>
       <JapaneseText>涼しい!?　いくら日陰でも、
 それほど気温差があるはず
 ないのに……</JapaneseText>
-      <EnglishText>Cool? No matter how shady
-it is, the temperature down
-there shouldn't be much
-different from up here...</EnglishText>
+      <EnglishText>Fresco? Por mais sombra que haja,
+a temperatura aí embaixo não devia
+ser muito diferente da de cima...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -425,7 +423,7 @@ different from up here...</EnglishText>
       <PointerOffset>2806</PointerOffset>
       <VoiceId>1900001b</VoiceId>
       <JapaneseText>どういう事だ、&lt;Tytree&gt;？</JapaneseText>
-      <EnglishText>Can you elaborate, &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Pode explicar melhor, &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -437,10 +435,9 @@ different from up here...</EnglishText>
       <JapaneseText>水だよ、水！　水場になってるんだ！
 奥の方に向かって水が流れてて、
 涼しいぜ！</JapaneseText>
-      <EnglishText>There's water here, guys,
-water! Cool, refreshing
-water that's flowing from
-deep inside the cavern!</EnglishText>
+      <EnglishText>Tem água aqui, pessoal, água!
+Água fresca e refrescante que vem
+lá do fundo da caverna!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -450,8 +447,7 @@ deep inside the cavern!</EnglishText>
       <PointerOffset>2857</PointerOffset>
       <VoiceId>1900001d</VoiceId>
       <JapaneseText>地下に川、ってコト？</JapaneseText>
-      <EnglishText>You mean like an
-underground river?</EnglishText>
+      <EnglishText>Tipo um rio subterrâneo?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
@@ -462,8 +458,8 @@ underground river?</EnglishText>
       <VoiceId>1900001e</VoiceId>
       <JapaneseText>いいから、降りて来いよ。
 ハシゴがついてるだろ？</JapaneseText>
-      <EnglishText>Sure whatever, just get down here!
-I'm pretty sure there's a ladder.</EnglishText>
+      <EnglishText>Tanto faz, só desce aqui!
+Acho que tem uma escada.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -473,7 +469,7 @@ I'm pretty sure there's a ladder.</EnglishText>
       <PointerOffset>2937</PointerOffset>
       <VoiceId>1900001f</VoiceId>
       <JapaneseText>どうする？</JapaneseText>
-      <EnglishText>Should we?</EnglishText>
+      <EnglishText>Vamos?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
@@ -484,8 +480,8 @@ I'm pretty sure there's a ladder.</EnglishText>
       <VoiceId>19000020</VoiceId>
       <JapaneseText>わたし、降りてみたい。
 ちょっと確かめたい事があるの。</JapaneseText>
-      <EnglishText>I'd like to go see
-what's down there.</EnglishText>
+      <EnglishText>Gostaria de ver o que
+tem lá embaixo.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
@@ -496,9 +492,8 @@ what's down there.</EnglishText>
       <VoiceId>19000021</VoiceId>
       <JapaneseText>あいつを放っておくわけにも
 いかないしな。</JapaneseText>
-      <EnglishText>It's not like we can
-just leave him there,
-anyway.</EnglishText>
+      <EnglishText>Não dá pra deixar ele lá
+mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -508,7 +503,7 @@ anyway.</EnglishText>
       <PointerOffset>3067</PointerOffset>
       <VoiceId>19000022</VoiceId>
       <JapaneseText>決まりだな。</JapaneseText>
-      <EnglishText>Down we go, then.</EnglishText>
+      <EnglishText>Então vamos descer.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
@@ -518,7 +513,7 @@ anyway.</EnglishText>
       <PointerOffset>677</PointerOffset>
       <JapaneseText>ありがとう……
 助かったよ。</JapaneseText>
-      <EnglishText>Thanks for the help.</EnglishText>
+      <EnglishText>Obrigado pela ajuda.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>39</Id>
@@ -527,7 +522,7 @@ anyway.</EnglishText>
     <Entry>
       <PointerOffset>699</PointerOffset>
       <JapaneseText>そうじゃ、これをお食べ。</JapaneseText>
-      <EnglishText>Here, have some of this.</EnglishText>
+      <EnglishText>Tome, aceite um pouco disto.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>40</Id>
@@ -536,7 +531,7 @@ anyway.</EnglishText>
     <Entry>
       <PointerOffset>723</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000017&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You ate some "&lt;item:20000017&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Você comeu "&lt;item:20000017&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>41</Id>
@@ -545,7 +540,7 @@ anyway.</EnglishText>
     <Entry>
       <PointerOffset>889</PointerOffset>
       <JapaneseText>うまい……</JapaneseText>
-      <EnglishText>It's good...</EnglishText>
+      <EnglishText>Está bom...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -555,8 +550,8 @@ anyway.</EnglishText>
       <PointerOffset>925</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good! It's
-so dang tasty!</EnglishText>
+      <EnglishText>Isso tá muito bom! É
+gostoso demais!</EnglishText>
       <Notes>Needs mass dupes for removing extra exclamation point, maybe?</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -565,7 +560,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>961</PointerOffset>
       <JapaneseText>うむ、これはうまい……</JapaneseText>
-      <EnglishText>Mm, this is good...</EnglishText>
+      <EnglishText>Mm, está muito bom...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -574,7 +569,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>998</PointerOffset>
       <JapaneseText>おいしい……</JapaneseText>
-      <EnglishText>It's delicious...</EnglishText>
+      <EnglishText>É delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>45</Id>
@@ -584,8 +579,8 @@ so dang tasty!</EnglishText>
       <PointerOffset>1035</PointerOffset>
       <JapaneseText>くぅぅ、うめえ！
 こいつぁ、五つ星だ！</JapaneseText>
-      <EnglishText>Whoaa, this is delicious!
-I give it five stars!</EnglishText>
+      <EnglishText>Uaaau, que delícia!
+Dou cinco estrelas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>46</Id>
@@ -595,7 +590,7 @@ I give it five stars!</EnglishText>
       <PointerOffset>1072</PointerOffset>
       <JapaneseText>おいしいわね……
 </JapaneseText>
-      <EnglishText>That was delicious...</EnglishText>
+      <EnglishText>Estava delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>47</Id>
@@ -613,7 +608,7 @@ I give it five stars!</EnglishText>
     <Entry>
       <PointerOffset>778</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000017&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000017&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Você obteve a receita de "&lt;item:20000017&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -636,9 +631,9 @@ I give it five stars!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>51</Id>

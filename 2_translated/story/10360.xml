@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>570,570,570,570,570</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -52,8 +52,8 @@
       <PointerOffset>586</PointerOffset>
       <JapaneseText>カレーズを越えようと思って
 ここまで来たんじゃが……</JapaneseText>
-      <EnglishText>Ah, I was tryin' to
-go through Karez...</EnglishText>
+      <EnglishText>Ah, eu estava tentando
+andar pelo Karez...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -62,8 +62,7 @@ go through Karez...</EnglishText>
     <Entry>
       <PointerOffset>608</PointerOffset>
       <JapaneseText>すっかり道に迷ってしもうた……</JapaneseText>
-      <EnglishText>...but I've found myself
-rather lost?</EnglishText>
+      <EnglishText>...mas acabei meio perdido?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -73,8 +72,8 @@ rather lost?</EnglishText>
       <PointerOffset>630</PointerOffset>
       <JapaneseText>ワシを外へ連れてって
 もらえんかの？</JapaneseText>
-      <EnglishText>Would ya kindly show 
-me the way back out?</EnglishText>
+      <EnglishText>Poderia me mostrar o caminho
+pra sair daqui?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -85,9 +84,9 @@ me the way back out?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;つれていってあげますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Escort him out?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Levá-lo até a saída?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -96,7 +95,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>704</PointerOffset>
       <JapaneseText>すまぬのお……</JapaneseText>
-      <EnglishText>Sorry to impose on you...</EnglishText>
+      <EnglishText>Desculpe incomodar vocês...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -105,8 +104,8 @@ No</EnglishText>
     <Entry>
       <PointerOffset>773</PointerOffset>
       <JapaneseText>冷たい子らじゃ……</JapaneseText>
-      <EnglishText>Kids these days have no 
-respect for their elders...</EnglishText>
+      <EnglishText>Os jovens de hoje não respeitam
+os mais velhos...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -120,9 +119,9 @@ respect for their elders...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>

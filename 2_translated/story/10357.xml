@@ -100,7 +100,7 @@
       <PointerOffset>897</PointerOffset>
       <VoiceId>19000023</VoiceId>
       <JapaneseText>やっぱり……</JapaneseText>
-      <EnglishText>You weren't kidding...</EnglishText>
+      <EnglishText>Você não estava brincando...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -110,7 +110,7 @@
       <PointerOffset>944</PointerOffset>
       <VoiceId>19000024</VoiceId>
       <JapaneseText>な、涼しくて最高だろ？</JapaneseText>
-      <EnglishText>See? Feels amazing, doesn't it?</EnglishText>
+      <EnglishText>Viu? Tá uma maravilha, né?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -122,9 +122,8 @@
       <JapaneseText>そうだネ！
 この水路もどこかに
 つながってるみたいだし。</JapaneseText>
-      <EnglishText>It sure does! It looks
-like this waterway
-leads somewhere, too.</EnglishText>
+      <EnglishText>Com certeza! Parece que esse
+canal leva a algum lugar também.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -134,7 +133,7 @@ leads somewhere, too.</EnglishText>
       <PointerOffset>1031</PointerOffset>
       <VoiceId>19000026</VoiceId>
       <JapaneseText>ここは一体……？</JapaneseText>
-      <EnglishText>What in the world is this?</EnglishText>
+      <EnglishText>Mas o que é isso?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -144,7 +143,7 @@ leads somewhere, too.</EnglishText>
       <PointerOffset>1111</PointerOffset>
       <VoiceId>19000027</VoiceId>
       <JapaneseText>カレーズです。</JapaneseText>
-      <EnglishText>This is Karez.</EnglishText>
+      <EnglishText>Isto é um Karez.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -155,7 +154,7 @@ leads somewhere, too.</EnglishText>
       <VoiceId>19000028</VoiceId>
       <JapaneseText>カレーズ？
 なんだそりゃ？</JapaneseText>
-      <EnglishText>Karez? What's that?</EnglishText>
+      <EnglishText>Karez? O que é isso?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -166,9 +165,9 @@ leads somewhere, too.</EnglishText>
       <VoiceId>19000029</VoiceId>
       <JapaneseText>カレーズか……
 それなら&lt;Tytree&gt;のお手柄だな。</JapaneseText>
-      <EnglishText>Karez, huh... If you're
-right, then we'd better
-thank &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Karez, então... Se você estiver
+certa, é melhor agradecermos
+a &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -179,10 +178,9 @@ thank &lt;Tytree&gt;.</EnglishText>
       <VoiceId>1900002a</VoiceId>
       <JapaneseText>……ええ。この水路をたどって行けば、
 砂漠越えより安全かもしれません。</JapaneseText>
-      <EnglishText>...Yes. It would probably be
-safer for us to follow these
-waterways, instead of going
-through the desert.</EnglishText>
+      <EnglishText>...Sim. Provavelmente seria mais
+seguro seguir estes canais, em vez
+de atravessar o deserto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -194,9 +192,9 @@ through the desert.</EnglishText>
       <JapaneseText>おいおい。
 二人で仲良く納得してないで
 おれたちにも教えてくれよ。</JapaneseText>
-      <EnglishText>Hey, you two seem to be getting
-along just fine, but could you get
-the rest of us up to speed, too?</EnglishText>
+      <EnglishText>Ei, vocês dois parecem se dar bem,
+mas dá pra deixar o resto de nós
+a par também?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -206,7 +204,7 @@ the rest of us up to speed, too?</EnglishText>
       <PointerOffset>1526</PointerOffset>
       <VoiceId>1900002c</VoiceId>
       <JapaneseText>&lt;scale:120&gt;別に仲良くなんてしてません！</JapaneseText>
-      <EnglishText>We are &lt;Italic&gt;NOT&lt;/Italic&gt; getting along!</EnglishText>
+      <EnglishText>Nós &lt;Italic&gt;NÃO&lt;/Italic&gt; estamos nos dando bem!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -227,9 +225,8 @@ the rest of us up to speed, too?</EnglishText>
       <VoiceId>1900002e</VoiceId>
       <JapaneseText>なんだよ？　そんなに必死こいて
 否定しなくてもイイじゃねーか。</JapaneseText>
-      <EnglishText>What's with you? You don't
-have to get all bent out of
-shape over it.</EnglishText>
+      <EnglishText>Qual é o seu problema? Não precisa
+se estressar tanto por isso.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -240,8 +237,8 @@ shape over it.</EnglishText>
       <VoiceId>1900002f</VoiceId>
       <JapaneseText>……カレーズとは、
 地下水路の事だ。</JapaneseText>
-      <EnglishText>...These underground waterways
-are known as Karez.</EnglishText>
+      <EnglishText>...Esses canais subterrâneos
+são conhecidos como Karez.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -251,7 +248,7 @@ are known as Karez.</EnglishText>
       <PointerOffset>1756</PointerOffset>
       <VoiceId>19000030</VoiceId>
       <JapaneseText>誰かが造ったものなの？</JapaneseText>
-      <EnglishText>Are they man-made?</EnglishText>
+      <EnglishText>Foram feitos por pessoas?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -263,10 +260,10 @@ are known as Karez.</EnglishText>
       <JapaneseText>昔の人たちが、井戸と井戸を
 地下でつなげて水路にしたもので、
 砂漠の街では命の水脈なの。</JapaneseText>
-      <EnglishText>In ancient times, people connected
-wells to make underground channels
-like this. They're the lifeblood of
-any desert town.</EnglishText>
+      <EnglishText>Antigamente, as pessoas ligavam
+poços para criar canais assim sob
+a terra. São a fonte de vida de
+qualquer cidade do deserto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -277,8 +274,8 @@ any desert town.</EnglishText>
       <VoiceId>19000032</VoiceId>
       <JapaneseText>&lt;Tytree&gt;のお手柄とは
 どういう意味だ？</JapaneseText>
-      <EnglishText>So what did you mean
-about thanking &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Então o que quis dizer com
+agradecer a &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -290,9 +287,9 @@ about thanking &lt;Tytree&gt;?</EnglishText>
       <JapaneseText>水路なら、人のいる場所に
 通じている可能性が高い
 という事です。</JapaneseText>
-      <EnglishText>Since this is a waterway, it's
-very likely that it leads to a
-place where people live.</EnglishText>
+      <EnglishText>Como isto é um canal, é muito
+provável que leve a um lugar
+onde há gente.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -303,10 +300,9 @@ place where people live.</EnglishText>
       <VoiceId>19000034</VoiceId>
       <JapaneseText>そっか♪　必要じゃない場所に
 わざわざ水路なんか引かないもんね。</JapaneseText>
-      <EnglishText>Oh yeah! People wouldn't go out
-of their way to make something
-like this if they weren't around
-to use it, right?</EnglishText>
+      <EnglishText>Ah, é! Ninguém ia se dar ao
+trabalho de fazer algo assim se
+não morasse por perto, né?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -317,8 +313,8 @@ to use it, right?</EnglishText>
       <VoiceId>19000035</VoiceId>
       <JapaneseText>……って事は……この中を
 歩いて行けばイイんだな？</JapaneseText>
-      <EnglishText>So you mean we should
-explore, right?</EnglishText>
+      <EnglishText>Então a gente deve
+explorar, né?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -330,10 +326,9 @@ explore, right?</EnglishText>
       <JapaneseText>方角も合ってるみたいだし、
 どこまで行けるかわからないけど
 砂漠を歩くよりはましね。</JapaneseText>
-      <EnglishText>It seems like it'll lead us in the
-right direction. Even if we don't
-know how far it'll take us, it
-beats going through the desert.</EnglishText>
+      <EnglishText>Parece que isso vai nos levar na
+direção certa. Mesmo sem saber até
+onde vai, é melhor que o deserto.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
@@ -345,9 +340,8 @@ beats going through the desert.</EnglishText>
       <JapaneseText>ただ、この先に
 何があるかはわからない。
 充分、注意して進むんだ。</JapaneseText>
-      <EnglishText>However, it might still be
-dangerous up ahead. Don't
-let your guard down.</EnglishText>
+      <EnglishText>Porém, ainda pode haver perigo
+adiante. Não baixem a guarda.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -358,8 +352,8 @@ let your guard down.</EnglishText>
       <VoiceId>19000038</VoiceId>
       <JapaneseText>よっしゃ!!
 行けるとこまで行こうぜ!!</JapaneseText>
-      <EnglishText>All right!! Let's go as far
-as this thing'll take us!</EnglishText>
+      <EnglishText>Beleza!! Vamos até onde isso
+nos levar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -373,9 +367,9 @@ as this thing'll take us!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>

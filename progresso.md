@@ -100,12 +100,22 @@
 | 2_translated/story/10346.xml | 2026-09-30 |
 | 2_translated/story/10347.xml | 2026-09-30 |
 | 2_translated/story/10348.xml | 2026-09-30 |
+| 2_translated/story/10349.xml | 2026-10-01 |
+| 2_translated/story/10350.xml | 2026-10-01 |
+| 2_translated/story/10351.xml | 2026-10-01 |
+| 2_translated/story/10356.xml | 2026-10-01 |
+| 2_translated/story/10357.xml | 2026-10-01 |
+| 2_translated/story/10358.xml | 2026-10-01 |
+| 2_translated/story/10360.xml | 2026-10-01 |
+| 2_translated/story/10362.xml | 2026-10-01 |
 
 ## Arquivos sem texto a traduzir
 
 | Arquivo | Motivo |
 |---|---|
 | 2_translated/story/10228.xml | só nomes próprios ("Sulz"); nada a traduzir |
+| 2_translated/story/10359.xml | só o nome do lugar ("Karez"); nada a traduzir |
+| 2_translated/story/10361.xml | só o nome do lugar ("Karez"); nada a traduzir |
 
 ## Arquivos ignorados (debug)
 
@@ -256,3 +266,10 @@
 - 10346.xml: "Travelogue", "Romance Novel", "Peach Gels" e "Holy Bottles" mantidos em inglês (itens/livros). Id 71 ("Small Wisdoms of Life"): recuos das linhas foram removidos (ESPACO) e "Playful Water" (nome da loja) mantido em inglês: "- Dono da Playful Water.". Conferir se o nome da loja deve ser traduzido.
 - 10347.xml, Id 39: "Gem Synthesis" → "Síntese de Gemas" (termo de sistema), frase reescrita ("<Red>Síntese de Gemas<White> ganhou uma explicação no <Green>Battle Book<White>.") para caber na linha mantendo a ordem dos códigos. Id 64: "Tortoise" (guerreiro lendário) mantido como nome.
 - 10348.xml, Id 39: série de livros "Chalkman" mantida como nome; subtítulos traduzidos ("Virilidade", "Paixão", "Euforia", "Reviravolta"). O Menino e o Velho (Gajuma com penas) usam "Huma" sem artigo flexionado.
+- Revisão do relatorio_validacao.txt (2026-10-01, lote 10349–10362): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido. Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10349–10362 (2026-10-01): 10349, 10350, 10351, 10356, 10357, 10358, 10360, 10362 (10352–10355 não existem; 10359 e 10361 só têm "Karez"). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 7 problemas na 1ª rodada (TAMANHO), 1 na 2ª (só o falso positivo de 10309).
+- 10349–10362, rótulos de falante: "Old Man" → "Velho", "Old Woman" → "Velha", "Cat Lover" → "Amante de Gatos", "Girl/Boy/Woman/Man" → "Menina/Menino/Mulher/Homem", "Notice" → "Aviso". Lugares: "Kurodadaku Desert" → "Deserto de Kurodadaku" (glossário); "Karez" mantido (nome próprio/termo).
+- 10349.xml: Westalia, Northtalia, Eastalia, Bordalia mantidos (nomes de regiões); "Balka Island" → "Ilha de Balka"; "Sacred Stars" → "Estrelas Sagradas" (Id 53); "Punch Monkey" mantido (animal). Títulos de quadros (Pecha, Tama, Chobi) traduzidos; Id 110 tem títulos truncados no inglês ("Memories of My" / "Charter Lying Down" / "Bell in the Evening"), traduzidos literalmente. Conferir. Ids 112/119: "Me—..." → "Mi—..." (começo de "Miau").
+- 10350.xml: "gels" mantido em inglês nas falas; "Smiling Gel" e "Grape Gels" mantidos (itens). Ids 7–12 têm SpeakerId -1 ([VARIABLE]); falas traduzidas sem marca de gênero.
+- 10351.xml: "Travelogue" e "Romance Novel" mantidos (itens, como em 10346). Id 37: "Ela deixou a cidade. Calma." (Veigue; encurtado pelo limite). Id 39: "shrike" → "picanço".
+- 10356.xml, Id 13: "Four stars and a half" (piada de Tytree) → "Quatro estrelas... e meia" (não é a organização). Ids 41/49: códigos <item:20000017> preservados. 10358.xml, Id 12: "Force of Steel" mantido (técnica); "Birus" sem plural.

@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>973,973,973,973,973,973,973,973,973,973,973,973,973,973,973,973,973</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>1075,1319,1462</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>605,605,605,605,605,605,605,605</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>242</PointerOffset>
       <JapaneseText>サニイタウン・民家</JapaneseText>
-      <EnglishText>Sunnytown - Residence</EnglishText>
+      <EnglishText>Sunnytown - Residência</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>312</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -101,10 +101,10 @@
       <JapaneseText>旅行記ならデートの参考にしようと
 思って借りたわよ。
 わざわざ取りに来てくれたんだ。</JapaneseText>
-      <EnglishText>I borrowed the Travelogue because
-I wanted to find a good date spot.
-I'm surprised you came all this way
-to pick it up.</EnglishText>
+      <EnglishText>Peguei o Travelogue emprestado
+pra achar um bom local pra namorar.
+Me surpreende você ter vindo até
+aqui buscá-lo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -115,8 +115,8 @@ to pick it up.</EnglishText>
       <JapaneseText>そういえば借りたのって
 ずいぶん前だったものね。
 すっかり忘れてたわ……はい！</JapaneseText>
-      <EnglishText>Come to think of it, I borrowed it
-so long ago that I forgot about it!</EnglishText>
+      <EnglishText>Pensando bem, peguei há tanto
+tempo que esqueci!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -125,7 +125,7 @@ so long ago that I forgot about it!</EnglishText>
     <Entry>
       <PointerOffset>1078</PointerOffset>
       <JapaneseText>&lt;Green&gt;『旅行記』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Travelogue.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou o Travelogue.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -136,10 +136,10 @@ so long ago that I forgot about it!</EnglishText>
       <JapaneseText>恋愛小説が読みたいんだけど
 前に旅行記を借りたままだったから
 借りに行きずらくって……</JapaneseText>
-      <EnglishText>I'd love to read a romance novel,
-but I still have the Travelogue
-that I borrowed previously, so I
-can't go get one...</EnglishText>
+      <EnglishText>Eu adoraria ler um romance, mas
+ainda estou com o Travelogue que
+peguei antes, então não posso
+ir buscar um...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -149,8 +149,8 @@ can't go get one...</EnglishText>
       <PointerOffset>1246</PointerOffset>
       <JapaneseText>恋愛小説を
 貸してくれるの？</JapaneseText>
-      <EnglishText>Would you lend me
-a Romance Novel?</EnglishText>
+      <EnglishText>Você me emprestaria
+um Romance Novel?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -160,8 +160,8 @@ a Romance Novel?</EnglishText>
       <PointerOffset>1269</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -170,7 +170,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1322</PointerOffset>
       <JapaneseText>&lt;Green&gt;『恋愛小説』を貸し出しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You lent the
+      <EnglishText>&lt;Green&gt;Você emprestou o
 Romance Novel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -181,7 +181,7 @@ Romance Novel.</EnglishText>
       <PointerOffset>1344</PointerOffset>
       <JapaneseText>ありがとう。
 さっそく読ませてもらうわね。</JapaneseText>
-      <EnglishText>Thanks! I'll start reading right away.</EnglishText>
+      <EnglishText>Obrigada! Vou começar a ler já!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -190,7 +190,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>1391</PointerOffset>
       <JapaneseText>そう……違うの。</JapaneseText>
-      <EnglishText>Oh... That's not the right book.</EnglishText>
+      <EnglishText>Ah... Esse não é o livro certo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -199,7 +199,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>1441</PointerOffset>
       <JapaneseText>この本ありがとうね。</JapaneseText>
-      <EnglishText>Thank you for the book.</EnglishText>
+      <EnglishText>Obrigada pelo livro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -208,7 +208,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>1465</PointerOffset>
       <JapaneseText>&lt;Green&gt;『恋愛小説』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Romance Novel.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou o Romance Novel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -218,7 +218,7 @@ Romance Novel.</EnglishText>
       <PointerOffset>1487</PointerOffset>
       <JapaneseText>おかげで楽しい時間を
 過ごせたわ♪</JapaneseText>
-      <EnglishText>Thank you, I enjoyed it♪</EnglishText>
+      <EnglishText>Obrigada, gostei muito♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -228,8 +228,8 @@ Romance Novel.</EnglishText>
       <PointerOffset>1517</PointerOffset>
       <JapaneseText>ごめんなさい。
 まだ読み終わってないの。</JapaneseText>
-      <EnglishText>I'm sorry. I'm still not
-finished reading it yet.</EnglishText>
+      <EnglishText>Desculpe. Ainda não terminei
+de ler.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -240,9 +240,9 @@ finished reading it yet.</EnglishText>
       <JapaneseText>最近ちょっと落ち込んでたから、
 いい気分転換になったわ。
 ありがと♪</JapaneseText>
-      <EnglishText>I've been in low spirits lately,
-so this has been a nice change
-of pace. Thanks♪</EnglishText>
+      <EnglishText>Ando meio desanimada ultimamente,
+então isso foi uma boa mudança
+de ritmo. Obrigada♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -252,8 +252,8 @@ of pace. Thanks♪</EnglishText>
       <PointerOffset>1648</PointerOffset>
       <JapaneseText>何が起こってるのかしら……
 見に行ってみようかしら……</JapaneseText>
-      <EnglishText>What's going on... Should
-I go and check...?</EnglishText>
+      <EnglishText>O que está acontecendo... Será
+que eu devia ir ver...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -263,8 +263,8 @@ I go and check...?</EnglishText>
       <PointerOffset>1670</PointerOffset>
       <JapaneseText>でもその前に
 ドレスアップしなきゃ……</JapaneseText>
-      <EnglishText>But I'd need to get
-dolled up first...</EnglishText>
+      <EnglishText>Mas primeiro eu precisaria
+me arrumar...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -275,8 +275,8 @@ dolled up first...</EnglishText>
       <JapaneseText>もう……あの人ったら
 ちょっとせっかちすぎるのよね……
 </JapaneseText>
-      <EnglishText>Oh... There's a certain someone
-who is a bit too impatient...</EnglishText>
+      <EnglishText>Ah... Tem certa pessoa que é
+impaciente demais...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -287,9 +287,8 @@ who is a bit too impatient...</EnglishText>
       <JapaneseText>即位の儀式は絶対に行くわよ。
 何の服、着ようかしらね？
 </JapaneseText>
-      <EnglishText>I'm definitely going to the
-inauguration ceremony.
-But oh, what to wear?</EnglishText>
+      <EnglishText>Com certeza vou à cerimônia
+de posse. Mas ai, o que vestir?</EnglishText>
       <Notes>即位の儀式 for some reason</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -300,8 +299,8 @@ But oh, what to wear?</EnglishText>
       <JapaneseText>ここのところ、街の人たちは
 ケンカばっかりしてるけど、
 </JapaneseText>
-      <EnglishText>Lately everyone in this
-town has been fighting...</EnglishText>
+      <EnglishText>Ultimamente todo mundo nesta
+cidade anda brigando...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -311,8 +310,8 @@ town has been fighting...</EnglishText>
       <PointerOffset>1831</PointerOffset>
       <JapaneseText>何をそんなに
 イライラしてるのかしらね？</JapaneseText>
-      <EnglishText>I wonder what's got
-everyone all riled up?</EnglishText>
+      <EnglishText>Será que foi o que deixou
+todo mundo tão irritado?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -322,8 +321,8 @@ everyone all riled up?</EnglishText>
       <PointerOffset>1856</PointerOffset>
       <JapaneseText>ランララーン♪
 今日は何を着て行こうかしら？</JapaneseText>
-      <EnglishText>Lalala~♪ I wonder what
-I should wear today?</EnglishText>
+      <EnglishText>Lalala~♪ O que será que
+vou vestir hoje?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -337,9 +336,9 @@ I should wear today?</EnglishText>
       <JapaneseText>あいつ、外が大騒ぎになってるってのに、
 出かけようって言うんだから
 大した度胸だよ……</JapaneseText>
-      <EnglishText>You've got a lot of courage
-going out when someone is
-rampaging outside...</EnglishText>
+      <EnglishText>Você tem muita coragem de sair
+quando tem alguém causando
+tumulto lá fora...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -349,8 +348,8 @@ rampaging outside...</EnglishText>
       <PointerOffset>702</PointerOffset>
       <JapaneseText>おい！　早くしないと、
 始まっちまうぞ！</JapaneseText>
-      <EnglishText>Hey, lady! Hurry up
-or we'll be late!</EnglishText>
+      <EnglishText>Ei, moça! Anda logo
+ou vamos nos atrasar!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
@@ -361,9 +360,9 @@ or we'll be late!</EnglishText>
       <JapaneseText>お披露目の儀式に行く服を
 選んでるんだとさ……
 </JapaneseText>
-      <EnglishText>She told me she was choosing
-some clothes for the
-inauguration ceremony...</EnglishText>
+      <EnglishText>Ela me disse que estava escolhendo
+uma roupa pra cerimônia
+de posse...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
@@ -374,9 +373,8 @@ inauguration ceremony...</EnglishText>
       <JapaneseText>今からちょっとメシ食いに
 行くだけなのに、関係ないよな？
 信じられないよ。</JapaneseText>
-      <EnglishText>Can you believe this? We
-were just supposed to be
-going out for a quick bite.</EnglishText>
+      <EnglishText>Dá pra acreditar? Era só pra gente
+sair pra comer algo rápido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -388,9 +386,9 @@ going out for a quick bite.</EnglishText>
 腹が立って仕方ないんだが、
 ウチのカミさんは違うんだ。
 </JapaneseText>
-      <EnglishText>I can't help but feel angry at
-Huma lately, but my wife can't
-bring herself to be mad at them.</EnglishText>
+      <EnglishText>Ultimamente sinto raiva dos Huma,
+mas minha esposa não consegue
+ficar com raiva deles.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -402,10 +400,9 @@ bring herself to be mad at them.</EnglishText>
 理解できないって言うんだぜ？
 あんたはわかるよな？
 </JapaneseText>
-      <EnglishText>She never understands why I'm
-angry at them no matter how
-much I explain it to her.
-You get what I mean, right?</EnglishText>
+      <EnglishText>Ela nunca entende por que estou
+com raiva deles, por mais que eu
+explique. Você me entende, né?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -417,9 +414,9 @@ You get what I mean, right?</EnglishText>
 ヒューマの顔すら見たくないんだよ。
 まったく……
 </JapaneseText>
-      <EnglishText>Can't you tell that I have
-no desire to even look at
-Huma? Sheesh...</EnglishText>
+      <EnglishText>Não dá pra ver que não tenho
+a menor vontade nem de olhar
+pros Huma? Poxa...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
@@ -429,9 +426,8 @@ Huma? Sheesh...</EnglishText>
       <PointerOffset>949</PointerOffset>
       <JapaneseText>あいつ……
 いつまで待たせる気だよ！</JapaneseText>
-      <EnglishText>How long is that woman
-planning on making me
-wait!?</EnglishText>
+      <EnglishText>Quanto tempo aquela mulher
+pretende me fazer esperar!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -445,9 +441,9 @@ wait!?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
@@ -470,7 +466,7 @@ No</EnglishText>
       <PointerOffset>2125</PointerOffset>
       <VoiceId>18000001</VoiceId>
       <JapaneseText>無事だったんだな。</JapaneseText>
-      <EnglishText>So you're safe, huh?</EnglishText>
+      <EnglishText>Então você está a salvo, hein?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
@@ -480,8 +476,8 @@ No</EnglishText>
       <PointerOffset>2154</PointerOffset>
       <VoiceId>18000002</VoiceId>
       <JapaneseText>わ、私を追ってきた人は……？</JapaneseText>
-      <EnglishText>Wh-What about the person
-chasing me...?</EnglishText>
+      <EnglishText>E... e a pessoa que estava
+atrás de mim...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -492,7 +488,7 @@ chasing me...?</EnglishText>
       <VoiceId>18000003</VoiceId>
       <JapaneseText>もうこの街にはいない。
 大丈夫だ。</JapaneseText>
-      <EnglishText>She left town. Don't worry.</EnglishText>
+      <EnglishText>Ela deixou a cidade. Calma.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>37</Id>
@@ -502,7 +498,7 @@ chasing me...?</EnglishText>
       <PointerOffset>2212</PointerOffset>
       <VoiceId>18000004</VoiceId>
       <JapaneseText>……た、助かったのね……私……</JapaneseText>
-      <EnglishText>I... I really am saved, then...</EnglishText>
+      <EnglishText>Então... eu estou mesmo a salvo...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
@@ -518,12 +514,12 @@ chasing me...?</EnglishText>
 誇り高きモズは、同じ枝に二羽とまる
 事はないと言われている。
 男の生き様を描いた作品。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Shrike on a Dead Branch -
-A shrike sits atop a dead tree.
-It is said that two proud shrikes
-will not perch upon the same branch.
-This is a work depicting the way
-of life for men.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Picanço no Galho Seco -
+Um picanço pousa numa árvore seca.
+Dizem que dois picanços orgulhosos
+não pousam no mesmo galho. Esta é
+uma obra sobre o modo de vida
+dos homens.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>39</Id>
@@ -535,7 +531,7 @@ of life for men.</EnglishText>
     <Entry>
       <PointerOffset>496</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『男の名言集』</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- A Man's Analects -</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Analectos de um Homem -</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
@@ -548,11 +544,11 @@ of life for men.</EnglishText>
 　おまえが諦めていないなら」
 ……などの言葉がたくさん
 収録されている、男の必読本。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- A Man's Analects -
-"It is okay to cry, so long as you smile!
-So long as you have yet to give up."
-...and more similar sentences are written
-in here. A must-read for any man.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Analectos de um Homem -
+"Pode chorar, desde que sorria!
+Desde que ainda não tenha desistido."
+...e outras frases assim estão aqui.
+Leitura obrigatória pra qualquer homem.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>41</Id>

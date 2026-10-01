@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2557,2557,2557</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732,1732</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706,706</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Velha</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>312</PointerOffset>
       <JapaneseText>サニイタウン・民家</JapaneseText>
-      <EnglishText>Sunnytown - Residence</EnglishText>
+      <EnglishText>Sunnytown - Residência</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>382</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -93,9 +93,9 @@
       <JapaneseText>外で何か音がしてるよ。
 ああ、見に行きたいなぁ。
 </JapaneseText>
-      <EnglishText>There's some sort of sound
-coming from outside. Aww,
-I really wanna go check it out!</EnglishText>
+      <EnglishText>Tem algum barulho vindo lá de
+fora. Aah, eu queria muito ir
+ver o que é!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -106,9 +106,9 @@ I really wanna go check it out!</EnglishText>
       <JapaneseText>外で遊べなくなったから、
 ここのグミ試食係になったんだ。
 </JapaneseText>
-      <EnglishText>I've started tasting the gels here
-after they said I wasn't allowed
-to go outside and play anymore.</EnglishText>
+      <EnglishText>Comecei a provar os gels daqui
+depois que disseram que eu não
+podia mais sair pra brincar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -119,9 +119,9 @@ to go outside and play anymore.</EnglishText>
       <JapaneseText>アルバイトなんて、
 大人みたいでカッコイイでしょ？
 バイト代は、一日グミ一個だよ。</JapaneseText>
-      <EnglishText>Working part-time is really cool,
-ain't it? My part-time job pays
-a gel a day!</EnglishText>
+      <EnglishText>Trabalhar meio período é muito
+legal, né? Meu bico paga um
+gel por dia!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -136,9 +136,9 @@ a gel a day!</EnglishText>
 外に出られないから
 確かめようも、逃げようもないよ。
 </JapaneseText>
-      <EnglishText>I'm not sure what that sound
-is, nor can I go outside and check.
-And even if I did, I can't really leave...</EnglishText>
+      <EnglishText>Não sei que barulho é esse, nem posso
+sair pra ver. E mesmo que eu saísse,
+não posso ir embora de verdade...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>7</Id>
@@ -149,8 +149,8 @@ And even if I did, I can't really leave...</EnglishText>
       <JapaneseText>ここのお孫さんに言われて、
 オレも手伝う事にしたんだ。
 </JapaneseText>
-      <EnglishText>The little boy here told me that
-he was going to help me out.</EnglishText>
+      <EnglishText>O menino daqui me disse que
+ia me ajudar.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>8</Id>
@@ -161,8 +161,8 @@ he was going to help me out.</EnglishText>
       <JapaneseText>グミ作りの仕事ってのは
 奥が深いねえ。
 </JapaneseText>
-      <EnglishText>Working on making gels
-is surprisingly profound.</EnglishText>
+      <EnglishText>Trabalhar na fabricação de gels
+é surpreendentemente profundo.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>9</Id>
@@ -174,9 +174,9 @@ is surprisingly profound.</EnglishText>
 今度は家の中からも
 追い出そうっていうのかよ！
 </JapaneseText>
-      <EnglishText>Wh-What are you looking at,
-Gajuma? Are you trying to
-kick me outta my house, too!?</EnglishText>
+      <EnglishText>O-O que tá olhando, Gajuma?
+Quer me expulsar da minha
+casa também!?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>10</Id>
@@ -187,8 +187,8 @@ kick me outta my house, too!?</EnglishText>
       <JapaneseText>ヒューマだけ外出禁止なんて、
 不公平だよな！
 </JapaneseText>
-      <EnglishText>Keeping us Huma
-inside is unfair!</EnglishText>
+      <EnglishText>Manter os Huma aqui dentro
+é injusto!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>11</Id>
@@ -199,8 +199,8 @@ inside is unfair!</EnglishText>
       <JapaneseText>ガジュマはトイレ禁止にでも
 すりゃいいんだ！
 </JapaneseText>
-      <EnglishText>At the very least, ban Gajuma
-from going to the bathroom!</EnglishText>
+      <EnglishText>No mínimo, proíbam os Gajuma
+de ir ao banheiro!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>12</Id>
@@ -214,9 +214,9 @@ from going to the bathroom!</EnglishText>
       <JapaneseText>身長が四メートルくらいの、
 角と牙が身体中に生えてる人が
 暴れてるって本当？</JapaneseText>
-      <EnglishText>Is it true that there's a 4-meter
-tall person with horns and fangs
-rampaging through the city?</EnglishText>
+      <EnglishText>É verdade que tem uma pessoa de
+4 metros de altura, com chifres e
+presas, aterrorizando a cidade?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -225,8 +225,8 @@ rampaging through the city?</EnglishText>
     <Entry>
       <PointerOffset>1803</PointerOffset>
       <JapaneseText>だとしたら、スゴイね……</JapaneseText>
-      <EnglishText>If so, that would
-be incredible...</EnglishText>
+      <EnglishText>Se for, isso seria
+incrível...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -237,8 +237,8 @@ be incredible...</EnglishText>
       <JapaneseText>私、忙しくて、
 誰か来てもわからないの。
 </JapaneseText>
-      <EnglishText>I'm too busy to have
-seen anyone come in.</EnglishText>
+      <EnglishText>Estou ocupada demais pra ter
+visto alguém entrar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -248,8 +248,8 @@ seen anyone come in.</EnglishText>
       <PointerOffset>1864</PointerOffset>
       <JapaneseText>悪いけど、二階にいる
 おばあちゃんに聞いてくれる？</JapaneseText>
-      <EnglishText>Maybe you should go ask
-my grandma upstairs?</EnglishText>
+      <EnglishText>Talvez você devesse perguntar
+pra minha vó lá em cima?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -261,8 +261,8 @@ my grandma upstairs?</EnglishText>
 たまにはどこかに
 連れてってあげたいな……
 </JapaneseText>
-      <EnglishText>I wish I could take my grandma
-somewhere once in a while...</EnglishText>
+      <EnglishText>Queria poder levar minha vó
+a algum lugar de vez em quando...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -274,9 +274,8 @@ somewhere once in a while...</EnglishText>
 女王様のお披露目の儀式に
 連れてってあげるの！
 </JapaneseText>
-      <EnglishText>I want to take her to see
-the Queen's inauguration
-ceremony!</EnglishText>
+      <EnglishText>Quero levá-la pra ver a cerimônia
+de posse da Rainha!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -287,8 +286,8 @@ ceremony!</EnglishText>
       <JapaneseText>バルカか……
 楽しみ……♪
 </JapaneseText>
-      <EnglishText>Going to Balka sounds
-like fun♪</EnglishText>
+      <EnglishText>Ir pra Balka parece
+divertido♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -299,8 +298,8 @@ like fun♪</EnglishText>
       <JapaneseText>最近、おばあちゃんの
 様子がヘンなの……
 </JapaneseText>
-      <EnglishText>My grandma has started
-acting strange lately...</EnglishText>
+      <EnglishText>Minha vó anda agindo
+estranha ultimamente...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -311,10 +310,9 @@ acting strange lately...</EnglishText>
       <JapaneseText>ガジュマの事、キライだって
 怒ってばかり……
 それに、疲れてて……心配。</JapaneseText>
-      <EnglishText>Always talking about how
-she hates Gajuma... Always
-getting angry and tired...
-I'm worried...</EnglishText>
+      <EnglishText>Vive falando que odeia os
+Gajuma... Sempre brava e
+cansada... Estou preocupada...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -326,9 +324,9 @@ I'm worried...</EnglishText>
 お仕事してたから
 聞こえなかったわ。
 </JapaneseText>
-      <EnglishText>Hm? Was there a sound somewhere?
-I probably didn't hear because I was
-so busy.</EnglishText>
+      <EnglishText>Hm? Teve algum barulho por aí?
+Acho que não ouvi porque estava
+muito ocupada.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -340,9 +338,8 @@ so busy.</EnglishText>
 何か聞こえるけど……
 そのうち止まるわよね？
 </JapaneseText>
-      <EnglishText>I can hear it, now that
-you mention it... It'll
-stop...right?</EnglishText>
+      <EnglishText>Agora que você falou, dá pra
+ouvir... Vai parar... né?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -353,9 +350,8 @@ stop...right?</EnglishText>
       <JapaneseText>街の人、ケンカばっかりして、
 仕事してないのかしら？
 </JapaneseText>
-      <EnglishText>Everyone's always fighting...
-Don't they have jobs or
-something?</EnglishText>
+      <EnglishText>Todo mundo vive brigando...
+Será que ninguém trabalha?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -366,9 +362,9 @@ something?</EnglishText>
       <JapaneseText>私は大忙し！
 ケンカする前に、やる事が
 あると思うんだけどなぁ？</JapaneseText>
-      <EnglishText>I'm really, really busy! I believe
-people should finish their work
-before picking a fight with others.</EnglishText>
+      <EnglishText>Estou muito, muito ocupada! Acho
+que as pessoas deviam terminar o
+trabalho antes de arrumar briga.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -379,9 +375,9 @@ before picking a fight with others.</EnglishText>
       <JapaneseText>私、みんなを仲直りさせる
 グミを考えてるの！
 </JapaneseText>
-      <EnglishText>You know, I've been thinking
-of creating a gel that would
-make everyone get along!</EnglishText>
+      <EnglishText>Sabe, tenho pensado em criar um
+gel que faça todo mundo se
+dar bem!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -392,9 +388,9 @@ make everyone get along!</EnglishText>
       <JapaneseText>名前はね……
 『ニコニコグミ』！
 きっと完成させるわよ！</JapaneseText>
-      <EnglishText>I'm gonna call it the
-"Smiling Gel"! I'm sure
-it'll be a hit.</EnglishText>
+      <EnglishText>Vou chamar de "Smiling Gel"!
+Tenho certeza que vai ser
+um sucesso.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
@@ -404,9 +400,9 @@ it'll be a hit.</EnglishText>
       <PointerOffset>2277</PointerOffset>
       <JapaneseText>ウチって、こう見えても、
 グミを造ってるのよ。</JapaneseText>
-      <EnglishText>This may not look like
-much, but I'm making
-gels at the moment.</EnglishText>
+      <EnglishText>Pode não parecer muita coisa,
+mas estou fazendo gels
+agora mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -417,9 +413,8 @@ gels at the moment.</EnglishText>
       <JapaneseText>グレープグミは、
 私が考えた新作なの。
 お店で買ってね！</JapaneseText>
-      <EnglishText>I just managed to invent these
-Grape gels. Make sure to buy
-them at the shop!</EnglishText>
+      <EnglishText>Acabei de inventar os Grape Gels.
+Não deixe de comprar na loja!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -432,9 +427,9 @@ them at the shop!</EnglishText>
       <PointerOffset>755</PointerOffset>
       <JapaneseText>誰かが街中で暴れてるらしいですが、
 この家は街の外れですからの……</JapaneseText>
-      <EnglishText>I heard that someone was rampaging
-in the middle of the city, but since
-this house is at its very edge...</EnglishText>
+      <EnglishText>Ouvi dizer que alguém causava um
+tumulto no meio da cidade, mas como
+esta casa fica bem na beirada...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -445,8 +440,8 @@ this house is at its very edge...</EnglishText>
       <JapaneseText>何にしろ、見つからねばよいのですが……
 ああ、くわばら、くわばら……
 </JapaneseText>
-      <EnglishText>I pray that it won't get caught
-up in that... How scary...</EnglishText>
+      <EnglishText>Rezo para que ela não seja
+envolvida nisso... Que medo...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
@@ -458,10 +453,9 @@ up in that... How scary...</EnglishText>
 誰かが家に入ってきても
 ようわかりません。
 </JapaneseText>
-      <EnglishText>Unfortunately, I wouldn't
-know if anyone has come
-in because my hearing
-isn't that good.</EnglishText>
+      <EnglishText>Infelizmente, não saberia dizer
+se alguém entrou, pois minha
+audição não é muito boa.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
@@ -472,9 +466,9 @@ isn't that good.</EnglishText>
       <JapaneseText>人をお探しなら、下にいる
 孫娘に聞いてください。
 </JapaneseText>
-      <EnglishText>Please ask my granddaughter
-downstairs if you're looking
-for someone.</EnglishText>
+      <EnglishText>Por favor, pergunte à minha neta
+lá embaixo se procura
+alguém.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
@@ -485,9 +479,8 @@ for someone.</EnglishText>
       <JapaneseText>この年寄りには
 もう楽しみな事など
 そうないですよ。</JapaneseText>
-      <EnglishText>For an old lady like me, there's
-not really a lot of things I can
-look forward to.</EnglishText>
+      <EnglishText>Para uma velha como eu, não há
+muita coisa a esperar do futuro.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
@@ -498,9 +491,8 @@ look forward to.</EnglishText>
       <JapaneseText>若い人みたいに、何にも
 興味は持てないし……
 </JapaneseText>
-      <EnglishText>I can't really bring myself to
-get interested in anything,
-unlike the youth...</EnglishText>
+      <EnglishText>Não consigo me interessar por
+nada, ao contrário dos jovens...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
@@ -511,10 +503,9 @@ unlike the youth...</EnglishText>
       <JapaneseText>女王様のお披露目の話を聞いて、
 久しぶりに胸がドキドキしましたよ。
 </JapaneseText>
-      <EnglishText>When I heard that the Queen
-is going to be inaugurated, I
-felt excitement for the first
-time in ages.</EnglishText>
+      <EnglishText>Quando soube que a Rainha vai
+ser empossada, senti empolgação
+pela primeira vez em muito tempo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -524,9 +515,9 @@ time in ages.</EnglishText>
       <PointerOffset>971</PointerOffset>
       <JapaneseText>ゴルドバの日には孫娘を連れて、
 都に行こうかと思います。</JapaneseText>
-      <EnglishText>I think I'll take my granddaughter
-to the capital once the &lt;Blue&gt;Day of
-Goldba&lt;White&gt; comes along.</EnglishText>
+      <EnglishText>Acho que levarei minha neta à
+capital quando chegar o &lt;Blue&gt;Dia de
+Goldba&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -537,7 +528,7 @@ Goldba&lt;White&gt; comes along.</EnglishText>
       <JapaneseText>ガジュマは
 あっちへお行き！
 </JapaneseText>
-      <EnglishText>Go somewhere else, Gajuma!</EnglishText>
+      <EnglishText>Vá para outro lugar, Gajuma!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>38</Id>
@@ -549,10 +540,9 @@ Goldba&lt;White&gt; comes along.</EnglishText>
 そういう事は海に住む人に聞かないと。
 例えば、そうねえ……海賊とか？
 </JapaneseText>
-      <EnglishText>The &lt;Blue&gt;Island of Illusions&lt;White&gt;... People
-well-versed with the sea would
-know more about such things...
-Let's say...pirates, perhaps?</EnglishText>
+      <EnglishText>A &lt;Blue&gt;Ilha das Ilusões&lt;White&gt;... Quem
+conhece bem o mar saberia mais sobre
+isso... Digamos... piratas, talvez?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
@@ -563,8 +553,8 @@ Let's say...pirates, perhaps?</EnglishText>
       <JapaneseText>でもいまどき、海賊なんて
 いないわよねえ……
 どうかしら？</JapaneseText>
-      <EnglishText>But pirates don't really sail the
-seas these days... I wonder why?</EnglishText>
+      <EnglishText>Mas os piratas quase não navegam
+mais hoje em dia... Por quê?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>40</Id>
@@ -576,8 +566,8 @@ seas these days... I wonder why?</EnglishText>
 威圧感があるのよね！
 近寄らないでほしいわ！
 </JapaneseText>
-      <EnglishText>You Gajuma look very intimidating!
-Please don't come any closer!</EnglishText>
+      <EnglishText>Vocês, Gajuma, parecem muito
+ameaçadores! Não se aproxime mais!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
@@ -589,10 +579,9 @@ Please don't come any closer!</EnglishText>
 イヤですけど、この年になって
 引越しも大変ですし……
 </JapaneseText>
-      <EnglishText>I don't really like seeing
-Gajuma, but moving to a
-new place is difficult
-when you're my age...</EnglishText>
+      <EnglishText>Não gosto muito de ver Gajuma,
+mas mudar de lugar é difícil
+quando se tem a minha idade...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -603,8 +592,8 @@ when you're my age...</EnglishText>
       <JapaneseText>もう、つくづく
 つらい日々です……
 </JapaneseText>
-      <EnglishText>Everyday has been painfully
-hard for this old lady...</EnglishText>
+      <EnglishText>Todo dia tem sido terrivelmente
+difícil para esta velha...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>43</Id>
@@ -616,8 +605,8 @@ hard for this old lady...</EnglishText>
 威圧感があるのよね！
 近寄らないでほしいわ！
 </JapaneseText>
-      <EnglishText>You Gajuma look very intimidating!
-Please don't come any closer!</EnglishText>
+      <EnglishText>Vocês, Gajuma, parecem muito
+ameaçadores! Não se aproxime mais!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>44</Id>
@@ -629,9 +618,9 @@ Please don't come any closer!</EnglishText>
 外で音がしてると言われましても
 わからないんですよね……
 </JapaneseText>
-      <EnglishText>Since my hearing is poor,
-I find it hard to hear any 
-sounds from outside...</EnglishText>
+      <EnglishText>Como minha audição é fraca,
+acho difícil ouvir qualquer
+barulho lá de fora...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>45</Id>
@@ -643,9 +632,9 @@ sounds from outside...</EnglishText>
 ガジュマは屋内立ち入り禁止に
 すべきよ！
 </JapaneseText>
-      <EnglishText>If us Huma have to stay indoors,
-then I say that Gajuma should
-just stay outside, then! </EnglishText>
+      <EnglishText>Se nós, Huma, temos que ficar
+em casa, então digo que os Gajuma
+fiquem lá fora, ora!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>46</Id>
@@ -655,8 +644,8 @@ just stay outside, then! </EnglishText>
       <PointerOffset>1439</PointerOffset>
       <JapaneseText>野宿なさい、野宿！
 </JapaneseText>
-      <EnglishText>Back into the wilderness
-where they belong!</EnglishText>
+      <EnglishText>De volta à natureza selvagem
+onde eles pertencem!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>47</Id>
@@ -668,9 +657,9 @@ where they belong!</EnglishText>
 ガジュマは屋内立ち入り禁止に
 すべきだと思いませんか？
 </JapaneseText>
-      <EnglishText>Don't you think that Gajuma
-should just stay outside if
-we Huma are confined inside?</EnglishText>
+      <EnglishText>Você não acha que os Gajuma
+deviam ficar lá fora se nós, Huma,
+estamos confinados aqui dentro?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>48</Id>
@@ -681,9 +670,9 @@ we Huma are confined inside?</EnglishText>
       <JapaneseText>ヒューマとちがってガジュマは
 体だけは強いんですものね。
 </JapaneseText>
-      <EnglishText>Unlike us Huma, their physical
-strength is the only thing they
-have going for them.</EnglishText>
+      <EnglishText>Ao contrário de nós, Huma, a força
+física é a única coisa que eles
+têm a seu favor.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>49</Id>
@@ -695,10 +684,9 @@ have going for them.</EnglishText>
 孫娘が言うんです……おばあちゃん、
 怒ってばかりだと疲れるよ、って。
 </JapaneseText>
-      <EnglishText>I'll stop thinking about race. You
-know, my granddaughter told me
-the other day, "Granny, being mad
-all the time is just making you tired."</EnglishText>
+      <EnglishText>Vou parar de pensar em raças. Sabe,
+minha neta me disse outro dia: "Vó,
+ficar brava o tempo todo só te cansa."</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
@@ -710,10 +698,9 @@ all the time is just making you tired."</EnglishText>
 疲れてなかったって……
 長生きしてほしいからって……
 </JapaneseText>
-      <EnglishText>She told me that when I used
-to smile all the time, I was
-never tired, and that she
-wants me to live longer.</EnglishText>
+      <EnglishText>Ela disse que quando eu vivia
+sorrindo, nunca ficava cansada, e
+que quer que eu viva mais.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>51</Id>
@@ -724,9 +711,9 @@ wants me to live longer.</EnglishText>
       <JapaneseText>そう、以前はもっと楽しくて……
 種族の事なんて考えた事すら
 なかったって、思い出したんです。</JapaneseText>
-      <EnglishText>And she's right, it was better
-when I wasn't fretting over
-racial differences.</EnglishText>
+      <EnglishText>E ela tem razão, era melhor
+quando eu não me afligia com
+as diferenças raciais.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>52</Id>
@@ -737,8 +724,8 @@ racial differences.</EnglishText>
       <JapaneseText>私みたいな年寄りでも
 できる事が見つかったわ……
 </JapaneseText>
-      <EnglishText>Even I found something I
-can do in my old age...</EnglishText>
+      <EnglishText>Até eu encontrei algo que
+posso fazer na velhice...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>53</Id>
@@ -749,9 +736,9 @@ can do in my old age...</EnglishText>
       <JapaneseText>「みんなを仲直りさせる事」
 だから今、色々準備してるの！
 </JapaneseText>
-      <EnglishText>I want everyone to get along
-together, that's why I'm
-preparing something right now!</EnglishText>
+      <EnglishText>Quero que todos se deem bem,
+por isso estou preparando
+algo agora mesmo!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>54</Id>
@@ -761,8 +748,8 @@ preparing something right now!</EnglishText>
       <PointerOffset>1683</PointerOffset>
       <JapaneseText>この暑さは、年寄りには
 こたえますねぇ……</JapaneseText>
-      <EnglishText>This heat sure is hard for
-an old lady like me...</EnglishText>
+      <EnglishText>Esse calor é muito difícil
+para uma velha como eu...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>55</Id>
@@ -773,10 +760,10 @@ an old lady like me...</EnglishText>
       <JapaneseText>ウチの孫はできた子でねぇ。
 よく働いてくれますよ。
 遊びたい年頃だろうに……</JapaneseText>
-      <EnglishText>My granddaughter over there is a
-kind girl. Look at her working
-so hard. You'd think she'd rather
-be playing at her age...</EnglishText>
+      <EnglishText>Minha neta ali é uma menina
+gentil. Veja só como trabalha
+tanto. Pensaria que ela preferiria
+estar brincando na idade dela...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>56</Id>
@@ -790,9 +777,9 @@ be playing at her age...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -806,7 +793,7 @@ No</EnglishText>
       <JapaneseText>ここには
 いないみたいね……
 </JapaneseText>
-      <EnglishText>Doesn't look like she's here...</EnglishText>
+      <EnglishText>Parece que ela não está aqui...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
@@ -816,7 +803,7 @@ No</EnglishText>
       <PointerOffset>559</PointerOffset>
       <JapaneseText>あの娘はいないか……
 </JapaneseText>
-      <EnglishText>She's not here...</EnglishText>
+      <EnglishText>Ela não está aqui...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>59</Id>
@@ -828,11 +815,11 @@ No</EnglishText>
 棚自体はなんの変哲もないが、
 食料品や雑貨などが分別なく置かれている。
 住人の人柄が出ている棚。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Cabinet -
-The cabinet itself is nothing to write
-home about, but food and other goods
-are placed haphazardly on them. It
-reflects the residents' personalities.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Armário -
+O armário em si não tem nada demais,
+mas comida e outras coisas ficam
+largadas nele sem ordem. Isso reflete
+a personalidade dos moradores.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>60</Id>
@@ -843,10 +830,10 @@ reflects the residents' personalities.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『棚』
 引き出し、引き戸などがついている。
 なんの変哲もない棚。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Cabinet -
-It has drawers, sliding
-doors, and many more.
-A nondescript cabinet.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Armário -
+Tem gavetas, portas de correr
+e muito mais.
+Um armário sem graça.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>61</Id>
@@ -858,11 +845,11 @@ A nondescript cabinet.</EnglishText>
 棚自体はなんの変哲もないが、
 食料品や雑貨などが分別なく置かれている。
 住人の人柄が出ている棚。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Cabinet -
-The cabinet itself is nothing to write
-home about, but food and other goods
-are placed haphazardly on them. It
-reflects the residents' personalities.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Armário -
+O armário em si não tem nada demais,
+mas comida e outras coisas ficam
+largadas nele sem ordem. Isso reflete
+a personalidade dos moradores.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>62</Id>

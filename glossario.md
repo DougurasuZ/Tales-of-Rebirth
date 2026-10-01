@@ -57,7 +57,9 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Tel'alla Highway | Estrada de Tel'alla | Nome misto |
 | Kurodadaku Desert | Deserto de Kurodadaku | Nome misto |
 | Callegean Sea | Mar de Callegea | |
-| Eastalia, Southalia | (iguais) | Nomes de regiões, mantidos |
+| Eastalia, Southalia, Westalia, Northtalia | (iguais) | Nomes de regiões, mantidos |
+| Balka Island | Ilha de Balka | Nome misto |
+| Karez | Karez | Canais subterrâneos do deserto; nome mantido |
 
 ## Termos do jogo
 

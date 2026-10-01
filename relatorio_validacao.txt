@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  18.9% das falas traduzidas (5924 de 31269) | arquivos iniciados: 95 | sem problemas: 94
+story :  20.0% das falas traduzidas (6246 de 31269) | arquivos iniciados: 103 | sem problemas: 102
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 14.1% das falas traduzidas (5924 de 41924)
+TOTAL : 14.9% das falas traduzidas (6246 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -378,3 +378,36 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 
 [story/10348.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown
+
+[story/10349.xml]
+  Id 32: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 50: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 51: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 52: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 54: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 63: PENDENTE (igual ao inglês): [VARIABLE]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown
+
+[story/10350.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown
+
+[story/10351.xml]
+  Id 34: PENDENTE (igual ao inglês): ...!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown
+
+[story/10356.xml]
+  Id 50: PENDENTE (igual ao inglês): [VARIABLE]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10357.xml]
+  Id 14: PENDENTE (igual ao inglês): ....
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez; Id 3: Karez
+
+[story/10358.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10360.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10362.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez

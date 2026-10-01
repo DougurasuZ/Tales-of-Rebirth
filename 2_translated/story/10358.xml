@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>1225,1249</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -85,9 +85,9 @@
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -100,7 +100,7 @@ No</EnglishText>
       <PointerOffset>736</PointerOffset>
       <VoiceId>19000039</VoiceId>
       <JapaneseText>岩があって通れないぞ。</JapaneseText>
-      <EnglishText>We can't go around this boulder.</EnglishText>
+      <EnglishText>Não dá pra contornar essa rocha.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -110,7 +110,7 @@ No</EnglishText>
       <PointerOffset>764</PointerOffset>
       <VoiceId>1900003a</VoiceId>
       <JapaneseText>俺にまかせろ。</JapaneseText>
-      <EnglishText>Leave this to me.</EnglishText>
+      <EnglishText>Deixe isso comigo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -120,7 +120,7 @@ No</EnglishText>
       <PointerOffset>955</PointerOffset>
       <VoiceId>1900003b</VoiceId>
       <JapaneseText>ふぇぇ！　ビックリしたぁ！</JapaneseText>
-      <EnglishText>Whoa! Wasn't expecting that!</EnglishText>
+      <EnglishText>Uau! Não esperava por essa!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -131,8 +131,8 @@ No</EnglishText>
       <VoiceId>1900003c</VoiceId>
       <JapaneseText>砂だけじゃなく、バイラスまで、
 降ってくるとはな……</JapaneseText>
-      <EnglishText>So Biruses can fall out
-too, not just sand...</EnglishText>
+      <EnglishText>Então Birus também podem cair,
+não só areia...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -145,12 +145,11 @@ too, not just sand...</EnglishText>
 多分、バイラスの巣にでもなって
 いたのが、崩れ落ちてきたんだろう。
 力加減が悪かった……すまん。</JapaneseText>
-      <EnglishText>It looks like there was a well
-overhead. It probably became
-a Birus nest and collapsed
-when I destroyed the boulder.
-I'm sorry...I guess I didn't
-know my own strength.</EnglishText>
+      <EnglishText>Parece que havia um poço acima.
+Deve ter virado um ninho de Birus
+e desabou quando destruí a rocha.
+Sinto muito... Acho que não sabia
+a minha própria força.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -161,8 +160,8 @@ know my own strength.</EnglishText>
       <VoiceId>1900003e</VoiceId>
       <JapaneseText>気にすんなって！　でも、なんで
 井戸が使われなくなったんだろうな？</JapaneseText>
-      <EnglishText>No worries! But I wonder why
-the well was abandoned?</EnglishText>
+      <EnglishText>Relaxa! Mas por que será que
+o poço foi abandonado?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -174,9 +173,9 @@ the well was abandoned?</EnglishText>
       <JapaneseText>さあ……
 とにかく、同じような所があったら、
 力加減には気をつけろって事ね。</JapaneseText>
-      <EnglishText>Who knows? In any case, if we come
-across any more, then we'll need to
-be more delicate.</EnglishText>
+      <EnglishText>Quem sabe? De todo modo, se houver
+mais deles, teremos que ser
+mais delicados.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -186,7 +185,7 @@ be more delicate.</EnglishText>
       <PointerOffset>1188</PointerOffset>
       <VoiceId>19000040</VoiceId>
       <JapaneseText>ああ。注意しよう。</JapaneseText>
-      <EnglishText>Right. We need to be cautious.</EnglishText>
+      <EnglishText>Certo. Precisamos ter cautela.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -197,9 +196,9 @@ be more delicate.</EnglishText>
       <JapaneseText>&lt;Green&gt;&lt;Eugene&gt;の鋼のフォルスで
 水路をふさいでいる岩を
 壊すことができます。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Eugene's Force of Steel can be
-used to break rocks blocking
-the waterway.</EnglishText>
+      <EnglishText>&lt;Green&gt;Force of Steel de Eugene pode
+quebrar as rochas que bloqueiam
+o canal de água.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
@@ -210,10 +209,10 @@ the waterway.</EnglishText>
       <JapaneseText>&lt;Green&gt;『フォルスボタン（&lt;icon:32&gt;ボタン）』を押している
 長さで破壊力が変わるので、
 力加減に注意して岩を壊しましょう。</JapaneseText>
-      <EnglishText>&lt;Green&gt;How long you hold down the &lt;icon:32&gt; button
-determines your destructive power, so
-be careful and use the right amount of
-strength to destroy the rocks.</EnglishText>
+      <EnglishText>&lt;Green&gt;O tempo que você segura o botão &lt;icon:32&gt;
+define seu poder destrutivo, então
+tenha cuidado e use a força certa
+para destruir as rochas.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>

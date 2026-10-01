@@ -76,7 +76,7 @@
       <PointerOffset>869</PointerOffset>
       <VoiceId>19000041</VoiceId>
       <JapaneseText>どうした、&lt;Annie&gt;。</JapaneseText>
-      <EnglishText>What's wrong, &lt;Annie&gt;?</EnglishText>
+      <EnglishText>O que houve, &lt;Annie&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -86,7 +86,7 @@
       <PointerOffset>917</PointerOffset>
       <VoiceId>19000042</VoiceId>
       <JapaneseText>……少し疲れちゃいました。</JapaneseText>
-      <EnglishText>...I feel somewhat tired.</EnglishText>
+      <EnglishText>...Estou me sentindo meio cansada.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -97,10 +97,10 @@
       <VoiceId>19000043</VoiceId>
       <JapaneseText>ずっと水の中を歩きっぱなしだもんな。
 ここらで休憩するのもアリだな。</JapaneseText>
-      <EnglishText>That's 'cause you've been wading
-through water all day. There's
-gotta be somewhere around here
-where we can take a break.</EnglishText>
+      <EnglishText>É porque você passou o dia todo
+andando na água. Tem que ter
+algum lugar por aqui onde a gente
+possa descansar.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -111,9 +111,9 @@ where we can take a break.</EnglishText>
       <VoiceId>19000044</VoiceId>
       <JapaneseText>ここから地上に出られそうだネ。
 ……この上で少し休もうヨ！</JapaneseText>
-      <EnglishText>It looks like we can get back to
-the surface from here. Let's
-head up and rest for a while!</EnglishText>
+      <EnglishText>Parece que dá pra voltar pra
+superfície por aqui. Vamos subir
+e descansar um pouco!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -123,7 +123,7 @@ head up and rest for a while!</EnglishText>
       <PointerOffset>1027</PointerOffset>
       <VoiceId>19000045</VoiceId>
       <JapaneseText>……ごめんなさい。</JapaneseText>
-      <EnglishText>...I'm sorry.</EnglishText>
+      <EnglishText>...Desculpe.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -134,8 +134,8 @@ head up and rest for a while!</EnglishText>
       <VoiceId>19000046</VoiceId>
       <JapaneseText>気にしない、気にしない♪
 ひと休み、ひと休み♪</JapaneseText>
-      <EnglishText>Don't be, don't be! Let's
-take a little breather♪</EnglishText>
+      <EnglishText>Que nada, que nada! Vamos
+dar uma respirada♪</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -149,9 +149,9 @@ take a little breather♪</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
