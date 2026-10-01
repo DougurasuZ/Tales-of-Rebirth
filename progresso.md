@@ -52,6 +52,14 @@
 | 2_translated/story/10282.xml | 2026-09-30 |
 | 2_translated/story/10283.xml | 2026-09-30 |
 | 2_translated/story/10288.xml | 2026-09-30 |
+| 2_translated/story/10289.xml | 2026-09-30 |
+| 2_translated/story/10290.xml | 2026-09-30 |
+| 2_translated/story/10291.xml | 2026-09-30 |
+| 2_translated/story/10292.xml | 2026-09-30 |
+| 2_translated/story/10293.xml | 2026-09-30 |
+| 2_translated/story/10294.xml | 2026-09-30 |
+| 2_translated/story/10299.xml | 2026-09-30 |
+| 2_translated/story/10300.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -156,3 +164,8 @@
 - 10283.xml, Ids 4/6/10: "catalogued/cataloguing" → "catalogou/catalogar"; "Battle Book" mantido. Id 9: "1000000 gald" → "1000000 Gald" como no inglês. Id 35: "1st/100th" virou "Primeira/Centésimo" (por causa do "º").
 - 10288.xml: "Forest Labyrinth" → "Floresta Labirinto" (glossário). Id 45–47: "RG"/"Rush Gauge"/"RG Gauge" mantidos em inglês (termo de batalha). Id 9: fala de Amzil "Guaaahh!! N-Nayla... <Hilda>..." mantida como está (onomatopeia + nomes).
 - 10253.xml: "Half" (raça mista) mantido em inglês; "Lady Zilva" mantido; "Etoray Bridge" → "Ponte de Etoray"; "Biruses" → "Birus". Ids 31/32/34/45 (avisos de tutorial) condensados para caber nas linhas.
+- Lote 10289–10300 (2026-09-30): o relatório anterior tinha 0 problemas. Arquivos 10295–10298 não existem. Validador rodado: 2 problemas na 1ª rodada (TAMANHO em 10292 Id 16, LINHAS em 10300 Id 9), 0 na 2ª. 10291, 10293 e 10299 só têm nome de lugar ("Floresta Labirinto"/Petnadjanka).
+- 10289–10300: traduzido com script temporário na pasta de rascunho (fora do projeto). Rótulos de falante: "Traveler" → "Viajante", "Notice" → "Aviso", "Carriage Coach" → "Cocheiro", "Woman" → "Mulher". "First Time Item Conversation" mantido (rótulo interno).
+- 10292.xml: "Tel'alla Hostel" → "Hospedaria Tel'alla" (glossário). Id 16: "You got back the Biography" virou "Você recuperou a Biography." para caber. Gênero do Viajante evitado de propósito.
+- 10294.xml, Ids 12–13: "Fusion Forces" mantido em inglês (técnica); "Force Menu" → "Menu de Force". Conferir.
+- 10300.xml: textos da carruagem seguem o padrão de 10229 ("Cancel" → "Cancelar"). Id 9 reduzido a 1 linha ("Provavelmente... Fiquem alertas."). Ids 15/18: "Sis" → "Mana". "Zilva" e "Lady Zilva" mantidos (nome).

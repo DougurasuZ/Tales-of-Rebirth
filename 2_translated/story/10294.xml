@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>2034,2092,2141</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>587</PointerOffset>
       <JapaneseText>迷いの森</JapaneseText>
-      <EnglishText>Forest Labyrinth</EnglishText>
+      <EnglishText>Floresta Labirinto</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>584</PointerOffset>
       <JapaneseText>迷いの森</JapaneseText>
-      <EnglishText>Forest Labyrinth</EnglishText>
+      <EnglishText>Floresta Labirinto</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -84,8 +84,7 @@
       <PointerOffset>1771</PointerOffset>
       <VoiceId>1200003e</VoiceId>
       <JapaneseText>無事に抜けたようだな。</JapaneseText>
-      <EnglishText>Looks like we made
-it out unharmed.</EnglishText>
+      <EnglishText>Parece que saímos ilesos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -95,8 +94,8 @@ it out unharmed.</EnglishText>
       <PointerOffset>1815</PointerOffset>
       <VoiceId>1200003f</VoiceId>
       <JapaneseText>もう、コワくないからね、&lt;Annie&gt;。</JapaneseText>
-      <EnglishText>You don't have to be
-scared anymore, &lt;Annie&gt;♪</EnglishText>
+      <EnglishText>Não precisa mais ter medo,
+&lt;Annie&gt;♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -116,7 +115,7 @@ scared anymore, &lt;Annie&gt;♪</EnglishText>
       <PointerOffset>1871</PointerOffset>
       <VoiceId>12000041</VoiceId>
       <JapaneseText>ペトナジャンカはこの先だな？</JapaneseText>
-      <EnglishText>Is Petnadjanka close?</EnglishText>
+      <EnglishText>Petnadjanka está perto?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -127,9 +126,9 @@ scared anymore, &lt;Annie&gt;♪</EnglishText>
       <VoiceId>12000042</VoiceId>
       <JapaneseText>ああ、森を抜けるのに、
 ずいぶん手間取ってしまった。</JapaneseText>
-      <EnglishText>Yes, although our journey
-through these woods has
-cost us some time.</EnglishText>
+      <EnglishText>Sim, embora a travessia por
+estes bosques tenha custado
+tempo.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -140,8 +139,8 @@ cost us some time.</EnglishText>
       <VoiceId>12000043</VoiceId>
       <JapaneseText>&lt;Blue&gt;王の盾&lt;White&gt;は、ずっと先に
 行ってしまったかもしれない……</JapaneseText>
-      <EnglishText>The &lt;Blue&gt;Royal Shield&lt;White&gt; is probably
-far ahead of us by now...</EnglishText>
+      <EnglishText>O &lt;Blue&gt;Escudo Real&lt;White&gt; deve estar
+bem à frente de nós a essa hora...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -154,9 +153,9 @@ far ahead of us by now...</EnglishText>
 ペトナジャンカで、
 連中の足取りをつかめる
 可能性は高い。</JapaneseText>
-      <EnglishText>Even so, there's a good chance
-we'll be able to catch up to
-them in Petnadjanka.</EnglishText>
+      <EnglishText>Ainda assim, é provável que
+consigamos alcançá-los em
+Petnadjanka.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -166,7 +165,7 @@ them in Petnadjanka.</EnglishText>
       <PointerOffset>2004</PointerOffset>
       <VoiceId>12000045</VoiceId>
       <JapaneseText>とにかく……急ごう……</JapaneseText>
-      <EnglishText>Well, let's hurry.</EnglishText>
+      <EnglishText>Então vamos logo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -184,7 +183,7 @@ them in Petnadjanka.</EnglishText>
     <Entry>
       <PointerOffset>2095</PointerOffset>
       <JapaneseText>&lt;Red&gt;奥義&lt;Green&gt;が習得可能になりました。</JapaneseText>
-      <EnglishText>It's now possible to learn &lt;Red&gt;Fusion Forces&lt;Green&gt;!</EnglishText>
+      <EnglishText>Agora é possível aprender &lt;Red&gt;Fusion Forces&lt;Green&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -195,9 +194,9 @@ them in Petnadjanka.</EnglishText>
       <JapaneseText>&lt;Green&gt;奥義の習得は
 &lt;Red&gt;術技&lt;Green&gt;メニューから
 設定を行えます。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You can learn and set
-Fusion Forces in the 
-&lt;Red&gt;Force Menu&lt;Green&gt;</EnglishText>
+      <EnglishText>&lt;Green&gt;Você pode aprender e usar
+Fusion Forces no
+&lt;Red&gt;Menu de Force&lt;Green&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -208,9 +207,9 @@ Fusion Forces in the
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;バトルブックを読みますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Read the Battle Book?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Ler o Battle Book?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
@@ -224,9 +223,9 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>

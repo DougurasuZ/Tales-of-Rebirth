@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>614,614,614,614,614,614,614,614,614,614,614,614,614,614,614,614,614</PointerOffset>
       <JapaneseText>旅人</JapaneseText>
-      <EnglishText>Traveler</EnglishText>
+      <EnglishText>Viajante</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>773,970</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>164</PointerOffset>
       <JapaneseText>迷いの森</JapaneseText>
-      <EnglishText>Forest Labyrinth</EnglishText>
+      <EnglishText>Floresta Labirinto</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>161</PointerOffset>
       <JapaneseText>迷いの森</JapaneseText>
-      <EnglishText>Forest Labyrinth</EnglishText>
+      <EnglishText>Floresta Labirinto</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -61,9 +61,9 @@
       <JapaneseText>やぁ、また会いましたね。
 この間、テルアラ街道の小屋で
 歴史書をお借りした者です。</JapaneseText>
-      <EnglishText>Hey, we meet again. I'm the one
-you lent a History Book to back
-at the Tel'alla Hostel.</EnglishText>
+      <EnglishText>Olá, de novo! Sou quem pegou
+emprestado um History Book seu
+na Hospedaria Tel'alla.</EnglishText>
       <Notes>テルアラ = Tel Alla? Teluara?</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -74,9 +74,8 @@ at the Tel'alla Hostel.</EnglishText>
       <JapaneseText>この間はありがとう。
 おかげですっかり
 元気になりましたよ。</JapaneseText>
-      <EnglishText>Thanks to you, I've
-managed to make a
-full recovery.</EnglishText>
+      <EnglishText>Graças a você, me recuperei
+por completo.</EnglishText>
       <Notes>figuratively speaking</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -87,11 +86,9 @@ full recovery.</EnglishText>
       <JapaneseText>あの歴史書に書かれていた
 迷いの森のことが気になって
 きてみたのですが、準備不足でした。</JapaneseText>
-      <EnglishText>I became interested in the
-Forest Labyrinth after reading
-about it in that book, but
-I've found myself woefully
-unprepared.</EnglishText>
+      <EnglishText>O livro me despertou interesse
+pela Floresta Labirinto, mas
+vim sem o menor preparo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -102,9 +99,9 @@ unprepared.</EnglishText>
       <JapaneseText>以前ここに住んでいた人の
 伝記でもあれば、もっと細かいことが
 わかって助かるんですけど……</JapaneseText>
-      <EnglishText>Perhaps I could learn more
-if I had a biography of those
-who used to live here...</EnglishText>
+      <EnglishText>Talvez eu aprendesse mais se
+tivesse uma biografia de quem
+viveu aqui...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -113,9 +110,8 @@ who used to live here...</EnglishText>
     <Entry>
       <PointerOffset>700</PointerOffset>
       <JapaneseText>まさか伝記も貸してくれるのですか？</JapaneseText>
-      <EnglishText>Wait, you have one on you?
-Would you be willing to lend
-it to me?</EnglishText>
+      <EnglishText>Espere, você tem uma aí? Poderia
+emprestá-la pra mim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -125,8 +121,8 @@ it to me?</EnglishText>
       <PointerOffset>723</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -135,7 +131,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>776</PointerOffset>
       <JapaneseText>&lt;Green&gt;『伝記』を貸し出しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You lent the Biography.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você emprestou a Biography.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -146,10 +142,9 @@ No</EnglishText>
       <JapaneseText>おお！
 一度ならず、二度までも……
 本当にありがとうございます。</JapaneseText>
-      <EnglishText>Oh, thank you so much!
-This is the second time
-you've been so kind to
-me... I really appreciate it.</EnglishText>
+      <EnglishText>Ah, que gentileza a sua! Esta é
+a segunda vez que você me ajuda...
+Agradeço de coração.</EnglishText>
       <Notes>if you answer yes i believe</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -159,9 +154,9 @@ me... I really appreciate it.</EnglishText>
       <PointerOffset>833</PointerOffset>
       <JapaneseText>いや、催促したわけではないので、
 気にしないでください。</JapaneseText>
-      <EnglishText>I'm not asking you to get
-one for me. Sorry if it
-comes off like that.</EnglishText>
+      <EnglishText>Não estou pedindo que consiga
+um pra mim. Desculpe se pareceu
+que sim.</EnglishText>
       <Notes>this is if you answer no i believe</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -171,8 +166,8 @@ comes off like that.</EnglishText>
       <PointerOffset>883</PointerOffset>
       <JapaneseText>詳細はわかりませんが
 大昔にあった争いが原因で、</JapaneseText>
-      <EnglishText>It doesn't particularly go
-into the matter, but...</EnglishText>
+      <EnglishText>Ele não entra muito nesse
+assunto, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -182,9 +177,9 @@ into the matter, but...</EnglishText>
       <PointerOffset>905</PointerOffset>
       <JapaneseText>迷いの森が人々の生活の場に
 なった時期があったようです。</JapaneseText>
-      <EnglishText>...Apparently, during an ancient
-conflict many people sought
-refuge in the Forest Labyrinth.</EnglishText>
+      <EnglishText>...Parece que num conflito antigo
+muita gente se refugiou na
+Floresta Labirinto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -195,9 +190,9 @@ refuge in the Forest Labyrinth.</EnglishText>
       <JapaneseText>争いが終わると、その人たちは
 ミナールやペトナジャンカに
 移り住んだようですね。</JapaneseText>
-      <EnglishText>Once the conflict was over,
-they relocated to places like
-Minal and Petnadjanka.</EnglishText>
+      <EnglishText>Quando o conflito acabou, eles se
+mudaram pra lugares como Minal
+e Petnadjanka.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -208,10 +203,10 @@ Minal and Petnadjanka.</EnglishText>
       <JapaneseText>この森は侵入者を防ぐために
 迷いやすく手を加えられたようです。
 またひとつ勉強になりました。</JapaneseText>
-      <EnglishText>It appears that they cultivated
-the forest to make it easy to
-get lost, likely as a measure to
-deter intruders. How insightful!</EnglishText>
+      <EnglishText>Parece que cultivaram a floresta
+pra que fosse fácil se perder,
+provavelmente para afastar
+intrusos. Que perspicácia!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -220,7 +215,7 @@ deter intruders. How insightful!</EnglishText>
     <Entry>
       <PointerOffset>973</PointerOffset>
       <JapaneseText>&lt;Green&gt;『伝記』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Biography.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou a Biography.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -230,8 +225,8 @@ deter intruders. How insightful!</EnglishText>
       <PointerOffset>995</PointerOffset>
       <JapaneseText>二度も協力していただいたご恩を
 お返ししなければなりませんね。</JapaneseText>
-      <EnglishText>I'll have to repay your
-kindness twofold.</EnglishText>
+      <EnglishText>Vou retribuir sua gentileza em
+dobro.</EnglishText>
       <Notes>i think these lines are out of order. not sure</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -241,10 +236,9 @@ kindness twofold.</EnglishText>
       <PointerOffset>1034</PointerOffset>
       <JapaneseText>調査には時間がかかるので、
 今しばらく待ってください。</JapaneseText>
-      <EnglishText>It'll take me a while to
-read this book, so please
-let me keep it a little
-while longer.</EnglishText>
+      <EnglishText>Vou demorar pra ler este livro,
+então deixe-me ficar com ele
+mais um pouco, por favor.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -255,8 +249,8 @@ while longer.</EnglishText>
       <JapaneseText>あなたのおかげで
 新たなる知識を
 吸収することができました。</JapaneseText>
-      <EnglishText>Thanks to you, I've been able
-to expand my knowledge.</EnglishText>
+      <EnglishText>Graças a você, pude ampliar
+meu conhecimento.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -266,8 +260,8 @@ to expand my knowledge.</EnglishText>
       <PointerOffset>1109</PointerOffset>
       <JapaneseText>さぁ、次はどんな知識を
 調べるとしようかな……</JapaneseText>
-      <EnglishText>Hmm, I wonder what
-I should research next.</EnglishText>
+      <EnglishText>Hmm, o que será que eu devo
+pesquisar agora?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -277,8 +271,8 @@ I should research next.</EnglishText>
       <PointerOffset>1142</PointerOffset>
       <JapaneseText>さぁ、次はどんな知識を
 調べるとしようかな……</JapaneseText>
-      <EnglishText>Hmm, I wonder what
-I should research next.</EnglishText>
+      <EnglishText>Hmm, o que será que eu devo
+pesquisar agora?</EnglishText>
       <Notes>duplicate</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -289,8 +283,8 @@ I should research next.</EnglishText>
       <JapaneseText>うーむ……
 この森にはどんな秘密が
 隠されているのだろう……</JapaneseText>
-      <EnglishText>I wonder what secrets 
-this forest holds...</EnglishText>
+      <EnglishText>Que segredos será que esta
+floresta guarda...</EnglishText>
       <Notes>if this line appears in sequence to this whole discussion, adding the word "others" would help ie tlow more naturally.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -304,9 +298,9 @@ this forest holds...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>

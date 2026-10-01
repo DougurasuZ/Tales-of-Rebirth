@@ -28,6 +28,7 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Roaring Seas (City of the) | Cidade dos Mares Rugentes | Apelido de Minal |
 | Silent Night (inn) | Noite Silenciosa | Nome de pousada |
 | Tavern | Taverna | |
+| Tel'alla Hostel | Hospedaria Tel'alla | Nome misto |
 | Town Hall | Prefeitura | |
 | Claire's House | Casa de Claire | |
 | Dusk of Ladras | Crepúsculo de Ladras | Nome de evento; "Ladras" mantido |
@@ -78,3 +79,4 @@ Registre aqui os casos que possam gerar dúvida.
 - Pratos do Refeitório de Minal: Minalian Shellfish Paella, Lemon Apple Pie, Hasta Pasta, Deep-fried Centipede, Sauteed Ice Cream; Hamburger Steak
 - RG, Rush Gauge, RG Gauge (termos de batalha)
 - Magical Pot
+- Fusion Force(s) (técnica; menu: Menu de Force)

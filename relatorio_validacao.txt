@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  10.2% das falas traduzidas (3184 de 31269) | arquivos iniciados: 48 | sem problemas: 48
+story :  10.7% das falas traduzidas (3343 de 31269) | arquivos iniciados: 55 | sem problemas: 55
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 7.6% das falas traduzidas (3184 de 41924)
+TOTAL : 8.0% das falas traduzidas (3343 de 41924)
 Problemas encontrados (sem contar pendentes): 0
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -258,3 +258,20 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 [story/10288.xml]
   Id 9: PENDENTE (igual ao inglês): Guaaahh!! N-Nayla... ...
   Id 44: PENDENTE (igual ao inglês): [VARIABLE]
+
+[story/10289.xml]
+  Id 13: PENDENTE (igual ao inglês): Uaaaaaah!
+  Id 30: PENDENTE (igual ao inglês): First Time Item Conversation
+  Id 37: PENDENTE (igual ao inglês): First Time Item Conversation
+
+[story/10290.xml]
+  Id 10: PENDENTE (igual ao inglês): First Time Item Conversation
+  Id 17: PENDENTE (igual ao inglês): First Time Item Conversation
+
+[story/10294.xml]
+  Id 11: PENDENTE (igual ao inglês): [VARIABLE]
+
+[story/10300.xml]
+  Id 22: PENDENTE (igual ao inglês): Coo... Coo...
+  Id 72: PENDENTE (igual ao inglês): Minal...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka; Id 4: Petnadjanka; Id 28: Sulz; Id 29: Minal; Id 30: Petnadjanka; Id 31: Sunnytown; Id 32: Anikamal; Id 33: Babilograd; Id 35: Razilda; Id 36: Pipista; Id 37: Kyogen; Id 38: Nolzen; Id 39: Mocrado
