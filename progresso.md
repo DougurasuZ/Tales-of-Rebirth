@@ -84,6 +84,14 @@
 | 2_translated/story/10326.xml | 2026-09-30 |
 | 2_translated/story/10327.xml | 2026-09-30 |
 | 2_translated/story/10328.xml | 2026-09-30 |
+| 2_translated/story/10333.xml | 2026-09-30 |
+| 2_translated/story/10334.xml | 2026-09-30 |
+| 2_translated/story/10335.xml | 2026-09-30 |
+| 2_translated/story/10336.xml | 2026-09-30 |
+| 2_translated/story/10337.xml | 2026-09-30 |
+| 2_translated/story/10338.xml | 2026-09-30 |
+| 2_translated/story/10339.xml | 2026-09-30 |
+| 2_translated/story/10340.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -220,3 +228,14 @@
 - 10323.xml, Id 33: "SHUT UP!" → "CALA A BOCA!" (código `<scale:180>` preservado). Id 14: frase de Selena reorganizada em 4 linhas para caber com o código `<Yellow>`.
 - 10326.xml, Ids 26–31: "burnish" tratado como "polir/polimento" (serviço do operário que transforma ferro em broche). Id 55 tem SpeakerId -1 ([VARIABLE]); texto "Não toque nisso!" traduzido normalmente.
 - 10327.xml, Ids 27/36: Claire (SpeakerId 1) fala formal ("peço desculpas de todo o coração"). Ids 11/15: Selena e o Gerente falam entrecortado (calor); pontuação do inglês preservada.
+- Lote 10333–10340 (2026-09-30): o relatório anterior só tinha o aviso INGLES de 10309 Id 5 (falso positivo já decidido); nada a corrigir. Arquivos 10329–10332 não existem. Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 26 problemas na 1ª rodada (TAMANHO/LINHAS), 1 na 2ª (só o falso positivo de 10309). 10333 só tem o nome do lugar e "Quer descansar?".
+- 10333–10340, rótulos de falante: "Callegean Soldier" → "Soldado Callegeano", "Man/Woman/Boy/Girl" → "Homem/Mulher/Menino/Menina", "Man's Voice/Woman's Voice" → "Voz de Homem/Voz de Mulher", "<Hilda>'s Voice" → "Voz de <Hilda>", "Carriage Coach" → "Cocheiro", "Sailor" → "Marinheiro", "Notice" → "Aviso". Nomes (Gugura, Militsa, Randgriz, Susie, Shaorune, Paula, Natalie) e "Select" mantidos.
+- 10333–10340, lugares: "Town Square" → "Praça da Cidade"; "Sunnytown - North/South Entrance" → "Sunnytown - Entrada Norte/Sul"; "Cat Lover's House" → "Casa do Amante de Gatos"; "Weapon Shop - Item Shop" → "Loja de Armas - Loja de Itens"; "Inn - Grocery Store" → "Pousada - Mercearia"; "Tel'alla Highway" → "Estrada de Tel'alla"; "Kurodadaku Desert" → "Deserto de Kurodadaku"; "Callegean Sea" → "Mar de Callegea". Eastalia/Southalia mantidos (nome próprio). Glossário atualizado.
+- 10335.xml, Ids 71 e 73: as cartas "Reverse of Death" e "Upright Moon" (10336 Id 41) foram mantidas em inglês como nomes de itens/cartas; só o significado ("Uma Grande Virada", "Renascimento") foi traduzido. Id 78: "Fusion Finalities" mantido (técnica). Id 80: "Collector's Book" mantido (recurso do jogo) e "Valuables" → "Valiosos". Conferir.
+- 10335.xml, Ids 76/77: `<unk19:...>` seguido de " entrou para o grupo." / " agora viaja com você." (conferir espaço/gênero no jogo). Id 104: mesmo formato de carruagem ("Passagem para <unk18:...>: <nmb:12C> Gald."); Id 97 "Cancel" → "Cancelar". Id 69: o inglês diz que o cartão estava nas costas do Tytree; traduzido literalmente.
+- 10334/10336/10337/10338: "Royal Shield" → "Escudo Real" e "Four Stars" → "Quatro Estrelas" (glossário); "Force of Rainbow" e "Force of Rainbow" mantido (técnica). "Sacred Beast(s)" → "Besta(s) Sagrada(s)" (novo no glossário). "Will" (a Vontade do Escudo Real, 10338 Ids 64/67/76) → "Vontade". "Half/Halfs" mantidos em inglês como no glossário (raça).
+- 10336.xml, Id 106: a piada infantil "in-ogger-ation" virou "cerimônia de poste da Rainha" (troca de "posse" por "poste"). 10335.xml, Ids 128/132/133 e 10338.xml, Id 116: "diss-criminate" → "dis-criminam" e "inn come" → "pou-renda" (piadas de criança, adaptação livre). Conferir se agradam.
+- 10336.xml, Ids 8/16: a dona da Hilda é uma mulher (SpeakerId 0, "Mulher"); Id 35 e outros: "Susie" mantido. Id 117: "Teleport to Randgriz's Shrine?" → "Ir ao Santuário de Randgriz?". 10336.xml, Id 57–61: Mao fala "humano/homem" minúsculo (ヒト, não a raça Huma).
+- 10338.xml, Ids 102/116 e 10340.xml: "Man" (humano) → "humanos"; "Military" → "Exército de Callegea" (10340 Ids 117/118) e "the army" → "o exército". Id 140/141 (10340) têm SpeakerId -1 ([VARIABLE]); texto traduzido normalmente.
+- 10339.xml: o dialeto caipira do menino ("ya", "hafta", "purty") foi adaptado para fala informal ("tô", "pra"), sem sotaque regional marcado.
+- 10340.xml, Id 150: "swimsuit contest" → "concurso de trajes de banho". Id 107: a Gajuma (Mulher) fala no feminino. Id 111: "Nunca sentiu discriminação" (evita gênero).

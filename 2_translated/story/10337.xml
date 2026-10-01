@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>2485</PointerOffset>
       <JapaneseText>装備品屋・道具屋</JapaneseText>
-      <EnglishText>Weapon Shop - Item Shop</EnglishText>
+      <EnglishText>Loja de Armas - Loja de Itens</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>2504</PointerOffset>
       <JapaneseText>宿屋・食材屋</JapaneseText>
-      <EnglishText>Inn - Grocery Store</EnglishText>
+      <EnglishText>Pousada - Mercearia</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -124,7 +124,7 @@
       <PointerOffset>3230</PointerOffset>
       <VoiceId>1700001e</VoiceId>
       <JapaneseText>大丈夫か？</JapaneseText>
-      <EnglishText>Are you all right?</EnglishText>
+      <EnglishText>Você está bem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -134,7 +134,7 @@
       <PointerOffset>3266</PointerOffset>
       <VoiceId>1700001f</VoiceId>
       <JapaneseText>う……ううっ……</JapaneseText>
-      <EnglishText>Urgh...</EnglishText>
+      <EnglishText>Argh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -145,8 +145,8 @@
       <VoiceId>17000020</VoiceId>
       <JapaneseText>大丈夫！
 傷は浅いです！</JapaneseText>
-      <EnglishText>You'll be fine! Your wounds
-are superficial!</EnglishText>
+      <EnglishText>Você vai ficar bem! Seus
+ferimentos são superficiais!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -156,7 +156,7 @@ are superficial!</EnglishText>
       <PointerOffset>3352</PointerOffset>
       <VoiceId>17000021</VoiceId>
       <JapaneseText>どうした、何があったんだ!?</JapaneseText>
-      <EnglishText>What's wrong, what happened!?</EnglishText>
+      <EnglishText>O que foi, o que aconteceu!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -176,8 +176,8 @@ are superficial!</EnglishText>
       <PointerOffset>3539</PointerOffset>
       <VoiceId>17000023</VoiceId>
       <JapaneseText>スゴイのが来るよ!!</JapaneseText>
-      <EnglishText>Something powerful
-is headed this way!</EnglishText>
+      <EnglishText>Algo poderoso está
+vindo pra cá!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -187,7 +187,7 @@ is headed this way!</EnglishText>
       <PointerOffset>3579</PointerOffset>
       <VoiceId>17000024</VoiceId>
       <JapaneseText>また&lt;Blue&gt;王の盾&lt;White&gt;か……!?</JapaneseText>
-      <EnglishText>The &lt;Blue&gt;Royal Shield&lt;White&gt; again!?</EnglishText>
+      <EnglishText>O &lt;Blue&gt;Escudo Real&lt;White&gt; de novo!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -197,7 +197,7 @@ is headed this way!</EnglishText>
       <PointerOffset>3685</PointerOffset>
       <VoiceId>17000025</VoiceId>
       <JapaneseText>すぐそこ!!</JapaneseText>
-      <EnglishText>They're right there!</EnglishText>
+      <EnglishText>Estão bem ali!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -207,7 +207,7 @@ is headed this way!</EnglishText>
       <PointerOffset>3885</PointerOffset>
       <VoiceId>17000026</VoiceId>
       <JapaneseText>誰もいないぜ!?</JapaneseText>
-      <EnglishText>But I don't see anyone!?</EnglishText>
+      <EnglishText>Mas não vejo ninguém!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -217,8 +217,8 @@ is headed this way!</EnglishText>
       <PointerOffset>4255</PointerOffset>
       <VoiceId>17000027</VoiceId>
       <JapaneseText>ひ、人が空中から現れたぞ!?</JapaneseText>
-      <EnglishText>H-Hey, she just appeared
-out of thin air!</EnglishText>
+      <EnglishText>E-Ei, ela apareceu do
+nada!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -228,7 +228,7 @@ out of thin air!</EnglishText>
       <PointerOffset>4320</PointerOffset>
       <VoiceId>17000028</VoiceId>
       <JapaneseText>あの人の、あの角……!!</JapaneseText>
-      <EnglishText>She has horns...!</EnglishText>
+      <EnglishText>Ela tem chifres...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -239,8 +239,8 @@ out of thin air!</EnglishText>
       <VoiceId>17000029</VoiceId>
       <JapaneseText>気に食わない目だ。
 &lt;Red&gt;ハーフ&lt;White&gt;がそんなに珍しいか。</JapaneseText>
-      <EnglishText>It's rude to stare. Haven't you
-ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
+      <EnglishText>É rude ficar encarando. Nunca
+viu uma &lt;Red&gt;Half&lt;White&gt; antes?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
@@ -250,7 +250,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>4712</PointerOffset>
       <VoiceId>1700002a</VoiceId>
       <JapaneseText>うおっ</JapaneseText>
-      <EnglishText>Whoa!</EnglishText>
+      <EnglishText>Uau!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -259,7 +259,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
     <Entry>
       <PointerOffset>4728</PointerOffset>
       <JapaneseText>わぁっ!!</JapaneseText>
-      <EnglishText>Aaah!</EnglishText>
+      <EnglishText>Aaaah!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
@@ -268,7 +268,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
     <Entry>
       <PointerOffset>4745</PointerOffset>
       <JapaneseText>きゃあっ!!</JapaneseText>
-      <EnglishText>Eeek!</EnglishText>
+      <EnglishText>Iiih!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -277,7 +277,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
     <Entry>
       <PointerOffset>4762</PointerOffset>
       <JapaneseText>ぐあっ!!</JapaneseText>
-      <EnglishText>Urgh!</EnglishText>
+      <EnglishText>Argh!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
@@ -286,7 +286,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
     <Entry>
       <PointerOffset>4779</PointerOffset>
       <JapaneseText>おあッ!!</JapaneseText>
-      <EnglishText>Yaah!</EnglishText>
+      <EnglishText>Uaah!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -296,7 +296,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>4830</PointerOffset>
       <VoiceId>17000030</VoiceId>
       <JapaneseText>な、何しやがる!!</JapaneseText>
-      <EnglishText>Wh-What was that for?!</EnglishText>
+      <EnglishText>P-Por que fez isso?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -306,7 +306,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>4863</PointerOffset>
       <VoiceId>17000031</VoiceId>
       <JapaneseText>その娘を渡せ。</JapaneseText>
-      <EnglishText>Hand over that girl.</EnglishText>
+      <EnglishText>Entreguem aquela garota.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
@@ -316,7 +316,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>4885</PointerOffset>
       <VoiceId>17000032</VoiceId>
       <JapaneseText>また、それかよ！</JapaneseText>
-      <EnglishText>Not this again!</EnglishText>
+      <EnglishText>De novo isso não!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
@@ -326,7 +326,7 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>4914</PointerOffset>
       <VoiceId>17000033</VoiceId>
       <JapaneseText>何者だ、貴様！</JapaneseText>
-      <EnglishText>Who the hell are you?!</EnglishText>
+      <EnglishText>Quem diabos é você?!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -336,8 +336,8 @@ ever seen a &lt;Red&gt;Half&lt;White&gt; before?</EnglishText>
       <PointerOffset>5023</PointerOffset>
       <VoiceId>17000034</VoiceId>
       <JapaneseText>この娘をどうするつもりだ!?</JapaneseText>
-      <EnglishText>What do you intend
-to do with her?</EnglishText>
+      <EnglishText>O que pretende
+fazer com ela?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -349,9 +349,9 @@ to do with her?</EnglishText>
       <JapaneseText>私はミリッツァ。
 任務により、その娘を
 &lt;Yellow&gt;カレギア城&lt;White&gt;に連行する。</JapaneseText>
-      <EnglishText>I am Militsa. My orders
-are to take this girl to
-&lt;Yellow&gt;Callegea Castle&lt;White&gt;.</EnglishText>
+      <EnglishText>Sou Militsa. Minhas ordens
+são levar esta garota ao
+&lt;Yellow&gt;Castelo de Callegea&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -363,10 +363,10 @@ are to take this girl to
       <JapaneseText>確か&lt;Blue&gt;四星&lt;White&gt;の唯一の女性が
 ミリッツァ……
 まさか、ハーフだったなんて……</JapaneseText>
-      <EnglishText>If I'm not mistaken, Militsa
-is the only woman in the
-&lt;Blue&gt;Four Stars&lt;White&gt;... But to think
-she was a Half...</EnglishText>
+      <EnglishText>Se não me engano, Militsa é
+a única mulher dos
+&lt;Blue&gt;Quatro Estrelas&lt;White&gt;...
+Mas pensar que era Half...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
@@ -378,9 +378,9 @@ she was a Half...</EnglishText>
       <JapaneseText>&lt;Eugene&gt;！
 また逃げる女の人を使った
 罠じゃないよね？</JapaneseText>
-      <EnglishText>&lt;Eugene&gt;, do you think they're
-trying to trick us with another
-escaping girl?</EnglishText>
+      <EnglishText>&lt;Eugene&gt;, será que estão tentando
+nos enganar com outra garota
+fugitiva?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
@@ -390,7 +390,7 @@ escaping girl?</EnglishText>
       <PointerOffset>5444</PointerOffset>
       <VoiceId>17000038</VoiceId>
       <JapaneseText>断言はできないが……</JapaneseText>
-      <EnglishText>I'm not sure...</EnglishText>
+      <EnglishText>Não tenho certeza...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>30</Id>
@@ -401,9 +401,9 @@ escaping girl?</EnglishText>
       <VoiceId>17000039</VoiceId>
       <JapaneseText>&lt;Eugene&gt;……？
 そうか……&lt;Blue&gt;王の盾&lt;White&gt;の元隊長……</JapaneseText>
-      <EnglishText>...&lt;Eugene&gt;? I see... You're
-the former Commander of
-The &lt;Blue&gt;Royal Shield&lt;White&gt;.</EnglishText>
+      <EnglishText>...&lt;Eugene&gt;? Entendo... Você é
+o ex-Comandante do
+&lt;Blue&gt;Escudo Real&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
@@ -415,10 +415,10 @@ The &lt;Blue&gt;Royal Shield&lt;White&gt;.</EnglishText>
       <JapaneseText>では、おまえたちが
 我らの邪魔をする能力者たちか。
 ……我が&lt;Yellow&gt;虹のフォルス&lt;White&gt;を受けるがいい。</JapaneseText>
-      <EnglishText>You must be the Force users
-who have been hindering our
-progress. So be it... Witness
-my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
+      <EnglishText>Devem ser os usuários de Force que
+vêm atrapalhando nosso progresso.
+Que seja... Testemunhem
+o meu &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>32</Id>
@@ -428,7 +428,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>6423</PointerOffset>
       <VoiceId>1700003b</VoiceId>
       <JapaneseText>ナニッ!?　分身した!?</JapaneseText>
-      <EnglishText>What the!? She cloned herself!?</EnglishText>
+      <EnglishText>Quê!? Ela se clonou!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -438,7 +438,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>6727</PointerOffset>
       <VoiceId>1700003c</VoiceId>
       <JapaneseText>うおっ!!</JapaneseText>
-      <EnglishText>Aagh!</EnglishText>
+      <EnglishText>Aaagh!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -447,7 +447,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>6743</PointerOffset>
       <JapaneseText>うわっ!!</JapaneseText>
-      <EnglishText>Aaah!</EnglishText>
+      <EnglishText>Aaaah!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
@@ -456,7 +456,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>6760</PointerOffset>
       <JapaneseText>きゃあっ!!</JapaneseText>
-      <EnglishText>Eeek!</EnglishText>
+      <EnglishText>Iiih!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -465,7 +465,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>6777</PointerOffset>
       <JapaneseText>ぐわあっ!!</JapaneseText>
-      <EnglishText>Urgh!</EnglishText>
+      <EnglishText>Argh!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>37</Id>
@@ -474,7 +474,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>6794</PointerOffset>
       <JapaneseText>おああッ!!</JapaneseText>
-      <EnglishText>Yaah!</EnglishText>
+      <EnglishText>Uaah!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -484,7 +484,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>6956</PointerOffset>
       <VoiceId>17000042</VoiceId>
       <JapaneseText>いや……いやぁぁぁッ!!</JapaneseText>
-      <EnglishText>No... NOOOO!</EnglishText>
+      <EnglishText>Não... NÃÃÃO!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -494,7 +494,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>6989</PointerOffset>
       <VoiceId>17000043</VoiceId>
       <JapaneseText>あ、ちょっと待って……！</JapaneseText>
-      <EnglishText>Ah, hold on...!</EnglishText>
+      <EnglishText>Ah, espera...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -504,7 +504,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>7014</PointerOffset>
       <VoiceId>17000044</VoiceId>
       <JapaneseText>逃がさない……</JapaneseText>
-      <EnglishText>You will not escape.</EnglishText>
+      <EnglishText>Você não vai escapar.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>41</Id>
@@ -514,7 +514,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>7117</PointerOffset>
       <VoiceId>17000045</VoiceId>
       <JapaneseText>ま、待て……</JapaneseText>
-      <EnglishText>H-Hold it!</EnglishText>
+      <EnglishText>E-Espera!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
@@ -524,7 +524,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>7142</PointerOffset>
       <VoiceId>17000046</VoiceId>
       <JapaneseText>邪魔だ！</JapaneseText>
-      <EnglishText>Begone!</EnglishText>
+      <EnglishText>Sumam!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>43</Id>
@@ -534,7 +534,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>7330</PointerOffset>
       <VoiceId>17000047</VoiceId>
       <JapaneseText>うあああっ!!</JapaneseText>
-      <EnglishText>Aaaaah!</EnglishText>
+      <EnglishText>Aaaaaah!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>44</Id>
@@ -543,7 +543,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7346</PointerOffset>
       <JapaneseText>わあああぁっ!!</JapaneseText>
-      <EnglishText>Aaaaah!</EnglishText>
+      <EnglishText>Aaaaaah!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
@@ -552,7 +552,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7363</PointerOffset>
       <JapaneseText>きゃあぁぁぁっ!!</JapaneseText>
-      <EnglishText>Eeeeeek!</EnglishText>
+      <EnglishText>Iiiiih!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>46</Id>
@@ -561,7 +561,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7380</PointerOffset>
       <JapaneseText>うおっ……!!</JapaneseText>
-      <EnglishText>Urrrgh!</EnglishText>
+      <EnglishText>Arrrgh!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>47</Id>
@@ -570,7 +570,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
     <Entry>
       <PointerOffset>7397</PointerOffset>
       <JapaneseText>おあああああッ!!</JapaneseText>
-      <EnglishText>Yaaaaah!</EnglishText>
+      <EnglishText>Uaaaaah!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -580,7 +580,7 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>7547</PointerOffset>
       <VoiceId>1700004d</VoiceId>
       <JapaneseText>フン……</JapaneseText>
-      <EnglishText>Hmph...</EnglishText>
+      <EnglishText>Hunf...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>49</Id>
@@ -591,8 +591,8 @@ my &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <VoiceId>1700004e</VoiceId>
       <JapaneseText>ミリッツァを追うんだ！
 あの娘が危ない……！</JapaneseText>
-      <EnglishText>We have to follow Militsa!
-That girl's in danger!</EnglishText>
+      <EnglishText>Temos que seguir Militsa!
+Aquela garota está em perigo!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>50</Id>
@@ -605,7 +605,7 @@ That girl's in danger!</EnglishText>
       <PointerOffset>8049</PointerOffset>
       <VoiceId>1700007c</VoiceId>
       <JapaneseText>&lt;Mao&gt;、頼む！</JapaneseText>
-      <EnglishText>&lt;Mao&gt;, you're up!</EnglishText>
+      <EnglishText>&lt;Mao&gt;, é a sua vez!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>51</Id>
@@ -615,7 +615,7 @@ That girl's in danger!</EnglishText>
       <PointerOffset>8085</PointerOffset>
       <VoiceId>1700007d</VoiceId>
       <JapaneseText>うん……！</JapaneseText>
-      <EnglishText>Gotcha!</EnglishText>
+      <EnglishText>Pode deixar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
@@ -625,8 +625,8 @@ That girl's in danger!</EnglishText>
       <PointerOffset>8165</PointerOffset>
       <VoiceId>1700007e</VoiceId>
       <JapaneseText>どこを狙っている？</JapaneseText>
-      <EnglishText>Where do you think
-you're aiming?</EnglishText>
+      <EnglishText>Onde acha que
+está mirando?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>53</Id>
@@ -636,7 +636,7 @@ you're aiming?</EnglishText>
       <PointerOffset>8186</PointerOffset>
       <VoiceId>1700007f</VoiceId>
       <JapaneseText>狙いどおりだヨ！</JapaneseText>
-      <EnglishText>I'm right on target!</EnglishText>
+      <EnglishText>Estou na mosca!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
@@ -646,7 +646,7 @@ you're aiming?</EnglishText>
       <PointerOffset>8377</PointerOffset>
       <VoiceId>17000080</VoiceId>
       <JapaneseText>本物のミリッツァか！</JapaneseText>
-      <EnglishText>There's the real Militsa!</EnglishText>
+      <EnglishText>Aquela é a Militsa de verdade!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>55</Id>
@@ -656,7 +656,7 @@ you're aiming?</EnglishText>
       <PointerOffset>8398</PointerOffset>
       <VoiceId>17000081</VoiceId>
       <JapaneseText>……な、なぜわかった……！</JapaneseText>
-      <EnglishText>H-How did you...?!</EnglishText>
+      <EnglishText>C-Como você...?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>56</Id>
@@ -667,8 +667,8 @@ you're aiming?</EnglishText>
       <VoiceId>17000082</VoiceId>
       <JapaneseText>残念だが、おまえの&lt;Yellow&gt;虹のフォルス&lt;White&gt;は
 もう通用しない。</JapaneseText>
-      <EnglishText>I'm afraid that it's lights out
-for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
+      <EnglishText>Receio que a luz do seu
+&lt;Yellow&gt;Force of Rainbow&lt;White&gt; acabou.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>57</Id>
@@ -678,7 +678,7 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>8480</PointerOffset>
       <VoiceId>17000083</VoiceId>
       <JapaneseText>光は遮られた！</JapaneseText>
-      <EnglishText>The light's been blocked off!</EnglishText>
+      <EnglishText>A luz foi bloqueada!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>58</Id>
@@ -688,7 +688,7 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>8501</PointerOffset>
       <VoiceId>17000084</VoiceId>
       <JapaneseText>そこだ！</JapaneseText>
-      <EnglishText>There!</EnglishText>
+      <EnglishText>Ali!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -698,7 +698,7 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>8587</PointerOffset>
       <VoiceId>17000085</VoiceId>
       <JapaneseText>キャアアアアアッ!!</JapaneseText>
-      <EnglishText>Kyaaaaah!</EnglishText>
+      <EnglishText>Kyaaaaaah!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
@@ -708,7 +708,7 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>8756</PointerOffset>
       <VoiceId>17000086</VoiceId>
       <JapaneseText>ううっ……私とした事が……</JapaneseText>
-      <EnglishText>Urgh... This can't be...</EnglishText>
+      <EnglishText>Argh... Isso não pode ser...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
@@ -718,7 +718,7 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <PointerOffset>8778</PointerOffset>
       <VoiceId>17000087</VoiceId>
       <JapaneseText>もう、分身は怖くないぜ!!</JapaneseText>
-      <EnglishText>Your replicas don't scare us!</EnglishText>
+      <EnglishText>Suas réplicas não nos assustam!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>62</Id>
@@ -729,9 +729,9 @@ for your &lt;Yellow&gt;Force of Rainbow&lt;White&gt;.</EnglishText>
       <VoiceId>17000088</VoiceId>
       <JapaneseText>……おまえたちはいずれ私が消してやる。
 今は、あの娘を見つけるのが先だ……</JapaneseText>
-      <EnglishText>...I'll dispose of you in due time.
-Right now, my priority is finding
-that girl.</EnglishText>
+      <EnglishText>...Cuido de vocês no devido tempo.
+Agora, minha prioridade é achar
+aquela garota.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>63</Id>
@@ -741,7 +741,7 @@ that girl.</EnglishText>
       <PointerOffset>8821</PointerOffset>
       <VoiceId>17000089</VoiceId>
       <JapaneseText>なにっ!?</JapaneseText>
-      <EnglishText>What!?</EnglishText>
+      <EnglishText>O quê!?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>64</Id>
@@ -751,7 +751,7 @@ that girl.</EnglishText>
       <PointerOffset>9161</PointerOffset>
       <VoiceId>1700008a</VoiceId>
       <JapaneseText>あっちだヨ!!</JapaneseText>
-      <EnglishText>She's over there!</EnglishText>
+      <EnglishText>Ela está ali!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
@@ -761,7 +761,7 @@ that girl.</EnglishText>
       <PointerOffset>9183</PointerOffset>
       <VoiceId>1700008b</VoiceId>
       <JapaneseText>逃がすかよ!!</JapaneseText>
-      <EnglishText>Don't let her get away!</EnglishText>
+      <EnglishText>Não deixem ela escapar!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>66</Id>
@@ -775,9 +775,9 @@ that girl.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>67</Id>

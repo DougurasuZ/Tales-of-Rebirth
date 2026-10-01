@@ -1,4 +1,4 @@
-# Glossário — Tradução PT-BR de Tales of Rebirth
+﻿# Glossário — Tradução PT-BR de Tales of Rebirth
 
 Consulte antes de traduzir qualquer nome de lugar ou termo recorrente.
 Acrescente aqui todo termo novo, em ordem alfabética.
@@ -50,6 +50,14 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Residence | Residência | |
 | Sulz | Sulz | Nome próprio, mantido |
 | Weapon Shop | Loja de Armas | |
+| Town Square | Praça da Cidade | |
+| Sunnytown - North Entrance / South Entrance | Sunnytown - Entrada Norte / Entrada Sul | Sunnytown mantido |
+| Cat Lover's House | Casa do Amante de Gatos | |
+| Weapon Shop - Item Shop | Loja de Armas - Loja de Itens | |
+| Tel'alla Highway | Estrada de Tel'alla | Nome misto |
+| Kurodadaku Desert | Deserto de Kurodadaku | Nome misto |
+| Callegean Sea | Mar de Callegea | |
+| Eastalia, Southalia | (iguais) | Nomes de regiões, mantidos |
 
 ## Termos do jogo
 
@@ -72,6 +80,8 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Free Title | Título Livre | Títulos escolhidos pelo jogador (Prefeitura de Minal) |
 | Library Card | Cartão da Biblioteca | |
 | Battle Records | Registros de Batalha | Seção do Battle Book |
+| Sacred Beast(s) | Besta(s) Sagrada(s) | |
+| Will (do Escudo Real) | Vontade | Ex.: "<Blue>Vontade<White>" |
 
 ## Nomes mantidos em inglês (não traduzir)
 
@@ -85,6 +95,7 @@ Registre aqui os casos que possam gerar dúvida.
 - Pratos do Refeitório de Minal: Minalian Shellfish Paella, Lemon Apple Pie, Hasta Pasta, Deep-fried Centipede, Sauteed Ice Cream; Hamburger Steak
 - RG, Rush Gauge, RG Gauge (termos de batalha)
 - Magical Pot
+- Reverse of Death, Upright Moon (cartas), Collector's Book, Fusion Finalities, Force of Rainbow
 - Fusion Force(s) (técnica; menu: Menu de Force)
 - Sunnytown (nome próprio de cidade; decisão de revisão: fica em inglês)
 - Pratos e receitas contam como itens e ficam em inglês (decisão de revisão). Ex.: Poplar's Special Milk Soup; Mussels and Scallop Cream Stew, Bread Rolls, Shark Steak, Chocolate Vine Dessert (cardápio da pousada de Petnadjanka). Cardápio da Pousada: os nomes dos pratos em inglês, só o título traduzido.

@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  15.5% das falas traduzidas (4854 de 31269) | arquivos iniciados: 79 | sem problemas: 78
+story :  17.7% das falas traduzidas (5524 de 31269) | arquivos iniciados: 87 | sem problemas: 86
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 11.6% das falas traduzidas (4854 de 41924)
+TOTAL : 13.2% das falas traduzidas (5524 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -319,3 +319,33 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 16: PENDENTE (igual ao inglês): [VARIABLE]
   Id 17: PENDENTE (igual ao inglês): [VARIABLE]
   Id 18: PENDENTE (igual ao inglês): [VARIABLE]
+
+[story/10333.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown; Id 2: Sunnytown
+
+[story/10334.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown; Id 2: Sunnytown
+
+[story/10335.xml]
+  Id 7: PENDENTE (igual ao inglês): Militsa!
+  Id 8: PENDENTE (igual ao inglês): ...?!
+  Id 33: PENDENTE (igual ao inglês): Militsa...
+  Id 66: PENDENTE (igual ao inglês): ...?
+  Id 136: PENDENTE (igual ao inglês): Claire!?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 91: Sulz; Id 92: Minal; Id 93: Petnadjanka; Id 94: Sunnytown; Id 95: Anikamal; Id 96: Babilograd; Id 98: Razilda; Id 99: Pipista; Id 100: Kyogen; Id 101: Nolzen; Id 102: Mocrado
+
+[story/10336.xml]
+  Id 54: PENDENTE (igual ao inglês): Claire...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown; Id 2: Sunnytown
+
+[story/10337.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 3: Sunnytown; Id 4: Sunnytown
+
+[story/10338.xml]
+  Id 73: PENDENTE (igual ao inglês): Shaorune!
+
+[story/10339.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown; Id 2: Sunnytown
+
+[story/10340.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Sunnytown; Id 2: Sunnytown; Id 67: Minal; Id 68: Sunnytown; Id 72: Nolzen; Id 75: Nolzen; Id 77: Minal

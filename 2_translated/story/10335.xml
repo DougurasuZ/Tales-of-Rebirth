@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>3922</PointerOffset>
       <JapaneseText>&lt;Hilda&gt;の声</JapaneseText>
-      <EnglishText>&lt;Hilda&gt;'s Voice</EnglishText>
+      <EnglishText>Voz de &lt;Hilda&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>7876,7962,21143</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>8454</PointerOffset>
       <JapaneseText>馬車屋</JapaneseText>
-      <EnglishText>Carriage Coach</EnglishText>
+      <EnglishText>Cocheiro</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Done</Status>
@@ -101,7 +101,7 @@
     <Entry>
       <PointerOffset>3211,3358</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>11</Id>
       <Status>Done</Status>
@@ -109,7 +109,7 @@
     <Entry>
       <PointerOffset>2224</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Done</Status>
@@ -144,7 +144,7 @@
     <Entry>
       <PointerOffset>765</PointerOffset>
       <JapaneseText>サニイタウン北門</JapaneseText>
-      <EnglishText>Sunnytown - North Entrance</EnglishText>
+      <EnglishText>Sunnytown - Entrada Norte</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -152,7 +152,7 @@
     <Entry>
       <PointerOffset>762</PointerOffset>
       <JapaneseText>サニイタウン北門</JapaneseText>
-      <EnglishText>Sunnytown - North Entrance</EnglishText>
+      <EnglishText>Sunnytown - Entrada Norte</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -160,7 +160,7 @@
     <Entry>
       <PointerOffset>971</PointerOffset>
       <JapaneseText>サニイタウン北門</JapaneseText>
-      <EnglishText>Sunnytown - North Entrance</EnglishText>
+      <EnglishText>Sunnytown - Entrada Norte</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -168,7 +168,7 @@
     <Entry>
       <PointerOffset>999</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -176,7 +176,7 @@
     <Entry>
       <PointerOffset>1018</PointerOffset>
       <JapaneseText>広場への道</JapaneseText>
-      <EnglishText>Town Square</EnglishText>
+      <EnglishText>Praça da Cidade</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -189,9 +189,9 @@
       <VoiceId>1700008c</VoiceId>
       <JapaneseText>どこまでも気に食わない奴らだ……
 気に食わない……気に食わない!!</JapaneseText>
-      <EnglishText>You people are repulsive...
-Completely and utterly
-repulsive!</EnglishText>
+      <EnglishText>Vocês são repugnantes...
+Completamente e absolutamente
+repugnantes!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -222,7 +222,7 @@ repulsive!</EnglishText>
       <VoiceId>1700008f</VoiceId>
       <JapaneseText>生きていたのか、
 &lt;Hilda&gt;……</JapaneseText>
-      <EnglishText>So you're alive, &lt;Hilda&gt;...</EnglishText>
+      <EnglishText>Então você está viva, &lt;Hilda&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -234,9 +234,8 @@ repulsive!</EnglishText>
       <JapaneseText>ミリッツァ……
 これ以上、&lt;Blue&gt;王の盾&lt;White&gt;のために
 戦う必要はないわ。</JapaneseText>
-      <EnglishText>Militsa... There's no need
-for us to fight for the
-&lt;Blue&gt;Royal Shield&lt;White&gt; anymore.</EnglishText>
+      <EnglishText>Militsa... Não precisamos mais
+lutar pelo &lt;Blue&gt;Escudo Real&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -246,7 +245,7 @@ for us to fight for the
       <PointerOffset>4217</PointerOffset>
       <VoiceId>17000091</VoiceId>
       <JapaneseText>何を言っている。</JapaneseText>
-      <EnglishText>What are you talking about?</EnglishText>
+      <EnglishText>Do que está falando?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -259,10 +258,10 @@ for us to fight for the
 &lt;Yellow&gt;純粋なヒトの身体&lt;White&gt;なんて手に入らない。
 あれは、私たちを利用するための
 作り話だったのよ!!</JapaneseText>
-      <EnglishText>Tohma deceived us! We'll never
-attain &lt;Yellow&gt;pure bodies&lt;White&gt;. That was just
-a story he made up in order to
-take advantage of us!</EnglishText>
+      <EnglishText>Tohma nos enganou! Nunca vamos
+alcançar &lt;Yellow&gt;corpos puros&lt;White&gt;. Foi só uma
+história que ele inventou pra
+se aproveitar de nós!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -283,8 +282,8 @@ take advantage of us!</EnglishText>
       <VoiceId>17000094</VoiceId>
       <JapaneseText>だから、これ以上、
 無意味な戦いは……</JapaneseText>
-      <EnglishText>So, all of this fighting
-is meaningless...</EnglishText>
+      <EnglishText>Então toda essa luta
+é inútil...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -294,7 +293,7 @@ is meaningless...</EnglishText>
       <PointerOffset>4330</PointerOffset>
       <VoiceId>17000095</VoiceId>
       <JapaneseText>それがどうした？</JapaneseText>
-      <EnglishText>I don't care.</EnglishText>
+      <EnglishText>Não me importo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -304,7 +303,7 @@ is meaningless...</EnglishText>
       <PointerOffset>4405</PointerOffset>
       <VoiceId>17000096</VoiceId>
       <JapaneseText>えっ……!?</JapaneseText>
-      <EnglishText>What...?!</EnglishText>
+      <EnglishText>O quê...?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
@@ -316,9 +315,9 @@ is meaningless...</EnglishText>
       <JapaneseText>&lt;Blue&gt;王の盾&lt;White&gt;以外に、ハーフを
 受け入れてくれる場所など、
 どこにある？</JapaneseText>
-      <EnglishText>Outside of the &lt;Blue&gt;Royal Shield&lt;White&gt;,
-where else can Halfs like us
-be accepted?</EnglishText>
+      <EnglishText>Fora do &lt;Blue&gt;Escudo Real&lt;White&gt;,
+onde mais Halfs como nós
+são aceitos?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -328,7 +327,7 @@ be accepted?</EnglishText>
       <PointerOffset>4464</PointerOffset>
       <VoiceId>17000098</VoiceId>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText>Well...</EnglishText>
+      <EnglishText>Bem...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
@@ -339,9 +338,8 @@ be accepted?</EnglishText>
       <VoiceId>17000099</VoiceId>
       <JapaneseText>邪魔をするな、&lt;Hilda&gt;。
 さもなくば、おまえも消す事になる。</JapaneseText>
-      <EnglishText>Don't interfere, &lt;Hilda&gt;. Don't
-make me have to eliminate
-you as well.</EnglishText>
+      <EnglishText>Não interfira, &lt;Hilda&gt;. Não me
+obrigue a eliminar você também.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -351,7 +349,7 @@ you as well.</EnglishText>
       <PointerOffset>4524</PointerOffset>
       <VoiceId>1700009a</VoiceId>
       <JapaneseText>目を覚ますのよ、ミリッツァ!!</JapaneseText>
-      <EnglishText>Open your eyes, Militsa!</EnglishText>
+      <EnglishText>Abra os olhos, Militsa!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
@@ -361,7 +359,7 @@ you as well.</EnglishText>
       <PointerOffset>4546</PointerOffset>
       <VoiceId>1700009b</VoiceId>
       <JapaneseText>そこをどけ、&lt;Hilda&gt;。</JapaneseText>
-      <EnglishText>Move aside, &lt;Hilda&gt;.</EnglishText>
+      <EnglishText>Saia da frente, &lt;Hilda&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -371,7 +369,7 @@ you as well.</EnglishText>
       <PointerOffset>4991</PointerOffset>
       <VoiceId>1700009c</VoiceId>
       <JapaneseText>……ッ!!</JapaneseText>
-      <EnglishText>...Ugh!</EnglishText>
+      <EnglishText>...Argh!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -381,7 +379,7 @@ you as well.</EnglishText>
       <PointerOffset>5013</PointerOffset>
       <VoiceId>1700009d</VoiceId>
       <JapaneseText>私は本気だ……</JapaneseText>
-      <EnglishText>I'm serious.</EnglishText>
+      <EnglishText>Estou falando sério.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -393,8 +391,8 @@ you as well.</EnglishText>
       <JapaneseText>……どうして？
 どうして私たちが
 争わなければいけないのよ？</JapaneseText>
-      <EnglishText>...Why? Why must we
-fight each other?</EnglishText>
+      <EnglishText>...Por quê? Por que temos que
+lutar uma contra a outra?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
@@ -406,10 +404,10 @@ fight each other?</EnglishText>
       <JapaneseText>今まで一緒に育って来たんじゃない。
 それなのに、その私たちが……
 ハーフ同士が争うなんてそんな……!!</JapaneseText>
-      <EnglishText>Didn't we grow up together? To have
-to fight you after everything we've
-been through... I don't want to fight
-a fellow Half!</EnglishText>
+      <EnglishText>Não crescemos juntas? Ter que lutar
+contra você depois de tudo que
+passamos... Não quero lutar
+contra outra Half!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -421,10 +419,9 @@ a fellow Half!</EnglishText>
       <JapaneseText>……おまえは&lt;Red&gt;角&lt;White&gt;を折った。
 ハーフである事を捨てたのだ！
 私とは違う！</JapaneseText>
-      <EnglishText>...You cut off your &lt;Red&gt;horns&lt;White&gt;.
-You've thrown away that
-which makes you a Half!
-We are not the same!</EnglishText>
+      <EnglishText>...Cortou os &lt;Red&gt;chifres&lt;White&gt;.
+Jogou fora o que faz de você
+uma Half! Não somos iguais!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -434,7 +431,7 @@ We are not the same!</EnglishText>
       <PointerOffset>5128</PointerOffset>
       <VoiceId>170000a1</VoiceId>
       <JapaneseText>やめて、ミリッツァ……やめて！</JapaneseText>
-      <EnglishText>Stop, Militsa... Stop it!</EnglishText>
+      <EnglishText>Pare, Militsa... Pare com isso!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
@@ -444,7 +441,7 @@ We are not the same!</EnglishText>
       <PointerOffset>5165</PointerOffset>
       <VoiceId>170000a2</VoiceId>
       <JapaneseText>&lt;Hilda&gt;！　危ない！</JapaneseText>
-      <EnglishText>&lt;Hilda&gt;! Look out!</EnglishText>
+      <EnglishText>&lt;Hilda&gt;! Cuidado!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -455,8 +452,8 @@ We are not the same!</EnglishText>
       <VoiceId>170000a3</VoiceId>
       <JapaneseText>退け、ミリッツァ！
 おまえの負けだ。</JapaneseText>
-      <EnglishText>Stand down, Militsa!
-You've lost.</EnglishText>
+      <EnglishText>Recue, Militsa!
+Você perdeu.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
@@ -478,10 +475,10 @@ You've lost.</EnglishText>
       <JapaneseText>ねえ、どうしてあの女の人を狙ったの？
 &lt;Blue&gt;王の盾&lt;White&gt;は、女の人たちをさらって
 何をしようとしてるの？</JapaneseText>
-      <EnglishText>Hey, what do you want with
-that girl? And what does the
-&lt;Blue&gt;Royal Shield&lt;White&gt; plan on doing
-with all the other ones?</EnglishText>
+      <EnglishText>Ei, o que vocês querem com
+aquela garota? E o que o
+&lt;Blue&gt;Escudo Real&lt;White&gt; pretende fazer
+com todas as outras?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
@@ -493,9 +490,9 @@ with all the other ones?</EnglishText>
       <JapaneseText>私は何も知らない。
 知る必要はないし、
 知りたいとも思わない。</JapaneseText>
-      <EnglishText>I know nothing. I don't need
-to know, and I don't care to
-find out.</EnglishText>
+      <EnglishText>Não sei de nada. Não preciso
+saber e não faço questão de
+descobrir.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -517,9 +514,9 @@ find out.</EnglishText>
       <JapaneseText>&lt;Hilda&gt;……
 必ず後悔する時が来る……
 私たちに居場所などない……</JapaneseText>
-      <EnglishText>&lt;Hilda&gt;... One day, you will regret
-this. There will never be a place
-where we belong.</EnglishText>
+      <EnglishText>&lt;Hilda&gt;... Um dia você vai se
+arrepender disso. Nunca haverá
+um lugar onde possamos pertencer.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -539,7 +536,7 @@ where we belong.</EnglishText>
       <PointerOffset>6034</PointerOffset>
       <VoiceId>170000aa</VoiceId>
       <JapaneseText>消えた……</JapaneseText>
-      <EnglishText>She vanished.</EnglishText>
+      <EnglishText>Ela sumiu.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -550,8 +547,8 @@ where we belong.</EnglishText>
       <VoiceId>170000ab</VoiceId>
       <JapaneseText>フォルスの気配が全くなくなったよ。
 街から出て行ったみたいだ。</JapaneseText>
-      <EnglishText>...Along with her Force signature.
-She must have left the city.</EnglishText>
+      <EnglishText>...Junto com o rastro de Force.
+Deve ter saído da cidade.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>37</Id>
@@ -561,8 +558,8 @@ She must have left the city.</EnglishText>
       <PointerOffset>6097</PointerOffset>
       <VoiceId>170000ac</VoiceId>
       <JapaneseText>では、さっきの娘を探そう。</JapaneseText>
-      <EnglishText>Regardless, we should
-search for that girl.</EnglishText>
+      <EnglishText>Seja como for, devemos
+procurar aquela garota.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
@@ -572,8 +569,8 @@ search for that girl.</EnglishText>
       <PointerOffset>6126</PointerOffset>
       <VoiceId>170000ad</VoiceId>
       <JapaneseText>あ、そうだ!!　忘れてた!!</JapaneseText>
-      <EnglishText>Oh, that's right!
-I almost forgot!</EnglishText>
+      <EnglishText>Ah, é mesmo!
+Quase esqueci!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>39</Id>
@@ -585,11 +582,10 @@ I almost forgot!</EnglishText>
       <JapaneseText>わざわざ&lt;Blue&gt;四星&lt;White&gt;が連れ戻そうと
 したくらいだから、何か重大な
 情報を握っているに違いない。</JapaneseText>
-      <EnglishText>For the &lt;Blue&gt;Four Stars&lt;White&gt; to
-go out of their way
-to retrieve her, she
-must hold valuable
-information.</EnglishText>
+      <EnglishText>Os &lt;Blue&gt;Quatro Estrelas&lt;White&gt; se
+darem ao trabalho de buscá-la
+significa que ela deve ter
+informações valiosas.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>40</Id>
@@ -600,8 +596,8 @@ information.</EnglishText>
       <VoiceId>170000af</VoiceId>
       <JapaneseText>クレアやセレーナさんの事も
 何か聞けるかもしれない。</JapaneseText>
-      <EnglishText>She might know something
-about Claire and Selena too.</EnglishText>
+      <EnglishText>Ela pode saber algo sobre
+Claire e Selena também.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
@@ -611,7 +607,7 @@ about Claire and Selena too.</EnglishText>
       <PointerOffset>6283</PointerOffset>
       <VoiceId>170000b0</VoiceId>
       <JapaneseText>ああ。彼女を探そう。</JapaneseText>
-      <EnglishText>Indeed. Let's find her.</EnglishText>
+      <EnglishText>De fato. Vamos encontrá-la.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
@@ -622,8 +618,8 @@ about Claire and Selena too.</EnglishText>
       <VoiceId>170000b1</VoiceId>
       <JapaneseText>&lt;Hilda&gt;……
 おまえはどうするんだ？</JapaneseText>
-      <EnglishText>&lt;Hilda&gt;... What will
-you do now?</EnglishText>
+      <EnglishText>&lt;Hilda&gt;... O que vai
+fazer agora?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -633,7 +629,7 @@ you do now?</EnglishText>
       <PointerOffset>6389</PointerOffset>
       <VoiceId>170000b2</VoiceId>
       <JapaneseText>え……？</JapaneseText>
-      <EnglishText>Huh...?</EnglishText>
+      <EnglishText>Hã...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -644,7 +640,7 @@ you do now?</EnglishText>
       <VoiceId>170000b3</VoiceId>
       <JapaneseText>オレたちと
 一緒に来ないか？</JapaneseText>
-      <EnglishText>Why don't you join us?</EnglishText>
+      <EnglishText>Por que não se junta a nós?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
@@ -654,7 +650,7 @@ you do now?</EnglishText>
       <PointerOffset>6441</PointerOffset>
       <VoiceId>170000b4</VoiceId>
       <JapaneseText>……本気なの？</JapaneseText>
-      <EnglishText>...You can't be serious.</EnglishText>
+      <EnglishText>...Não pode estar falando sério.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -664,7 +660,7 @@ you do now?</EnglishText>
       <PointerOffset>6484</PointerOffset>
       <VoiceId>170000b5</VoiceId>
       <JapaneseText>居場所……</JapaneseText>
-      <EnglishText>A place to belong...</EnglishText>
+      <EnglishText>Um lugar a que pertencer...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
@@ -674,7 +670,7 @@ you do now?</EnglishText>
       <PointerOffset>6506</PointerOffset>
       <VoiceId>170000b6</VoiceId>
       <JapaneseText>えっ……？</JapaneseText>
-      <EnglishText>What...?</EnglishText>
+      <EnglishText>O quê...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -686,9 +682,9 @@ you do now?</EnglishText>
       <JapaneseText>ハーフには居場所がないと、
 去り際にミリッツァが
 言っていたが……</JapaneseText>
-      <EnglishText>Militsa said that there is no
-place where Halfs belong,
-right before she left...</EnglishText>
+      <EnglishText>Militsa disse que não existe
+lugar onde os Halfs pertençam,
+logo antes de partir...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
@@ -699,8 +695,8 @@ right before she left...</EnglishText>
       <VoiceId>170000b8</VoiceId>
       <JapaneseText>……同情してるわけ？
 私がハーフだって事に……</JapaneseText>
-      <EnglishText>...So you pity me?
-Because I'm a Half...</EnglishText>
+      <EnglishText>...Então você tem pena de mim?
+Por eu ser uma Half...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -710,7 +706,7 @@ Because I'm a Half...</EnglishText>
       <PointerOffset>6586</PointerOffset>
       <VoiceId>170000b9</VoiceId>
       <JapaneseText>同情……？</JapaneseText>
-      <EnglishText>Pity...?</EnglishText>
+      <EnglishText>Pena...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
@@ -722,9 +718,9 @@ Because I'm a Half...</EnglishText>
       <JapaneseText>同情してるんでしょ？
 ハーフだから可哀想だって、
 そう思ってるんでしょ？</JapaneseText>
-      <EnglishText>You do, don't you? "Oh, what a
-poor little Half..." That's what
-you're thinking, isn't it?</EnglishText>
+      <EnglishText>Tem, sim. "Ah, coitada da Half..."
+É isso que você está pensando,
+não é?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>52</Id>
@@ -747,7 +743,7 @@ you're thinking, isn't it?</EnglishText>
 ハーフとか……
 それが、何だってんだよ。</JapaneseText>
       <EnglishText>Huma, Gajuma, Half...
-What's all that about?</EnglishText>
+Que conversa é essa?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>54</Id>
@@ -760,10 +756,9 @@ What's all that about?</EnglishText>
 つまり……正義と悪。
 種族なんてものが存在するなら、
 それはこのふたつしかねぇ。</JapaneseText>
-      <EnglishText>There's people who are kind and those
-who aren't. In other words... Good and
-Evil. If race is a thing that exists, then
-those are your two races.</EnglishText>
+      <EnglishText>Tem gente boa e gente ruim. Ou seja...
+Bem e Mal. Se raça existe, essas
+são as duas raças.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>55</Id>
@@ -774,10 +769,9 @@ those are your two races.</EnglishText>
       <VoiceId>170000be</VoiceId>
       <JapaneseText>あんたが恨みを持ってるトーマは悪だ。
 あいつを倒すなら、あんたは正義になる。</JapaneseText>
-      <EnglishText>Tohma, the guy you hate,
-is evil. If you can prevail
-over him, that'll make you
-a good person.</EnglishText>
+      <EnglishText>Tohma, o cara que você odeia,
+é do mal. Se você vencê-lo,
+vira uma boa pessoa.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>56</Id>
@@ -788,7 +782,7 @@ a good person.</EnglishText>
       <VoiceId>170000bf</VoiceId>
       <JapaneseText>でも、私はあんたたちを
 殺そうとした……</JapaneseText>
-      <EnglishText>But... I tried to kill you...</EnglishText>
+      <EnglishText>Mas... eu tentei matar você...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -801,11 +795,11 @@ a good person.</EnglishText>
 借りを返すつもりで力を貸してくれないか。
 戦力的に見ても、&lt;Hilda&gt;のような能力を
 持った仲間が欲しかったところだ。</JapaneseText>
-      <EnglishText>If you feel guilty for attacking us, then
-you can atone for it by lending us your
-power. Having witnessed your abilities
-firsthand, I wouldn't mind having you
-for an ally.</EnglishText>
+      <EnglishText>Se sente culpa por nos atacar, pode
+se redimir emprestando seu poder.
+Tendo visto suas habilidades de perto,
+não me importaria de ter você como
+aliada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>58</Id>
@@ -815,7 +809,7 @@ for an ally.</EnglishText>
       <PointerOffset>6972</PointerOffset>
       <VoiceId>170000c1</VoiceId>
       <JapaneseText>馴れ合いは嫌いなの。</JapaneseText>
-      <EnglishText>I'm not one for companionship.</EnglishText>
+      <EnglishText>Não sou de ter companhia.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>59</Id>
@@ -827,8 +821,8 @@ for an ally.</EnglishText>
       <JapaneseText>でも、借りは返す……
 あんたたちにも、
 トーマの奴にも必ず……!!</JapaneseText>
-      <EnglishText>However, I will repay my debts
-to you...and make Tohma pay!</EnglishText>
+      <EnglishText>Porém, vou pagar minhas dívidas
+com vocês... e fazer Tohma pagar!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>60</Id>
@@ -838,7 +832,7 @@ to you...and make Tohma pay!</EnglishText>
       <PointerOffset>7084</PointerOffset>
       <VoiceId>170000c3</VoiceId>
       <JapaneseText>それじゃあ……！</JapaneseText>
-      <EnglishText>Does that mean...?</EnglishText>
+      <EnglishText>Isso quer dizer que...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
@@ -848,7 +842,7 @@ to you...and make Tohma pay!</EnglishText>
       <PointerOffset>7114</PointerOffset>
       <VoiceId>170000c4</VoiceId>
       <JapaneseText>ええ……一緒に行くわ。</JapaneseText>
-      <EnglishText>Yes... I will join you.</EnglishText>
+      <EnglishText>Sim... Vou me juntar a vocês.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>62</Id>
@@ -858,7 +852,7 @@ to you...and make Tohma pay!</EnglishText>
       <PointerOffset>7168</PointerOffset>
       <VoiceId>170000c5</VoiceId>
       <JapaneseText>よろしくネ、&lt;Hilda&gt;。</JapaneseText>
-      <EnglishText>Welcome aboard, &lt;Hilda&gt;.</EnglishText>
+      <EnglishText>Bem-vinda a bordo, &lt;Hilda&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>63</Id>
@@ -870,9 +864,8 @@ to you...and make Tohma pay!</EnglishText>
       <JapaneseText>よして。
 馴れ合いは嫌いだって
 言ったでしょ。</JapaneseText>
-      <EnglishText>Enough... I made it clear that
-I dislike companionship, did I
-not?</EnglishText>
+      <EnglishText>Chega... Deixei claro que não
+gosto de companhia, não deixei?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>64</Id>
@@ -883,8 +876,8 @@ not?</EnglishText>
       <VoiceId>170000c7</VoiceId>
       <JapaneseText>そういや、あんたに
 返すモノがあった。</JapaneseText>
-      <EnglishText>That reminds me, I have
-something to give you.</EnglishText>
+      <EnglishText>Falando nisso, tenho uma
+coisa pra te dar.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>65</Id>
@@ -904,7 +897,7 @@ something to give you.</EnglishText>
       <PointerOffset>7375</PointerOffset>
       <VoiceId>170000c9</VoiceId>
       <JapaneseText>ほらよ。</JapaneseText>
-      <EnglishText>Here.</EnglishText>
+      <EnglishText>Toma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>67</Id>
@@ -914,7 +907,7 @@ something to give you.</EnglishText>
       <PointerOffset>7397</PointerOffset>
       <VoiceId>170000ca</VoiceId>
       <JapaneseText>これは……</JapaneseText>
-      <EnglishText>This is...</EnglishText>
+      <EnglishText>Isso é...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>68</Id>
@@ -925,9 +918,9 @@ something to give you.</EnglishText>
       <VoiceId>170000cb</VoiceId>
       <JapaneseText>いつまでも背中に刺しとく
 ワケにもいかないんでな。</JapaneseText>
-      <EnglishText>I don't plan on spending the
-rest of my days with that
-sticking out of my back.</EnglishText>
+      <EnglishText>Não pretendo passar o resto
+dos meus dias com isso
+espetado nas costas.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>69</Id>
@@ -938,7 +931,7 @@ sticking out of my back.</EnglishText>
       <VoiceId>170000cc</VoiceId>
       <JapaneseText>ねえ、それって
 何のカードなの？</JapaneseText>
-      <EnglishText>Hey, what kind of card is that?</EnglishText>
+      <EnglishText>Ei, que tipo de carta é essa?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>70</Id>
@@ -948,7 +941,7 @@ sticking out of my back.</EnglishText>
       <PointerOffset>7547</PointerOffset>
       <VoiceId>170000cd</VoiceId>
       <JapaneseText>&lt;Cyan&gt;死の使いの逆位置&lt;White&gt;……</JapaneseText>
-      <EnglishText>The &lt;Cyan&gt;Reverse of Death&lt;White&gt;...</EnglishText>
+      <EnglishText>A &lt;Cyan&gt;Reverse of Death&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>71</Id>
@@ -958,8 +951,8 @@ sticking out of my back.</EnglishText>
       <PointerOffset>7587</PointerOffset>
       <VoiceId>170000ce</VoiceId>
       <JapaneseText>おいおい、縁起悪いぜ……</JapaneseText>
-      <EnglishText>Whoa, whoa! That sounds
-like bad news...</EnglishText>
+      <EnglishText>Opa, opa! Isso parece
+mau sinal...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>72</Id>
@@ -971,9 +964,9 @@ like bad news...</EnglishText>
       <JapaneseText>いいえ……&lt;Cyan&gt;死の使いの逆位置&lt;White&gt;が
 意味するもの、それは……
 &lt;Yellow&gt;大いなる転機&lt;White&gt;、そして……&lt;Yellow&gt;再誕&lt;White&gt;。</JapaneseText>
-      <EnglishText>Not at all... The &lt;Cyan&gt;Reverse of Death&lt;White&gt;
-symbolizes "&lt;Yellow&gt;A Great Turning Point&lt;White&gt;,"
-and also..."&lt;Yellow&gt;Rebirth&lt;White&gt;."</EnglishText>
+      <EnglishText>Nada disso... A &lt;Cyan&gt;Reverse of Death&lt;White&gt;
+simboliza "&lt;Yellow&gt;Uma Grande Virada&lt;White&gt;"
+e também... "&lt;Yellow&gt;Renascimento&lt;White&gt;".</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>73</Id>
@@ -984,8 +977,8 @@ and also..."&lt;Yellow&gt;Rebirth&lt;White&gt;."</EnglishText>
       <VoiceId>170000d0</VoiceId>
       <JapaneseText>まいったぜ。
 こりゃ、できすぎだ……な。</JapaneseText>
-      <EnglishText>Well. That flew right
-over my head.</EnglishText>
+      <EnglishText>Bem. Isso passou batido
+por cima da minha cabeça.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>74</Id>
@@ -995,7 +988,7 @@ over my head.</EnglishText>
       <PointerOffset>7762</PointerOffset>
       <VoiceId>170000d1</VoiceId>
       <JapaneseText>よし、行こう。</JapaneseText>
-      <EnglishText>All right, let's go.</EnglishText>
+      <EnglishText>Certo, vamos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>75</Id>
@@ -1004,7 +997,7 @@ over my head.</EnglishText>
     <Entry>
       <PointerOffset>20969</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; entrou para o grupo.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
@@ -1013,7 +1006,7 @@ over my head.</EnglishText>
     <Entry>
       <PointerOffset>21047</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now traveling with you.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; agora viaja com você.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
@@ -1025,11 +1018,11 @@ over my head.</EnglishText>
 &lt;Mao&gt;＋&lt;Eugene&gt;
 &lt;Tytree&gt;＋&lt;Hilda&gt;の
 &lt;Red&gt;秘奥義&lt;Green&gt;が使用可能になりました。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;Fusion Finalities are now
-available for:
-&lt;Veigue&gt; and &lt;Annie&gt;
-&lt;Mao&gt; and &lt;Eugene&gt;
-&lt;Tytree&gt; and &lt;Hilda&gt;</EnglishText>
+      <EnglishText>&lt;speed:0&gt;Fusion Finalities agora
+estão disponíveis para:
+&lt;Veigue&gt; e &lt;Annie&gt;
+&lt;Mao&gt; e &lt;Eugene&gt;
+&lt;Tytree&gt; e &lt;Hilda&gt;</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>78</Id>
@@ -1040,9 +1033,9 @@ available for:
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;バトルブックを読みますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;Read the Battle Book?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;Ler o Battle Book?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>79</Id>
@@ -1052,9 +1045,9 @@ No</EnglishText>
       <PointerOffset>7965</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Green&gt;&lt;Hilda&gt;の所持品、『コレクター図鑑』が
 貴重品に加わりました。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;&lt;speed:0&gt;&lt;Green&gt;&lt;Hilda&gt;'s belongings were added
-to the Valuables page in the
-Collector's Book.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;&lt;speed:0&gt;&lt;Green&gt;Os pertences de &lt;Hilda&gt; foram
+adicionados à página de Valiosos
+do Collector's Book.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
@@ -1075,8 +1068,8 @@ Collector's Book.</EnglishText>
       <VoiceId>18000086</VoiceId>
       <JapaneseText>&lt;Veigue&gt;、ナニやってんだ？
 置いてっちまうぜ。</JapaneseText>
-      <EnglishText>&lt;Veigue&gt;, what're you doing?
-You're gonna get left behind.</EnglishText>
+      <EnglishText>&lt;Veigue&gt;, o que tá fazendo?
+Vai ficar pra trás.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>82</Id>
@@ -1086,7 +1079,7 @@ You're gonna get left behind.</EnglishText>
       <PointerOffset>10804</PointerOffset>
       <VoiceId>18000087</VoiceId>
       <JapaneseText>すまん、すぐに行く。</JapaneseText>
-      <EnglishText>My bad. I'm coming.</EnglishText>
+      <EnglishText>Foi mal. Já vou.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>83</Id>
@@ -1097,9 +1090,9 @@ You're gonna get left behind.</EnglishText>
       <VoiceId>36000000</VoiceId>
       <JapaneseText>いつもと変わらないみたいだけど……
 ホントにここが&lt;Blue&gt;幻の島&lt;White&gt;なのか？</JapaneseText>
-      <EnglishText>Everything seems business as
-usual here. Is this really the
-&lt;Blue&gt;Island of Illusions&lt;White&gt;?</EnglishText>
+      <EnglishText>Parece tudo normal por aqui.
+Será que esta é mesmo a
+&lt;Blue&gt;Ilha das Ilusões&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>84</Id>
@@ -1110,8 +1103,8 @@ usual here. Is this really the
       <VoiceId>36000001</VoiceId>
       <JapaneseText>オレたちの考えが正しければ、
 きっと何かが見つかるはずだ。</JapaneseText>
-      <EnglishText>If we're on the right track, then
-we'll definitely find something here.</EnglishText>
+      <EnglishText>Se estamos no caminho certo,
+com certeza vamos achar algo aqui.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>85</Id>
@@ -1124,9 +1117,9 @@ we'll definitely find something here.</EnglishText>
       <PointerOffset>8479</PointerOffset>
       <JapaneseText>申し訳ありません。
 馬車は運休となっております。</JapaneseText>
-      <EnglishText>We're truly sorry, but
-carriages are not available
-for use at the moment.</EnglishText>
+      <EnglishText>Sentimos muito, mas as
+carruagens não estão disponíveis
+no momento.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>86</Id>
@@ -1137,9 +1130,9 @@ for use at the moment.</EnglishText>
       <JapaneseText>&lt;font:80000002&gt;お金が足りないようですね。
 馬車のご利用料金は
 &lt;nmb:12C&gt;ガルドになります。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;You seem to be short on money.
-The fee for using the carriage
-is &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;Parece que você está sem dinheiro.
+A tarifa da carruagem
+é de &lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>87</Id>
@@ -1149,9 +1142,8 @@ is &lt;nmb:12C&gt; Gald.</EnglishText>
       <PointerOffset>8545</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;馬車をご利用になりますか？
 料金は定額で&lt;nmb:12C&gt;ガルドになります。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;Would you like to use a
-carriage? The fare is a
-flat rate of &lt;nmb:12C&gt; Gald.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;Gostaria de usar uma carruagem?
+A tarifa fixa é de &lt;nmb:12C&gt; Gald.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>88</Id>
@@ -1162,9 +1154,9 @@ flat rate of &lt;nmb:12C&gt; Gald.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;馬車を利用しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Travel by Carriage?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Viajar de carruagem?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>89</Id>
@@ -1249,7 +1241,7 @@ No</EnglishText>
       <PointerOffset>9945</PointerOffset>
       <JapaneseText>　馬車に乗らない　
 </JapaneseText>
-      <EnglishText>Cancel
+      <EnglishText>Cancelar
 </EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
@@ -1326,9 +1318,9 @@ No</EnglishText>
 料金&lt;nmb:12C&gt;ガルド
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48300528B8048880&gt;is &lt;nmb:12C&gt; Gald.
-Embark
-Stay</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Passagem para &lt;unk18:48300528B8048880&gt;: &lt;nmb:12C&gt; Gald.
+Embarcar
+Ficar</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>104</Id>
@@ -1342,9 +1334,9 @@ Stay</EnglishText>
       <JapaneseText>何の音か知らないが、
 これ以上の問題が起こるのは
 かんべん願いたいな。</JapaneseText>
-      <EnglishText>I don't know what that sound 
-was, but I hope there won't 
-be any further problems.</EnglishText>
+      <EnglishText>Não sei que som foi esse,
+mas espero que não haja
+mais problemas.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>105</Id>
@@ -1354,9 +1346,9 @@ be any further problems.</EnglishText>
       <PointerOffset>3418</PointerOffset>
       <JapaneseText>住民の対立を抑えるだけでも
 手一杯なんだからな。</JapaneseText>
-      <EnglishText>I've got my hands full just
-trying to suppress conflicts
-between the residents.</EnglishText>
+      <EnglishText>Já tenho trabalho demais só
+tentando conter os conflitos
+entre os moradores.</EnglishText>
       <Notes>Check in game for context</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>106</Id>
@@ -1368,10 +1360,10 @@ between the residents.</EnglishText>
 見張ってないとすぐ
 ガジュマを差別したがるからな。
 </JapaneseText>
-      <EnglishText>Wretched Huma... The moment you
-take your eyes off of them, they
-go right back to discriminating
-against Gajuma.</EnglishText>
+      <EnglishText>Malditos Huma... No momento em
+que você desvia o olhar, eles
+voltam a discriminar
+os Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>107</Id>
@@ -1382,9 +1374,8 @@ against Gajuma.</EnglishText>
       <JapaneseText>こら、ヒューマは
 外に出ちゃいけないと
 言ってるだろ!!</JapaneseText>
-      <EnglishText>Hey, haven't you been told
-that Huma are forbidden
-from going outside?!</EnglishText>
+      <EnglishText>Ei, não disseram que os Huma
+estão proibidos de sair?!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>108</Id>
@@ -1397,9 +1388,8 @@ from going outside?!</EnglishText>
       <PointerOffset>3249</PointerOffset>
       <JapaneseText>この音……東大陸から
 聞こえてくるようだが……</JapaneseText>
-      <EnglishText>This sound seems to be
-coming from the eastern
-continent...</EnglishText>
+      <EnglishText>Esse som parece vir do
+continente leste...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>109</Id>
@@ -1411,8 +1401,8 @@ continent...</EnglishText>
 騒ぎを起こすようなら拘束する。
 いいな？
 </JapaneseText>
-      <EnglishText>Even Gajuma who cause trouble
-will be arrested. Understood?</EnglishText>
+      <EnglishText>Até Gajuma que causarem
+problemas serão presos. Entendido?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>110</Id>
@@ -1423,8 +1413,8 @@ will be arrested. Understood?</EnglishText>
       <JapaneseText>街の外に出るなら、
 さっさと出ていけ。
 </JapaneseText>
-      <EnglishText>If you're leaving the city,
-do it quickly.</EnglishText>
+      <EnglishText>Se vai sair da cidade,
+faça isso logo.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>111</Id>
@@ -1436,8 +1426,8 @@ do it quickly.</EnglishText>
 街の中にいるなら、
 室内にいる事だ。
 </JapaneseText>
-      <EnglishText>But if you're planning on
-staying, keep indoors.</EnglishText>
+      <EnglishText>Mas se pretende ficar,
+fique em casa.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>112</Id>
@@ -1452,9 +1442,9 @@ staying, keep indoors.</EnglishText>
 船に乗るなら、
 こっちじゃないわよ。
 </JapaneseText>
-      <EnglishText>If you want to leave the city,
-go this way. If you want a
-boat, don't go this way.</EnglishText>
+      <EnglishText>Se quer sair da cidade,
+vá por aqui. Se quer um
+barco, não vá por aqui.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>113</Id>
@@ -1465,9 +1455,9 @@ boat, don't go this way.</EnglishText>
       <JapaneseText>テルアラ街道へ行くなら、
 南の出口から西ね。
 </JapaneseText>
-      <EnglishText>If you want to go to Tel'alla
-Highway, take the south exit
-and go west. </EnglishText>
+      <EnglishText>Se vai pra Estrada de Tel'alla,
+pegue a saída sul e vá
+pro oeste.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>114</Id>
@@ -1478,8 +1468,8 @@ and go west. </EnglishText>
       <JapaneseText>一緒のお姉ちゃん、病気？
 宿屋に行った方が
 いいんじゃない？</JapaneseText>
-      <EnglishText>Is the lady that's with you sick?
-You should take her to the inn.</EnglishText>
+      <EnglishText>A moça com vocês está doente?
+Levem ela pra pousada.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>115</Id>
@@ -1490,8 +1480,8 @@ You should take her to the inn.</EnglishText>
       <JapaneseText>探してるような女の子は
 こっちでは見なかったけど……？
 </JapaneseText>
-      <EnglishText>I haven't seen any girls like
-the one you're asking about.</EnglishText>
+      <EnglishText>Não vi nenhuma garota como
+a que você procura.</EnglishText>
       <Notes>Singular or plural girl?l</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>116</Id>
@@ -1502,9 +1492,9 @@ the one you're asking about.</EnglishText>
       <JapaneseText>広場で何があるの？
 何？　何？
 </JapaneseText>
-      <EnglishText>Is there something going
-on at the town square?
-I wonder what it is!</EnglishText>
+      <EnglishText>Será que tem algo rolando
+na praça da cidade?
+Que será que é?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>117</Id>
@@ -1515,8 +1505,8 @@ I wonder what it is!</EnglishText>
       <JapaneseText>女王様ってどんな人なのかな？
 私も見てみたいなぁ……
 </JapaneseText>
-      <EnglishText>What kind of person is the
-Queen? I'd like to meet her... </EnglishText>
+      <EnglishText>Como será a Rainha? Eu queria
+conhecer ela...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>118</Id>
@@ -1528,8 +1518,8 @@ Queen? I'd like to meet her... </EnglishText>
 おじちゃん、
 島を探してるの？
 </JapaneseText>
-      <EnglishText>An island? You're looking
-for an island?</EnglishText>
+      <EnglishText>Uma ilha? Você procura
+uma ilha?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>119</Id>
@@ -1539,8 +1529,8 @@ for an island?</EnglishText>
       <PointerOffset>2564</PointerOffset>
       <JapaneseText>島ならお船に乗る人が
 詳しいかもね。</JapaneseText>
-      <EnglishText>The boat people might know
-something about it!</EnglishText>
+      <EnglishText>O pessoal dos barcos pode
+saber alguma coisa!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>120</Id>
@@ -1551,8 +1541,8 @@ something about it!</EnglishText>
       <JapaneseText>ヒューマはキライよ！
 どっか行って！
 </JapaneseText>
-      <EnglishText>I hate Huma!
-Go away!</EnglishText>
+      <EnglishText>Eu odeio Huma!
+Vai embora!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>121</Id>
@@ -1564,9 +1554,9 @@ Go away!</EnglishText>
 どうしてかわからないけど……
 見るのもイヤなの……
 </JapaneseText>
-      <EnglishText>I don't know why, but I
-hate Huma. I can hardly
-even look at them...</EnglishText>
+      <EnglishText>Não sei por quê, mas eu
+odeio Huma. Mal consigo
+olhar pra eles...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>122</Id>
@@ -1576,7 +1566,7 @@ even look at them...</EnglishText>
       <PointerOffset>2697</PointerOffset>
       <JapaneseText>おじさんは……どう？
 </JapaneseText>
-      <EnglishText>What about you...?</EnglishText>
+      <EnglishText>E você...?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>123</Id>
@@ -1587,8 +1577,8 @@ even look at them...</EnglishText>
       <JapaneseText>ヒューマはキライよ！
 どっか行って！
 </JapaneseText>
-      <EnglishText>I hate Huma!
-Go away!</EnglishText>
+      <EnglishText>Eu odeio Huma!
+Vai embora!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>124</Id>
@@ -1598,7 +1588,7 @@ Go away!</EnglishText>
       <PointerOffset>2808</PointerOffset>
       <JapaneseText>ミナールから人が
 逃げてきたわ。</JapaneseText>
-      <EnglishText>A person fled here from Minal.</EnglishText>
+      <EnglishText>Uma pessoa fugiu de Minal pra cá.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>125</Id>
@@ -1609,10 +1599,9 @@ Go away!</EnglishText>
       <JapaneseText>南の方に行ったみたいだけど、
 ミナールで争いに巻き込まれて
 嫌になったんだって。</JapaneseText>
-      <EnglishText>It looks like he went south,
-but he said that he was tired
-of getting caught up in fights
-in Minal.</EnglishText>
+      <EnglishText>Parece que ele foi pro sul,
+mas disse que cansou de se
+meter em brigas em Minal.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>126</Id>
@@ -1622,7 +1611,7 @@ in Minal.</EnglishText>
       <PointerOffset>2872</PointerOffset>
       <JapaneseText>全部、
 ヒューマが悪いんだわ……</JapaneseText>
-      <EnglishText>It's all the Huma's fault.</EnglishText>
+      <EnglishText>A culpa é toda dos Huma.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>127</Id>
@@ -1634,9 +1623,9 @@ in Minal.</EnglishText>
 悪いヤツらだって、
 お父さんが言ってた！
 </JapaneseText>
-      <EnglishText>My dad told me that Huma
-are bad because they always
-diss-criminate against us!</EnglishText>
+      <EnglishText>Meu pai disse que os Huma
+são maus porque sempre
+dis-criminam a gente!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>128</Id>
@@ -1647,8 +1636,8 @@ diss-criminate against us!</EnglishText>
       <JapaneseText>だから、私、ヒューマの事、
 前よりももっとキライになったのよ！
 もう、話もしたくない！</JapaneseText>
-      <EnglishText>That's why I hate Huma even more
-than I used to! I'm done talking!</EnglishText>
+      <EnglishText>Por isso eu odeio os Huma ainda
+mais que antes! Chega de papo!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>129</Id>
@@ -1660,9 +1649,9 @@ than I used to! I'm done talking!</EnglishText>
 地面も揺れてるみたいだし……
 こわいよ……！
 </JapaneseText>
-      <EnglishText>What's that noise? And the
-ground seems to be shaking
-too... I'm scared!</EnglishText>
+      <EnglishText>Que barulho é esse? E o chão
+também parece tremer...
+Eu tô com medo!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>130</Id>
@@ -1673,8 +1662,8 @@ too... I'm scared!</EnglishText>
       <JapaneseText>どうしてヒューマは
 ガジュマの事、キライなの？
 </JapaneseText>
-      <EnglishText>Why do Huma hate 
-Gajuma so much? </EnglishText>
+      <EnglishText>Por que os Huma odeiam
+tanto os Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>131</Id>
@@ -1685,9 +1674,8 @@ Gajuma so much? </EnglishText>
       <JapaneseText>ヒューマって、ガジュマの事、
 サベツしてるってホント？
 </JapaneseText>
-      <EnglishText>Is it true that the
-Huma diss-criminate
-against us?</EnglishText>
+      <EnglishText>É verdade que os Huma
+dis-criminam a gente?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>132</Id>
@@ -1699,9 +1687,9 @@ against us?</EnglishText>
 悪いヤツらだって、
 お父さんが言ってた！
 </JapaneseText>
-      <EnglishText>My dad told me that Huma
-are bad because they always
-diss-criminate against us!</EnglishText>
+      <EnglishText>Meu pai disse que os Huma
+são maus porque sempre
+dis-criminam a gente!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>133</Id>
@@ -1712,8 +1700,8 @@ diss-criminate against us!</EnglishText>
       <JapaneseText>だから、私、ヒューマの事、
 前よりももっとキライになったのよ！
 もう、話もしたくない！</JapaneseText>
-      <EnglishText>That's why I hate Huma even more
-than I used to! I'm done talking!</EnglishText>
+      <EnglishText>Por isso eu odeio os Huma ainda
+mais que antes! Chega de papo!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>134</Id>
@@ -1724,9 +1712,9 @@ than I used to! I'm done talking!</EnglishText>
       <JapaneseText>橋の向こうは
 ペトナジャンカ地方だけど
 そっちに行く人はあまりいないわ。</JapaneseText>
-      <EnglishText>The Petnadjanka area is on the
-other side of this bridge, but
-not many people go that way.</EnglishText>
+      <EnglishText>A região de Petnadjanka fica do
+outro lado desta ponte, mas
+pouca gente vai por lá.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>135</Id>
@@ -1749,9 +1737,9 @@ not many people go that way.</EnglishText>
       <JapaneseText>こんなところで会うなんて……
 わたしは、ナタリーと一緒に
 旅にでるところなの。</JapaneseText>
-      <EnglishText>I never thought I'd see
-you here... I'm currently
-traveling with Natalie.</EnglishText>
+      <EnglishText>Nunca imaginei te ver aqui...
+Agora estou viajando
+com a Natalie.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>137</Id>
@@ -1761,9 +1749,8 @@ traveling with Natalie.</EnglishText>
       <PointerOffset>13105</PointerOffset>
       <JapaneseText>ひさしぶりね。
 元気そうで安心したわ。</JapaneseText>
-      <EnglishText>It's been a while.
-I'm glad to hear 
-you're doing well.</EnglishText>
+      <EnglishText>Faz tempo. Fico feliz
+em saber que você está bem.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>138</Id>
@@ -1774,9 +1761,9 @@ you're doing well.</EnglishText>
       <JapaneseText>クレアを残してお城から
 出てきたから、ずっと
 気にしていたのよ。</JapaneseText>
-      <EnglishText>I've been wondering about you
-since you were left behind
-after we escaped the castle.</EnglishText>
+      <EnglishText>Eu me perguntava como você estava,
+desde que ficou pra trás
+depois que fugimos do castelo.</EnglishText>
       <Notes>Maybe a little loose with でる</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>139</Id>
@@ -1786,9 +1773,8 @@ after we escaped the castle.</EnglishText>
       <PointerOffset>13161</PointerOffset>
       <JapaneseText>あ、ありがとうございます。
 ……あなたがたは、なぜ旅行に？</JapaneseText>
-      <EnglishText>Th-Thank you.
-...Why is it that
-you're traveling?</EnglishText>
+      <EnglishText>O-Obrigada. ...Por que
+vocês estão viajando?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>140</Id>
@@ -1799,9 +1785,9 @@ you're traveling?</EnglishText>
       <JapaneseText>お城で生活してみて、
 もっと色々なところを
 見てみたいって思ったの。</JapaneseText>
-      <EnglishText>After being all cooped up in that 
-old castle, we decided we wanted
-to see various places.</EnglishText>
+      <EnglishText>Depois de ficar trancadas naquele
+castelo velho, quisemos conhecer
+vários lugares.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>141</Id>
@@ -1812,9 +1798,9 @@ to see various places.</EnglishText>
       <JapaneseText>私はポーラと一緒に旅をしながら
 お城に捕らわれていた
 他の娘たちに会いに行きたくて……</JapaneseText>
-      <EnglishText>I wanted to travel with Paula and
-visit the other girls who were 
-being held captive in the castle.</EnglishText>
+      <EnglishText>Eu queria viajar com a Paula e
+visitar as outras garotas que
+estavam presas no castelo.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>142</Id>
@@ -1824,9 +1810,9 @@ being held captive in the castle.</EnglishText>
       <PointerOffset>13233</PointerOffset>
       <JapaneseText>元気を無くしている娘がいるなら
 私たちで励ましてあげたいのよ。</JapaneseText>
-      <EnglishText>If there are any girls who are
-feeling down, we want to be
-there to cheer them up.</EnglishText>
+      <EnglishText>Se alguma garota estiver
+desanimada, queremos estar
+lá pra animá-la.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>143</Id>
@@ -1837,10 +1823,10 @@ there to cheer them up.</EnglishText>
       <JapaneseText>こんな気持ちになったのも
 お城に行ったからなんだから、
 女王様には感謝しないとね。</JapaneseText>
-      <EnglishText>I guess I wouldn't feel like this
-if the Queen hadn't brought me
-to the castle, so I guess I have
-her to thank for this journey.</EnglishText>
+      <EnglishText>Acho que eu não me sentiria assim
+se a Rainha não tivesse me levado
+ao castelo, então devo agradecer
+a ela por esta viagem.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>144</Id>
@@ -1851,9 +1837,9 @@ her to thank for this journey.</EnglishText>
       <JapaneseText>……女王様が行方知れずなのに
 こんな事を言うのは
 ちょっと不謹慎かしら？</JapaneseText>
-      <EnglishText>...Though I suppose saying such a
-thing while the Queen's whereabouts
-are unknown is inappropriate.</EnglishText>
+      <EnglishText>...Embora seja impróprio dizer isso
+enquanto ninguém sabe onde a
+Rainha está.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>145</Id>
@@ -1864,10 +1850,10 @@ are unknown is inappropriate.</EnglishText>
       <JapaneseText>またそんな事を言って……
 やっぱりお調子者のポーラを
 放ってはおけないわね。</JapaneseText>
-      <EnglishText>There you go saying stuff
-like that again... You'd get
-too carried away without
-me to keep you in line.</EnglishText>
+      <EnglishText>Lá vem você dizendo essas coisas
+de novo... Você se empolgaria
+demais sem eu aqui pra
+te controlar.</EnglishText>
       <Notes>Is goody two shoes correct? -dragon</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>146</Id>
@@ -1876,7 +1862,7 @@ me to keep you in line.</EnglishText>
     <Entry>
       <PointerOffset>13434</PointerOffset>
       <JapaneseText>クレアもそう思うでしょ？</JapaneseText>
-      <EnglishText>Don't you agree, Claire?</EnglishText>
+      <EnglishText>Não concorda, Claire?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>147</Id>
@@ -1887,8 +1873,8 @@ me to keep you in line.</EnglishText>
       <JapaneseText>私、アニカマルから
 遊びに来てるの。
 </JapaneseText>
-      <EnglishText>I came from Anikamal
-to spend time here.</EnglishText>
+      <EnglishText>Vim de Anikamal pra passar
+um tempo aqui.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>148</Id>
@@ -1900,8 +1886,8 @@ to spend time here.</EnglishText>
 サニイタウンは
 みずみずしくていいわね！
 </JapaneseText>
-      <EnglishText>Sunnytown is so refreshing!
-It's much different than
+      <EnglishText>Sunnytown é tão revigorante!
+É bem diferente de
 Anikamal.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
@@ -1914,8 +1900,8 @@ Anikamal.</EnglishText>
     <Entry>
       <PointerOffset>2024</PointerOffset>
       <JapaneseText>水の都サニイタウンへようこそ！</JapaneseText>
-      <EnglishText>Welcome to the city of
-water, Sunnytown!</EnglishText>
+      <EnglishText>Bem-vindos à cidade das
+águas, Sunnytown!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>150</Id>
@@ -1926,9 +1912,9 @@ water, Sunnytown!</EnglishText>
       <JapaneseText>満潮になると街の低いところが
 水没する事があるの。
 波の動きに注意してね。</JapaneseText>
-      <EnglishText>At high tide, low-lying areas of
-the city might be under water.
-Be mindful of the waves.</EnglishText>
+      <EnglishText>Na maré alta, áreas baixas podem
+ficar alagadas. Cuidado
+com as ondas.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>151</Id>
@@ -1941,7 +1927,7 @@ Be mindful of the waves.</EnglishText>
       <PointerOffset>10424</PointerOffset>
       <VoiceId>18000076</VoiceId>
       <JapaneseText>クレア……待ってろよ……</JapaneseText>
-      <EnglishText>Claire... I'm coming for you...</EnglishText>
+      <EnglishText>Claire... Estou indo te buscar...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>152</Id>
@@ -1955,9 +1941,9 @@ Be mindful of the waves.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>153</Id>

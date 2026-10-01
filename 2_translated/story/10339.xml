@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>1177,1177,1177,1177,1177,1177</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>638,638,638,638,638,638,638,638,638,638,638,638,638,638</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>273</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>293</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -77,9 +77,9 @@
       <JapaneseText>津波がいつ来るかわからない。
 なるべく外へは出るな。
 </JapaneseText>
-      <EnglishText>We don't know whether a tsunami
-is coming or not. I would advise
-against going outside.</EnglishText>
+      <EnglishText>Não sabemos se um tsunami está
+vindo. Aconselho não sair
+de casa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -91,10 +91,10 @@ against going outside.</EnglishText>
 波に飲まれたいなら
 止めはしないがな！
 </JapaneseText>
-      <EnglishText>You shouldn't be out when there's
-the possibility of a tsunami! But
-if you want to get swept away,
-be my guest!</EnglishText>
+      <EnglishText>Não deviam estar fora com a
+possibilidade de tsunami! Mas se
+quiserem ser levados, fiquem à
+vontade!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -106,9 +106,9 @@ be my guest!</EnglishText>
 ヒューマによるガジュマへの
 襲撃が後を絶たん。
 </JapaneseText>
-      <EnglishText>This town is currently on high alert.
-The incidents of Huma attacking
-Gajuma seem to never end.</EnglishText>
+      <EnglishText>Esta cidade está em alerta máximo.
+Os ataques de Huma contra Gajuma
+parecem não ter fim.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -118,7 +118,7 @@ Gajuma seem to never end.</EnglishText>
       <PointerOffset>1337</PointerOffset>
       <JapaneseText>充分気をつけてくれ。
 </JapaneseText>
-      <EnglishText>Please be careful.</EnglishText>
+      <EnglishText>Por favor, tenham cuidado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -130,9 +130,9 @@ Gajuma seem to never end.</EnglishText>
 事件を起こそうものなら、
 容赦なく実力で排除する。
 </JapaneseText>
-      <EnglishText>This town is currently on high alert.
-I will show no mercy to those who
-disturb the peace.</EnglishText>
+      <EnglishText>Esta cidade está em alerta máximo.
+Não terei piedade de quem
+perturbar a paz.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -143,8 +143,8 @@ disturb the peace.</EnglishText>
       <JapaneseText>その事を忘れずに
 行動しろよ。
 </JapaneseText>
-      <EnglishText>Don't you forget that.
-Now, carry on.</EnglishText>
+      <EnglishText>Não se esqueça disso.
+Agora, sigam seu caminho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -158,8 +158,8 @@ Now, carry on.</EnglishText>
       <JapaneseText>この通りをまっすぐ行くと、
 港の前に出るよ。
 </JapaneseText>
-      <EnglishText>If ya follow this path, you'll
-come out at the port.</EnglishText>
+      <EnglishText>Se seguir por esse caminho,
+vai dar no porto.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -170,8 +170,8 @@ come out at the port.</EnglishText>
       <JapaneseText>女の人？　ここには
 誰も来てないよ？
 </JapaneseText>
-      <EnglishText>A woman? Haven't seen
-any 'round here.</EnglishText>
+      <EnglishText>Uma mulher? Não vi
+nenhuma por aqui.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -181,8 +181,8 @@ any 'round here.</EnglishText>
       <PointerOffset>765</PointerOffset>
       <JapaneseText>おいらは、海の見張りを
 してなきゃいけないんだ。</JapaneseText>
-      <EnglishText>I hafta keep an eye
-on this ocean here.</EnglishText>
+      <EnglishText>Tenho que ficar de olho
+neste mar aqui.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -193,8 +193,8 @@ on this ocean here.</EnglishText>
       <JapaneseText>広場で何があったか、
 教えてよね。
 </JapaneseText>
-      <EnglishText>Tell me if somethin' interestin'
-happens at the square.</EnglishText>
+      <EnglishText>Me avisa se algo interessante
+acontecer na praça.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -206,9 +206,9 @@ happens at the square.</EnglishText>
 街で暴れてた時だって、恐くなかったぜ！
 ずっと見張りしてた……ぜ。
 </JapaneseText>
-      <EnglishText>I-I never got scared when that Half
-went on a rampage! I was on the
-lookout the whole time... I swear.</EnglishText>
+      <EnglishText>E-Eu não fiquei com medo quando
+aquela Half surtou! Fiquei de
+olho o tempo todo... Juro.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -220,8 +220,8 @@ lookout the whole time... I swear.</EnglishText>
 悪い事をしてるんじゃ
 ないだろーな！
 </JapaneseText>
-      <EnglishText>Hey Gajuma! I hope yer
-not up to no good!</EnglishText>
+      <EnglishText>Ei, Gajuma! Espero que
+não esteja aprontando!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -233,9 +233,9 @@ not up to no good!</EnglishText>
 ガジュマも見張ってるんだからな！
 忘れるなよな！
 </JapaneseText>
-      <EnglishText>I ain't just watchin' the sea,
-I'm also keepin' an eye on you
-Gajuma! Don't you forget that!</EnglishText>
+      <EnglishText>Eu não vigio só o mar, tô
+de olho em vocês, Gajuma
+também! Não esqueçam!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -247,8 +247,8 @@ Gajuma! Don't you forget that!</EnglishText>
 父ちゃんたちが言ってたよ！
 おいらもガジュマはキライなんだ！
 </JapaneseText>
-      <EnglishText>My pa told me that Gajuma
-are all bad! I hate 'em too!</EnglishText>
+      <EnglishText>Meu pai disse que os Gajuma
+são todos maus! Eu também odeio!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -259,8 +259,8 @@ are all bad! I hate 'em too!</EnglishText>
       <JapaneseText>だから、海だけじゃなくて、
 ガジュマたちも見張ってるんだ！
 </JapaneseText>
-      <EnglishText>That's why I ain't just watchin'
-the sea, but also them Gajuma!</EnglishText>
+      <EnglishText>Por isso eu não vigio só
+o mar, mas os Gajuma também!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -272,9 +272,9 @@ the sea, but also them Gajuma!</EnglishText>
 津波に気をつけろって、
 父ちゃんが言ってた！
 </JapaneseText>
-      <EnglishText>My pa told me to watch
-out fer tsunamis whenever
-the ground shakes!</EnglishText>
+      <EnglishText>Meu pai mandou ficar esperto
+com tsunami sempre que
+o chão tremer!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -286,8 +286,8 @@ the ground shakes!</EnglishText>
 海面が上がってきたらすぐに
 知らせなきゃいけないんだ。
 </JapaneseText>
-      <EnglishText>I-I'll hafta let everybody know
-when the sea starts risin'!</EnglishText>
+      <EnglishText>T-Tenho que avisar todo mundo
+quando o mar começar a subir!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -298,9 +298,9 @@ when the sea starts risin'!</EnglishText>
       <JapaneseText>兵隊のおじちゃんに見つかったら、
 家へ帰れって怒られるから
 隠れてるんだ。</JapaneseText>
-      <EnglishText>I'm hidin' 'cuz that soldier over
-there is always getting mad at
-me 'n tellin' me to go home.</EnglishText>
+      <EnglishText>Tô escondido porque aquele soldado
+ali vive bravo comigo e manda
+eu ir pra casa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -310,9 +310,9 @@ me 'n tellin' me to go home.</EnglishText>
       <PointerOffset>1128</PointerOffset>
       <JapaneseText>おいら、ここで海を見張ってるんだ。
 大きな波が来たらみんなに知らせるんだ。</JapaneseText>
-      <EnglishText>I'm keepin' an eye on the sea so I
-can let everyone know when there's
-a huge wave a-comin'.</EnglishText>
+      <EnglishText>Tô de olho no mar pra avisar
+todo mundo quando vier uma
+onda gigante.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -323,8 +323,8 @@ a huge wave a-comin'.</EnglishText>
       <JapaneseText>見張りってのは
 メーヨある仕事なんだぜ。
 すごいだろ？</JapaneseText>
-      <EnglishText>Keepin' watch's a purty important
-job, y'know. Ain't I awesome?</EnglishText>
+      <EnglishText>Vigiar é um trabalho bem
+importante, sabe? Não sou demais?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -341,12 +341,11 @@ job, y'know. Ain't I awesome?</EnglishText>
 分別もきっちりやりましょう。
 できないあなたは分別がない人です。
 </JapaneseText>
-      <EnglishText>- An Apartment's Circular Notice -
-Always take out the trash every morning!
-Make sure to separate the burnable and
-non-burnable garbage. If you can't do that,
-then you're a person that doesn't know how
-to separate garbage.</EnglishText>
+      <EnglishText>- Aviso Circular do Prédio -
+Sempre levem o lixo pra fora toda manhã!
+Separem o lixo queimável do não queimável.
+Se não conseguem, então são pessoas que
+não sabem separar o lixo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -363,12 +362,11 @@ to separate garbage.</EnglishText>
 お祭りなどの時には街中が
 シャボン玉でキラキラと輝く。
 </JapaneseText>
-      <EnglishText>- Large Barrel -
-It looks like a barrel of alcohol...
-but it's filled with an undiluted
-bubble solution. Whenever a festival
-comes around, the whole town sparkles
-with these bubbles.</EnglishText>
+      <EnglishText>- Barril Grande -
+Parece barril de bebida alcoólica...
+mas é só solução de bolhas pura.
+Na época de festival, a cidade
+toda brilha com essas bolhas.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
