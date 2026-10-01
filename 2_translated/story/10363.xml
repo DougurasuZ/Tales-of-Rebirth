@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>2320,1895,1895,1895,1895,1895,1895,1895,1895</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>2053</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>722,744</PointerOffset>
       <JapaneseText>旅人</JapaneseText>
-      <EnglishText>Traveler</EnglishText>
+      <EnglishText>Viajante</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Done</Status>
@@ -124,8 +124,8 @@
       <PointerOffset>2520</PointerOffset>
       <VoiceId>19000047</VoiceId>
       <JapaneseText>ここなら、しばらく休めるな。</JapaneseText>
-      <EnglishText>This looks like a good
-place to rest.</EnglishText>
+      <EnglishText>Este parece um bom lugar
+para descansar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -136,7 +136,7 @@ place to rest.</EnglishText>
       <VoiceId>19000048</VoiceId>
       <JapaneseText>よっしゃ！
 じゃあ、出発すっか!!</JapaneseText>
-      <EnglishText>Okay! Let's get a move on!</EnglishText>
+      <EnglishText>Beleza! Vamos nessa!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -146,7 +146,7 @@ place to rest.</EnglishText>
       <PointerOffset>2654</PointerOffset>
       <VoiceId>19000049</VoiceId>
       <JapaneseText>あんた、妙に楽しそうね。</JapaneseText>
-      <EnglishText>You seem oddly chipper.</EnglishText>
+      <EnglishText>Você anda estranhamente alegre.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -156,7 +156,7 @@ place to rest.</EnglishText>
       <PointerOffset>2692</PointerOffset>
       <VoiceId>1900004a</VoiceId>
       <JapaneseText>ん？　何か言ったか？</JapaneseText>
-      <EnglishText>Huh? Did you say something?</EnglishText>
+      <EnglishText>Hã? Você disse alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -166,7 +166,7 @@ place to rest.</EnglishText>
       <PointerOffset>2722</PointerOffset>
       <VoiceId>1900004b</VoiceId>
       <JapaneseText>さあ……</JapaneseText>
-      <EnglishText>Hm, did I?</EnglishText>
+      <EnglishText>Hm, será que disse?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -176,7 +176,7 @@ place to rest.</EnglishText>
       <PointerOffset>2824</PointerOffset>
       <VoiceId>1900004c</VoiceId>
       <JapaneseText>具合でも悪いのか？</JapaneseText>
-      <EnglishText>Are you feeling unwell?</EnglishText>
+      <EnglishText>Está se sentindo mal?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -186,7 +186,7 @@ place to rest.</EnglishText>
       <PointerOffset>2859</PointerOffset>
       <VoiceId>1900004d</VoiceId>
       <JapaneseText>……いえ、何でもありません。</JapaneseText>
-      <EnglishText>...No, I'm fine.</EnglishText>
+      <EnglishText>...Não, estou bem.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -196,7 +196,7 @@ place to rest.</EnglishText>
       <PointerOffset>2896</PointerOffset>
       <VoiceId>1900004e</VoiceId>
       <JapaneseText>でも、顔色が悪いみたいだよ？</JapaneseText>
-      <EnglishText>Really? You don't look so good.</EnglishText>
+      <EnglishText>Sério? Não tá com boa cara.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -206,7 +206,7 @@ place to rest.</EnglishText>
       <PointerOffset>2924</PointerOffset>
       <VoiceId>1900004f</VoiceId>
       <JapaneseText>……本当に何でもないから。</JapaneseText>
-      <EnglishText>...Honestly, I feel fine.</EnglishText>
+      <EnglishText>...Na verdade, me sinto bem.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -216,7 +216,7 @@ place to rest.</EnglishText>
       <PointerOffset>2978</PointerOffset>
       <VoiceId>19000050</VoiceId>
       <JapaneseText>本当に大丈夫か？</JapaneseText>
-      <EnglishText>Are you really all right?</EnglishText>
+      <EnglishText>Tem certeza de que está bem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -226,7 +226,7 @@ place to rest.</EnglishText>
       <PointerOffset>3000</PointerOffset>
       <VoiceId>19000051</VoiceId>
       <JapaneseText>……先を急ぎましょう。</JapaneseText>
-      <EnglishText>...We need to get going.</EnglishText>
+      <EnglishText>...Precisamos ir andando.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -246,7 +246,7 @@ place to rest.</EnglishText>
       <PointerOffset>3064</PointerOffset>
       <VoiceId>19000053</VoiceId>
       <JapaneseText>無理はするなよ。</JapaneseText>
-      <EnglishText>Don't push yourself.</EnglishText>
+      <EnglishText>Não se force.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -256,7 +256,7 @@ place to rest.</EnglishText>
       <PointerOffset>3092</PointerOffset>
       <VoiceId>19000054</VoiceId>
       <JapaneseText>はい。</JapaneseText>
-      <EnglishText>I won't.</EnglishText>
+      <EnglishText>Não vou me forçar.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
@@ -270,8 +270,8 @@ place to rest.</EnglishText>
       <JapaneseText>ヒューマの行商人なら
 カレーズを見て回るって
 言ってたよ。</JapaneseText>
-      <EnglishText>The Huma merchants were saying
-they like to set up shop in Karez.</EnglishText>
+      <EnglishText>Os mercadores Huma disseram que
+gostam de montar banca em Karez.</EnglishText>
       <Notes>Literally, "tour Karez" but if it fits.</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
@@ -285,8 +285,8 @@ they like to set up shop in Karez.</EnglishText>
       <JapaneseText>おう。また会ったな。
 仕事で初めてこっちに
 きたんだけどよ、</JapaneseText>
-      <EnglishText>Yo, we meet again. I started
-peddling my goods here.</EnglishText>
+      <EnglishText>E aí, a gente se encontra de novo.
+Comecei a vender coisas aqui.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
@@ -296,7 +296,7 @@ peddling my goods here.</EnglishText>
       <PointerOffset>2250</PointerOffset>
       <JapaneseText>カレーズってのは、
 すごいもんだな。</JapaneseText>
-      <EnglishText>Karez's a pretty neat place.</EnglishText>
+      <EnglishText>Karez é um lugar bem legal.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
@@ -307,10 +307,9 @@ peddling my goods here.</EnglishText>
       <JapaneseText>なんか歴史を感じるって
 いうか……こんな場所で
 歴史小説が読めれば最高だな。</JapaneseText>
-      <EnglishText>It's like there's history in the
-air here... Reading a historical
-novel in this kinda setting
-would be the cheery on top.</EnglishText>
+      <EnglishText>Tem história no ar aqui... Ler um
+romance histórico num lugar assim
+seria a cereja do bolo.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
@@ -320,8 +319,8 @@ would be the cheery on top.</EnglishText>
       <PointerOffset>1980</PointerOffset>
       <JapaneseText>ひょっとして、歴史小説
 貸してくれたりしねぇ？</JapaneseText>
-      <EnglishText>If you got one, would
-you hook me up?</EnglishText>
+      <EnglishText>Se você tiver um, será que
+me empresta?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
@@ -331,8 +330,8 @@ you hook me up?</EnglishText>
       <PointerOffset>2003</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>22</Id>
@@ -341,7 +340,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2056</PointerOffset>
       <JapaneseText>&lt;Green&gt;『歴史小説』を貸し出しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You lent the Historical Novel.</EnglishText>
+      <EnglishText>&lt;Green&gt;Emprestou o Historical Novel.</EnglishText>
       <Notes>The one you get back at the gym.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>23</Id>
@@ -352,10 +351,9 @@ No</EnglishText>
       <JapaneseText>やっぱりなぁー。
 持ってるような気がしたんだよ。
 んじゃ、しばらく借りるぜ。</JapaneseText>
-      <EnglishText>I had a feeling you had one!
-You just had that vibe.
-Anyway, thanks. I'll be
-borrowing it for a bit.</EnglishText>
+      <EnglishText>Eu sabia que você tinha um!
+Dava pra sentir. Enfim, valeu.
+Vou ficar com ele um tempinho.</EnglishText>
       <Notes>The Yes response.</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
@@ -365,7 +363,7 @@ borrowing it for a bit.</EnglishText>
       <PointerOffset>2113</PointerOffset>
       <JapaneseText>なんだ……
 当てがはずれちまったな。</JapaneseText>
-      <EnglishText>Guess you don't.</EnglishText>
+      <EnglishText>Acho que não tem.</EnglishText>
       <Notes>I believe this is the No response.</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
@@ -375,8 +373,8 @@ borrowing it for a bit.</EnglishText>
       <PointerOffset>2163</PointerOffset>
       <JapaneseText>実は、まだ読み終わってないんだ。
 悪いけど、また来てくれよな。</JapaneseText>
-      <EnglishText>Truth is, I wanna keep reading
-it. Hit me up later, 'kay?</EnglishText>
+      <EnglishText>A verdade é que quero continuar
+lendo. Me procura depois, tá?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -387,7 +385,7 @@ it. Hit me up later, 'kay?</EnglishText>
       <JapaneseText>うーむ……
 カレーズってのは、
 すごいもんだな……</JapaneseText>
-      <EnglishText>Mhmm, Karez sure is cool.</EnglishText>
+      <EnglishText>É, Karez é demais mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
@@ -399,7 +397,7 @@ it. Hit me up later, 'kay?</EnglishText>
     <Entry>
       <PointerOffset>946</PointerOffset>
       <JapaneseText>ミリッツァ……!?</JapaneseText>
-      <EnglishText>Militsa, is that you?</EnglishText>
+      <EnglishText>Militsa, é você?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
@@ -409,8 +407,8 @@ it. Hit me up later, 'kay?</EnglishText>
       <PointerOffset>1026</PointerOffset>
       <JapaneseText>今は戦うつもりはない……
 </JapaneseText>
-      <EnglishText>...I have no intention of
-fighting you at this moment.</EnglishText>
+      <EnglishText>...Não tenho intenção de lutar
+com você neste momento.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>29</Id>
@@ -430,9 +428,9 @@ fighting you at this moment.</EnglishText>
       <JapaneseText>&lt;Yellow&gt;聖獣&lt;White&gt;を探しているそうだな、
 &lt;Hilda&gt;……
 </JapaneseText>
-      <EnglishText>You're searching for
-the &lt;Yellow&gt;Sacred Beasts&lt;White&gt;,
-aren't you, &lt;Hilda&gt;?</EnglishText>
+      <EnglishText>Você está atrás das
+&lt;Yellow&gt;Bestas Sagradas&lt;White&gt;,
+não está, &lt;Hilda&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>31</Id>
@@ -443,8 +441,8 @@ aren't you, &lt;Hilda&gt;?</EnglishText>
       <JapaneseText>&lt;Yellow&gt;純粋なヒトの身体&lt;White&gt;を
 手に入れるためか……？
 </JapaneseText>
-      <EnglishText>All to be granted a
-so-called &lt;Yellow&gt;pure body&lt;White&gt;? </EnglishText>
+      <EnglishText>Tudo pra receber o tal
+&lt;Yellow&gt;corpo puro&lt;White&gt;?</EnglishText>
       <Notes>I am trying to add an extra layer of disdain.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>32</Id>
@@ -464,9 +462,9 @@ so-called &lt;Yellow&gt;pure body&lt;White&gt;? </EnglishText>
       <JapaneseText>ハーフの身体がそんなに嫌か？
 &lt;Yellow&gt;純粋なヒトの身体&lt;White&gt;は、そんなに
 すばらしいものなのか？</JapaneseText>
-      <EnglishText>You hate being a Half that much?
-Is the body of a &lt;Yellow&gt;pure Human&lt;White&gt; really
-that wonderful?</EnglishText>
+      <EnglishText>Você odeia tanto ser Half?
+O corpo de um &lt;Yellow&gt;humano puro&lt;White&gt;
+é mesmo tão maravilhoso?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>34</Id>
@@ -478,10 +476,10 @@ that wonderful?</EnglishText>
 &lt;Yellow&gt;同じヒト&lt;White&gt;だというのなら、
 その間に生まれた私たちは
 &lt;Cyan&gt;純粋&lt;White&gt;ではないのか？</JapaneseText>
-      <EnglishText>But if both Huma and Gajuma
-are of the &lt;Yellow&gt;same Human Race&lt;White&gt;,
-wouldn't that make those who
-are mixed &lt;Cyan&gt;pure&lt;White&gt; as well?</EnglishText>
+      <EnglishText>Mas se Huma e Gajuma são da
+&lt;Yellow&gt;mesma raça humana&lt;White&gt;,
+quem é misto não seria
+&lt;Cyan&gt;puro&lt;White&gt; também?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>35</Id>
@@ -490,7 +488,7 @@ are mixed &lt;Cyan&gt;pure&lt;White&gt; as well?</EnglishText>
     <Entry>
       <PointerOffset>1213</PointerOffset>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText>That's...</EnglishText>
+      <EnglishText>Isso é...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -501,9 +499,9 @@ are mixed &lt;Cyan&gt;pure&lt;White&gt; as well?</EnglishText>
       <JapaneseText>……おまえたちが&lt;Yellow&gt;聖獣の力&lt;White&gt;を
 手に入れ、どんな事をしようと、
 この世界は変わりはしない……</JapaneseText>
-      <EnglishText>Even if you harness the
-power of the &lt;Yellow&gt;Sacred Beasts&lt;White&gt;,
-the world will not change...</EnglishText>
+      <EnglishText>Mesmo que você use o poder das
+&lt;Yellow&gt;Bestas Sagradas&lt;White&gt;, o mundo
+não vai mudar...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
@@ -512,7 +510,7 @@ the world will not change...</EnglishText>
     <Entry>
       <PointerOffset>1272</PointerOffset>
       <JapaneseText>……私にとってはな……</JapaneseText>
-      <EnglishText>At least, not for me...</EnglishText>
+      <EnglishText>Pelo menos, não pra mim...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>38</Id>
@@ -523,10 +521,10 @@ the world will not change...</EnglishText>
       <JapaneseText>……おまえたちの取り戻そうと
 している&lt;Yellow&gt;共存社会&lt;White&gt;ですら、
 差別されて来たハーフにはな……</JapaneseText>
-      <EnglishText>...Because I was discriminated
-against for being a Half in that
-&lt;Yellow&gt;society of coexistence&lt;White&gt; you are
-trying to bring back.</EnglishText>
+      <EnglishText>...Porque fui discriminada por ser
+Half na &lt;Yellow&gt;sociedade de
+coexistência&lt;White&gt; que você quer
+trazer de volta.</EnglishText>
       <Notes>So, even if hate between Gajuma and Hma dissipates, bigotry against the Halfs remains regardless.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>39</Id>
@@ -537,9 +535,9 @@ trying to bring back.</EnglishText>
       <JapaneseText>……&lt;Hilda&gt;……&lt;Blue&gt;王の盾&lt;White&gt;に戻れ。
 私たちの居場所は……
 &lt;Blue&gt;王の盾&lt;White&gt;以外にはない。</JapaneseText>
-      <EnglishText>...&lt;Hilda&gt;... Come back to the
-&lt;Blue&gt;Royal Shield&lt;White&gt;. There is no other
-place that will accept us.</EnglishText>
+      <EnglishText>...&lt;Hilda&gt;... Volte para o
+&lt;Blue&gt;Escudo Real&lt;White&gt;. Não existe outro
+lugar que nos aceite.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>40</Id>
@@ -548,7 +546,7 @@ place that will accept us.</EnglishText>
     <Entry>
       <PointerOffset>1443</PointerOffset>
       <JapaneseText>ミリッツァ……</JapaneseText>
-      <EnglishText>Militsa, I...</EnglishText>
+      <EnglishText>Militsa, eu...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
@@ -560,9 +558,9 @@ place that will accept us.</EnglishText>
 知るため……ハーフの事を
 調べてるの……
 </JapaneseText>
-      <EnglishText>...I'm on a journey to discover
-who I am... And what it means
-to be a Half...</EnglishText>
+      <EnglishText>...Estou numa jornada para
+descobrir quem eu sou... E o que
+significa ser Half...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -572,9 +570,8 @@ to be a Half...</EnglishText>
       <PointerOffset>1542</PointerOffset>
       <JapaneseText>……あんたは、故郷の事や
 両親の事……何か知らない？</JapaneseText>
-      <EnglishText>Do you know anything about
-where you were born or who
-your parents are?</EnglishText>
+      <EnglishText>Você sabe alguma coisa sobre onde
+nasceu ou quem são seus pais?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>43</Id>
@@ -583,8 +580,7 @@ your parents are?</EnglishText>
     <Entry>
       <PointerOffset>1572</PointerOffset>
       <JapaneseText>ひとつだけ……</JapaneseText>
-      <EnglishText>The only thing that I
-know is...</EnglishText>
+      <EnglishText>A única coisa que sei é...</EnglishText>
       <Notes>where is HERE.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -594,8 +590,7 @@ know is...</EnglishText>
       <PointerOffset>1609</PointerOffset>
       <JapaneseText>私はここに捨てられていた……
 </JapaneseText>
-      <EnglishText>...This is where I was
-abandoned...</EnglishText>
+      <EnglishText>...Foi aqui que fui abandonada...</EnglishText>
       <Notes>"I was abandoned here."</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>45</Id>
@@ -618,9 +613,9 @@ abandoned...</EnglishText>
       <JapaneseText>この砂漠、本当に暑いね……
 日射病や熱射病対策には水だよ。
 こまめに水分補給しないとね。</JapaneseText>
-      <EnglishText>This desert sure is hot,
-man. Oughta be careful
-not to get heatstroke.</EnglishText>
+      <EnglishText>Esse deserto é quente demais,
+hein. É bom tomar cuidado
+pra não pegar insolação.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>47</Id>
@@ -631,8 +626,8 @@ not to get heatstroke.</EnglishText>
       <JapaneseText>私なんて、一日に何リットルも
 水を飲む事があるくらいだよ。
 水は大事だよ。</JapaneseText>
-      <EnglishText>Me, I gulp down several canisters
-a day. Gotta stay hydrated!</EnglishText>
+      <EnglishText>Eu viro vários cantis por dia.
+Tem que ficar hidratado!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>48</Id>
@@ -646,9 +641,9 @@ a day. Gotta stay hydrated!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>49</Id>

@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>407,407,407,407</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>465</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -61,9 +61,9 @@
       <JapaneseText>おう！　勝手に動いて悪かったな。
 歴史のある場所で読む歴史小説……
 最高だったよ。</JapaneseText>
-      <EnglishText>Hey! Sorry going off on my own. 
-Reading a historical novel in such a 
-culturally rich place was awesome.</EnglishText>
+      <EnglishText>Ei! Desculpa por me afastar assim.
+Ler um romance histórico num lugar
+tão rico em cultura foi demais.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -72,7 +72,7 @@ culturally rich place was awesome.</EnglishText>
     <Entry>
       <PointerOffset>468</PointerOffset>
       <JapaneseText>&lt;Green&gt;『歴史小説』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Historical Novel.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou o Historical Novel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -83,9 +83,9 @@ culturally rich place was awesome.</EnglishText>
       <JapaneseText>わざわざこんなところまで
 足を運んでくれたんだから、
 ちゃんとお礼をしないとな。</JapaneseText>
-      <EnglishText>Thanks for meeting me
-all the way here. I feel
-I gotta thank ya properly.</EnglishText>
+      <EnglishText>Valeu por vir me encontrar
+até aqui. Sinto que preciso
+agradecer direito.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -95,8 +95,8 @@ I gotta thank ya properly.</EnglishText>
       <PointerOffset>537</PointerOffset>
       <JapaneseText>しかし……
 よくオレを見つけたな。</JapaneseText>
-      <EnglishText>Still, you did a bang-up
-finding me here.</EnglishText>
+      <EnglishText>Mesmo assim, mandou bem ao
+me encontrar aqui.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -107,7 +107,7 @@ finding me here.</EnglishText>
       <JapaneseText>うーむ……
 ほんとにカレーズってのは、
 すごいもんだな……</JapaneseText>
-      <EnglishText>Mhmm, Karez sure is cool.</EnglishText>
+      <EnglishText>É, Karez é demais mesmo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -121,9 +121,9 @@ finding me here.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>

@@ -108,6 +108,14 @@
 | 2_translated/story/10358.xml | 2026-10-01 |
 | 2_translated/story/10360.xml | 2026-10-01 |
 | 2_translated/story/10362.xml | 2026-10-01 |
+| 2_translated/story/10363.xml | 2026-10-01 |
+| 2_translated/story/10364.xml | 2026-10-01 |
+| 2_translated/story/10365.xml | 2026-10-01 |
+| 2_translated/story/10366.xml | 2026-10-01 |
+| 2_translated/story/10370.xml | 2026-10-01 |
+| 2_translated/story/10371.xml | 2026-10-01 |
+| 2_translated/story/10372.xml | 2026-10-01 |
+| 2_translated/story/10373.xml | 2026-10-01 |
 
 ## Arquivos sem texto a traduzir
 
@@ -273,3 +281,7 @@
 - 10350.xml: "gels" mantido em inglês nas falas; "Smiling Gel" e "Grape Gels" mantidos (itens). Ids 7–12 têm SpeakerId -1 ([VARIABLE]); falas traduzidas sem marca de gênero.
 - 10351.xml: "Travelogue" e "Romance Novel" mantidos (itens, como em 10346). Id 37: "Ela deixou a cidade. Calma." (Veigue; encurtado pelo limite). Id 39: "shrike" → "picanço".
 - 10356.xml, Id 13: "Four stars and a half" (piada de Tytree) → "Quatro estrelas... e meia" (não é a organização). Ids 41/49: códigos <item:20000017> preservados. 10358.xml, Id 12: "Force of Steel" mantido (técnica); "Birus" sem plural.
+- Revisão do relatorio_validacao.txt (2026-10-01, lote 10363–10373): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido. Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10363–10373 (2026-10-01): 10363, 10364, 10365, 10366, 10370, 10371, 10372, 10373 (10367–10369 só têm "Karez"; 10374–10378 fora do lote). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 4 problemas na 1ª rodada (TAMANHO em 10363 Ids 23, 35, 39), 1 na 2ª (só o falso positivo de 10309).
+- 10363–10373, rótulos de falante: "Peddler" → "Mascate" (como em 10258/10260), "Traveler" → "Viajante", "Notice" → "Aviso". "Select", nomes e "First Time Item Conversation" (10364/10366 Ids 10 e 17, rótulo interno) mantidos. 10364/10366: falas de item achado copiadas de 10289 (mesmo inglês).
+- 10363.xml, Id 23: "Você emprestou o Historical Novel." virou "Emprestou o Historical Novel." (limite de tamanho com o código de cor); Id 4 de 10373: "Você recuperou o Historical Novel.". Id 20/24: livro tratado como romance histórico na fala. Id 34: "Human" (ヒト) → "humano puro" minúsculo; Half/Huma/Gajuma mantidos. Id 31/37: "Sacred Beasts" → "Bestas Sagradas"; Id 40: "Royal Shield" → "Escudo Real" (glossário). Ids 35 e 39: frases com código de cor reorganizadas em mais linhas (código de cor atravessa a quebra em Id 39). Conferir.

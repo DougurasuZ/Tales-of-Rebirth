@@ -53,9 +53,9 @@
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -68,8 +68,8 @@ No</EnglishText>
       <PointerOffset>149</PointerOffset>
       <JapaneseText>……前に来た時には、
 こんなものはなかった……</JapaneseText>
-      <EnglishText>There wasn't anything here the
-last time we were here...</EnglishText>
+      <EnglishText>Não havia nada aqui da última
+vez que viemos...</EnglishText>
       <Notes>I believe dialogue changes on character - this one's Veigue</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -79,9 +79,8 @@ last time we were here...</EnglishText>
       <PointerOffset>178</PointerOffset>
       <JapaneseText>ラッキー!!　前に来た時には
 何もなかったのに！</JapaneseText>
-      <EnglishText>It's my lucky day! There
-wasn't anything the last
-time we were here!</EnglishText>
+      <EnglishText>Que sorte! Da última vez
+não havia nada aqui!</EnglishText>
       <Notes>This one's Mao</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -91,8 +90,8 @@ time we were here!</EnglishText>
       <PointerOffset>207</PointerOffset>
       <JapaneseText>うむ……以前、ここには
 何もなかったと思うが……</JapaneseText>
-      <EnglishText>Hmm... I don't think there was
-anything here last time...</EnglishText>
+      <EnglishText>Hmm... Não me lembro de haver
+nada aqui da última vez...</EnglishText>
       <Notes>This one's Eugene I think</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -102,9 +101,8 @@ anything here last time...</EnglishText>
       <PointerOffset>237</PointerOffset>
       <JapaneseText>まさか、こんなところに……
 とても意外な感じね。</JapaneseText>
-      <EnglishText>I never expected to
-find something here,
-of all places...</EnglishText>
+      <EnglishText>Nunca imaginei encontrar algo
+aqui, logo neste lugar...</EnglishText>
       <Notes>This one's Annie I think</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -114,9 +112,8 @@ of all places...</EnglishText>
       <PointerOffset>267</PointerOffset>
       <JapaneseText>おう、こんなとこに発見が！
 おどろき桃の木だぜ！</JapaneseText>
-      <EnglishText>Well, would you look at that!
-To think I'd discover something
-here!</EnglishText>
+      <EnglishText>Olha só que coisa! Quem diria
+que eu acharia algo aqui!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -126,9 +123,9 @@ here!</EnglishText>
       <PointerOffset>297</PointerOffset>
       <JapaneseText>こんなところに……
 そう、こんな事もあるのね。</JapaneseText>
-      <EnglishText>How'd this get here...?
-Well, I guess things like
-that just happen.</EnglishText>
+      <EnglishText>Como isso veio parar aqui...?
+Bom, acho que essas coisas
+acontecem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -148,9 +145,8 @@ that just happen.</EnglishText>
       <JapaneseText>一度行った場所でも、
 何か見つかる場合が
 あるという事か……</JapaneseText>
-      <EnglishText>I guess this means you can
-still find things in places
-you've already been...</EnglishText>
+      <EnglishText>Então dá pra achar coisas mesmo
+em lugares onde já estivemos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -161,9 +157,9 @@ you've already been...</EnglishText>
       <JapaneseText>一度行ったところでも、
 調べに行ったら、
 新しい発見があるかもネ！</JapaneseText>
-      <EnglishText>We might be able to discover
-things in other places that
-we've already been to!</EnglishText>
+      <EnglishText>A gente pode descobrir coisas
+em outros lugares que já
+visitamos!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -173,9 +169,9 @@ we've already been to!</EnglishText>
       <PointerOffset>215</PointerOffset>
       <JapaneseText>一度行った場所でも、
 新しい発見があるかもしれんな。</JapaneseText>
-      <EnglishText>I suppose we might find things
-in places that we've already
-visited.</EnglishText>
+      <EnglishText>Suponho que possamos encontrar
+coisas em lugares que já
+visitamos.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -185,9 +181,9 @@ visited.</EnglishText>
       <PointerOffset>245</PointerOffset>
       <JapaneseText>一度行った場所でも、こうやって
 調べたら何かみつかるかも……？</JapaneseText>
-      <EnglishText>Perhaps we can find new things
-if we explore places we've
-already been...?</EnglishText>
+      <EnglishText>Talvez possamos encontrar coisas
+novas se explorarmos lugares
+onde já estivemos...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -198,9 +194,9 @@ already been...?</EnglishText>
       <JapaneseText>前に行った場所でも、
 もういっぺん行ってみたら、
 何か見つかるかもしれないな！</JapaneseText>
-      <EnglishText>Maybe we can find new
-things in other places
-we've been to too!</EnglishText>
+      <EnglishText>Talvez a gente ache coisas novas
+em outros lugares onde já
+estivemos também!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -212,9 +208,9 @@ we've been to too!</EnglishText>
 もう一度調べたら、何か見つかる
 かもしれないって事ね……
 </JapaneseText>
-      <EnglishText>We might be able to find things
-in other places we've been to
-if we stop by them again...</EnglishText>
+      <EnglishText>Talvez possamos encontrar coisas
+em outros lugares se voltarmos
+a eles de novo...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>

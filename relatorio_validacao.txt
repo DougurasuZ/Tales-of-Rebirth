@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  20.0% das falas traduzidas (6246 de 31269) | arquivos iniciados: 103 | sem problemas: 102
+story :  20.2% das falas traduzidas (6330 de 31269) | arquivos iniciados: 111 | sem problemas: 110
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 14.9% das falas traduzidas (6246 de 41924)
+TOTAL : 15.1% das falas traduzidas (6330 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -410,4 +410,32 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
 
 [story/10362.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10363.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10364.xml]
+  Id 10: PENDENTE (igual ao inglês): First Time Item Conversation
+  Id 17: PENDENTE (igual ao inglês): First Time Item Conversation
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10365.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10366.xml]
+  Id 10: PENDENTE (igual ao inglês): First Time Item Conversation
+  Id 17: PENDENTE (igual ao inglês): First Time Item Conversation
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10370.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10371.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10372.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10373.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
