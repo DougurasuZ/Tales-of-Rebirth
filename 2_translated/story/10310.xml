@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>142</PointerOffset>
       <JapaneseText>ペトナジャンカ・宿屋・客室</JapaneseText>
-      <EnglishText>Petnadjanka Inn - Guest Room</EnglishText>
+      <EnglishText>Pousada de Petnadjanka - Quarto</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -101,9 +101,9 @@
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -120,12 +120,12 @@ No</EnglishText>
 『鉄の歯を持つ男』
 『自然体とは』
 宿泊客向けに様々な本が置いてある。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- How to Make Smoky Cookies -
-- The Old Men Behind the Smokestacks -
-- How to Get Close to a Beauty -
-- The Man with the Iron Tooth -
-- In One's Natural State -
-A variety of books are available for guests.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Como Fazer Biscoitos Defumados -
+- Os Velhos Atrás das Chaminés -
+- Como Chegar Perto de uma Beldade -
+- O Homem do Dente de Ferro -
+- Em Seu Estado Natural -
+Há vários livros à disposição dos hóspedes.</EnglishText>
       <Notes>Moku moku -&gt; Smokey, because lol smokestacks.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -138,8 +138,8 @@ A variety of books are available for guests.</EnglishText>
       <PointerOffset>265</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『キレイな花』
 ツーンと鼻をつく香りがする。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Pretty Flower -
-It has a pungent fragrance.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Flor Bonita -
+Tem uma fragrância forte.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -150,10 +150,9 @@ It has a pungent fragrance.</EnglishText>
       <JapaneseText>素敵な色だ……
 この辺りに生息する
 カトリアスイトピーだな。</JapaneseText>
-      <EnglishText>What a beautiful color...
-This is one of the Catoria
-Sweet Peas that grows around
-here.</EnglishText>
+      <EnglishText>Que cor linda...
+Esta é uma Catoria Sweet Pea,
+que cresce aqui por perto.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -162,8 +161,8 @@ here.</EnglishText>
     <Entry>
       <PointerOffset>341</PointerOffset>
       <JapaneseText>いつも心に花を、だな！</JapaneseText>
-      <EnglishText>As they say, "Happiness
-blooms from within!"</EnglishText>
+      <EnglishText>Como dizem: "A felicidade
+florece de dentro!"</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -175,10 +174,9 @@ blooms from within!"</EnglishText>
 それに、花の形がクッキー
 みたいで、おいしそう！
 </JapaneseText>
-      <EnglishText>What a pretty flower!
-It looks like a cookie, too!
-Just looking at it makes me
-hungry!</EnglishText>
+      <EnglishText>Que flor bonita!
+Parece um biscoito também!
+Só de olhar já deu fome!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -189,10 +187,10 @@ hungry!</EnglishText>
       <JapaneseText>カトリアスイトピーの花ね。
 花を煎じて飲むと、
 胃腸に効くって習ったな……</JapaneseText>
-      <EnglishText>It's a Catoria Sweet Pea.
-I learned that drinking a
-concoction of these flowers
-can be good for the stomach.</EnglishText>
+      <EnglishText>É uma Catoria Sweet Pea.
+Aprendi que beber uma infusão
+dessas flores faz bem ao
+estômago.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -202,8 +200,8 @@ can be good for the stomach.</EnglishText>
       <PointerOffset>459</PointerOffset>
       <JapaneseText>花か……ラキヤさんなら
 名前を知っているかもしれないな。</JapaneseText>
-      <EnglishText>A flower... Maybe Mrs. Bennett
-might know what it's called.</EnglishText>
+      <EnglishText>Uma flor... Talvez a Sra. Bennett
+saiba como se chama.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
@@ -213,9 +211,9 @@ might know what it's called.</EnglishText>
       <PointerOffset>499</PointerOffset>
       <JapaneseText>花……花言葉も占いのひとつね。
 今度、調べてみようかしら。</JapaneseText>
-      <EnglishText>A flower... I believe there's a
-method of divination that uses
-flowers... I'll have to look into it.</EnglishText>
+      <EnglishText>Uma flor... Creio que existe um
+método de adivinhação com flores...
+Vou ter que pesquisar.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>

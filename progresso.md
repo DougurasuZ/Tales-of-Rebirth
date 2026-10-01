@@ -68,6 +68,14 @@
 | 2_translated/story/10306.xml | 2026-09-30 |
 | 2_translated/story/10307.xml | 2026-09-30 |
 | 2_translated/story/10308.xml | 2026-09-30 |
+| 2_translated/story/10309.xml | 2026-09-30 |
+| 2_translated/story/10310.xml | 2026-09-30 |
+| 2_translated/story/10311.xml | 2026-09-30 |
+| 2_translated/story/10312.xml | 2026-09-30 |
+| 2_translated/story/10313.xml | 2026-09-30 |
+| 2_translated/story/10314.xml | 2026-09-30 |
+| 2_translated/story/10319.xml | 2026-09-30 |
+| 2_translated/story/10320.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -184,4 +192,14 @@
 - 10306.xml, Id 54/56: frases de Gerente condensadas ("pra reaver a Selena", "brotavam frenéticas") para caber nas linhas.
 - 10307.xml, Ids 75/77/79: títulos e textos de objetos examináveis traduzidos; "Birdie Grass" (planta) mantido em inglês. Id 53: "Human" (raça, não Huma) → "humana" minúsculo. Id 14: "Gappler" mantido (nome).
 - 10308.xml: frases padrão de pousada (Ids 57–129) copiadas de 10275 (mesmo texto em inglês). "Eat Well, Sleep Well" → "Coma Bem, Durma Bem" (nome da pousada; glossário). "Callegean Soldier" mantido como rótulo do recepcionista (igual a 10275). Id 136/138: "grow big and tall" → "vai crescer bastante" (evitar gênero; Annie reage no Id 139 "baixa").
+- Lote 10309–10314 + 10319 + 10320 (2026-09-30): o relatório anterior tinha 0 problemas (só PENDENTE de nomes/interjeições, mantidos de propósito). Arquivos 10315–10318 não existem. Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 8 problemas na 1ª rodada (ESPACO/TAMANHO), 1 na 2ª, 0 na 3ª. 10319 só tem nome de lugar e "Quer descansar?".
+- 10309–10320, rótulos de falante: "Swordsmith" → "Ferreiro", "Swordsmith's Younger Brother" → "Irmão Mais Novo do Ferreiro", "Manager" → "Gerente", "Man" → "Homem", "Weapon Shop/Armor Shop" → "Loja de Armas/Armaduras". Lugares: "Petnadjanka Inn" → "Pousada de Petnadjanka", "Petnadjanka Inn - Guest Room" → "Pousada de Petnadjanka - Quarto", "Residence" → "Residência". "Select" e nomes mantidos.
+- Linhas que começavam com espaço no inglês (recuos/centralização em 10309 Id 6, 10312 Id 113, 10313 Ids 75/78/89/91) tiveram os espaços removidos por causa do validador (ESPACO); a assinatura "Comitê Ambiental de Petnadjanka" também ficou colada à esquerda. A lista de 10312 Id 113 perdeu o recuo.
+- 10309.xml, Id 5: "Chocolate Vine Dessert" virou "Sobremesa de Chocolate Vine" (nome de planta/ingrediente mantido em inglês; é a akebia). Conferir.
+- 10311.xml, 10312.xml: nomes de loja "Discipline" e "Sincerity" mantidos em inglês (nomes próprios); itens "Defender", "Fleury", "Chain Armor", "Chainmail", "Chain Plate" mantidos. Conferir se as lojas devem ter nome traduzido.
+- 10311.xml: loja de armas = Huma; loja de armaduras = Gajuma (inferido pelas falas). Id 9 (dono da loja de armas) fala em "quem trabalha aqui" de forma ambígua; traduzido literalmente.
+- 10312.xml, Id 64/65/70/71: "Mankind" → "a humanidade". Id 18: "Human heart" → "coração humano" minúsculo. Id 88: encurtado para 4 linhas (Agarte "executada em Belsas").
+- 10313.xml, Ids 75/78/81/89/91: textos de objetos examináveis traduzidos; "Stove" → "Aquecedor" (por causa de "keep warm"). Id 10 do 10314: "Mister Tytree" → "senhor Tytree" (nome sem código).
+- 10313.xml, Id 8 ("<scale:180>Selena!!") e Id 11 ("...") mantidos como no inglês. Id 50: "you" para Claire traduzido no feminino ("foi levada").
+- 10314.xml, Id 33/37: "Lady Zilva" mantido (nome). 10320.xml: "Nakako ore" e "Gappler" mantidos em inglês (item/nome). "Boss" → "Chefe" (Id 8).
 - 10300.xml: textos da carruagem seguem o padrão de 10229 ("Cancel" → "Cancelar"). Id 9 reduzido a 1 linha ("Provavelmente... Fiquem alertas."). Ids 15/18: "Sis" → "Mana". "Zilva" e "Lady Zilva" mantidos (nome).

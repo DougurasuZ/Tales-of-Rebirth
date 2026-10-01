@@ -43,6 +43,8 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Meeting House | Casa de Reuniões | |
 | Mesechina Caverns | Cavernas de Mesechina | Nome misto: só a parte comum traduzida |
 | Minal, Petnadjanka, Sunnytown, Anikamal, Babilograd, Razilda, Pipista, Kyogen, Nolzen, Mocrado | (iguais) | Cidades da carruagem, mantidas |
+| Petnadjanka Inn | Pousada de Petnadjanka | |
+| Petnadjanka Inn - Guest Room | Pousada de Petnadjanka - Quarto | |
 | Poplar's House | Casa de Poplar | |
 | Poplar's House - 2nd Floor | Casa de Poplar - Andar 2 | "2º" não é permitido pela fonte |
 | Residence | Residência | |

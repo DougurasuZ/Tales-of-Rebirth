@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,2809,677</PointerOffset>
       <JapaneseText>剣匠</JapaneseText>
-      <EnglishText>Swordsmith</EnglishText>
+      <EnglishText>Ferreiro</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,823,660</PointerOffset>
       <JapaneseText>剣匠の弟</JapaneseText>
-      <EnglishText>Swordsmith's Younger Brother</EnglishText>
+      <EnglishText>Irmão Mais Novo do Ferreiro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>192</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>201</PointerOffset>
       <JapaneseText>ペトナジャンカ・民家</JapaneseText>
-      <EnglishText>Petnadjanka - Residence</EnglishText>
+      <EnglishText>Petnadjanka - Residência</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>198</PointerOffset>
       <JapaneseText>ペトナジャンカ・民家</JapaneseText>
-      <EnglishText>Petnadjanka - Residence</EnglishText>
+      <EnglishText>Petnadjanka - Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -93,9 +93,9 @@
       <JapaneseText>俺の作った武器が、
 セレーナを取り戻す助けになれば……
 </JapaneseText>
-      <EnglishText>It would be great if Selena
-was saved with the weapons
-I've made...</EnglishText>
+      <EnglishText>Seria ótimo se a Selena fosse
+salva com as armas que
+eu forjei...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -106,8 +106,8 @@ I've made...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……
 がんばってこいよ。
 </JapaneseText>
-      <EnglishText>Do your best out
-there, okay, &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Dê o seu melhor lá fora,
+certo, &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -118,9 +118,9 @@ there, okay, &lt;Tytree&gt;?</EnglishText>
       <JapaneseText>俺の作る剣を買ってくれないか？
 武器屋に置いてあるんだが。
 </JapaneseText>
-      <EnglishText>Why don't you buy some of
-my swords? They sell them
-over at the weapon shop.</EnglishText>
+      <EnglishText>Por que não compra algumas das
+minhas espadas? Vendem lá na
+loja de armas.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -131,8 +131,8 @@ over at the weapon shop.</EnglishText>
       <JapaneseText>きっと旅するうえで、
 あんたらの大きな支えに
 なってくれるぜ。</JapaneseText>
-      <EnglishText>I'm sure you could make use
-of one on your journey.</EnglishText>
+      <EnglishText>Tenho certeza de que você
+poderia usar uma na viagem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -143,8 +143,8 @@ of one on your journey.</EnglishText>
       <JapaneseText>最近、工場のヤツら、
 セレーナがいなくて、
 みんなやる気力がなかったんだよ。</JapaneseText>
-      <EnglishText>Everyone at the factory was
-upset after Selena was kidnapped.</EnglishText>
+      <EnglishText>Todo mundo na fábrica ficou
+abalado quando levaram a Selena.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -155,9 +155,9 @@ upset after Selena was kidnapped.</EnglishText>
       <JapaneseText>これで工場に活気が
 戻るってもんだ。
 がんばったな、&lt;Tytree&gt;！</JapaneseText>
-      <EnglishText>Everyone is feeling much
-better now that she's back.
-Great work, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Todo mundo está bem melhor
+agora que ela voltou.
+Bom trabalho, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -168,9 +168,8 @@ Great work, &lt;Tytree&gt;!</EnglishText>
       <JapaneseText>バルカで女王様の
 お披露目の儀式が
 あるんだってな。</JapaneseText>
-      <EnglishText>I hear that there's going to
-be an inauguration ceremony
-for the Queen over in Balka.</EnglishText>
+      <EnglishText>Soube que vai ter uma cerimônia
+de posse da Rainha lá em Balka.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -181,10 +180,9 @@ for the Queen over in Balka.</EnglishText>
       <JapaneseText>セレーナをさらったのも
 その女王様直属の部隊だって
 言うじゃないか。</JapaneseText>
-      <EnglishText>Weren't the ones who
-kidnapped Selena from
-a unit under the direct
-control of the Queen?</EnglishText>
+      <EnglishText>Os que sequestraram a Selena
+não eram de uma unidade sob
+o controle direto da Rainha?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -194,9 +192,9 @@ control of the Queen?</EnglishText>
       <PointerOffset>3096</PointerOffset>
       <JapaneseText>一体、何がどうなってるんだ？
 さっぱりわからんな。</JapaneseText>
-      <EnglishText>Why on earth would she
-have them do such a thing?
-It makes zero sense to me.</EnglishText>
+      <EnglishText>Por que diabos ela mandaria
+fazerem uma coisa dessas?
+Não faz o menor sentido.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -208,9 +206,9 @@ It makes zero sense to me.</EnglishText>
 俺らヒューマが見張ってないと
 なまけやがるからな……
 </JapaneseText>
-      <EnglishText>Those Gajuma aren't going to
-get anything done without
-us Huma supervising them...</EnglishText>
+      <EnglishText>Esses Gajuma não vão fazer nada
+direito sem nós, Huma, para
+supervisioná-los...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -219,8 +217,8 @@ us Huma supervising them...</EnglishText>
     <Entry>
       <PointerOffset>3157</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;、しっかり見張れよ！</JapaneseText>
-      <EnglishText>...So you need to
-get to work!</EnglishText>
+      <EnglishText>...Então é hora de
+ir trabalhar!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -230,8 +228,8 @@ get to work!</EnglishText>
       <PointerOffset>3238</PointerOffset>
       <JapaneseText>街が妙な雰囲気だと思わないか？
 前とは違うというか……</JapaneseText>
-      <EnglishText>Do you feel like this town
-has changed any...?</EnglishText>
+      <EnglishText>Você sente que esta cidade
+mudou em algo...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -242,9 +240,9 @@ has changed any...?</EnglishText>
       <JapaneseText>俺はこうして毎日、
 かまどに向かって剣を作ってるから
 よくわからなかったが……</JapaneseText>
-      <EnglishText>I hadn't really noticed because
-I spend almost every day here
-in front of my forge...</EnglishText>
+      <EnglishText>Eu nem tinha reparado, porque
+fico quase todo dia aqui
+diante da forja...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -254,8 +252,8 @@ in front of my forge...</EnglishText>
       <PointerOffset>3282</PointerOffset>
       <JapaneseText>ちょっと出かけたら
 変な雰囲気なんだよな……</JapaneseText>
-      <EnglishText>But whenever I step outside
-for a bit, things feel off...</EnglishText>
+      <EnglishText>Mas quando saio um pouquinho,
+as coisas parecem estranhas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -265,9 +263,9 @@ for a bit, things feel off...</EnglishText>
       <PointerOffset>3307</PointerOffset>
       <JapaneseText>剣はヒトの心を映す鏡だ。
 使う者の心が表れる。</JapaneseText>
-      <EnglishText>Swords are mirrors that reflect
-the Human heart and reveal
-the character of their wielder.</EnglishText>
+      <EnglishText>Espadas são espelhos que refletem
+o coração humano e revelam o
+caráter de quem as empunha.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -278,9 +276,9 @@ the character of their wielder.</EnglishText>
       <JapaneseText>悪意を持って使えば、
 その剣は曇って後に使う者を
 邪の道に引きずり込むんだ。</JapaneseText>
-      <EnglishText>If used for evil, the sword will grow 
-cloudy and drag those that use it 
-after down the path of evil.</EnglishText>
+      <EnglishText>Se usada para o mal, a espada
+fica turva e arrasta quem a usa
+para o caminho do mal.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -290,8 +288,8 @@ after down the path of evil.</EnglishText>
       <PointerOffset>3351</PointerOffset>
       <JapaneseText>俺の作った剣には
 そうなってほしくないなあ……</JapaneseText>
-      <EnglishText>I hope my swords won't
-be used in such a way...</EnglishText>
+      <EnglishText>Espero que minhas espadas não
+sejam usadas assim...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -303,11 +301,10 @@ be used in such a way...</EnglishText>
 大変らしいが、
 俺はこの剣作りのための
 かまどさえあればいいのさ。</JapaneseText>
-      <EnglishText>I've heard that the recent influx
-of Gajuma over at the factory
-is causing problems, but all I
-need is my furnace here to
-make swords.</EnglishText>
+      <EnglishText>Ouvi dizer que os Gajuma que
+chegaram à fábrica estão dando
+problema, mas só preciso da
+minha fornalha pra fazer espadas.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -317,9 +314,9 @@ make swords.</EnglishText>
       <PointerOffset>3437</PointerOffset>
       <JapaneseText>……俺以上の剣匠が現れたら、
 ちょいと困るがな……</JapaneseText>
-      <EnglishText>Now if some other swordsmith
-were to show up, I'd have
-more of a problem...</EnglishText>
+      <EnglishText>Agora, se aparecesse outro
+ferreiro, aí eu teria um
+problema maior...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -331,10 +328,9 @@ more of a problem...</EnglishText>
 街の外でも中でも
 少しもめてるらしいけど、
 俺には関係ないね。</JapaneseText>
-      <EnglishText>I've heard that relations between
-Gajuma and Huma have been rocky
-both here and in other towns,
-but I don't really care.</EnglishText>
+      <EnglishText>Ouvi que a relação entre Gajuma
+e Huma anda ruim aqui e em outras
+cidades, mas pouco me importa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -345,9 +341,9 @@ but I don't really care.</EnglishText>
       <JapaneseText>俺にはこの剣作りにかける
 情熱さえあれば、
 周りで何が起こってようとも……</JapaneseText>
-      <EnglishText>As long as I have the passion
-to make these swords, nothing
-else matters.</EnglishText>
+      <EnglishText>Contanto que eu tenha paixão
+por forjar estas espadas,
+nada mais importa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -358,8 +354,8 @@ else matters.</EnglishText>
       <JapaneseText>なんだ？
 俺の作った剣に
 文句があるのか？</JapaneseText>
-      <EnglishText>What? Are you having problems
-with the swords I make?</EnglishText>
+      <EnglishText>O quê? Tá tendo problema com
+as espadas que eu faço?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -368,7 +364,7 @@ with the swords I make?</EnglishText>
     <Entry>
       <PointerOffset>3569</PointerOffset>
       <JapaneseText>だったら、使うな!!</JapaneseText>
-      <EnglishText>Then don't use them!</EnglishText>
+      <EnglishText>Então não use!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -378,8 +374,8 @@ with the swords I make?</EnglishText>
       <PointerOffset>3612</PointerOffset>
       <JapaneseText>ガジュマが俺の作った剣に
 ケチをつけるんだ。</JapaneseText>
-      <EnglishText>The Gajuma are complaining
-about the swords I make.</EnglishText>
+      <EnglishText>Os Gajuma estão reclamando
+das espadas que eu faço.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -389,8 +385,8 @@ about the swords I make.</EnglishText>
       <PointerOffset>3634</PointerOffset>
       <JapaneseText>ヒューマの作ったもの
 なんか大した事ないってな。</JapaneseText>
-      <EnglishText>Saying things like "Huma-made
-swords aren't anything special."</EnglishText>
+      <EnglishText>Dizendo coisas como "Espada de
+Huma não tem nada de especial."</EnglishText>
       <Notes>"that much" how about "that great."?</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -400,8 +396,8 @@ swords aren't anything special."</EnglishText>
       <PointerOffset>3656</PointerOffset>
       <JapaneseText>本当にあの連中、
 俺の剣作りに嫉妬してるのさ。</JapaneseText>
-      <EnglishText>I bet they're just jealous
-of my swordsmithing skills.</EnglishText>
+      <EnglishText>Aposto que é só inveja da
+minha habilidade como ferreiro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -411,8 +407,8 @@ of my swordsmithing skills.</EnglishText>
       <PointerOffset>3730</PointerOffset>
       <JapaneseText>ガジュマにはもう金輪際
 剣は作ってやらない！</JapaneseText>
-      <EnglishText>I'll never make swords
-for you Gajuma!</EnglishText>
+      <EnglishText>Nunca vou forjar espadas pra
+vocês, Gajuma!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -421,7 +417,7 @@ for you Gajuma!</EnglishText>
     <Entry>
       <PointerOffset>3752</PointerOffset>
       <JapaneseText>帰った、帰った！</JapaneseText>
-      <EnglishText>Now LEAVE!</EnglishText>
+      <EnglishText>Agora FORA!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -431,8 +427,8 @@ for you Gajuma!</EnglishText>
       <PointerOffset>3783</PointerOffset>
       <JapaneseText>ガジュマの連中、
 俺の作った剣を折りやがった……！</JapaneseText>
-      <EnglishText>Those damn Gajuma are
-breaking my swords...!</EnglishText>
+      <EnglishText>Esses malditos Gajuma estão
+quebrando as minhas espadas...!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -442,8 +438,8 @@ breaking my swords...!</EnglishText>
       <PointerOffset>3805</PointerOffset>
       <JapaneseText>俺の目の前で、意図的にさ。
 ヒドイと思わないか？</JapaneseText>
-      <EnglishText>Right in front of me, even.
-Isn't that deplorable?</EnglishText>
+      <EnglishText>Bem na minha frente, ainda por
+cima. Não é deplorável?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -453,8 +449,8 @@ Isn't that deplorable?</EnglishText>
       <PointerOffset>3827</PointerOffset>
       <JapaneseText>もう金輪際あいつらのためには
 剣は作らない!!</JapaneseText>
-      <EnglishText>I'm never making them 
-weapons ever again!</EnglishText>
+      <EnglishText>Nunca mais vou fazer armas
+pra eles!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -465,9 +461,8 @@ weapons ever again!</EnglishText>
       <JapaneseText>俺の作った武器を粗末に
 扱わないなら……
 あんたも俺の剣、使っていいぜ。</JapaneseText>
-      <EnglishText>If you don't mistreat the
-weapons that I've made, then
-I'll allow you to use them.</EnglishText>
+      <EnglishText>Se não maltratar as armas que
+eu fiz, deixo você usá-las.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -478,9 +473,9 @@ I'll allow you to use them.</EnglishText>
       <JapaneseText>ガジュマたちのやった事は許せない……
 でも罪を憎んでヒトを憎まず、
 って言うだろ？</JapaneseText>
-      <EnglishText>I'll never get over what those
-Gajuma did, but as they say,
-"Hate the sin, love the sinner"</EnglishText>
+      <EnglishText>Nunca vou esquecer o que aqueles
+Gajuma fizeram, mas, como dizem,
+"Odeie o pecado, ame o pecador."</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>36</Id>
@@ -491,9 +486,9 @@ Gajuma did, but as they say,
       <JapaneseText>いやな……俺の剣を折った
 ガジュマの連中が
 謝りに来てくれてな……</JapaneseText>
-      <EnglishText>Those Gajuma who broke
-the swords I made came
-here to apologize...</EnglishText>
+      <EnglishText>Aqueles Gajuma que quebraram as
+espadas que fiz vieram pedir
+desculpas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -503,8 +498,8 @@ here to apologize...</EnglishText>
       <PointerOffset>3971</PointerOffset>
       <JapaneseText>変に目くじら立てても、
 なんかかっこ悪いなと思ってさ。</JapaneseText>
-      <EnglishText>Would've been petty if I
-made a big deal out of it.</EnglishText>
+      <EnglishText>Seria mesquinho fazer
+alvoroço por isso.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -514,8 +509,8 @@ made a big deal out of it.</EnglishText>
       <PointerOffset>4051</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;の仲間だろうと、
 なんだろうと、ガジュマは帰れ！</JapaneseText>
-      <EnglishText>I don't care if you're &lt;Tytree&gt;'s
-friend or whatever, LEAVE!</EnglishText>
+      <EnglishText>Não importa se é amigo do
+&lt;Tytree&gt; ou o que for, FORA!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>
@@ -525,9 +520,9 @@ friend or whatever, LEAVE!</EnglishText>
       <PointerOffset>4090</PointerOffset>
       <JapaneseText>根性の曲がったガジュマなんかと
 旅してるとおまえの根性も曲がるぜ！</JapaneseText>
-      <EnglishText>Traveling with Gajuma is
-just gonna make you as
-twisted as they are!</EnglishText>
+      <EnglishText>Viajar com Gajuma só vai
+fazer você ficar tão
+torto quanto eles!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>40</Id>
@@ -537,7 +532,7 @@ twisted as they are!</EnglishText>
       <PointerOffset>4112</PointerOffset>
       <JapaneseText>さっさと
 帰ってこい！</JapaneseText>
-      <EnglishText>LEAVE!</EnglishText>
+      <EnglishText>FORA!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>41</Id>
@@ -547,9 +542,9 @@ twisted as they are!</EnglishText>
       <PointerOffset>4148</PointerOffset>
       <JapaneseText>ガジュマと一緒に旅してる
 ヒューマにも剣は作りたくないな。</JapaneseText>
-      <EnglishText>I don't want you using my
-swords if you're traveling
-with a Gajuma.</EnglishText>
+      <EnglishText>Não quero que use minhas
+espadas se está viajando
+com um Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>42</Id>
@@ -560,9 +555,9 @@ with a Gajuma.</EnglishText>
       <JapaneseText>あんたらに恨みはないが、
 そういう事だ。
 帰った帰った。</JapaneseText>
-      <EnglishText>I don't really hate you guys,
-but that's just how it is.
-Now go somewhere else.</EnglishText>
+      <EnglishText>Não é que eu odeie vocês,
+mas é assim que são as coisas.
+Agora vão pra outro lugar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>43</Id>
@@ -572,8 +567,8 @@ Now go somewhere else.</EnglishText>
       <PointerOffset>4209</PointerOffset>
       <JapaneseText>……なんだよ、これ……
 家全体がびりびり言ってるぞ？</JapaneseText>
-      <EnglishText>Wh-what the hell...? The
-whole house is shaking?</EnglishText>
+      <EnglishText>Q-Que diabos...? A casa
+inteira tá tremendo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>44</Id>
@@ -584,10 +579,9 @@ whole house is shaking?</EnglishText>
       <JapaneseText>弟はセレーナに熱を上げてるが、
 俺は剣作りさえあれば、
 愛なんていらん！</JapaneseText>
-      <EnglishText>My little brother's head over
-heels for Selena, but I have
-no need for love as long as
-I'm making swords!</EnglishText>
+      <EnglishText>Meu irmãozinho é louco pela
+Selena, mas eu não preciso de
+amor enquanto eu forjar espadas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>45</Id>
@@ -596,7 +590,7 @@ I'm making swords!</EnglishText>
     <Entry>
       <PointerOffset>4295</PointerOffset>
       <JapaneseText>俺は、このかまどが恋人だ！</JapaneseText>
-      <EnglishText>This forge is my girlfriend!</EnglishText>
+      <EnglishText>Esta forja é a minha namorada!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>46</Id>
@@ -606,8 +600,8 @@ I'm making swords!</EnglishText>
       <PointerOffset>4320</PointerOffset>
       <JapaneseText>弟の奴、セレーナに
 熱を上げてるみたいだ。</JapaneseText>
-      <EnglishText>Apparently my little brother
-has a crush on Selena.</EnglishText>
+      <EnglishText>Parece que o meu irmãozinho
+tem uma queda pela Selena.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>47</Id>
@@ -619,10 +613,9 @@ has a crush on Selena.</EnglishText>
 セレーナの事を言ったら、
 うまくいくもんもダメになるに
 決まってるのに……</JapaneseText>
-      <EnglishText>What a dumbass. Things
-aren't gonna go well for
-him if he talks about
-her in front of &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Que idiota. As coisas não vão
+dar certo pra ele se falar dela
+na frente do &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>48</Id>
@@ -632,8 +625,8 @@ her in front of &lt;Tytree&gt;.</EnglishText>
       <PointerOffset>4364</PointerOffset>
       <JapaneseText>俺みたいに……いやいや……
 ……忘れてくれよ。</JapaneseText>
-      <EnglishText>I tried that once and...
-Ah, nevermind...</EnglishText>
+      <EnglishText>Eu tentei uma vez e...
+Ah, deixa pra lá...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>49</Id>
@@ -644,9 +637,9 @@ Ah, nevermind...</EnglishText>
       <JapaneseText>弟は俺の事を
 剣作りの名人だっていうけど、
 まだまだ修行が足りないな。</JapaneseText>
-      <EnglishText>My brother calls me an expert
-in swordsmithing, but I've
-still got a long ways to go.</EnglishText>
+      <EnglishText>Meu irmão diz que sou expert em
+forjar espadas, mas ainda tenho
+muito chão pela frente.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>50</Id>
@@ -656,9 +649,8 @@ still got a long ways to go.</EnglishText>
       <PointerOffset>4411</PointerOffset>
       <JapaneseText>店で売ってる剣使ったら
 感想、聞かせてくれよな。</JapaneseText>
-      <EnglishText>If you buy one of my swords,
-let me know what you think
-about it.</EnglishText>
+      <EnglishText>Se comprar uma espada minha,
+me diga o que achou dela.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>51</Id>
@@ -672,8 +664,8 @@ about it.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;
 俺たちでセレーナを
 助けに行ければいいんだが……</JapaneseText>
-      <EnglishText>We'd come with you to
-save Selena, but...</EnglishText>
+      <EnglishText>Nós iríamos com vocês salvar
+a Selena, mas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>52</Id>
@@ -683,8 +675,8 @@ save Selena, but...</EnglishText>
       <PointerOffset>908</PointerOffset>
       <JapaneseText>正直、俺の剣の腕で、
 セレーナを取り戻せるか……</JapaneseText>
-      <EnglishText>To be honest, saving her with
-my sword skills is...yeah...</EnglishText>
+      <EnglishText>Pra ser sincero, salvá-la com
+minha espada é...pois é...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
@@ -694,8 +686,8 @@ my sword skills is...yeah...</EnglishText>
       <PointerOffset>930</PointerOffset>
       <JapaneseText>俺たちって、剣作るのは得意だけど、
 使うのはそれほどでもないからさ……</JapaneseText>
-      <EnglishText>We're good at making swords,
-but that's just about it...</EnglishText>
+      <EnglishText>Somos bons em fazer espadas,
+mas só isso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>54</Id>
@@ -705,8 +697,8 @@ but that's just about it...</EnglishText>
       <PointerOffset>955</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;は
 本当に姉貴っ子だからな……</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s way too obsessed
-with his sister...</EnglishText>
+      <EnglishText>O &lt;Tytree&gt; é obcecado demais
+pela irmã...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>55</Id>
@@ -717,8 +709,8 @@ with his sister...</EnglishText>
       <JapaneseText>……セレーナ……
 無事でいてくれれば
 いいけど……</JapaneseText>
-      <EnglishText>I hope Selena is unharmed,
-at the very least...</EnglishText>
+      <EnglishText>Espero que a Selena esteja
+ilesa, pelo menos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
@@ -730,9 +722,9 @@ at the very least...</EnglishText>
 セレーナの事は
 俺が守るから心配すんな。
 </JapaneseText>
-      <EnglishText>Don't you worry about
-your sister, &lt;Tytree&gt;.
-I'll protect her.</EnglishText>
+      <EnglishText>Não se preocupe com a sua
+irmã, &lt;Tytree&gt;.
+Eu vou protegê-la.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
@@ -742,9 +734,9 @@ I'll protect her.</EnglishText>
       <PointerOffset>1080</PointerOffset>
       <JapaneseText>相変わらずだな……
 いいかげん独り立ちしろよ。</JapaneseText>
-      <EnglishText>I see you haven't changed
-a bit... You need to learn
-how to live your own life.</EnglishText>
+      <EnglishText>Vejo que você não mudou nada...
+Precisa aprender a viver a
+sua própria vida.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>58</Id>
@@ -754,9 +746,9 @@ how to live your own life.</EnglishText>
       <PointerOffset>1122</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;は、セレーナにべったりで、
 俺たちとは、話すらさせてくれないんだ。</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s so obsessed with his
-sister that he won't let any
-other guy talk to her.</EnglishText>
+      <EnglishText>O &lt;Tytree&gt; é tão obcecado pela
+irmã que não deixa nenhum outro
+cara falar com ela.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>59</Id>
@@ -767,9 +759,9 @@ other guy talk to her.</EnglishText>
       <JapaneseText>でも……&lt;Tytree&gt;が
 旅に出てる今がチャンスさ。
 今のうちに……</JapaneseText>
-      <EnglishText>But now that he's traveling with
-you guys... I might just get an
-opportunity to do so...</EnglishText>
+      <EnglishText>Mas agora que ele tá viajando
+com vocês... Talvez eu arrume
+uma chance de falar com ela...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>60</Id>
@@ -779,8 +771,8 @@ opportunity to do so...</EnglishText>
       <PointerOffset>1166</PointerOffset>
       <JapaneseText>あ……&lt;Tytree&gt;には
 秘密だからな。</JapaneseText>
-      <EnglishText>Oh, uhh... Keep that a
-secret from him, all right?</EnglishText>
+      <EnglishText>Ah, hã... Não conta isso pra
+ele, tá bom?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>61</Id>
@@ -791,8 +783,8 @@ secret from him, all right?</EnglishText>
       <JapaneseText>よう、&lt;Tytree&gt;、
 巡回に行かなくていいのか？
 </JapaneseText>
-      <EnglishText>Yo, &lt;Tytree&gt;, aren't you
-supposed to be on patrol?</EnglishText>
+      <EnglishText>Ei, &lt;Tytree&gt;, você não devia
+estar de patrulha?</EnglishText>
       <Notes>aren't you on patrol?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>62</Id>
@@ -802,7 +794,7 @@ supposed to be on patrol?</EnglishText>
       <PointerOffset>1245</PointerOffset>
       <JapaneseText>セレーナさんが
 待ってるんだろ？</JapaneseText>
-      <EnglishText>Your sister's waiting, you know.</EnglishText>
+      <EnglishText>Sua irmã tá esperando, sabia?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>63</Id>
@@ -814,9 +806,9 @@ supposed to be on patrol?</EnglishText>
 ヒトはどうしてガジュマとヒューマに
 分かれているんだろう。
 </JapaneseText>
-      <EnglishText>There are two things that have been
-on my mind lately... Why is Mankind
-divided between Huma and Gajuma?</EnglishText>
+      <EnglishText>Duas dúvidas me intrigam:
+por que a humanidade se divide
+em Huma e Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
@@ -828,9 +820,8 @@ divided between Huma and Gajuma?</EnglishText>
 なんでこの世のヒトは
 男と女に分かれてるんだろうって事だ。
 </JapaneseText>
-      <EnglishText>And why are they
-also divided into
-men and women?</EnglishText>
+      <EnglishText>E por que também se divide
+em homens e mulheres?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>65</Id>
@@ -840,8 +831,8 @@ men and women?</EnglishText>
       <PointerOffset>1353</PointerOffset>
       <JapaneseText>セレーナ……はあ……
 切ないな……</JapaneseText>
-      <EnglishText>Oh, Selena... How
-I long for you...</EnglishText>
+      <EnglishText>Ah, Selena... Como
+eu sinto a sua falta...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
@@ -851,8 +842,8 @@ I long for you...</EnglishText>
       <PointerOffset>1392</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;……
 いいかげん姉ばなれしてくれ……</JapaneseText>
-      <EnglishText>Oh, give it up already,
-would you?</EnglishText>
+      <EnglishText>Ah, desiste logo,
+vai?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>67</Id>
@@ -863,7 +854,7 @@ would you?</EnglishText>
       <JapaneseText>どうしてこの世にガジュマが
 いるのか？
 </JapaneseText>
-      <EnglishText>Why do Gajuma exist?</EnglishText>
+      <EnglishText>Por que existem Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>68</Id>
@@ -875,9 +866,9 @@ would you?</EnglishText>
 どうしてヒューマがいるか、
 考えた事はあるか？
 </JapaneseText>
-      <EnglishText>Though I take it you
-might be wondering
-why Huma exist.</EnglishText>
+      <EnglishText>Embora imagine que você
+possa estar se perguntando
+por que existem Huma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>69</Id>
@@ -889,10 +880,9 @@ why Huma exist.</EnglishText>
 なんでこの世のヒトは
 男と女に分かれてるんだろう。
 </JapaneseText>
-      <EnglishText>There are two things that
-have been on my mind lately...
-Why is Mankind divided into
-men and women?</EnglishText>
+      <EnglishText>Duas dúvidas me intrigam:
+por que a humanidade se divide
+em homens e mulheres?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>70</Id>
@@ -904,8 +894,8 @@ men and women?</EnglishText>
 どうしてガジュマとヒューマに
 分かれているんだろうって事だ。
 </JapaneseText>
-      <EnglishText>And why is it also divided
-into Huma and Gajuma?</EnglishText>
+      <EnglishText>E por que também se divide
+em Huma e Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>71</Id>
@@ -917,9 +907,9 @@ into Huma and Gajuma?</EnglishText>
 後者はどれだけ考えても
 よくわからない……
 </JapaneseText>
-      <EnglishText>For the former, uh... Anyway,
-for the latter, I can't really
-think of a good answer.</EnglishText>
+      <EnglishText>Quanto à primeira, hã... Enfim,
+quanto à segunda, não consigo
+pensar numa boa resposta.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>72</Id>
@@ -930,10 +920,10 @@ think of a good answer.</EnglishText>
       <JapaneseText>工場にガジュマが増えて、
 ずいぶんセレーナも
 苦労してるみたいだぞ。</JapaneseText>
-      <EnglishText>Selena must be having a
-hard time with all those
-new Gajuma workers at
-the factory.</EnglishText>
+      <EnglishText>A Selena deve estar com
+dificuldade com todos esses
+novos trabalhadores Gajuma
+na fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>73</Id>
@@ -943,8 +933,8 @@ the factory.</EnglishText>
       <PointerOffset>1607</PointerOffset>
       <JapaneseText>俺も兄貴の手伝いがなければ、
 すぐにでも工場へ行ってやるのにな……</JapaneseText>
-      <EnglishText>If I wasn't helping my brother,
-I'd go over there and help her...</EnglishText>
+      <EnglishText>Se eu não estivesse ajudando meu
+irmão, iria até lá ajudá-la...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>74</Id>
@@ -954,8 +944,8 @@ I'd go over there and help her...</EnglishText>
       <PointerOffset>1646</PointerOffset>
       <JapaneseText>なんだよ、俺がセレーナの相手じゃ
 役者不足だってか？</JapaneseText>
-      <EnglishText>What? You think I'm not good
-enough to be with her?</EnglishText>
+      <EnglishText>O quê? Acha que não sou bom
+o bastante pra ficar com ela?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>75</Id>
@@ -965,8 +955,8 @@ enough to be with her?</EnglishText>
       <PointerOffset>1713</PointerOffset>
       <JapaneseText>あ……すまん……
 最近、ガジュマの顔を見ると……</JapaneseText>
-      <EnglishText>Oh, sorry... It's just lately
-when I see a Gajuma...</EnglishText>
+      <EnglishText>Ah, desculpa... É que, quando
+vejo um Gajuma ultimamente...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>76</Id>
@@ -976,10 +966,10 @@ when I see a Gajuma...</EnglishText>
       <PointerOffset>1735</PointerOffset>
       <JapaneseText>工場のガジュマが増えて、
 色々大変だと聞いたせいか……</JapaneseText>
-      <EnglishText>It's just that I heard the factory
-has been having a lot more
-problems ever since more Gajuma
-started working there.</EnglishText>
+      <EnglishText>É que ouvi dizer que a fábrica tem
+tido muito mais problemas desde
+que mais Gajuma começaram a
+trabalhar lá.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>77</Id>
@@ -990,9 +980,8 @@ started working there.</EnglishText>
       <JapaneseText>なあ、あんたら、
 連れのガジュマに
 腹立つ事はないか？</JapaneseText>
-      <EnglishText>Hey, does your
-Gajuma companion
-ever piss you off?</EnglishText>
+      <EnglishText>Ei, seu companheiro Gajuma
+nunca te tira do sério?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>78</Id>
@@ -1002,9 +991,8 @@ ever piss you off?</EnglishText>
       <PointerOffset>1782</PointerOffset>
       <JapaneseText>俺なんか……最近……
 腹の立つ事が多くてさ……</JapaneseText>
-      <EnglishText>Because lately... I've
-been getting pissed
-off a lot...</EnglishText>
+      <EnglishText>Porque ultimamente... eu
+tenho me irritado muito...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>79</Id>
@@ -1014,9 +1002,9 @@ off a lot...</EnglishText>
       <PointerOffset>1846</PointerOffset>
       <JapaneseText>ガジュマを見ると
 嫌悪感と拒否感を感じるんだ。</JapaneseText>
-      <EnglishText>Whenever I see Gajuma, I
-feel repulsed and don't
-want to be around them.</EnglishText>
+      <EnglishText>Sempre que vejo Gajuma, sinto
+repulsa e não quero ficar
+perto deles.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>80</Id>
@@ -1026,9 +1014,8 @@ want to be around them.</EnglishText>
       <PointerOffset>1868</PointerOffset>
       <JapaneseText>今までこの街にガジュマが
 少なかったせいかな。</JapaneseText>
-      <EnglishText>Maybe it's because there
-used to not be so many
-of them here?</EnglishText>
+      <EnglishText>Será que é porque antes não
+havia tantos deles aqui?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>81</Id>
@@ -1038,10 +1025,9 @@ of them here?</EnglishText>
       <PointerOffset>1890</PointerOffset>
       <JapaneseText>他の街を旅してみて、
 おまえも同じように感じたんじゃないか？</JapaneseText>
-      <EnglishText>Have you been feeling the
-same thing as you've been
-traveling around to different
-towns?</EnglishText>
+      <EnglishText>Você também tem sentido isso
+viajando por diferentes
+cidades?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>82</Id>
@@ -1052,8 +1038,8 @@ towns?</EnglishText>
       <JapaneseText>うっ……
 あっち行ってくれ……
 あっち行けっ……！</JapaneseText>
-      <EnglishText>Ugh... Please go
-somewhere else.</EnglishText>
+      <EnglishText>Ugh... Por favor, vá pra
+outro lugar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>83</Id>
@@ -1063,8 +1049,8 @@ somewhere else.</EnglishText>
       <PointerOffset>1990</PointerOffset>
       <JapaneseText>ガジュマの顔を見ると、
 吐き気を覚えるんだ……</JapaneseText>
-      <EnglishText>Gajuma make me
-want to hurl...</EnglishText>
+      <EnglishText>Os Gajuma me dão
+vontade de vomitar...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>84</Id>
@@ -1075,9 +1061,9 @@ want to hurl...</EnglishText>
       <JapaneseText>生理的なものだから
 どうしようもないんだ……
 あっち行ってくれ……</JapaneseText>
-      <EnglishText>I can't control my physical
-responses, so...
-Please just go away...</EnglishText>
+      <EnglishText>Não consigo controlar minhas
+reações físicas, então...
+Por favor, vá embora...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>85</Id>
@@ -1087,8 +1073,8 @@ Please just go away...</EnglishText>
       <PointerOffset>2042</PointerOffset>
       <JapaneseText>なんでこの国の王様は
 ガジュマなんだろうな。</JapaneseText>
-      <EnglishText>I wonder why our country's
-ruler is a Gajuma.</EnglishText>
+      <EnglishText>Por que será que o governante do
+nosso país é Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>86</Id>
@@ -1098,8 +1084,8 @@ ruler is a Gajuma.</EnglishText>
       <PointerOffset>2064</PointerOffset>
       <JapaneseText>一度くらいヒューマがなっても
 いいんじゃないのか？</JapaneseText>
-      <EnglishText>Like, wouldn't it be better
-if we had a Huma ruler?</EnglishText>
+      <EnglishText>Tipo, não seria melhor termos
+um governante Huma?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>87</Id>
@@ -1110,10 +1096,10 @@ if we had a Huma ruler?</EnglishText>
       <JapaneseText>ベルサスでアガーテ女王が
 処刑されていれば……
 なんて考える俺は不謹慎なのか？</JapaneseText>
-      <EnglishText>If only Queen Agarte got
-executed in Belsas... I guess
-that's not really an appropriate
-train of thought though...</EnglishText>
+      <EnglishText>Se ao menos a Rainha Agarte
+tivesse sido executada em
+Belsas... Acho que não é um
+pensamento muito apropriado...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>88</Id>
@@ -1123,9 +1109,8 @@ train of thought though...</EnglishText>
       <PointerOffset>2148</PointerOffset>
       <JapaneseText>かわいい女の子が
 工場で騒ぎを起こしたんだって。</JapaneseText>
-      <EnglishText>I heard that a cute girl
-caused a disturbance at
-the factory.</EnglishText>
+      <EnglishText>Soube que uma garota fofa causou
+um alvoroço na fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>89</Id>
@@ -1135,8 +1120,8 @@ the factory.</EnglishText>
       <PointerOffset>2170</PointerOffset>
       <JapaneseText>なんでも、偉そうな態度の
 女の子だったってさ。</JapaneseText>
-      <EnglishText>Apparently she was
-being really bossy.</EnglishText>
+      <EnglishText>Parece que ela estava
+mandando em todo mundo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>90</Id>
@@ -1146,8 +1131,8 @@ being really bossy.</EnglishText>
       <PointerOffset>2192</PointerOffset>
       <JapaneseText>セレーナから
 何か聞いてないか？</JapaneseText>
-      <EnglishText>Has Selena told you
-about it yet?</EnglishText>
+      <EnglishText>A Selena já te contou
+sobre isso?</EnglishText>
       <Notes>Did Selena give you the details?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>91</Id>
@@ -1158,9 +1143,9 @@ about it yet?</EnglishText>
       <JapaneseText>……ガジュマ……
 ……だ、ダメだ……
 あっち行ってくれ……</JapaneseText>
-      <EnglishText>I really can't stand being
-around Gajuma... Please
-go somewhere else...</EnglishText>
+      <EnglishText>Eu realmente não suporto ficar
+perto de Gajuma... Por favor,
+vá pra outro lugar...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>92</Id>
@@ -1170,8 +1155,8 @@ go somewhere else...</EnglishText>
       <PointerOffset>2255</PointerOffset>
       <JapaneseText>工場の連中はガジュマを
 誤解してたって言ってたけど……</JapaneseText>
-      <EnglishText>The factory workers said that they
-misunderstood the Gajuma, but...</EnglishText>
+      <EnglishText>Os operários disseram que
+entenderam mal os Gajuma, mas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>93</Id>
@@ -1181,8 +1166,8 @@ misunderstood the Gajuma, but...</EnglishText>
       <PointerOffset>2277</PointerOffset>
       <JapaneseText>まだ俺はガジュマに
 抵抗感があるな……</JapaneseText>
-      <EnglishText>I still have reservations
-towards the Gajuma...</EnglishText>
+      <EnglishText>Eu ainda tenho receio dos
+Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>94</Id>
@@ -1191,8 +1176,8 @@ towards the Gajuma...</EnglishText>
     <Entry>
       <PointerOffset>2299</PointerOffset>
       <JapaneseText>慣れなきゃいけないのかなあ……</JapaneseText>
-      <EnglishText>Maybe I just need to
-get used to them...?</EnglishText>
+      <EnglishText>Talvez eu só precise me
+acostumar...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>95</Id>
@@ -1202,8 +1187,8 @@ get used to them...?</EnglishText>
       <PointerOffset>2338</PointerOffset>
       <JapaneseText>みんな、&lt;Tytree&gt;の帰りを
 待ってるんだ。</JapaneseText>
-      <EnglishText>Everyone's waiting for you
-to come back, &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Todo mundo tá esperando você
+voltar, &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>96</Id>
@@ -1213,8 +1198,8 @@ to come back, &lt;Tytree&gt;.</EnglishText>
       <PointerOffset>2360</PointerOffset>
       <JapaneseText>もうおまえがいなきゃ、
 この街は前みたいに戻れない……</JapaneseText>
-      <EnglishText>This town just isn't the
-same without you around...</EnglishText>
+      <EnglishText>Esta cidade não é a mesma
+sem você por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>97</Id>
@@ -1223,7 +1208,7 @@ same without you around...</EnglishText>
     <Entry>
       <PointerOffset>2398</PointerOffset>
       <JapaneseText>あっち行ってくれ……</JapaneseText>
-      <EnglishText>Please...leave...</EnglishText>
+      <EnglishText>Por favor...vá embora...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>98</Id>
@@ -1234,10 +1219,9 @@ same without you around...</EnglishText>
       <JapaneseText>前みたいにガジュマに
 吐き気を覚える事はなくなったけど、
 拒否感だけは残ったよ。</JapaneseText>
-      <EnglishText>I don't feel as sick as I used to
-when in the presence of Gajuma,
-but my feelings of apprehension
-are still there.</EnglishText>
+      <EnglishText>Não passo mais tão mal perto de
+Gajuma como antes, mas o meu
+receio ainda continua.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>99</Id>
@@ -1248,9 +1232,9 @@ are still there.</EnglishText>
       <JapaneseText>ガジュマは粗暴だし、
 ワガママ言い放題だから……
 工場の連中がぼやいてたよ。</JapaneseText>
-      <EnglishText>I overheard some guys from
-the factory talking about how
-rude and selfish Gajuma are.</EnglishText>
+      <EnglishText>Ouvi uns caras da fábrica falando
+como os Gajuma são rudes e
+egoístas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>100</Id>
@@ -1260,8 +1244,8 @@ rude and selfish Gajuma are.</EnglishText>
       <PointerOffset>2467</PointerOffset>
       <JapaneseText>やっぱり受けつけがたい
 存在だよな。</JapaneseText>
-      <EnglishText>I still can't bring
-myself to accept them.</EnglishText>
+      <EnglishText>Ainda não consigo
+aceitá-los.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>101</Id>
@@ -1271,9 +1255,8 @@ myself to accept them.</EnglishText>
       <PointerOffset>2506</PointerOffset>
       <JapaneseText>すごい音がしてるけど……
 大丈夫なのか……!?</JapaneseText>
-      <EnglishText>This noise is so loud...
-I wonder what's going
-on...?!</EnglishText>
+      <EnglishText>Que barulho alto... O que será
+que está acontecendo...?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>102</Id>
@@ -1284,9 +1267,9 @@ on...?!</EnglishText>
       <JapaneseText>……&lt;Tytree&gt;が一人前になるまでは
 誰とも結婚する気分にはなれないって
 セレーナに言われたよ……</JapaneseText>
-      <EnglishText>...Selena told me that she's not
-getting married until you can
-support yourself...</EnglishText>
+      <EnglishText>...A Selena me disse que só vai
+se casar quando você conseguir se
+sustentar...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>103</Id>
@@ -1295,8 +1278,8 @@ support yourself...</EnglishText>
     <Entry>
       <PointerOffset>2592</PointerOffset>
       <JapaneseText>おまえ、もう帰ってこなくていいや。</JapaneseText>
-      <EnglishText>So maybe you can
-just not come back.</EnglishText>
+      <EnglishText>Então talvez você
+não devesse voltar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>104</Id>
@@ -1306,8 +1289,8 @@ just not come back.</EnglishText>
       <PointerOffset>2631</PointerOffset>
       <JapaneseText>冗談だってば。
 怒るなよ……</JapaneseText>
-      <EnglishText>Just kidding. Don't take
-it so personally...</EnglishText>
+      <EnglishText>Brincadeira. Não leve
+tão a sério...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>105</Id>
@@ -1316,7 +1299,7 @@ it so personally...</EnglishText>
     <Entry>
       <PointerOffset>2669</PointerOffset>
       <JapaneseText>こ、こんにちは……！</JapaneseText>
-      <EnglishText>H-Hello!</EnglishText>
+      <EnglishText>O-Olá!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>106</Id>
@@ -1326,7 +1309,7 @@ it so personally...</EnglishText>
       <PointerOffset>2691</PointerOffset>
       <JapaneseText>……よし……
 挨拶はできた、と……</JapaneseText>
-      <EnglishText>Nice...! I managed to say hello...</EnglishText>
+      <EnglishText>Boa...! Consegui dizer olá...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>107</Id>
@@ -1337,10 +1320,9 @@ it so personally...</EnglishText>
       <JapaneseText>少しずつガジュマに対する
 抵抗感をなくして、
 慣れていくようにしようと思ってるんだ。</JapaneseText>
-      <EnglishText>I'm trying to get over my
-revulsion towards Gajuma so
-I can get used to being
-around them.</EnglishText>
+      <EnglishText>Estou tentando superar minha
+repulsa por Gajuma pra me
+acostumar a ficar perto deles.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>108</Id>
@@ -1350,8 +1332,8 @@ around them.</EnglishText>
       <PointerOffset>2738</PointerOffset>
       <JapaneseText>でも、まだ少し
 ぎこちないか……？</JapaneseText>
-      <EnglishText>But I guess I still feel
-iffy around them...?</EnglishText>
+      <EnglishText>Mas acho que ainda fico
+meio desconfortável...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>109</Id>
@@ -1362,9 +1344,9 @@ iffy around them...?</EnglishText>
       <JapaneseText>うちの兄貴は剣匠なんだ。
 武器屋に行けば、
 兄貴の作った剣が買えるぜ。</JapaneseText>
-      <EnglishText>My older brother's a swordsmith! If
-you head over to the weapons shop,
-you can buy some of his handiwork!</EnglishText>
+      <EnglishText>Meu irmão mais velho é ferreiro!
+Se forem à loja de armas, podem
+comprar algumas das espadas dele!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>110</Id>
@@ -1374,7 +1356,7 @@ you can buy some of his handiwork!</EnglishText>
       <PointerOffset>2785</PointerOffset>
       <JapaneseText>ちなみに剣匠ってのは、
 剣作りの名人の事さ。</JapaneseText>
-      <EnglishText>He's an expert at what he does!</EnglishText>
+      <EnglishText>Ele é craque no que faz!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>111</Id>
@@ -1388,9 +1370,9 @@ you can buy some of his handiwork!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>112</Id>
@@ -1412,17 +1394,17 @@ No</EnglishText>
 　チェインメイル
 　チェインプレート　６枚
 　防具屋　質実剛健様」</JapaneseText>
-      <EnglishText>&lt;speed:0&gt; - Itinerary -
-"This month's plans:
-        
- Defender - 4 Units
- Fleury - 6 Units
- For the Weapon Shop: Discipline
+      <EnglishText>&lt;speed:0&gt; - Agenda -
+"Planos deste mês:
 
- Chain Armor
- Chainmail
- Chain Plate - 6 each
- For the Armor Shop: Sincerity"</EnglishText>
+Defender - 4 Unidades
+Fleury - 6 Unidades
+Loja de Armas: Discipline
+
+Chain Armor
+Chainmail
+Chain Plate - 6 cada
+Loja de Armaduras: Sincerity"</EnglishText>
       <Notes>need these names checked</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>113</Id>
@@ -1436,9 +1418,9 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『試作品の棚』
 試作品の剣や防具などが
 ところ狭しと置かれている。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Shelf of Prototypes -
-Prototype swords and armor
-are stored on this narrow shelf.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Prateleira de Protótipos -
+Protótipos de espadas e armaduras
+ficam nesta prateleira estreita.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>114</Id>
@@ -1453,9 +1435,9 @@ are stored on this narrow shelf.</EnglishText>
 張り紙がしてある。
 「危険、触るな」
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt; - Large Barrel -
-"DANGER DON'T TOUCH"
-Is boldly written on it.</EnglishText>
+      <EnglishText>&lt;speed:0&gt; - Barril Grande -
+"PERIGO NÃO TOQUE"
+Está escrito em letras grandes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>115</Id>
@@ -1465,8 +1447,8 @@ Is boldly written on it.</EnglishText>
       <PointerOffset>567</PointerOffset>
       <JapaneseText>コワいな……
 何が入ってるの……？</JapaneseText>
-      <EnglishText>I'm scared... I wonder
-what's inside...</EnglishText>
+      <EnglishText>Tô com medo... O que será que
+tem dentro?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>116</Id>
@@ -1475,8 +1457,8 @@ what's inside...</EnglishText>
     <Entry>
       <PointerOffset>607</PointerOffset>
       <JapaneseText>触るくらい、いいよな……</JapaneseText>
-      <EnglishText>Just a little touch should
-be fine, right...?</EnglishText>
+      <EnglishText>Um toquezinho só não
+tem problema, né...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>117</Id>
@@ -1485,8 +1467,8 @@ be fine, right...?</EnglishText>
     <Entry>
       <PointerOffset>663</PointerOffset>
       <JapaneseText>触るなよ!!</JapaneseText>
-      <EnglishText>KEEP YOUR HANDS
-OFF THAT!</EnglishText>
+      <EnglishText>TIRE AS MÃOS
+DISSO!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>118</Id>
@@ -1495,8 +1477,8 @@ OFF THAT!</EnglishText>
     <Entry>
       <PointerOffset>680</PointerOffset>
       <JapaneseText>触るなよ!!</JapaneseText>
-      <EnglishText>KEEP YOUR HANDS
-OFF THAT!</EnglishText>
+      <EnglishText>TIRE AS MÃOS
+DISSO!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>119</Id>
@@ -1511,9 +1493,9 @@ OFF THAT!</EnglishText>
 窯の燃料のようなものが
 入っている。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt; - Wooden Crate -
-There's fuel for the
-stove in it.</EnglishText>
+      <EnglishText>&lt;speed:0&gt; - Caixote de Madeira -
+Tem combustível para o
+fogão aí dentro.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>120</Id>

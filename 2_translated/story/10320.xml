@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,425,1621,1228,1228,1228,1228,1228,1228,1228,1228,1228,1228,1228,1228,1228</PointerOffset>
       <JapaneseText>工場長</JapaneseText>
-      <EnglishText>Manager</EnglishText>
+      <EnglishText>Gerente</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>152</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>149</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -69,10 +69,9 @@
       <JapaneseText>ナカコ鉱石？　ああ。
 今ではあまり見ない鉱石だよ。
 あの鉱石がどうかしたのかい？</JapaneseText>
-      <EnglishText>Nakako ore? I know of it.
-It's an ore you don't see
-much of these days. What
-do you need it for?</EnglishText>
+      <EnglishText>Nakako ore? Conheço, sim. É um
+minério difícil de achar hoje em
+dia. Pra que vocês precisam dele?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -81,7 +80,7 @@ do you need it for?</EnglishText>
     <Entry>
       <PointerOffset>1666</PointerOffset>
       <JapaneseText>はい、実は……</JapaneseText>
-      <EnglishText>Well, you see...</EnglishText>
+      <EnglishText>Bem, veja...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -92,8 +91,8 @@ do you need it for?</EnglishText>
       <JapaneseText>……なるほど。
 その少年を救うために
 ナカコ鉱石が必要なのか。</JapaneseText>
-      <EnglishText>...I see. You need it
-to save that little boy.</EnglishText>
+      <EnglishText>...Entendo. Precisa dele para
+salvar aquele menininho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -103,7 +102,7 @@ to save that little boy.</EnglishText>
       <PointerOffset>1734</PointerOffset>
       <JapaneseText>しかし、あれは珍しい
 鉱石だからな……</JapaneseText>
-      <EnglishText>But, it's such a rare ore...</EnglishText>
+      <EnglishText>Mas é um minério tão raro...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -114,9 +113,8 @@ to save that little boy.</EnglishText>
       <JapaneseText>あんたの知り合いなら、
 鉱石を持ってるヤツが
 いるんじゃないか？</JapaneseText>
-      <EnglishText>Isn't there anyone you know
-who might have some lying
-around?</EnglishText>
+      <EnglishText>Não tem ninguém que você conheça
+que possa ter um pouco por aí?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -125,7 +123,7 @@ around?</EnglishText>
     <Entry>
       <PointerOffset>1788</PointerOffset>
       <JapaneseText>頼むよ工場長、教えてくれ！</JapaneseText>
-      <EnglishText>Please, Boss, tell us!</EnglishText>
+      <EnglishText>Por favor, Chefe, conta pra gente!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -143,7 +141,7 @@ around?</EnglishText>
     <Entry>
       <PointerOffset>1934</PointerOffset>
       <JapaneseText>これを持って行きなさい。</JapaneseText>
-      <EnglishText>Take this with you.</EnglishText>
+      <EnglishText>Leve isto com você.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -152,7 +150,7 @@ around?</EnglishText>
     <Entry>
       <PointerOffset>2071</PointerOffset>
       <JapaneseText>これは……ナカコ鉱石!?</JapaneseText>
-      <EnglishText>This is...Nakako ore?!</EnglishText>
+      <EnglishText>Isto é...Nakako ore?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -162,8 +160,8 @@ around?</EnglishText>
       <PointerOffset>2093</PointerOffset>
       <JapaneseText>ナカコ鉱石は加工が難しいから、
 扱いには気をつけるようにな。</JapaneseText>
-      <EnglishText>Nakako ore is difficult to process,
-so handle it with care.</EnglishText>
+      <EnglishText>Nakako ore é difícil de processar,
+então manuseie com cuidado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -172,7 +170,7 @@ so handle it with care.</EnglishText>
     <Entry>
       <PointerOffset>2146</PointerOffset>
       <JapaneseText>ありがとうございます。</JapaneseText>
-      <EnglishText>Thank you.</EnglishText>
+      <EnglishText>Obrigado.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -183,9 +181,9 @@ so handle it with care.</EnglishText>
       <JapaneseText>ガジュマがなかなか
 言う事を聞いてくれなくて
 大変だが、一生懸命やっとる。</JapaneseText>
-      <EnglishText>I've been having problems with
-the Gajuma not listening to me,
-but I'm doing my best.</EnglishText>
+      <EnglishText>Estou tendo problemas com os
+Gajuma não me ouvindo, mas
+estou fazendo o possível.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -195,7 +193,7 @@ but I'm doing my best.</EnglishText>
       <PointerOffset>2461</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;、
 心配せんでくれ。</JapaneseText>
-      <EnglishText>Don't worry about a thing, &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Não se preocupe com nada, &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -205,8 +203,8 @@ but I'm doing my best.</EnglishText>
       <PointerOffset>2486</PointerOffset>
       <JapaneseText>こっちは大変ですが、
 なんとかやっております。</JapaneseText>
-      <EnglishText>Things are rough here,
-but we'll manage.</EnglishText>
+      <EnglishText>As coisas estão difíceis aqui,
+mas vamos dar um jeito.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -216,8 +214,8 @@ but we'll manage.</EnglishText>
       <PointerOffset>2508</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;の事、なにぶんにも
 よろしくお願いします。</JapaneseText>
-      <EnglishText>Thank you for watching
-out for &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Obrigado por cuidar do
+&lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -228,9 +226,8 @@ out for &lt;Tytree&gt;.</EnglishText>
       <JapaneseText>セレーナから聞いたよ、
 クレアさんという娘さんは
 おまえの知り合いらしいな。</JapaneseText>
-      <EnglishText>I heard from Selena that
-you're acquaintances with
-a girl named Claire.</EnglishText>
+      <EnglishText>Ouvi da Selena que vocês conhecem
+uma garota chamada Claire.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -241,9 +238,9 @@ a girl named Claire.</EnglishText>
       <JapaneseText>いや、メチャクチャな娘だが、
 あの娘のおかげでなんとか
 うまくいきそうだよ。</JapaneseText>
-      <EnglishText>While she's a bit reckless,
-she was able to help us
-work things out.</EnglishText>
+      <EnglishText>Embora seja um pouco imprudente,
+ela nos ajudou a resolver as
+coisas.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -254,9 +251,9 @@ work things out.</EnglishText>
       <JapaneseText>まだ少し賃金などの事で
 もめてはいますが、
 メドはつきそうです。</JapaneseText>
-      <EnglishText>There are still some disputes over
-things like wages, but things seem
-to be getting back on track.</EnglishText>
+      <EnglishText>Ainda há algumas disputas por
+coisas como salários, mas parece
+que tudo está voltando aos eixos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -266,8 +263,8 @@ to be getting back on track.</EnglishText>
       <PointerOffset>2627</PointerOffset>
       <JapaneseText>お知り合いの娘さんには
 大変世話になりましたよ。</JapaneseText>
-      <EnglishText>One of your acquaintances
-was of great help to me.</EnglishText>
+      <EnglishText>Alguém que vocês conhecem foi
+de grande ajuda para mim.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -276,7 +273,7 @@ was of great help to me.</EnglishText>
     <Entry>
       <PointerOffset>2682</PointerOffset>
       <JapaneseText>元気でやってるか？</JapaneseText>
-      <EnglishText>Are you doing okay?</EnglishText>
+      <EnglishText>Você está bem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -285,7 +282,7 @@ was of great help to me.</EnglishText>
     <Entry>
       <PointerOffset>2705</PointerOffset>
       <JapaneseText>もちろんだぜ！</JapaneseText>
-      <EnglishText>Of course!</EnglishText>
+      <EnglishText>Claro!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -295,8 +292,8 @@ was of great help to me.</EnglishText>
       <PointerOffset>2727</PointerOffset>
       <JapaneseText>工場のことは気にしなくて良いから
 仲間の力になってあげるんだぞ。</JapaneseText>
-      <EnglishText>You don't need to worry about
-the factory. Go help your friends.</EnglishText>
+      <EnglishText>Não precisa se preocupar com a
+fábrica. Vá ajudar seus amigos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -306,8 +303,8 @@ the factory. Go help your friends.</EnglishText>
       <PointerOffset>2752</PointerOffset>
       <JapaneseText>みなさん、&lt;Tytree&gt;を
 よろしくお願いします。</JapaneseText>
-      <EnglishText>Make sure &lt;Tytree&gt; doesn't
-get himself into trouble.</EnglishText>
+      <EnglishText>Veja se o &lt;Tytree&gt; não se
+mete em encrenca.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -316,8 +313,8 @@ get himself into trouble.</EnglishText>
     <Entry>
       <PointerOffset>1262</PointerOffset>
       <JapaneseText>工場のほうは順調かい？</JapaneseText>
-      <EnglishText>Is everything going smoothly
-here at the factory?</EnglishText>
+      <EnglishText>Está tudo indo bem aqui
+na fábrica?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -327,10 +324,9 @@ here at the factory?</EnglishText>
       <PointerOffset>1292</PointerOffset>
       <JapaneseText>ああ、工場の修復も終わって、
 ようやく仕事も波に乗り始めたよ。</JapaneseText>
-      <EnglishText>Sure is. Now that the factory's
-finished being repaired, I'm
-starting to get back into
-the groove of things.</EnglishText>
+      <EnglishText>Com certeza. Agora que a fábrica
+foi reparada, estou voltando ao
+ritmo das coisas.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -341,9 +337,9 @@ the groove of things.</EnglishText>
       <JapaneseText>ただ、ひとつ困った事があってな。
 新入りの若いのが、昨日から
 工場に来ないんだ……</JapaneseText>
-      <EnglishText>But I do have one problem.
-One of the youngsters I recently
-hired was a no-show yesterday.</EnglishText>
+      <EnglishText>Mas tenho um problema. Um dos
+jovens que contratei recentemente
+faltou ontem sem avisar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -354,10 +350,9 @@ hired was a no-show yesterday.</EnglishText>
       <JapaneseText>理由もよくわからないし、
 良かったらお前から
 話を聞いてやってくれないか？</JapaneseText>
-      <EnglishText>I don't know why he didn't
-show up, so if you have the
-time, would you be willing to
-go ask him about it?</EnglishText>
+      <EnglishText>Não sei por que ele não apareceu.
+Se tiver tempo, poderia ir
+perguntar a ele?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -367,8 +362,8 @@ go ask him about it?</EnglishText>
       <PointerOffset>773</PointerOffset>
       <JapaneseText>新入りの家は町に入った
 すぐのところだ。</JapaneseText>
-      <EnglishText>The new hire's house is
-right by the town entrance.</EnglishText>
+      <EnglishText>A casa do novato fica
+bem na entrada da cidade.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -379,10 +374,9 @@ right by the town entrance.</EnglishText>
       <JapaneseText>年頃も近いし、おまえになら
 理由を話すかもしれん……
 よろしくな。</JapaneseText>
-      <EnglishText>You might be better suited to
-asking him about it because
-you're about the same age.
-I'm counting on you.</EnglishText>
+      <EnglishText>Talvez você seja mais indicado
+para perguntar, já que têm
+a mesma idade. Conto com você.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -392,8 +386,8 @@ I'm counting on you.</EnglishText>
       <PointerOffset>826</PointerOffset>
       <JapaneseText>私が行っても謝るばかりで
 理由を教えてくれないんだ。</JapaneseText>
-      <EnglishText>Whenever I go, they just apologize
-to me without explaining why.</EnglishText>
+      <EnglishText>Sempre que eu vou, eles só pedem
+desculpas sem explicar o motivo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -404,9 +398,9 @@ to me without explaining why.</EnglishText>
       <JapaneseText>そんな事があったのか……
 どおりで工員たちに
 落ち着きがないと思ったんだ。</JapaneseText>
-      <EnglishText>So that's what happened... It's
-no wonder that the factory
-workers were so on edge.</EnglishText>
+      <EnglishText>Então foi isso... Não é à toa que
+os operários da fábrica estavam
+tão tensos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -417,9 +411,9 @@ workers were so on edge.</EnglishText>
       <JapaneseText>工場を私物化するなんて……
 ガップラには、後でたっぷりと
 お灸をすえさせてもらうよ。</JapaneseText>
-      <EnglishText>Utilizing a room in the factory for
-his own selfish needs... Gappler's
-going to get an earful from me!</EnglishText>
+      <EnglishText>Usar uma sala da fábrica para
+necessidades egoístas próprias...
+O Gappler vai ouvir poucas e boas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -429,9 +423,9 @@ going to get an earful from me!</EnglishText>
       <PointerOffset>930</PointerOffset>
       <JapaneseText>これで新入りも大丈夫だな。
 本当にありがとう。</JapaneseText>
-      <EnglishText>Now the new hire should
-be able to return to work.
-Thank you very much.</EnglishText>
+      <EnglishText>Agora o novato deve poder
+voltar ao trabalho.
+Muito obrigado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -441,10 +435,9 @@ Thank you very much.</EnglishText>
       <PointerOffset>955</PointerOffset>
       <JapaneseText>面倒をかけてすまない。
 新入りの事を頼んだぞ。</JapaneseText>
-      <EnglishText>Sorry for troubling you.
-I'm counting on you to
-find out what's wrong
-with the new hire.</EnglishText>
+      <EnglishText>Desculpe o incômodo. Conto
+com você para descobrir o que
+há com o novato.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>36</Id>
@@ -454,8 +447,8 @@ with the new hire.</EnglishText>
       <PointerOffset>2271</PointerOffset>
       <JapaneseText>オレに鉱石を見せてくれたのって
 工場長だったんだな？</JapaneseText>
-      <EnglishText>You were the one who showed
-me that ore, weren't you?</EnglishText>
+      <EnglishText>Foi você quem me mostrou
+aquele minério, não foi?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -466,9 +459,9 @@ me that ore, weren't you?</EnglishText>
       <JapaneseText>ああ。
 あの時はまだお前も小さくて
 目をまん丸にして驚いていたな。</JapaneseText>
-      <EnglishText>Yes. You were so little at
-the time and your eyes
-widened with amazement.</EnglishText>
+      <EnglishText>Sim. Você era tão pequeno
+na época e seus olhos se
+arregalaram de espanto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -479,9 +472,9 @@ widened with amazement.</EnglishText>
       <JapaneseText>私がお前にしてやれるのは
 こんなことくらいだ……
 早く少年を助けてあげなさい。</JapaneseText>
-      <EnglishText>This is about as much as I can
-do for you... Please save that
-boy, quickly.</EnglishText>
+      <EnglishText>É o máximo que posso fazer
+por vocês... Por favor, salvem
+aquele menino, rápido.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>
@@ -491,7 +484,7 @@ boy, quickly.</EnglishText>
       <PointerOffset>2340</PointerOffset>
       <JapaneseText>早く行って、少年を
 助けてあげなさい。</JapaneseText>
-      <EnglishText>Please hurry and save that boy.</EnglishText>
+      <EnglishText>Por favor, salvem aquele menino.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>40</Id>
@@ -505,9 +498,9 @@ boy, quickly.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
