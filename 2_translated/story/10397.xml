@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>282</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>279</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>417</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -102,9 +102,9 @@
       <JapaneseText>うん、間違いない。
 リブガロらしきバイラスが
 目撃されたのは、この先だ。</JapaneseText>
-      <EnglishText>Yes, this is the spot. There
-was an apparent sighting of
-the Livgaro a bit further in.</EnglishText>
+      <EnglishText>Sim, é aqui. Parece que viram
+o Livgaro um pouco mais
+adiante.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -115,8 +115,8 @@ the Livgaro a bit further in.</EnglishText>
       <VoiceId>1a000089</VoiceId>
       <JapaneseText>ねえ、フランツさん、
 リブガロってどんなヤツなの？</JapaneseText>
-      <EnglishText>Hey, Frantz, what kind
-of Birus is the Livgaro?</EnglishText>
+      <EnglishText>Ei, Frantz, que tipo de Birus
+é o Livgaro?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -129,10 +129,10 @@ of Birus is the Livgaro?</EnglishText>
 共通しているのは、
 一本角で金色の身体をしている
 という事だ。</JapaneseText>
-      <EnglishText>I've heard various rumors, but one
-thing that they all share in common
-is the creature's appearance: that it
-has a single horn and a golden body.</EnglishText>
+      <EnglishText>Ouvi vários rumores, mas todos
+concordam na aparência da criatura:
+ela tem um único chifre e o corpo
+dourado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -142,7 +142,7 @@ has a single horn and a golden body.</EnglishText>
       <PointerOffset>901</PointerOffset>
       <VoiceId>1a00008b</VoiceId>
       <JapaneseText>金色の身体だって？</JapaneseText>
-      <EnglishText>A golden body?</EnglishText>
+      <EnglishText>Corpo dourado?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -153,9 +153,8 @@ has a single horn and a golden body.</EnglishText>
       <VoiceId>1a00008c</VoiceId>
       <JapaneseText>見ればわかると、
 目撃者全員が言ってるそうだ。</JapaneseText>
-      <EnglishText>Those who witnessed it say
-that it's something you have
-to see to believe.</EnglishText>
+      <EnglishText>Quem viu diz que é algo que
+é preciso ver pra acreditar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -165,8 +164,8 @@ to see to believe.</EnglishText>
       <PointerOffset>974</PointerOffset>
       <VoiceId>1a00008d</VoiceId>
       <JapaneseText>手がかりはそれか……</JapaneseText>
-      <EnglishText>So that's what we
-have to go off...</EnglishText>
+      <EnglishText>Então é só isso que temos
+pra nos guiar...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -177,8 +176,8 @@ have to go off...</EnglishText>
       <VoiceId>1a00008e</VoiceId>
       <JapaneseText>なんとしても、
 リブガロを見つけるんだ。</JapaneseText>
-      <EnglishText>We'll find the Livgaro,
-no matter what.</EnglishText>
+      <EnglishText>Vamos encontrar o Livgaro,
+não importa o que aconteça.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -189,8 +188,8 @@ no matter what.</EnglishText>
       <VoiceId>1a00008f</VoiceId>
       <JapaneseText>&lt;Annie&gt;、待ってろよ!!
 もう少しの辛抱だからな!!</JapaneseText>
-      <EnglishText>&lt;Annie&gt;, just hang on a
-little while longer!</EnglishText>
+      <EnglishText>&lt;Annie&gt;, só aguente mais
+um pouquinho!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -201,8 +200,8 @@ little while longer!</EnglishText>
       <VoiceId>1a000090</VoiceId>
       <JapaneseText>フランツさん、
 &lt;Annie&gt;を頼みます。</JapaneseText>
-      <EnglishText>Frantz, please take
-care of &lt;Annie&gt; for us.</EnglishText>
+      <EnglishText>Frantz, por favor, cuide
+de &lt;Annie&gt; por nós.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -212,7 +211,7 @@ care of &lt;Annie&gt; for us.</EnglishText>
       <PointerOffset>1109</PointerOffset>
       <VoiceId>1a000091</VoiceId>
       <JapaneseText>わかった。</JapaneseText>
-      <EnglishText>Of course.</EnglishText>
+      <EnglishText>Pode deixar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -223,8 +222,8 @@ care of &lt;Annie&gt; for us.</EnglishText>
       <VoiceId>2a000037</VoiceId>
       <JapaneseText>これが……世界……
 とても……とても広い……</JapaneseText>
-      <EnglishText>This...is the world.
-It's very...vast...</EnglishText>
+      <EnglishText>Isto... é o mundo.
+É muito... vasto...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -236,7 +235,7 @@ It's very...vast...</EnglishText>
     <Entry>
       <PointerOffset>1738</PointerOffset>
       <JapaneseText>はぁ……はぁ……</JapaneseText>
-      <EnglishText>Hah... Hah...</EnglishText>
+      <EnglishText>Haah... Haah...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -250,8 +249,8 @@ It's very...vast...</EnglishText>
       <VoiceId>1a000092</VoiceId>
       <JapaneseText>この娘は小生に任せるんだ。
 さあ、急いで！</JapaneseText>
-      <EnglishText>I'll take care of her.
-You need to hurry!</EnglishText>
+      <EnglishText>Eu cuido dela.
+Vocês precisam correr!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -265,9 +264,9 @@ You need to hurry!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>

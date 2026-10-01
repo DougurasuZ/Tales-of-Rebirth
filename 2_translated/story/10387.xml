@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>1909</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Velha</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>958</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>183,683,732,806,830</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>311</PointerOffset>
       <JapaneseText>アニカマル・民家</JapaneseText>
-      <EnglishText>Anikamal - Residence</EnglishText>
+      <EnglishText>Anikamal - Residência</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Proofreading</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>330</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>235</PointerOffset>
       <JapaneseText>&lt;icon:20&gt; つまみ食い</JapaneseText>
-      <EnglishText>&lt;icon:20&gt;Sneak a Bite</EnglishText>
+      <EnglishText>&lt;icon:20&gt;Beliscar um Pouco</EnglishText>
       <Notes>Action button text</Notes>
       <Id>4</Id>
       <Status>Done</Status>
@@ -100,7 +100,7 @@
       <PointerOffset>1958</PointerOffset>
       <JapaneseText>……なんですか……
 忙しいんです。</JapaneseText>
-      <EnglishText>I'm sorry, but I'm currently busy...</EnglishText>
+      <EnglishText>Desculpe, mas estou ocupada agora.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -111,8 +111,8 @@
       <JapaneseText>おじいさんに
 病気をうつしたら、
 承知しませんからね!?</JapaneseText>
-      <EnglishText>I'll never forgive you if
-my husband gets sick!</EnglishText>
+      <EnglishText>Eu nunca vou perdoar vocês se
+meu marido ficar doente!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -123,9 +123,9 @@ my husband gets sick!</EnglishText>
       <JapaneseText>本当に申し訳ありませんでした。
 何もありませんが、
 ゆっくりしていってください。</JapaneseText>
-      <EnglishText>I deeply apologize for what
-I said before. Please, make
-yourselves at home.</EnglishText>
+      <EnglishText>Peço mil desculpas pelo que eu
+disse antes. Por favor, fiquem
+à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -137,9 +137,8 @@ yourselves at home.</EnglishText>
 おじいさんの様子が
 おかしいんです……
 </JapaneseText>
-      <EnglishText>My husband has been acting
-strange ever since the
-&lt;Blue&gt;Day of Goldba&lt;White&gt;.</EnglishText>
+      <EnglishText>Meu marido anda esquisito desde
+o &lt;Blue&gt;Dia de Goldba&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -150,9 +149,9 @@ strange ever since the
       <JapaneseText>ヒューマとケンカばかりして、
 でも、それがイヤだからって
 部屋にこもってるんです。</JapaneseText>
-      <EnglishText>He started picking fights with Huma.
-But he hated that, so he's confined
-himself indoors.</EnglishText>
+      <EnglishText>Ele começou a brigar com os Huma.
+Mas odiou isso e se trancou
+em casa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -162,7 +161,7 @@ himself indoors.</EnglishText>
       <PointerOffset>2152</PointerOffset>
       <JapaneseText>どうしたらいいんでしょう……
 </JapaneseText>
-      <EnglishText>I wonder what's gotten into him?</EnglishText>
+      <EnglishText>O que será que deu nele?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -174,9 +173,8 @@ himself indoors.</EnglishText>
 この村の人たちも、本当に
 どうかしてしまったんです。
 </JapaneseText>
-      <EnglishText>I wonder what's gotten
-into my husband, as well
-as the rest of the village?</EnglishText>
+      <EnglishText>O que deu no meu marido e
+em todo o resto da vila?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -187,9 +185,9 @@ as the rest of the village?</EnglishText>
       <JapaneseText>同じ村の仲間だった
 人たちを追い出すなんて……
 </JapaneseText>
-      <EnglishText>I can't believe we've kicked
-those who used to be our
-neighbors out of the village...</EnglishText>
+      <EnglishText>Não acredito que expulsamos
+quem era nosso vizinho
+da vila...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -201,8 +199,8 @@ neighbors out of the village...</EnglishText>
 この状態を治めるのも
 ままなりません。
 </JapaneseText>
-      <EnglishText>But, I'm too old to
-do anything about it.</EnglishText>
+      <EnglishText>Mas estou velha demais para
+fazer alguma coisa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -212,8 +210,8 @@ do anything about it.</EnglishText>
       <PointerOffset>2288</PointerOffset>
       <JapaneseText>皆さんの力でなんとか……！
 </JapaneseText>
-      <EnglishText>If we all work together,
-we can fix things—!</EnglishText>
+      <EnglishText>Se todos trabalharmos juntos,
+conseguiremos consertar tudo—!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -224,9 +222,9 @@ we can fix things—!</EnglishText>
       <JapaneseText>バチが……
 バチが当たったんです……
 村の中にバイラスなんて……</JapaneseText>
-      <EnglishText>These Biruses in the village
-must be divine punishment
-for what we've done...</EnglishText>
+      <EnglishText>Esses Birus na vila devem ser
+um castigo divino pelo que
+fizemos...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -238,9 +236,9 @@ for what we've done...</EnglishText>
 すぐには元のようにはならない
 とは思いますけど……
 </JapaneseText>
-      <EnglishText>Thank you for what you've done,
-however, I don't think everything
-will go back to normal immediately...</EnglishText>
+      <EnglishText>Obrigada pelo que fizeram,
+mas não acho que tudo vá
+voltar ao normal tão cedo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -252,9 +250,9 @@ will go back to normal immediately...</EnglishText>
 来ると、私は信じてます……
 以前のように……
 </JapaneseText>
-      <EnglishText>I'm sure that there will come
-a day when we'll all smile
-just like we used to.</EnglishText>
+      <EnglishText>Tenho certeza de que um dia
+vamos todos sorrir de novo,
+como antes.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -266,9 +264,9 @@ just like we used to.</EnglishText>
 来ると、私は信じてます……
 以前のように……
 </JapaneseText>
-      <EnglishText>I'm sure that there will come
-a day when we'll all smile
-just like we used to.</EnglishText>
+      <EnglishText>Tenho certeza de que um dia
+vamos todos sorrir de novo,
+como antes.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -280,9 +278,9 @@ just like we used to.</EnglishText>
 起こっているのでしょう……
 不安で不安で眠れません……
 </JapaneseText>
-      <EnglishText>I-I wonder... If something
-happened...? I'm too worried
-to get any sleep...</EnglishText>
+      <EnglishText>O-O que será que aconteceu...?
+Estou tão preocupada que
+não consigo dormir...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -294,9 +292,9 @@ to get any sleep...</EnglishText>
 うちのおじいさんも、前のように
 元気になって……
 </JapaneseText>
-      <EnglishText>Everyone here has started to change,
-and my husband is starting to act
-cheery like he used to be...</EnglishText>
+      <EnglishText>O pessoal daqui começou a mudar,
+e meu marido voltou a ficar
+animado como antes...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -307,9 +305,9 @@ cheery like he used to be...</EnglishText>
       <JapaneseText>こんな状況ですけど、この村はきっと、
 以前のようになります……
 </JapaneseText>
-      <EnglishText>In spite of what happened, I'm
-sure the village will return to
-how it used to be...</EnglishText>
+      <EnglishText>Apesar do que houve, tenho
+certeza de que a vila vai voltar
+ao que era...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -321,8 +319,8 @@ how it used to be...</EnglishText>
 私だけ休んでるわけには
 いきませんよ。
 </JapaneseText>
-      <EnglishText>I can't just rest here while my
-husband is doing all the work.</EnglishText>
+      <EnglishText>Não posso ficar parada enquanto
+meu marido faz todo o trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -331,7 +329,7 @@ husband is doing all the work.</EnglishText>
     <Entry>
       <PointerOffset>2576</PointerOffset>
       <JapaneseText>ええと……何かする事は……</JapaneseText>
-      <EnglishText>Now, what should I do...</EnglishText>
+      <EnglishText>Bem, o que eu posso fazer...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -344,8 +342,8 @@ husband is doing all the work.</EnglishText>
       <PointerOffset>1007</PointerOffset>
       <JapaneseText>なんだ！
 勝手に入って来て!?</JapaneseText>
-      <EnglishText>You can't just barge into
-someone's house!</EnglishText>
+      <EnglishText>Você não pode entrar assim
+na casa dos outros!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -354,7 +352,7 @@ someone's house!</EnglishText>
     <Entry>
       <PointerOffset>1029</PointerOffset>
       <JapaneseText>出てけ！</JapaneseText>
-      <EnglishText>Get out!</EnglishText>
+      <EnglishText>Fora!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -364,8 +362,8 @@ someone's house!</EnglishText>
       <PointerOffset>1079</PointerOffset>
       <JapaneseText>ばあさんに病気を
 うつしたら、許さんぞ！</JapaneseText>
-      <EnglishText>I'll never forgive you if
-you get my wife sick!</EnglishText>
+      <EnglishText>Nunca vou te perdoar se você
+deixar minha esposa doente!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -375,8 +373,8 @@ you get my wife sick!</EnglishText>
       <PointerOffset>1129</PointerOffset>
       <JapaneseText>すっかり忘れておったよ、
 昔の事など……</JapaneseText>
-      <EnglishText>I had completely forgotten
-about those events...</EnglishText>
+      <EnglishText>Eu tinha me esquecido por
+completo daqueles fatos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
@@ -387,9 +385,8 @@ about those events...</EnglishText>
       <JapaneseText>まさかあの薬が……
 なんて恥ずかしい事を
 したんだ……</JapaneseText>
-      <EnglishText>I am ashamed of myself,
-knowing that such a
-medicine exists...</EnglishText>
+      <EnglishText>Tenho vergonha de mim ao saber
+que existe um remédio assim...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -401,9 +398,8 @@ medicine exists...</EnglishText>
 ヒューマと話をするだけで、
 腹が立ってケンカになるんだ……
 </JapaneseText>
-      <EnglishText>I wonder what's gotten into
-me? Just talking to Huma
-gets me riled up...</EnglishText>
+      <EnglishText>O que deu em mim? Só de falar
+com Huma eu me irrito...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -415,9 +411,9 @@ gets me riled up...</EnglishText>
 ベルデ草のお香を焚いて、部屋から
 出ないようにしとるんだ……
 </JapaneseText>
-      <EnglishText>That's why I'll just stay in here
-and burn this soothing Belde
-grass incense.</EnglishText>
+      <EnglishText>Por isso fico aqui dentro,
+queimando este incenso calmante
+de erva Belde.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -429,9 +425,9 @@ grass incense.</EnglishText>
 血圧が上がって、体にも心にも
 よくないんだ……
 </JapaneseText>
-      <EnglishText>I'm sorry, but my blood pressure
-rises when I talk to Huma. It's as
-bad for my body as it is for my soul.</EnglishText>
+      <EnglishText>Desculpe, mas minha pressão sobe
+quando falo com Huma. Faz mal
+pro corpo e pra alma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -442,8 +438,8 @@ bad for my body as it is for my soul.</EnglishText>
       <JapaneseText>できるだけ、ワシに近づかん
 ようにしてくれないか……？
 </JapaneseText>
-      <EnglishText>Can you please try and
-stay away from me?</EnglishText>
+      <EnglishText>Será que você pode tentar
+ficar longe de mim?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
@@ -456,10 +452,10 @@ stay away from me?</EnglishText>
 だが、ヤツらが陰でガジュマを
 バカにしているのを聞いてしまった。
 </JapaneseText>
-      <EnglishText>I used to not understand why
-Huma made me so angry, but
-I just heard some Huma making
-fun of Gajuma behind our backs.</EnglishText>
+      <EnglishText>Eu não entendia por que os Huma
+me irritavam tanto, mas ouvi uns
+Huma zombando dos Gajuma
+pelas nossas costas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
@@ -470,10 +466,10 @@ fun of Gajuma behind our backs.</EnglishText>
       <JapaneseText>あいつらはヒューマは美しい、
 ガジュマは醜いと、差別する
 心を持っていたんだ！</JapaneseText>
-      <EnglishText>They were saying that Gajuma
-are unsightly and Huma are
-beautiful! How can they be
-so discriminatory!</EnglishText>
+      <EnglishText>Eles diziam que os Gajuma
+são feios e os Huma são
+bonitos! Como podem ser
+tão discriminatórios!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -483,9 +479,9 @@ so discriminatory!</EnglishText>
       <PointerOffset>1398</PointerOffset>
       <JapaneseText>そんなヤツらと一緒には暮らせん！
 追い出されて当然だ！</JapaneseText>
-      <EnglishText>I can't live with people like
-that! Of course we kicked
-them out of the village!</EnglishText>
+      <EnglishText>Não consigo viver com gente
+assim! Claro que expulsamos
+eles da vila!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -496,8 +492,8 @@ them out of the village!</EnglishText>
       <JapaneseText>ヒューマが何の断りもなく
 入ってきて……出てけ！
 </JapaneseText>
-      <EnglishText>How dare you barge into
-my house, Huma... Get out!</EnglishText>
+      <EnglishText>Como ousa entrar na minha casa,
+Huma... Fora!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
@@ -507,7 +503,7 @@ my house, Huma... Get out!</EnglishText>
       <PointerOffset>1470</PointerOffset>
       <JapaneseText>あんたがオアシスに……？
 </JapaneseText>
-      <EnglishText>You're going to the oasis?</EnglishText>
+      <EnglishText>Você vai ao oásis?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
@@ -518,9 +514,9 @@ my house, Huma... Get out!</EnglishText>
       <JapaneseText>優しいのもよいが、
 ヒューマになんぞ、
 情けをかけずともよいものを……</JapaneseText>
-      <EnglishText>While kindness is indeed a
-virtue, showing no mercy
-to Huma is also virtuous...</EnglishText>
+      <EnglishText>Ser gentil é uma virtude, mas
+não ter piedade dos Huma
+também é virtuoso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
@@ -531,8 +527,8 @@ to Huma is also virtuous...</EnglishText>
       <JapaneseText>ああ……オアシスでも
 どこへでも行くがよい。
 </JapaneseText>
-      <EnglishText>You can go to the oasis. Heck, 
-you can go anywhere you like.</EnglishText>
+      <EnglishText>Pode ir ao oásis. Ora, pode ir
+pra onde quiser.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -543,7 +539,7 @@ you can go anywhere you like.</EnglishText>
       <JapaneseText>二度とこの村に
 帰ってくるんじゃないぞ。
 </JapaneseText>
-      <EnglishText>Just don't come back here again.</EnglishText>
+      <EnglishText>Só não volte mais aqui.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
@@ -554,9 +550,8 @@ you can go anywhere you like.</EnglishText>
       <JapaneseText>バイラスが外で……
 いつ……いつ中へ……
 </JapaneseText>
-      <EnglishText>There are Biruses outside...
-When did they get in the
-village...</EnglishText>
+      <EnglishText>Tem Birus lá fora... Quando
+é que entraram na vila...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
@@ -568,9 +563,9 @@ village...</EnglishText>
 だが……ヒューマはワシらを
 醜いと思っているんだ……
 </JapaneseText>
-      <EnglishText>We used to be &lt;Yellow&gt;neighbors&lt;White&gt;, and
-yet those Huma thought we
-were all unsightly...</EnglishText>
+      <EnglishText>Éramos &lt;Yellow&gt;vizinhos&lt;White&gt;, e mesmo
+assim esses Huma nos achavam
+todos feios...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
@@ -581,9 +576,9 @@ were all unsightly...</EnglishText>
       <JapaneseText>そんな風に思われているのに
 笑顔であいさつなど……
 </JapaneseText>
-      <EnglishText>I find it hard to greet them
-with a smile on my face when
-I think back to that...</EnglishText>
+      <EnglishText>Fica difícil cumprimentá-los com
+um sorriso no rosto quando
+penso nisso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
@@ -595,9 +590,9 @@ I think back to that...</EnglishText>
 だが……ヒューマはワシらを
 醜いと思っているんだ……
 </JapaneseText>
-      <EnglishText>We used to be &lt;Yellow&gt;neighbors&lt;White&gt;, and
-yet those Huma thought we
-were all unsightly...</EnglishText>
+      <EnglishText>Éramos &lt;Yellow&gt;vizinhos&lt;White&gt;, e mesmo
+assim esses Huma nos achavam
+todos feios...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -608,9 +603,9 @@ were all unsightly...</EnglishText>
       <JapaneseText>そんな風に思われているのに
 笑顔であいさつなど……
 </JapaneseText>
-      <EnglishText>I find it hard to greet them
-with a smile on my face when
-I think back to that...</EnglishText>
+      <EnglishText>Fica difícil cumprimentá-los com
+um sorriso no rosto quando
+penso nisso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>45</Id>
@@ -622,9 +617,8 @@ I think back to that...</EnglishText>
 せっかくのお香でも、
 落ち着けんよ……
 </JapaneseText>
-      <EnglishText>The ground's shaking... I don't
-think this incense will be enough
-to calm me down.</EnglishText>
+      <EnglishText>O chão tá tremendo... Acho que
+nem o incenso vai me acalmar.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
@@ -635,8 +629,8 @@ to calm me down.</EnglishText>
       <JapaneseText>天変地異が起こっているそうだが、
 この村は大丈夫だ……
 </JapaneseText>
-      <EnglishText>Even if a natural disaster occurs,
-this village will get through it...</EnglishText>
+      <EnglishText>Mesmo que ocorra um desastre
+natural, a vila vai superar...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>47</Id>
@@ -647,9 +641,9 @@ this village will get through it...</EnglishText>
       <JapaneseText>種族を越えて、再び
 まとまり始めておる……
 </JapaneseText>
-      <EnglishText>We've overcome our racial
-differences and are working
-together as one again.</EnglishText>
+      <EnglishText>Superamos as diferenças entre
+raças e voltamos a trabalhar
+juntos como um só.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
@@ -660,7 +654,7 @@ together as one again.</EnglishText>
       <JapaneseText>ワシは食事係として、
 カレー作りで大忙しだよ。
 </JapaneseText>
-      <EnglishText>I'm busy making curry.</EnglishText>
+      <EnglishText>Estou ocupado preparando curry.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>49</Id>
@@ -670,8 +664,7 @@ together as one again.</EnglishText>
       <PointerOffset>1860</PointerOffset>
       <JapaneseText>今日はワシが食事当番じゃ。
 </JapaneseText>
-      <EnglishText>I'm in charge of the
-cooking today.</EnglishText>
+      <EnglishText>Hoje a cozinha é comigo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>50</Id>
@@ -682,8 +675,8 @@ cooking today.</EnglishText>
       <JapaneseText>ばあさんには
 ゆっくり休んでおいて
 もらわんとな。</JapaneseText>
-      <EnglishText>I want my wife to take
-things easy and rest.</EnglishText>
+      <EnglishText>Quero que minha esposa
+descanse com calma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
@@ -697,9 +690,9 @@ things easy and rest.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>52</Id>
@@ -716,12 +709,10 @@ No</EnglishText>
 やすらぎ系のお香が焚かれている。
 ほっとひと息。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Anikamal Incense Burner -
-A typical incense burner found
-in Anikamal. A soothing incense
-made from Belde grass is being
-burned within it. You give a
-sigh of relief.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Incensário de Anikamal -
+Um incensário típico de Anikamal.
+Nele queima um incenso calmante,
+feito de erva Belde. Que alívio.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
@@ -737,11 +728,11 @@ sigh of relief.</EnglishText>
 職人が作った高級な棚。
 置いてあるアクセサリーは
 それほど良いものでもない。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Concave Shelf -
-A high-quality shelf crafted of
-wood from an Anikamal tree.
-There are accessories on it,
-but they're of low quality.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Prateleira Côncava -
+Uma prateleira de alta qualidade
+feita com madeira de árvore de
+Anikamal. Os acessórios nela
+são de baixa qualidade.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
@@ -755,10 +746,9 @@ but they're of low quality.</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものがあるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's
-something tasty here!
-Lemme take a teeny
-tiny bite...</EnglishText>
+      <EnglishText>Oba! Parece que tem algo
+gostoso aqui! Deixa eu dar
+só uma belisquinha...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>55</Id>
@@ -767,7 +757,7 @@ tiny bite...</EnglishText>
     <Entry>
       <PointerOffset>686</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000006&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Ate "&lt;item:20000006&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Comeu "&lt;item:20000006&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>56</Id>
@@ -776,7 +766,7 @@ tiny bite...</EnglishText>
     <Entry>
       <PointerOffset>735</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000006&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000006&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:20000006&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>57</Id>
@@ -794,7 +784,7 @@ tiny bite...</EnglishText>
     <Entry>
       <PointerOffset>809</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000006&gt;』がありました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There's some "&lt;item:20000006&gt;" here.</EnglishText>
+      <EnglishText>&lt;Green&gt;Tem "&lt;item:20000006&gt;" aqui.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>59</Id>
@@ -804,8 +794,8 @@ tiny bite...</EnglishText>
       <PointerOffset>833</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、勝手に食べるのは
 どうかと思ったので遠慮しておきました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;...But stealing food is rude, so
-you refrained from doing so.</EnglishText>
+      <EnglishText>&lt;Green&gt;...Mas roubar comida é feio,
+então você se segurou.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>60</Id>
@@ -816,7 +806,7 @@ you refrained from doing so.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『&lt;item:20000006&gt;』
 以前、&lt;Mao&gt;がつまみ食いをした。</JapaneseText>
       <EnglishText>&lt;speed:0&gt; - &lt;item:20000006&gt; -
-&lt;Mao&gt; already snuck a bite of this.</EnglishText>
+&lt;Mao&gt; já beliscou um pouco disso.</EnglishText>
       <Notes>Double check/context</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>61</Id>

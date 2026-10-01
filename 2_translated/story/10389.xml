@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179,1179</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Velha</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>519,519,519,519,519,519,519,519,519,519,519,519,519,519,519,519,519</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>396,1993,396,1993,396,1993,396,1993,396,1993,396,1993</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>174</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>180</PointerOffset>
       <JapaneseText>アニカマル・民家</JapaneseText>
-      <EnglishText>Anikamal - Residence</EnglishText>
+      <EnglishText>Anikamal - Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -110,8 +110,8 @@
 うちのおじいさんは
 よそから来た人が嫌いで……
 </JapaneseText>
-      <EnglishText>I'm sorry, my husband doesn't
-really like outsiders...</EnglishText>
+      <EnglishText>Desculpe, meu marido não gosta
+muito de forasteiros...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -121,7 +121,7 @@ really like outsiders...</EnglishText>
       <PointerOffset>1289</PointerOffset>
       <JapaneseText>ひっ……！
 </JapaneseText>
-      <EnglishText>Eep!</EnglishText>
+      <EnglishText>Ai!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -132,8 +132,8 @@ really like outsiders...</EnglishText>
       <JapaneseText>あ、ご、ごめんなさい……
 で、でも病気が……
 </JapaneseText>
-      <EnglishText>Ah, I-I'm sorry... I was just
-worried about getting sick...</EnglishText>
+      <EnglishText>Ah, d-desculpe... Eu só estava
+preocupada em ficar doente...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -145,8 +145,8 @@ worried about getting sick...</EnglishText>
 心をほどいてくれて……
 本当によかったです……
 </JapaneseText>
-      <EnglishText>I'm really glad that everyone
-was able to open their hearts...</EnglishText>
+      <EnglishText>Estou muito feliz por todos
+terem aberto o coração...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -158,9 +158,9 @@ was able to open their hearts...</EnglishText>
 あ、あなたがそばに来るだけで
 心が暴れるんです……！
 </JapaneseText>
-      <EnglishText>P-Please don't come any closer!
-My poor heart starts pounding
-whenever you get close...!</EnglishText>
+      <EnglishText>P-Por favor, não se aproxime!
+Meu pobre coração dispara
+quando você chega perto...!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -171,7 +171,7 @@ whenever you get close...!</EnglishText>
       <JapaneseText>この村もすっかり
 変わってしまいました……
 </JapaneseText>
-      <EnglishText>This village has changed completely...</EnglishText>
+      <EnglishText>Esta vila mudou completamente...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -183,9 +183,8 @@ whenever you get close...!</EnglishText>
 顔を合わせようものなら
 たちまちケンカが始まります……
 </JapaneseText>
-      <EnglishText>Whenever Huma and Gajuma
-see each other, there's always
-bound to be a fight...</EnglishText>
+      <EnglishText>Sempre que Huma e Gajuma se
+encontram, acaba em briga...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -195,7 +194,7 @@ bound to be a fight...</EnglishText>
       <PointerOffset>1527</PointerOffset>
       <JapaneseText>どうか、お気をつけて……
 </JapaneseText>
-      <EnglishText>Please be careful...</EnglishText>
+      <EnglishText>Por favor, tenha cuidado...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -207,9 +206,9 @@ bound to be a fight...</EnglishText>
 村の雰囲気が落ち着いたような
 気がします……
 </JapaneseText>
-      <EnglishText>For some reason, I feel as
-though things around here
-have calmed down somewhat...</EnglishText>
+      <EnglishText>Por algum motivo, sinto que as
+coisas por aqui se acalmaram
+um pouco...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -220,8 +219,8 @@ have calmed down somewhat...</EnglishText>
       <JapaneseText>私も、ちょっと前よりは
 気分が落ち着いています……
 </JapaneseText>
-      <EnglishText>I feel like I've also been
-able to calm down...</EnglishText>
+      <EnglishText>Sinto que eu também consegui
+me acalmar...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -232,9 +231,9 @@ able to calm down...</EnglishText>
       <JapaneseText>村の騒ぎが収まったたら、
 今度はこの地響き……
 </JapaneseText>
-      <EnglishText>After everything that's happened
-in the village, now the ground
-won't stop shaking...</EnglishText>
+      <EnglishText>Depois de tudo o que aconteceu
+na vila, agora o chão não
+para de tremer...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -245,8 +244,8 @@ won't stop shaking...</EnglishText>
       <JapaneseText>この国はどうなって、
 しまったんでしょう……
 </JapaneseText>
-      <EnglishText>I wonder what's happening
-to this country...?</EnglishText>
+      <EnglishText>O que será que está acontecendo
+com este país...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -258,9 +257,9 @@ to this country...?</EnglishText>
 しまいましたが、この村は
 きっと大丈夫です……
 </JapaneseText>
-      <EnglishText>There might be a lot wrong
-with the world, but I'm sure
-our village will be fine...</EnglishText>
+      <EnglishText>Pode haver muita coisa errada
+com o mundo, mas tenho certeza
+de que nossa vila vai ficar bem...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -271,8 +270,8 @@ our village will be fine...</EnglishText>
       <JapaneseText>新しい村になろうと、みんなが
 努力し始めたんですから……
 </JapaneseText>
-      <EnglishText>Because everyone has started
-working together again...</EnglishText>
+      <EnglishText>Porque todos voltaram a
+trabalhar juntos...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -283,10 +282,9 @@ working together again...</EnglishText>
       <JapaneseText>この村は若い人が少ないです。
 若者たちは街にあこがれて
 この村を出て行きました。</JapaneseText>
-      <EnglishText>There aren't many youths here
-in the village because they've
-all left for the hustle and
-bustle of the city.</EnglishText>
+      <EnglishText>Não há muitos jovens na vila
+porque todos foram embora para
+a agitação da cidade grande.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -297,9 +295,9 @@ bustle of the city.</EnglishText>
       <JapaneseText>でもこの村の良さに気づき、
 彼らが戻って来るだろう日を
 私たちは待ってるのです。</JapaneseText>
-      <EnglishText>But we're waiting for the day
-when they realize the perks
-of living here and return.</EnglishText>
+      <EnglishText>Mas esperamos o dia em que
+eles percebam as vantagens de
+viver aqui e voltem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -313,8 +311,8 @@ of living here and return.</EnglishText>
       <JapaneseText>よそ者は好かん！
 出てってもらおう……！
 </JapaneseText>
-      <EnglishText>I have no love for
-outsiders! Leave!</EnglishText>
+      <EnglishText>Não gosto de forasteiros!
+Fora!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -325,8 +323,8 @@ outsiders! Leave!</EnglishText>
       <JapaneseText>よ、寄るな……
 病気がうつる……！
 </JapaneseText>
-      <EnglishText>St-Stand back! The disease
-is contagious...!</EnglishText>
+      <EnglishText>Fi-Fiquem longe! A doença
+é contagiosa...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -338,8 +336,8 @@ is contagious...!</EnglishText>
 いつも厄介事を運んでくる……
 それに変わりはない。
 </JapaneseText>
-      <EnglishText>You outsiders are always bringing
-trouble to this village.</EnglishText>
+      <EnglishText>Vocês, forasteiros, sempre
+trazem problemas pra esta vila.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -350,9 +348,8 @@ trouble to this village.</EnglishText>
       <JapaneseText>じゃが、困っている者を
 見過ごすのは人として
 間違いじゃった……</JapaneseText>
-      <EnglishText>Yet, I was wrong for
-turning a blind eye to
-those in need of help...</EnglishText>
+      <EnglishText>Mas eu errei ao ignorar
+quem precisava de ajuda...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -362,7 +359,7 @@ those in need of help...</EnglishText>
       <PointerOffset>712</PointerOffset>
       <JapaneseText>……勘弁してくれ。
 </JapaneseText>
-      <EnglishText>Forgive me...</EnglishText>
+      <EnglishText>Perdoe-me...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -374,9 +371,9 @@ those in need of help...</EnglishText>
 せっかく、ベルデ草のお香で
 気分を鎮めておるのに……
 </JapaneseText>
-      <EnglishText>Stand back! I was in a good mood
-thanks to the Belde grass incense
-and then you showed up...</EnglishText>
+      <EnglishText>Afaste-se! Eu estava de bom humor
+com o incenso de erva Belde,
+aí você aparece...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -388,9 +385,9 @@ and then you showed up...</EnglishText>
 全身の毛が逆立つような怒りが
 こみ上げて来るんじゃ！
 </JapaneseText>
-      <EnglishText>As soon as you come near
-me, I get so angry that
-all my hairs stand on end!</EnglishText>
+      <EnglishText>Basta chegar perto de mim e fico
+tão furioso que meus pelos
+se eriçam!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -401,8 +398,8 @@ all my hairs stand on end!</EnglishText>
       <JapaneseText>ふう……ヒューマと話すと
 ほっとするわい……
 </JapaneseText>
-      <EnglishText>Haah... Talking with a fellow
-Huma makes me feel better.</EnglishText>
+      <EnglishText>Haah... Conversar com outro Huma
+me faz bem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
@@ -413,8 +410,8 @@ Huma makes me feel better.</EnglishText>
       <JapaneseText>どうもガジュマが近づくだけで
 攻撃的になってしまうんじゃ。
 </JapaneseText>
-      <EnglishText>Just being around Gajuma makes
-me want to get violent.</EnglishText>
+      <EnglishText>Só de ficar perto de Gajuma me
+dá vontade de ser violento.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -424,8 +421,8 @@ me want to get violent.</EnglishText>
       <PointerOffset>922</PointerOffset>
       <JapaneseText>ガジュマと以前のように
 仲良くやっていけるか……</JapaneseText>
-      <EnglishText>I wonder if I can get along
-with Gajuma like I used to...</EnglishText>
+      <EnglishText>Será que consigo me dar bem
+com os Gajuma como antes...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -436,7 +433,7 @@ with Gajuma like I used to...</EnglishText>
       <JapaneseText>これから、それを
 探っていかねばの……
 </JapaneseText>
-      <EnglishText>I suppose we'll have to find out... </EnglishText>
+      <EnglishText>Acho que vamos ter que descobrir...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -447,8 +444,8 @@ with Gajuma like I used to...</EnglishText>
       <JapaneseText>以前と同じ……関係というのは
 むずかしいのかもしれんな……
 </JapaneseText>
-      <EnglishText>It might be hard to rebuild
-the relationships we once had...</EnglishText>
+      <EnglishText>Pode ser difícil reconstruir as
+relações que já tivemos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -460,10 +457,9 @@ the relationships we once had...</EnglishText>
 知ってしまった今となっては……
 どうすればよいものやら……
 </JapaneseText>
-      <EnglishText>Now that we're finally aware
-of each other's hatred and
-discrimination, I wonder what
-we should do...?</EnglishText>
+      <EnglishText>Agora que enfim percebemos o ódio
+e a discriminação um do outro,
+o que será que devemos fazer...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
@@ -475,10 +471,9 @@ we should do...?</EnglishText>
 どこかで何か、大変な事が
 起きているような気がする……
 </JapaneseText>
-      <EnglishText>That rumbling is coming
-from somewhere afar...
-I wonder if something
-horrible is happening?</EnglishText>
+      <EnglishText>Esse estrondo vem de algum lugar
+distante... Será que algo
+horrível está acontecendo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
@@ -489,8 +484,8 @@ horrible is happening?</EnglishText>
       <JapaneseText>ガジュマたちが、
 ワシに謝って来たんじゃ……
 </JapaneseText>
-      <EnglishText>The Gajuma came and
-apologized to us...</EnglishText>
+      <EnglishText>Os Gajuma vieram e
+pediram desculpas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -502,10 +497,10 @@ apologized to us...</EnglishText>
 前向きに努力したいと……
 もちろん、ワシも同意したよ……
 </JapaneseText>
-      <EnglishText>Of course, some ill will still
-remains...but I want to move
-forward... So I accepted their
-apology...</EnglishText>
+      <EnglishText>Claro, ainda restou algum
+ressentimento... mas quero seguir
+em frente... Então aceitei
+as desculpas deles...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -517,9 +512,9 @@ apology...</EnglishText>
 だからみんな、助け合って
 生きて行かねばならん……
 </JapaneseText>
-      <EnglishText>There are many seniors in this
-village, so everyone has to help
-each other to survive.</EnglishText>
+      <EnglishText>Há muitos idosos nesta vila,
+então todos precisam se ajudar
+para sobreviver.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
@@ -534,9 +529,9 @@ each other to survive.</EnglishText>
       <JapaneseText>おい！　ヒューマは入ってくるな！
 ここは今日から俺の家だ！
 </JapaneseText>
-      <EnglishText>Hey! Huma ain't allowed in
-here! Starting from today,
-this house is mine!</EnglishText>
+      <EnglishText>Ei! Huma não pode entrar aqui!
+A partir de hoje, esta casa
+é minha!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -548,8 +543,8 @@ this house is mine!</EnglishText>
       <JapaneseText>今日から……？
 どういう事だ？
 </JapaneseText>
-      <EnglishText>From today? What do
-you mean by that?</EnglishText>
+      <EnglishText>A partir de hoje? O que você
+quer dizer com isso?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -561,9 +556,9 @@ you mean by that?</EnglishText>
       <JapaneseText>ヒューマのジジイとババアから
 頂いたのさ。
 </JapaneseText>
-      <EnglishText>Some Huma geezer and his
-wife used to own it, but
-I took it off their hands.</EnglishText>
+      <EnglishText>Era de um velho Huma e da
+esposa dele, mas eu fiquei
+com ela.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
@@ -575,7 +570,7 @@ I took it off their hands.</EnglishText>
       <JapaneseText>そのじいさんとばあさんは
 どうしたんだ……？
 </JapaneseText>
-      <EnglishText>What happened to them?</EnglishText>
+      <EnglishText>O que aconteceu com eles?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -587,8 +582,8 @@ I took it off their hands.</EnglishText>
       <JapaneseText>なんだよ、うるせえな！
 追い出したに決まってるだろ!!
 </JapaneseText>
-      <EnglishText>What're you being so nosy for?
-I ran them out of town, obviously!</EnglishText>
+      <EnglishText>Por que tanta curiosidade?
+Óbvio que expulsei eles da vila!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
@@ -600,9 +595,9 @@ I ran them out of town, obviously!</EnglishText>
       <JapaneseText>えっ……追い出した？
 でも、この周りは砂漠しか……
 </JapaneseText>
-      <EnglishText>Wait... You ran them out of
-town? But there's nothing
-but desert for miles...</EnglishText>
+      <EnglishText>Espere... Você expulsou os dois
+da vila? Mas só há deserto
+por quilômetros...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
@@ -614,9 +609,9 @@ but desert for miles...</EnglishText>
       <JapaneseText>あんな危ない砂漠に、
 年寄りを放り出したってのかよ！
 </JapaneseText>
-      <EnglishText>You threw an elderly
-couple out into a desert
-as dangerous as this one?!</EnglishText>
+      <EnglishText>Você jogou um casal de idosos
+num deserto tão perigoso
+quanto este?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -627,7 +622,7 @@ as dangerous as this one?!</EnglishText>
       <VoiceId>39000009</VoiceId>
       <JapaneseText>どこへ行ったんだ？
 </JapaneseText>
-      <EnglishText>Where did they go?</EnglishText>
+      <EnglishText>Pra onde eles foram?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>44</Id>
@@ -638,7 +633,7 @@ as dangerous as this one?!</EnglishText>
       <VoiceId>3900000a</VoiceId>
       <JapaneseText>た、た、たぶんオアシスに……
 </JapaneseText>
-      <EnglishText>P-Probably to the Oasis...</EnglishText>
+      <EnglishText>P-Provavelmente pro Oásis...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>45</Id>
@@ -650,9 +645,8 @@ as dangerous as this one?!</EnglishText>
       <JapaneseText>あそこはバイラスの巣窟だ。
 普通に暮らす事など……！
 </JapaneseText>
-      <EnglishText>That's where Biruses nest.
-If they stay there for too
-long, then...!</EnglishText>
+      <EnglishText>Lá é onde os Birus fazem ninho.
+Se ficarem muito tempo lá...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -663,7 +657,7 @@ long, then...!</EnglishText>
       <VoiceId>3900000c</VoiceId>
       <JapaneseText>オアシスへ急ぐぞ……！
 </JapaneseText>
-      <EnglishText>We need to hurry to the Oasis!</EnglishText>
+      <EnglishText>Temos que correr pro Oásis!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>47</Id>
@@ -672,7 +666,7 @@ long, then...!</EnglishText>
     <Entry>
       <PointerOffset>458</PointerOffset>
       <JapaneseText>お、お助け……!!</JapaneseText>
-      <EnglishText>H-Help...!!</EnglishText>
+      <EnglishText>S-Socorro...!!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>48</Id>
@@ -683,9 +677,9 @@ long, then...!</EnglishText>
       <JapaneseText>ヒューマはオアシスにでも
 行って、バイラスどもに
 食われちまえばいいのさ！</JapaneseText>
-      <EnglishText>If Huma stay any longer
-in the Oasis, they'll get
-eaten by Biruses!</EnglishText>
+      <EnglishText>Se os Huma ficarem mais tempo
+no Oásis, vão ser devorados
+pelos Birus!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>49</Id>
@@ -699,9 +693,9 @@ eaten by Biruses!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>50</Id>

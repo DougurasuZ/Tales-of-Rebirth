@@ -116,6 +116,30 @@
 | 2_translated/story/10371.xml | 2026-10-01 |
 | 2_translated/story/10372.xml | 2026-10-01 |
 | 2_translated/story/10373.xml | 2026-10-01 |
+| 2_translated/story/10374.xml | 2026-10-01 |
+| 2_translated/story/10375.xml | 2026-10-01 |
+| 2_translated/story/10376.xml | 2026-10-01 |
+| 2_translated/story/10377.xml | 2026-10-01 |
+| 2_translated/story/10378.xml | 2026-10-01 |
+| 2_translated/story/10384.xml | 2026-10-01 |
+| 2_translated/story/10385.xml | 2026-10-01 |
+| 2_translated/story/10386.xml | 2026-10-01 |
+| 2_translated/story/10387.xml | 2026-10-01 |
+| 2_translated/story/10388.xml | 2026-10-01 |
+| 2_translated/story/10389.xml | 2026-10-01 |
+| 2_translated/story/10390.xml | 2026-10-01 |
+| 2_translated/story/10391.xml | 2026-10-01 |
+| 2_translated/story/10392.xml | 2026-10-01 |
+| 2_translated/story/10397.xml | 2026-10-01 |
+| 2_translated/story/10398.xml | 2026-10-01 |
+| 2_translated/story/10399.xml | 2026-10-01 |
+| 2_translated/story/10400.xml | 2026-10-01 |
+| 2_translated/story/10401.xml | 2026-10-01 |
+| 2_translated/story/10402.xml | 2026-10-01 |
+| 2_translated/story/10403.xml | 2026-10-01 |
+| 2_translated/story/10408.xml | 2026-10-01 |
+| 2_translated/story/10409.xml | 2026-10-01 |
+| 2_translated/story/10410.xml | 2026-10-01 |
 
 ## Arquivos sem texto a traduzir
 
@@ -124,6 +148,7 @@
 | 2_translated/story/10228.xml | só nomes próprios ("Sulz"); nada a traduzir |
 | 2_translated/story/10359.xml | só o nome do lugar ("Karez"); nada a traduzir |
 | 2_translated/story/10361.xml | só o nome do lugar ("Karez"); nada a traduzir |
+| 2_translated/story/10383.xml | só o nome do lugar ("Anikamal"); nada a traduzir |
 
 ## Arquivos ignorados (debug)
 
@@ -290,3 +315,15 @@
 - 10374–10386, rótulos de falante: "Karez's Janitor" → "Faxineiro de Karez", "Peddler" → "Mascate", "Inn Hostess" → "Dona da Pousada", "Villager's Voice" → "Voz de Morador", "Carriage Coach" → "Cocheiro", "Old Man/Old Woman/Man/Woman/Notice" → "Velho/Velha/Homem/Mulher/Aviso". "Frantz", "????" e "Select" mantidos. "Tent" → "Tenda" (10386 Id 3), "Residence" → "Residência".
 - 10384.xml: "Deathgaro Fever" → "Febre de Deathgaro"; "Livgaro" e "Birus of Illusion" → "Birus da Ilusão"; "Seven Great Illusions" → "Sete Grandes Ilusões" (cor <Blue> preservada); "Shirag Bridge" → "Ponte de Shirag". Id 81 ("you're Five Stars!!") → "Cinco Estrelas" (piada de avaliação, não a organização). Id 118: "Passagem para <unk18:...>: <nmb:12C> Gald." mantido em 3 linhas como no inglês. Ids 205 (10384) e 96/97 (10385): descrições de itens traduzidas ("Jarro Cerimonial de Anikamal", "Brasão de Anikamal"). Conferir.
 - 10385/10386: o personagem do Id 81+ de 10386 (SpeakerId "1,8") é Frantz ("????" antes de se apresentar). "Half" e "Huma/Gajuma" mantidos. 10386 Ids 60–64: "pisses me off" traduzido como "irrita", sem palavrão. Conferir.
+- Revisão do relatorio_validacao.txt (2026-10-01, lote 10387–10398): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido. Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito. A tabela de concluídos foi completada com 10374–10378 e 10384–10386 (faltavam) e 10383 entrou em "sem texto".
+- Lote 10387–10398 (2026-10-01): 10387, 10388, 10389, 10390, 10391, 10392, 10397, 10398 (10393–10396 não existem; 10398 só tem "Oasis" → "Oásis"). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 7 problemas na 1ª rodada (TAMANHO/LINHAS), 1 na 2ª (só o falso positivo de 10309). Próximo arquivo: 10399 (só "Oasis"), depois 10400.
+- 10387–10397, rótulos de falante: "Old Woman" → "Velha", "Old Man" → "Velho", "Man" → "Homem", "Notice" → "Aviso", "Peddler" → "Mascate", "Grocery Owner/Grocer" → "Dono da Mercearia", "Inn Hostess" → "Dona da Pousada", "Innkeeper" → "Pousadeiro", "Callegean Soldier" → "Soldado Callegeano" (recepção, como em 10275). "Frantz", "Select" e nomes mantidos. Lugares: "Oasis" → "Oásis" (novo no glossário), "Tent" → "Tenda".
+- 10387–10392: "Belde grass" → "erva Belde" (planta mantida em inglês); "Day of Goldba" → "Dia de Goldba"; "Biruses" → "Birus"; "Deathgaro Fever" → "Febre de Deathgaro"; "Livgaro" mantido; "Nakako Ore" mantido (item); "Ovenkamal" (trocadilho) → "Fornokamal"; "Concave Shelf" → "Prateleira Côncava". 10388 Ids 18 e 20: "fellow Man" → "semelhantes" (mantendo a cor <Yellow>). Conferir.
+- 10389.xml, Ids 37–49: o homem que tomou a casa fala de forma rude; Eugene formal, Veigue seco. Id 41: "town" traduzido como "vila" (como no resto do arquivo). 10388.xml: "town" também virou "vila" (Ids 11, 12).
+- 10390.xml, Ids 114–142: as falas do SpeakerId 11 (rótulo "Soldado Callegeano") são, pelo contexto, do dono da mercearia/recepção; mantive o rótulo como está. Gênero do Mascate evitado de propósito. Ids 41–59 e 60–113: frases padrão de pousada copiadas de 10342/10275. Id 13 (◆◆◆◆◆◆) mantido.
+- 10391.xml: Id 37 (Annie, "Father...") e Id 38 (código `<unk19:...>`, Barrs) traduzidos normalmente; "Uuh... Ha..." → "Uuh... Ah..."; "...Nnh....Ungh...", "...Aah... Ughh..." e "...Uughh... Ungh..." mantidos (gemidos). "Mr. Frantz" → "senhor Frantz".
+- 10392.xml, Ids 6–15: textos de objetos examináveis traduzidos; títulos de livros ("As Ilusões da Antiga Callegea", "Medicina do Aventureiro") e nomes ilusórios ("Mapa-Múndi das Ilusões", "Boné Ilusório", etc.) traduzidos livremente. Id 13: o inglês tem uma linha em branco (com um espaço) no meio; usei linha vazia. "tail sleeve" → "capa da cauda" (conferir).
+- Revisão do relatorio_validacao.txt (2026-10-01, lote 10399–10410): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido. Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10399–10410 (2026-10-01): 10399, 10400, 10401, 10402, 10403, 10408, 10409, 10410 (10404–10407 não existem; 10399 e 10410 só têm o nome do lugar: "Oásis" / "Caverna dos Escaladores"). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 0 problemas novos (só o falso positivo de 10309). Próximo arquivo: 10411.
+- 10400/10402/10403, rótulos de falante: "Callegean Soldier" → "Soldado Callegeano", "Old Woman's Voice" → "Voz de Velha", "Old Man/Old Woman" → "Velho/Velha", "Notice" → "Aviso". "Frantz" e "Select" mantidos. Lugares: "Climbers' Cavern" → "Caverna dos Escaladores", "Azure Sanctuary" → "Santuário Azul" (glossário).
+- 10400/10402/10403: cena do Livgaro repetida nos três arquivos (mesmo inglês); traduzida igual. Id 12 de 10403 (velho Gajuma-hostil): "thugs" → "brutamontes". 10409: "gate" → "portão" (o japonês diz grade/格子); conferir.

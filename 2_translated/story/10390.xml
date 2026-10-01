@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754,3754</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>3720</PointerOffset>
       <JapaneseText>食材屋の店主</JapaneseText>
-      <EnglishText>Grocery Owner</EnglishText>
+      <EnglishText>Dono da Mercearia</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>4729,3649</PointerOffset>
       <JapaneseText>宿屋のおかみ</JapaneseText>
-      <EnglishText>Inn Hostess</EnglishText>
+      <EnglishText>Dona da Pousada</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>2045,2045,2045,2045</PointerOffset>
       <JapaneseText>食材屋「大地の恵み」</JapaneseText>
-      <EnglishText>Grocer</EnglishText>
+      <EnglishText>Dono da Mercearia</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Done</Status>
@@ -101,7 +101,7 @@
     <Entry>
       <PointerOffset>5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860,5860</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>11</Id>
       <Status>Done</Status>
@@ -109,7 +109,7 @@
     <Entry>
       <PointerOffset>1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125,1125</PointerOffset>
       <JapaneseText>宿屋「沙漠の館」</JapaneseText>
-      <EnglishText>Innkeeper</EnglishText>
+      <EnglishText>Pousadeiro</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>205</PointerOffset>
       <JapaneseText>宿屋・食材屋</JapaneseText>
-      <EnglishText>Inn - Grocery Store</EnglishText>
+      <EnglishText>Pousada - Mercearia</EnglishText>
       <Notes>TIMED Floating text bubble, generally used after entering a place</Notes>
       <Id>1</Id>
       <Status>Done</Status>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset>214</PointerOffset>
       <JapaneseText>アニカマル・宿屋・食材屋</JapaneseText>
-      <EnglishText>Anikamal - Inn - Grocery Store</EnglishText>
+      <EnglishText>Anikamal - Pousada - Mercearia</EnglishText>
       <Notes>This place's name in the menu</Notes>
       <Id>3</Id>
       <Status>Done</Status>
@@ -148,9 +148,8 @@
       <PointerOffset>3770</PointerOffset>
       <JapaneseText>色々あります。
 見ていってくれませんか？</JapaneseText>
-      <EnglishText>I sell a variety of things.
-Would you like to have
-a look?</EnglishText>
+      <EnglishText>Vendo várias coisas. Quer
+dar uma olhada?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -161,9 +160,9 @@ a look?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　装飾品を買う
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Accessories
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Acessórios
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -172,7 +171,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3851</PointerOffset>
       <JapaneseText>またどうぞー！</JapaneseText>
-      <EnglishText>Until next time!</EnglishText>
+      <EnglishText>Até a próxima!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -183,9 +182,9 @@ Cancel</EnglishText>
       <JapaneseText>俺はこの村の住民じゃないが
 知り合いの紹介で、商売を
 させてもらっているんだ。</JapaneseText>
-      <EnglishText>I'm not from this village,
-but I was referred here
-by an acquaintance.</EnglishText>
+      <EnglishText>Não sou desta vila, mas me
+indicaram este lugar
+por meio de um conhecido.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -196,10 +195,9 @@ by an acquaintance.</EnglishText>
       <JapaneseText>俺はこの村の住民じゃないが
 ここで商売を続けるには、
 村の人に従うしかないんだ……</JapaneseText>
-      <EnglishText>I'm not from here, but in
-order to continue doing
-business I have to follow
-their lead.</EnglishText>
+      <EnglishText>Não sou daqui, mas, pra manter
+os negócios, preciso seguir
+o que eles fazem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -211,9 +209,9 @@ their lead.</EnglishText>
 それから俺にはなるべく
 話しかけないでくれ……すまん。
 </JapaneseText>
-      <EnglishText>The sooner you leave, the
-better. And speak to me as
-little as possible... Sorry.</EnglishText>
+      <EnglishText>Quanto antes você for embora,
+melhor. E fale comigo o menos
+possível... Desculpe.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -225,10 +223,9 @@ little as possible... Sorry.</EnglishText>
 村の人がそう言うからじゃない。
 あんたがガジュマだからさ……
 </JapaneseText>
-      <EnglishText>I don't wish to speak with you...
-Not because the villagers told
-me not to, but because you're
-a Gajuma...</EnglishText>
+      <EnglishText>Não quero falar com você...
+Não porque os moradores mandaram,
+mas porque você é Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -239,7 +236,7 @@ a Gajuma...</EnglishText>
       <JapaneseText>ガジュマが憎く思えて
 仕方ないんだ……
 </JapaneseText>
-      <EnglishText>I can't help but hate Gajuma...</EnglishText>
+      <EnglishText>Não paro de odiar os Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -250,10 +247,10 @@ a Gajuma...</EnglishText>
       <JapaneseText>でもこの村はガジュマのほうが
 多いし……耐えるのに必死さ。
 お金を稼ぐって、大変だよなぁ……</JapaneseText>
-      <EnglishText>But in this village there are many
-Gajuma... I'm desperate, so I have
-to endure it. Earning money is
-difficult, you know...</EnglishText>
+      <EnglishText>Mas nesta vila há muitos Gajuma...
+Preciso aguentar, é questão de
+necessidade. Ganhar dinheiro é
+difícil, sabe...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -274,10 +271,9 @@ Gat or </Notes>
       <PointerOffset>4274</PointerOffset>
       <JapaneseText>もうここでは商売できないかと
 思ってたんだけど……助かったよ。</JapaneseText>
-      <EnglishText>I thought I wouldn't be
-able to continue doing 
-business here...but
-thanks to you I can.</EnglishText>
+      <EnglishText>Achei que não poderia continuar
+negociando aqui... mas graças
+a você eu posso.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -287,9 +283,9 @@ thanks to you I can.</EnglishText>
       <PointerOffset>4296</PointerOffset>
       <JapaneseText>他の街へ行くってのもアリだけど、
 固定客をつかむまでが大変だからね。</JapaneseText>
-      <EnglishText>While it's also possible to
-go to another town, it's 
-hard to get a fixed clientele.</EnglishText>
+      <EnglishText>Dá pra ir pra outra cidade, mas
+é difícil conseguir uma
+clientela fixa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -300,9 +296,9 @@ hard to get a fixed clientele.</EnglishText>
       <JapaneseText>何の音なのかね……
 俺は周りがうるさくても
 寝られるタイプだからいいけど……</JapaneseText>
-      <EnglishText>What's that noise...? I'm the kind
-of person who can sleep even when
-it's loud, so I guess I'll be fine...</EnglishText>
+      <EnglishText>Que barulho é esse...? Eu consigo
+dormir mesmo com barulho, então
+acho que vou ficar bem...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -314,9 +310,9 @@ it's loud, so I guess I'll be fine...</EnglishText>
 みんな気になって夜もろくに
 眠れないみたいだよ……
 </JapaneseText>
-      <EnglishText>There are a lot of old folks in
-this village, and everyone is so
-worried that they can't sleep...</EnglishText>
+      <EnglishText>Há muitos idosos nesta vila, e
+todos estão tão preocupados que
+não conseguem dormir...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -326,9 +322,8 @@ worried that they can't sleep...</EnglishText>
       <PointerOffset>4407</PointerOffset>
       <JapaneseText>ヒューマとガジュマが争ってると
 商売がやりにくいんだよなぁ。</JapaneseText>
-      <EnglishText>When Huma and Gajuma are 
-quarreling with each other, 
-it's difficult to do business.</EnglishText>
+      <EnglishText>Quando Huma e Gajuma brigam,
+fica difícil fazer negócios.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -339,9 +334,8 @@ it's difficult to do business.</EnglishText>
       <JapaneseText>モメる原因ってのは、
 わからなくもないんだけど……
 </JapaneseText>
-      <EnglishText>As to why they're at each
-other's throats, your best
-asking someone else.</EnglishText>
+      <EnglishText>Quanto ao motivo da briga,
+é melhor perguntar a outra pessoa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -352,9 +346,9 @@ asking someone else.</EnglishText>
       <JapaneseText>人が遊んでる時、人が働かない時に
 稼ぐのが商人ってもんさ。
 </JapaneseText>
-      <EnglishText>I make money when people are
-enjoying themselves and aren't
-at work.</EnglishText>
+      <EnglishText>Eu ganho dinheiro quando as
+pessoas estão se divertindo e
+não estão trabalhando.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -365,9 +359,9 @@ at work.</EnglishText>
       <JapaneseText>今がまさにその時……
 がんばって稼がないとな。
 </JapaneseText>
-      <EnglishText>Which is right about now...
-I have to do my best to
-make money.</EnglishText>
+      <EnglishText>Que é justamente agora...
+Tenho que dar o meu melhor
+pra ganhar dinheiro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -377,8 +371,8 @@ make money.</EnglishText>
       <PointerOffset>4526</PointerOffset>
       <JapaneseText>将来は自分の店を持つのが
 目標なんだ……</JapaneseText>
-      <EnglishText>My goal is to have my own
-store in the future.</EnglishText>
+      <EnglishText>Meu objetivo é ter minha
+própria loja no futuro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -387,7 +381,7 @@ store in the future.</EnglishText>
     <Entry>
       <PointerOffset>3915</PointerOffset>
       <JapaneseText>またどうぞー！</JapaneseText>
-      <EnglishText>See you again!</EnglishText>
+      <EnglishText>Até mais!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -400,8 +394,8 @@ store in the future.</EnglishText>
       <PointerOffset>3736</PointerOffset>
       <JapaneseText>外はバイラスでいっぱいだよ。
 あ、あんたら……平気かい？</JapaneseText>
-      <EnglishText>There's a ton of Biruses outside. 
-W-Will you be all right?</EnglishText>
+      <EnglishText>Tem um monte de Birus lá fora.
+V-Vocês vão ficar bem?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -414,8 +408,8 @@ W-Will you be all right?</EnglishText>
       <PointerOffset>4710</PointerOffset>
       <VoiceId>1a000006</VoiceId>
       <JapaneseText>どこかに医者はいないか？</JapaneseText>
-      <EnglishText>Do you know where we
-can find a doctor?</EnglishText>
+      <EnglishText>Você sabe onde a gente pode
+encontrar um médico?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -426,8 +420,8 @@ can find a doctor?</EnglishText>
       <VoiceId>1a000007</VoiceId>
       <JapaneseText>ちょっと忙しいんだ……
 他をあたっておくれ……</JapaneseText>
-      <EnglishText>I'm busy right now.
-Ask someone else.</EnglishText>
+      <EnglishText>Estou ocupada agora.
+Pergunte a outra pessoa.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -447,7 +441,7 @@ Ask someone else.</EnglishText>
       <PointerOffset>3696</PointerOffset>
       <JapaneseText>忙しいんだよ……
 </JapaneseText>
-      <EnglishText>I'm busy, you know...</EnglishText>
+      <EnglishText>Estou ocupada, sabe...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -460,8 +454,8 @@ Ask someone else.</EnglishText>
       <PointerOffset>865</PointerOffset>
       <JapaneseText>フランツさんに
 まかせるしかないな……</JapaneseText>
-      <EnglishText>Frantz is busy taking
-care of Annie...</EnglishText>
+      <EnglishText>Frantz está ocupado cuidando
+da Annie...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -471,7 +465,7 @@ care of Annie...</EnglishText>
       <PointerOffset>904</PointerOffset>
       <JapaneseText>フランツさんに
 まかせるしかないよネ……</JapaneseText>
-      <EnglishText>&lt;Annie&gt; is in Frantz's hands now...</EnglishText>
+      <EnglishText>&lt;Annie&gt; está com Frantz agora...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
@@ -481,8 +475,8 @@ care of Annie...</EnglishText>
       <PointerOffset>943</PointerOffset>
       <JapaneseText>&lt;Annie&gt;の事は、フランツさんに
 まかせて、外で待つしかない……</JapaneseText>
-      <EnglishText>We should wait outside while
-Frantz takes care of &lt;Annie&gt;...</EnglishText>
+      <EnglishText>Devemos esperar lá fora enquanto
+Frantz cuida de &lt;Annie&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
@@ -492,8 +486,8 @@ Frantz takes care of &lt;Annie&gt;...</EnglishText>
       <PointerOffset>983</PointerOffset>
       <JapaneseText>ここは、フランツさんに
 まかせるしかないぜ……</JapaneseText>
-      <EnglishText>&lt;Annie&gt; is being taken care
-of by Frantz right now...</EnglishText>
+      <EnglishText>&lt;Annie&gt; está sendo cuidada
+por Frantz agora...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>32</Id>
@@ -503,8 +497,8 @@ of by Frantz right now...</EnglishText>
       <PointerOffset>1023</PointerOffset>
       <JapaneseText>私たちにできる事は
 待つ事だけよ……</JapaneseText>
-      <EnglishText>The only thing we can
-do now is wait...</EnglishText>
+      <EnglishText>A única coisa que podemos
+fazer agora é esperar...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
@@ -513,7 +507,7 @@ do now is wait...</EnglishText>
     <Entry>
       <PointerOffset>1049</PointerOffset>
       <JapaneseText>外で待つしか……</JapaneseText>
-      <EnglishText>We have to wait outside...</EnglishText>
+      <EnglishText>Temos que esperar lá fora...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>34</Id>
@@ -527,9 +521,9 @@ do now is wait...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -550,7 +544,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2119</PointerOffset>
       <JapaneseText>ようこそ。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>37</Id>
@@ -562,10 +556,10 @@ No</EnglishText>
 　泊まる　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Ingredients
-Rest
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Ingredientes
+Descansar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
@@ -575,8 +569,8 @@ Cancel</EnglishText>
       <PointerOffset>2217</PointerOffset>
       <JapaneseText>どんな食材が欲しい？
 </JapaneseText>
-      <EnglishText>What kind of ingredients
-do you want?</EnglishText>
+      <EnglishText>Que tipo de ingredientes
+você quer?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>39</Id>
@@ -586,7 +580,7 @@ do you want?</EnglishText>
       <PointerOffset>2245</PointerOffset>
       <JapaneseText>またどうぞ、おいで。
 </JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>40</Id>
@@ -596,9 +590,8 @@ do you want?</EnglishText>
       <PointerOffset>5159</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;ひと晩&lt;unk17:340C80&gt;ガルドになりますが
 いかがですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-the night?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer passar a noite?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>41</Id>
@@ -608,9 +601,8 @@ the night?</EnglishText>
       <PointerOffset>5212</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes>Check dups for space in the beginning 
 Gator</Notes>
       <SpeakerId>11</SpeakerId>
@@ -621,9 +613,8 @@ Gator</Notes>
       <PointerOffset>5265</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Will you be spending
-the night?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Vai passar a noite aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>43</Id>
@@ -633,9 +624,8 @@ the night?</EnglishText>
       <PointerOffset>5319</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>44</Id>
@@ -645,9 +635,8 @@ here?</EnglishText>
       <PointerOffset>5373</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>45</Id>
@@ -657,8 +646,8 @@ here?</EnglishText>
       <PointerOffset>5439</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;泊まんのかい……？
 &lt;unk17:340C80&gt;ガルド置いてきな。</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Stay here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>46</Id>
@@ -668,8 +657,8 @@ Stay here?</EnglishText>
       <PointerOffset>5482</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドだけど、
 泊まるかい？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;It's &lt;unk17:340C80&gt; Gald for a night.
-Will you be staying?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;São &lt;unk17:340C80&gt; Gald por noite.
+Vai se hospedar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>47</Id>
@@ -679,9 +668,8 @@ Will you be staying?</EnglishText>
       <PointerOffset>5536</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>48</Id>
@@ -691,9 +679,8 @@ here?</EnglishText>
       <PointerOffset>5590</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>49</Id>
@@ -703,9 +690,8 @@ here?</EnglishText>
       <PointerOffset>5644</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>50</Id>
@@ -715,8 +701,8 @@ here?</EnglishText>
       <PointerOffset>5698</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドだけど、
 泊まる？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>51</Id>
@@ -726,8 +712,8 @@ Would you like to stay?</EnglishText>
       <PointerOffset>5752</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 よろしいでしょうか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Is that all right with you?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Está bem para você?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>52</Id>
@@ -737,9 +723,8 @@ Is that all right with you?</EnglishText>
       <PointerOffset>5806</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドになりますが、
 お泊りですか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Would you like to stay
-here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>53</Id>
@@ -749,8 +734,8 @@ here?</EnglishText>
       <PointerOffset>5868</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;一泊&lt;unk17:340C80&gt;ガルドだ。
 どうする？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;One night is &lt;unk17:340C80&gt; Gald.
-Are you staying?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Uma noite custa &lt;unk17:340C80&gt; Gald.
+Vai ficar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>54</Id>
@@ -759,7 +744,7 @@ Are you staying?</EnglishText>
     <Entry>
       <PointerOffset>5922</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;&lt;unk17:340C80&gt;ガルドだけど泊まるかい？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;Spend &lt;unk17:340C80&gt; Gald to rest here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Gastar &lt;unk17:340C80&gt; Gald para descansar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>55</Id>
@@ -768,7 +753,7 @@ Are you staying?</EnglishText>
     <Entry>
       <PointerOffset>5976</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;&lt;unk17:340C80&gt;ガルドだけど泊まるかい？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;Spend &lt;unk17:340C80&gt; Gald to rest here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Gastar &lt;unk17:340C80&gt; Gald para descansar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>56</Id>
@@ -777,8 +762,8 @@ Are you staying?</EnglishText>
     <Entry>
       <PointerOffset>6030</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;&lt;unk17:340C80&gt;ガルドだけど泊まりますか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;Will you spend &lt;unk17:340C80&gt;
-Gald to rest here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Vai gastar &lt;unk17:340C80&gt;
+Gald para descansar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>57</Id>
@@ -787,8 +772,8 @@ Gald to rest here?</EnglishText>
     <Entry>
       <PointerOffset>6084</PointerOffset>
       <JapaneseText>&lt;font:80000002&gt;&lt;unk17:340C80&gt;ガルドだけど泊まりますか？</JapaneseText>
-      <EnglishText>&lt;font:80000002&gt;Will you spend &lt;unk17:340C80&gt;
-Gald to rest here?</EnglishText>
+      <EnglishText>&lt;font:80000002&gt;Vai gastar &lt;unk17:340C80&gt;
+Gald para descansar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>58</Id>
@@ -800,9 +785,9 @@ Gald to rest here?</EnglishText>
 　はい　
 　いいえ　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;&lt;unk17:340C80&gt; Gald to rest. Spend the night?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;&lt;unk17:340C80&gt; Gald para passar a noite?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>59</Id>
@@ -811,7 +796,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5167</PointerOffset>
       <JapaneseText>ごゆっくりどうぞ。</JapaneseText>
-      <EnglishText>Rest well.</EnglishText>
+      <EnglishText>Descanse bem.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>60</Id>
@@ -820,7 +805,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5220</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>61</Id>
@@ -829,7 +814,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5273</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>62</Id>
@@ -838,7 +823,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5327</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>63</Id>
@@ -847,7 +832,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5381</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>64</Id>
@@ -865,7 +850,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5490</PointerOffset>
       <JapaneseText>ごゆっくり。</JapaneseText>
-      <EnglishText>Make yourself at home.</EnglishText>
+      <EnglishText>Fique à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>66</Id>
@@ -874,7 +859,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5544</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>67</Id>
@@ -883,7 +868,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5598</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>68</Id>
@@ -892,7 +877,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5652</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>69</Id>
@@ -901,7 +886,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5706</PointerOffset>
       <JapaneseText>ごゆっくり。</JapaneseText>
-      <EnglishText>Rest well.</EnglishText>
+      <EnglishText>Descanse bem.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>70</Id>
@@ -910,8 +895,8 @@ No</EnglishText>
     <Entry>
       <PointerOffset>5760</PointerOffset>
       <JapaneseText>ごゆっくりお寛ぎください。</JapaneseText>
-      <EnglishText>Please relax and make
-yourself at home.</EnglishText>
+      <EnglishText>Relaxe e fique
+à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>71</Id>
@@ -920,7 +905,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>5814</PointerOffset>
       <JapaneseText>ごゆっくりお休みください。</JapaneseText>
-      <EnglishText>Enjoy your stay.</EnglishText>
+      <EnglishText>Aproveite a estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>72</Id>
@@ -938,7 +923,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>5930</PointerOffset>
       <JapaneseText>どうぞ、ごゆっくり。</JapaneseText>
-      <EnglishText>Make yourself at home.</EnglishText>
+      <EnglishText>Fique à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>74</Id>
@@ -947,7 +932,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>5984</PointerOffset>
       <JapaneseText>ごゆっくり。</JapaneseText>
-      <EnglishText>Rest well.</EnglishText>
+      <EnglishText>Descanse bem.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>75</Id>
@@ -956,7 +941,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>6038</PointerOffset>
       <JapaneseText>どうぞ、ごゆっくり。</JapaneseText>
-      <EnglishText>Make yourself at home.</EnglishText>
+      <EnglishText>Fique à vontade.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>76</Id>
@@ -965,7 +950,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>6092</PointerOffset>
       <JapaneseText>ごゆっくり、どーぞー。</JapaneseText>
-      <EnglishText>Have a good rest!</EnglishText>
+      <EnglishText>Bom descanso!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>77</Id>
@@ -974,7 +959,7 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>5183</PointerOffset>
       <JapaneseText>お金が足りないようですね。</JapaneseText>
-      <EnglishText>You've got no money.</EnglishText>
+      <EnglishText>Você está sem dinheiro.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>78</Id>
@@ -983,8 +968,8 @@ yourself at home.</EnglishText>
     <Entry>
       <PointerOffset>5236</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>79</Id>
@@ -993,8 +978,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5289</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>80</Id>
@@ -1003,8 +988,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5343</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>81</Id>
@@ -1013,8 +998,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5397</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>82</Id>
@@ -1024,8 +1009,8 @@ have enough money.</EnglishText>
       <PointerOffset>5463</PointerOffset>
       <JapaneseText>金がないのに、
 泊まる気だったのかい？</JapaneseText>
-      <EnglishText>What, did you think we'd let
-you stay here without paying?</EnglishText>
+      <EnglishText>O quê, achou que deixaríamos
+você ficar sem pagar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>83</Id>
@@ -1034,7 +1019,7 @@ you stay here without paying?</EnglishText>
     <Entry>
       <PointerOffset>5506</PointerOffset>
       <JapaneseText>お金が足りないよ。</JapaneseText>
-      <EnglishText>You don't have enough money.</EnglishText>
+      <EnglishText>Você não tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>84</Id>
@@ -1043,8 +1028,8 @@ you stay here without paying?</EnglishText>
     <Entry>
       <PointerOffset>5560</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>85</Id>
@@ -1053,8 +1038,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5614</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>86</Id>
@@ -1063,8 +1048,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5668</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>87</Id>
@@ -1073,8 +1058,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5722</PointerOffset>
       <JapaneseText>お金が足りないみたいね。</JapaneseText>
-      <EnglishText>It seems you don't have
-enough money.</EnglishText>
+      <EnglishText>Parece que você não tem
+dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>88</Id>
@@ -1083,8 +1068,8 @@ enough money.</EnglishText>
     <Entry>
       <PointerOffset>5776</PointerOffset>
       <JapaneseText>泊まり賃をお持ちでないようですが。</JapaneseText>
-      <EnglishText>It doesn't look like you
-can afford to stay here.</EnglishText>
+      <EnglishText>Não parece que você
+pode pagar pela estadia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>89</Id>
@@ -1093,8 +1078,8 @@ can afford to stay here.</EnglishText>
     <Entry>
       <PointerOffset>5830</PointerOffset>
       <JapaneseText>お金が足りないようです。</JapaneseText>
-      <EnglishText>It seems you don't
-have enough money.</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>90</Id>
@@ -1103,8 +1088,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>5892</PointerOffset>
       <JapaneseText>お金が足りないぞ。</JapaneseText>
-      <EnglishText>You don't have
-enough money.</EnglishText>
+      <EnglishText>Você não tem
+dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>91</Id>
@@ -1114,8 +1099,8 @@ enough money.</EnglishText>
       <PointerOffset>5946</PointerOffset>
       <JapaneseText>あれ？
 お金が足りないみたいだよ。</JapaneseText>
-      <EnglishText>Huh? You seem to not
-have enough money.</EnglishText>
+      <EnglishText>Hã? Parece que você não
+tem dinheiro suficiente.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>92</Id>
@@ -1124,8 +1109,8 @@ have enough money.</EnglishText>
     <Entry>
       <PointerOffset>6000</PointerOffset>
       <JapaneseText>お金が足りないんじゃが……</JapaneseText>
-      <EnglishText>It appears you don't
-have enough money...</EnglishText>
+      <EnglishText>Parece que você não
+tem dinheiro suficiente...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>93</Id>
@@ -1134,8 +1119,8 @@ have enough money...</EnglishText>
     <Entry>
       <PointerOffset>6054</PointerOffset>
       <JapaneseText>お金が足りませんが……</JapaneseText>
-      <EnglishText>You don't have
-enough money...</EnglishText>
+      <EnglishText>Você não tem
+dinheiro suficiente...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>94</Id>
@@ -1144,8 +1129,8 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>6108</PointerOffset>
       <JapaneseText>お金が足らないんですけど……</JapaneseText>
-      <EnglishText>You don't seem to have
-enough money...</EnglishText>
+      <EnglishText>Você parece não ter
+dinheiro suficiente...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>95</Id>
@@ -1155,7 +1140,7 @@ enough money...</EnglishText>
       <PointerOffset>5191</PointerOffset>
       <JapaneseText>それでは
 またの機会に。</JapaneseText>
-      <EnglishText>See you next time.</EnglishText>
+      <EnglishText>Até a próxima.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>96</Id>
@@ -1164,7 +1149,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5244</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>97</Id>
@@ -1173,7 +1158,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5297</PointerOffset>
       <JapaneseText>またどうぞ。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>98</Id>
@@ -1182,7 +1167,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5351</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>99</Id>
@@ -1191,7 +1176,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5405</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>100</Id>
@@ -1201,7 +1186,7 @@ enough money...</EnglishText>
       <PointerOffset>5471</PointerOffset>
       <JapaneseText>……ふん……
 ひやかしかい……</JapaneseText>
-      <EnglishText>Hmph... Window-shoppers...</EnglishText>
+      <EnglishText>Hunf... Só olhando...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>101</Id>
@@ -1210,7 +1195,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5514</PointerOffset>
       <JapaneseText>またおいで。</JapaneseText>
-      <EnglishText>Come back any time.</EnglishText>
+      <EnglishText>Volte quando quiser.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>102</Id>
@@ -1219,7 +1204,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5568</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>103</Id>
@@ -1228,7 +1213,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5622</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>104</Id>
@@ -1237,7 +1222,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5676</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>105</Id>
@@ -1246,7 +1231,7 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5730</PointerOffset>
       <JapaneseText>またおいで。</JapaneseText>
-      <EnglishText>Come back any time.</EnglishText>
+      <EnglishText>Volte quando quiser.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>106</Id>
@@ -1255,8 +1240,8 @@ enough money...</EnglishText>
     <Entry>
       <PointerOffset>5784</PointerOffset>
       <JapaneseText>またのお越しを。</JapaneseText>
-      <EnglishText>We hope to see
-you again.</EnglishText>
+      <EnglishText>Esperamos ver
+você de novo.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>107</Id>
@@ -1265,7 +1250,7 @@ you again.</EnglishText>
     <Entry>
       <PointerOffset>5838</PointerOffset>
       <JapaneseText>またお越しください。</JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>108</Id>
@@ -1275,8 +1260,8 @@ you again.</EnglishText>
       <PointerOffset>5900</PointerOffset>
       <JapaneseText>なんだ、
 泊まらないのか……？</JapaneseText>
-      <EnglishText>What, you're not
-going to stay?</EnglishText>
+      <EnglishText>O quê, não vai
+ficar?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>109</Id>
@@ -1285,7 +1270,7 @@ going to stay?</EnglishText>
     <Entry>
       <PointerOffset>5954</PointerOffset>
       <JapaneseText>いつでもどうぞ！</JapaneseText>
-      <EnglishText>You're always welcome here!</EnglishText>
+      <EnglishText>A casa é sua, volte sempre!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>110</Id>
@@ -1294,7 +1279,7 @@ going to stay?</EnglishText>
     <Entry>
       <PointerOffset>6008</PointerOffset>
       <JapaneseText>いつでもおいで。</JapaneseText>
-      <EnglishText>Come back any time.</EnglishText>
+      <EnglishText>Volte quando quiser.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>111</Id>
@@ -1303,7 +1288,7 @@ going to stay?</EnglishText>
     <Entry>
       <PointerOffset>6062</PointerOffset>
       <JapaneseText>お気をつけて……</JapaneseText>
-      <EnglishText>Take care...</EnglishText>
+      <EnglishText>Se cuide...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>112</Id>
@@ -1312,7 +1297,7 @@ going to stay?</EnglishText>
     <Entry>
       <PointerOffset>6116</PointerOffset>
       <JapaneseText>泊まらないんですか？</JapaneseText>
-      <EnglishText>Do you not want to stay here?</EnglishText>
+      <EnglishText>Você não quer ficar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>113</Id>
@@ -1323,9 +1308,9 @@ going to stay?</EnglishText>
       <JapaneseText>話す事なんかないよ……
 用が済んだら、とっとと
 出て行くんだね。</JapaneseText>
-      <EnglishText>I don't have anything to discuss
-with you... When you're done
-here, get out.</EnglishText>
+      <EnglishText>Não tenho nada pra conversar
+com você... Quando terminar
+aqui, saia.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>114</Id>
@@ -1334,7 +1319,7 @@ here, get out.</EnglishText>
     <Entry>
       <PointerOffset>2796</PointerOffset>
       <JapaneseText>さっさと出て行きな！</JapaneseText>
-      <EnglishText>Leave immediately!</EnglishText>
+      <EnglishText>Saia agora mesmo!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>115</Id>
@@ -1346,9 +1331,9 @@ here, get out.</EnglishText>
 業者が、ウチにはもう卸さない
 って言い出してさ……
 </JapaneseText>
-      <EnglishText>The Huma vendor with whom I've
-been doing business with for a while
-won't sell wholesale to us anymore.</EnglishText>
+      <EnglishText>O fornecedor Huma com quem faço
+negócios há tempos não nos
+vende mais no atacado.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>116</Id>
@@ -1360,10 +1345,9 @@ won't sell wholesale to us anymore.</EnglishText>
 なんとか品はそろえてるけどさ、
 困っちゃうわ……
 </JapaneseText>
-      <EnglishText>Due to this, it's been hard
-to stock up. I've managed to
-get some stock in, but I'm
-in a difficult situation...</EnglishText>
+      <EnglishText>Por isso está difícil repor o
+estoque. Consegui um pouco,
+mas estou numa situação difícil...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>117</Id>
@@ -1374,9 +1358,8 @@ in a difficult situation...</EnglishText>
       <JapaneseText>あんた、ヒューマ……よね？
 ま、いいわ……こっちの話。
 </JapaneseText>
-      <EnglishText>You're a Huma right?
-Well, just between
-you and me...</EnglishText>
+      <EnglishText>Você é Huma, né? Bem, só
+entre você e eu...</EnglishText>
       <Notes>Not sure about the last part.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>118</Id>
@@ -1388,8 +1371,7 @@ you and me...</EnglishText>
 ウチで買い物して欲しく
 ないんだけど……
 </JapaneseText>
-      <EnglishText>I don't want Huma to
-shop here...</EnglishText>
+      <EnglishText>Não quero Huma comprando aqui...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>119</Id>
@@ -1400,10 +1382,9 @@ shop here...</EnglishText>
       <JapaneseText>ヒューマには色々思うところは
 あるけど……おかみさんには
 お世話になってたし……</JapaneseText>
-      <EnglishText>I have mixed feelings about
-Huma, but... The innkeeper
-has always been a great
-help to me...</EnglishText>
+      <EnglishText>Tenho sentimentos confusos sobre
+os Huma, mas... O pousadeiro
+sempre me ajudou muito...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>120</Id>
@@ -1413,8 +1394,8 @@ help to me...</EnglishText>
       <PointerOffset>3144</PointerOffset>
       <JapaneseText>とりあえず、宿屋は
 私が引き継いだのよ……</JapaneseText>
-      <EnglishText>Well, I'm in charge
-of the inn now...</EnglishText>
+      <EnglishText>Bem, agora estou cuidando
+da pousada...</EnglishText>
       <Notes>lil jank you know
 Gator/Dragon</Notes>
       <SpeakerId>11</SpeakerId>
@@ -1426,10 +1407,9 @@ Gator/Dragon</Notes>
       <JapaneseText>ヒューマには色々思うところは
 あるけど……おかみさんには
 お世話になってたし……</JapaneseText>
-      <EnglishText>I have mixed feelings about
-Huma, but... The innkeeper
-has always been a great
-help to me...</EnglishText>
+      <EnglishText>Tenho sentimentos confusos sobre
+os Huma, mas... O pousadeiro
+sempre me ajudou muito...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>122</Id>
@@ -1439,8 +1419,8 @@ help to me...</EnglishText>
       <PointerOffset>3201</PointerOffset>
       <JapaneseText>とりあえず、宿屋は
 私が引き継いだのよ……</JapaneseText>
-      <EnglishText>Well, I'm in charge
-of the inn now...</EnglishText>
+      <EnglishText>Bem, agora estou cuidando
+da pousada...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>123</Id>
@@ -1451,10 +1431,9 @@ of the inn now...</EnglishText>
       <JapaneseText>ヒューマには色々思うところは
 あるけど……おかみさんには
 お世話になってたし……</JapaneseText>
-      <EnglishText>I have mixed feelings about
-Huma, but... The innkeeper
-has always been a great
-help to me...</EnglishText>
+      <EnglishText>Tenho sentimentos confusos sobre
+os Huma, mas... O pousadeiro
+sempre me ajudou muito...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>124</Id>
@@ -1464,8 +1443,8 @@ help to me...</EnglishText>
       <PointerOffset>3248</PointerOffset>
       <JapaneseText>とりあえず、宿屋は
 私が引き継いだのよ……</JapaneseText>
-      <EnglishText>Well, I'm in charge of
-the inn now...</EnglishText>
+      <EnglishText>Bem, agora estou cuidando da
+pousada...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>125</Id>
@@ -1475,9 +1454,9 @@ the inn now...</EnglishText>
       <PointerOffset>3302</PointerOffset>
       <JapaneseText>ヒューマも悪いとは思うけど
 おかみさんの事は心配だったし……</JapaneseText>
-      <EnglishText>I don't hold Huma in high
-regard, but I was worried
-about the innkeeper...</EnglishText>
+      <EnglishText>Não tenho os Huma em alta conta,
+mas eu estava preocupado com
+o pousadeiro...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>126</Id>
@@ -1488,9 +1467,8 @@ about the innkeeper...</EnglishText>
       <JapaneseText>またおかみさんと一緒に
 商売ができて嬉しいよ。
 </JapaneseText>
-      <EnglishText>I'm happy we can
-run our businesses
-together again...</EnglishText>
+      <EnglishText>Fico feliz que possamos tocar
+nossos negócios juntos de novo...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>127</Id>
@@ -1500,9 +1478,9 @@ together again...</EnglishText>
       <PointerOffset>3359</PointerOffset>
       <JapaneseText>ヒューマも悪いとは思うけど
 おかみさんの事は心配だったし……</JapaneseText>
-      <EnglishText>I don't hold Huma in high
-regard, but I was worried
-about the innkeeper...</EnglishText>
+      <EnglishText>Não tenho os Huma em alta conta,
+mas eu estava preocupado com
+o pousadeiro...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>128</Id>
@@ -1513,8 +1491,8 @@ about the innkeeper...</EnglishText>
       <JapaneseText>またおかみさんと一緒に
 商売ができて嬉しいよ。
 </JapaneseText>
-      <EnglishText>I'm happy we can run our
-businesses together again...</EnglishText>
+      <EnglishText>Fico feliz que possamos tocar
+nossos negócios juntos de novo...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>129</Id>
@@ -1524,9 +1502,9 @@ businesses together again...</EnglishText>
       <PointerOffset>3406</PointerOffset>
       <JapaneseText>ヒューマも悪いとは思うけど
 おかみさんの事は心配だったし……</JapaneseText>
-      <EnglishText>I don't hold Huma in high
-regard, but I was worried
-about the innkeeper...</EnglishText>
+      <EnglishText>Não tenho os Huma em alta conta,
+mas eu estava preocupado com
+o pousadeiro...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>130</Id>
@@ -1537,8 +1515,8 @@ about the innkeeper...</EnglishText>
       <JapaneseText>またおかみさんと一緒に
 商売ができて嬉しいよ。
 </JapaneseText>
-      <EnglishText>I'm happy we can run our
-businesses together again...</EnglishText>
+      <EnglishText>Fico feliz que possamos tocar
+nossos negócios juntos de novo...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>131</Id>
@@ -1549,8 +1527,8 @@ businesses together again...</EnglishText>
       <JapaneseText>この音はなんなのかねえ……
 いつ終わるのかねえ……
 </JapaneseText>
-      <EnglishText>What is this sound...? 
-When will it end...?</EnglishText>
+      <EnglishText>Que som é esse...? Quando
+vai acabar...?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>132</Id>
@@ -1560,9 +1538,9 @@ When will it end...?</EnglishText>
       <PointerOffset>3523</PointerOffset>
       <JapaneseText>ヒューマも悪いとは思うけど
 おかみさんの事は心配だったし……</JapaneseText>
-      <EnglishText>I don't hold Huma in high
-regard, but I was worried
-about the innkeeper...</EnglishText>
+      <EnglishText>Não tenho os Huma em alta conta,
+mas eu estava preocupado com
+o pousadeiro...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>133</Id>
@@ -1573,8 +1551,8 @@ about the innkeeper...</EnglishText>
       <JapaneseText>またおかみさんと一緒に
 商売ができて嬉しいよ。
 </JapaneseText>
-      <EnglishText>I'm happy we can run our
-businesses together again...</EnglishText>
+      <EnglishText>Fico feliz que possamos tocar
+nossos negócios juntos de novo...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>134</Id>
@@ -1586,9 +1564,9 @@ businesses together again...</EnglishText>
 少しずつ仲直りし始めてるよ。
 なんだか嬉しいね……
 </JapaneseText>
-      <EnglishText>Things are still awkward between us,
-but our relationship is gradually on
-the mend... I'm so happy...</EnglishText>
+      <EnglishText>Ainda há um clima estranho entre
+nós, mas nossa relação melhora
+aos poucos... Estou tão feliz...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>135</Id>
@@ -1599,10 +1577,9 @@ the mend... I'm so happy...</EnglishText>
       <JapaneseText>なんだか、悪い事したねえ……
 タダにはできないけど、
 ゆっくり見てっとくれ。</JapaneseText>
-      <EnglishText>I've treated you so badly...
-I can't give you anything
-for free, but feel free to
-look at my goods.</EnglishText>
+      <EnglishText>Tratei você tão mal... Não posso
+dar nada de graça, mas fique
+à vontade pra ver meus produtos.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>136</Id>
@@ -1611,7 +1588,7 @@ look at my goods.</EnglishText>
     <Entry>
       <PointerOffset>2347</PointerOffset>
       <JapaneseText>またおいで。</JapaneseText>
-      <EnglishText>Come back any time.</EnglishText>
+      <EnglishText>Volte quando quiser.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>137</Id>
@@ -1622,9 +1599,9 @@ look at my goods.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　食材を買う
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy Ingredients
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar Ingredientes
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>138</Id>
@@ -1633,7 +1610,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2562</PointerOffset>
       <JapaneseText>何の用だね……？</JapaneseText>
-      <EnglishText>What can I do for you...?</EnglishText>
+      <EnglishText>Em que posso ajudar...?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>139</Id>
@@ -1643,8 +1620,8 @@ Cancel</EnglishText>
       <PointerOffset>2587</PointerOffset>
       <JapaneseText>どんな食材が欲しい？
 </JapaneseText>
-      <EnglishText>What kind of ingredients
-do you want?</EnglishText>
+      <EnglishText>Que tipo de ingredientes
+você quer?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>140</Id>
@@ -1654,8 +1631,8 @@ do you want?</EnglishText>
       <PointerOffset>2654</PointerOffset>
       <JapaneseText>用が済んだら、
 とっとと出て行きな。</JapaneseText>
-      <EnglishText>If you're finished,
-leave right away.</EnglishText>
+      <EnglishText>Se já terminou,
+saia logo.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>141</Id>
@@ -1665,7 +1642,7 @@ leave right away.</EnglishText>
       <PointerOffset>2679</PointerOffset>
       <JapaneseText>またどうぞ、おいで。
 </JapaneseText>
-      <EnglishText>Please come again.</EnglishText>
+      <EnglishText>Volte sempre.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>142</Id>
@@ -1678,8 +1655,8 @@ leave right away.</EnglishText>
       <PointerOffset>1174</PointerOffset>
       <JapaneseText>病気の者は
 うちには泊めないよ！</JapaneseText>
-      <EnglishText>I won't allow anyone sick
-to stay at my inn!</EnglishText>
+      <EnglishText>Não deixo ninguém doente
+ficar na minha pousada!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>143</Id>
@@ -1689,8 +1666,8 @@ to stay at my inn!</EnglishText>
       <PointerOffset>4830</PointerOffset>
       <JapaneseText>……早くその娘さんを
 手当てしてやっておくれ。</JapaneseText>
-      <EnglishText>...Give some medical treatment
-to that girl soon.</EnglishText>
+      <EnglishText>...Dê um tratamento médico
+pra aquela menina logo.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>144</Id>
@@ -1700,9 +1677,9 @@ to that girl soon.</EnglishText>
       <PointerOffset>4858</PointerOffset>
       <JapaneseText>あの子が治る事を祈ってるよ……
 村の人が病気にかかってない事もね……</JapaneseText>
-      <EnglishText>I'll pray for her to get better...
-And that no one in the village
-gets sick...</EnglishText>
+      <EnglishText>Vou rezar pra ela melhorar...
+E pra que ninguém na vila
+fique doente...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>145</Id>
@@ -1711,7 +1688,7 @@ gets sick...</EnglishText>
     <Entry>
       <PointerOffset>1245</PointerOffset>
       <JapaneseText>よく来たの。</JapaneseText>
-      <EnglishText>Welcome.</EnglishText>
+      <EnglishText>Bem-vindo.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>146</Id>
@@ -1722,9 +1699,9 @@ gets sick...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　泊まる　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Rest
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Descansar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>147</Id>
@@ -1736,10 +1713,9 @@ Cancel</EnglishText>
 余分にしゃべると
 暑くなるだけさ……
 </JapaneseText>
-      <EnglishText>I don't have any particular thing
-to talk about. Speaking more
-than necessary is just going to
-make me overheat...</EnglishText>
+      <EnglishText>Não tenho nada em especial pra
+conversar. Falar demais só vai
+me esquentar ainda mais...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>148</Id>
@@ -1750,8 +1726,8 @@ make me overheat...</EnglishText>
       <JapaneseText>出て行きな！
 まだ死にたかないんだよ！
 </JapaneseText>
-      <EnglishText>Get out of here! I don't
-want to die yet!</EnglishText>
+      <EnglishText>Saia daqui! Ainda não quero
+morrer!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>149</Id>
@@ -1763,9 +1739,9 @@ want to die yet!</EnglishText>
 ガジュマと話すとどうにも
 気持ちが高ぶるのさ……
 </JapaneseText>
-      <EnglishText>...I don't want to say too
-much, but I get worked up
-when talking to Gajuma...</EnglishText>
+      <EnglishText>...Não quero falar demais, mas
+me exalto quando converso
+com Gajuma...</EnglishText>
       <Notes>Not sure about this one because of the どうにも</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>150</Id>
@@ -1777,10 +1753,9 @@ when talking to Gajuma...</EnglishText>
 こんな事、六十年生きてきて
 初めてさね……
 </JapaneseText>
-      <EnglishText>I have to put up with things
-like this due to my job, but
-I've never felt like this in
-my sixty years of life...</EnglishText>
+      <EnglishText>Tenho que aguentar isso por causa
+do trabalho, mas nunca me senti
+assim em sessenta anos de vida...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>151</Id>
@@ -1791,9 +1766,8 @@ my sixty years of life...</EnglishText>
       <JapaneseText>……あんたら、ガジュマと
 一緒にいて平気かね……？
 あたしゃ、イライラしっぱなしさ。</JapaneseText>
-      <EnglishText>Are you all right traveling
-with a Gajuma? I get
-agitated around them.</EnglishText>
+      <EnglishText>Você está bem viajando com um
+Gajuma? Fico agitado perto deles.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>152</Id>
@@ -1804,10 +1778,9 @@ agitated around them.</EnglishText>
       <JapaneseText>商売がら、ガマンしてるけど
 こんな事、六十年生きてきて
 初めてさね……</JapaneseText>
-      <EnglishText>I have to put up with things
-like this due to my job, but
-I've never felt like this in
-my sixty years of life...</EnglishText>
+      <EnglishText>Tenho que aguentar isso por causa
+do trabalho, mas nunca me senti
+assim em sessenta anos de vida...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>153</Id>
@@ -1817,8 +1790,8 @@ my sixty years of life...</EnglishText>
       <PointerOffset>1682</PointerOffset>
       <JapaneseText>なんか最近、ガジュマを見ると、
 イライラするのさ……</JapaneseText>
-      <EnglishText>For some reason, when I
-see Gajuma I get irritated...</EnglishText>
+      <EnglishText>Por algum motivo, quando vejo
+Gajuma fico irritado...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>154</Id>
@@ -1827,7 +1800,7 @@ see Gajuma I get irritated...</EnglishText>
     <Entry>
       <PointerOffset>1704</PointerOffset>
       <JapaneseText>こんな事じゃいけないねえ……</JapaneseText>
-      <EnglishText>But that's not good...</EnglishText>
+      <EnglishText>Mas isso não é bom...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>155</Id>
@@ -1837,8 +1810,8 @@ see Gajuma I get irritated...</EnglishText>
       <PointerOffset>1757</PointerOffset>
       <JapaneseText>特に話題はないんだけど……
 すいませんね。</JapaneseText>
-      <EnglishText>I don't have anything particular
-to discuss... Sorry.</EnglishText>
+      <EnglishText>Não tenho nada em especial
+pra conversar... Desculpe.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>156</Id>
@@ -1848,8 +1821,8 @@ to discuss... Sorry.</EnglishText>
       <PointerOffset>1782</PointerOffset>
       <JapaneseText>食材屋の彼女、あたしの代わりに
 宿屋を守ってくれてたんだ。</JapaneseText>
-      <EnglishText>The grocer protected the
-inn while I was gone.</EnglishText>
+      <EnglishText>O dono da mercearia protegeu
+a pousada enquanto estive fora.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>157</Id>
@@ -1860,9 +1833,9 @@ inn while I was gone.</EnglishText>
       <JapaneseText>こういう人もいるってのに
 どうしてあたしはガジュマに
 腹を立ててたのかねえ……</JapaneseText>
-      <EnglishText>How can I be so angry
-with Gajuma when people
-like her exist...?</EnglishText>
+      <EnglishText>Como posso ter tanta raiva dos
+Gajuma se existem pessoas
+como ela...?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>158</Id>
@@ -1874,10 +1847,10 @@ like her exist...?</EnglishText>
 こんな音は、六十年生きて来て
 初めて聞いたよ。
 </JapaneseText>
-      <EnglishText>Sometimes the sky gets loud
-before a storm, but I've never
-heard a noise like this in my
-sixty years of living...</EnglishText>
+      <EnglishText>Às vezes o céu ronca antes de uma
+tempestade, mas nunca ouvi um
+barulho assim em sessenta anos
+de vida...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>159</Id>
@@ -1887,7 +1860,7 @@ sixty years of living...</EnglishText>
       <PointerOffset>1865</PointerOffset>
       <JapaneseText>何なのかねえ……
 </JapaneseText>
-      <EnglishText>What could it be...?</EnglishText>
+      <EnglishText>O que será isso...?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>160</Id>
@@ -1899,9 +1872,9 @@ sixty years of living...</EnglishText>
 ケンカしてるって話を聞くけど
 うちはうまくやってるよ。
 </JapaneseText>
-      <EnglishText>I hear that elsewhere Huma and
-Gajuma are at each others throats,
-but we're getting along fine here.</EnglishText>
+      <EnglishText>Ouvi dizer que em outros lugares
+Huma e Gajuma se estranham, mas
+aqui estamos nos dando bem.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>161</Id>
@@ -1912,8 +1885,8 @@ but we're getting along fine here.</EnglishText>
       <JapaneseText>当たり前だとは思うけど、
 幸せだって思うね。
 </JapaneseText>
-      <EnglishText>I know it's obvious, but
-we are pretty blessed.</EnglishText>
+      <EnglishText>Sei que é óbvio, mas somos
+bem abençoados.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>162</Id>
@@ -1925,11 +1898,10 @@ we are pretty blessed.</EnglishText>
 こんなヘンな空は、六十年の人生で
 初めてだよ……
 </JapaneseText>
-      <EnglishText>Sometimes the clouds look
-menacing before a storm, but
-this is the first time I've seen 
-such a strange sky in my sixty
-years of living.</EnglishText>
+      <EnglishText>Às vezes as nuvens ficam
+ameaçadoras antes da tempestade,
+mas nunca vi um céu tão estranho
+em sessenta anos de vida.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>163</Id>
@@ -1939,8 +1911,8 @@ years of living.</EnglishText>
       <PointerOffset>2012</PointerOffset>
       <JapaneseText>……こんなヘンピな村だけど
 イイ部屋を用意してるよ。</JapaneseText>
-      <EnglishText>Even in a remote village like
-this, we have good rooms.</EnglishText>
+      <EnglishText>Até numa vila remota como esta,
+temos bons quartos.</EnglishText>
       <Notes>The most perfect translation for this may be different than the one provided below.</Notes>
       <SpeakerId>12</SpeakerId>
       <Id>164</Id>
@@ -1949,7 +1921,7 @@ this, we have good rooms.</EnglishText>
     <Entry>
       <PointerOffset>1374</PointerOffset>
       <JapaneseText>またの。</JapaneseText>
-      <EnglishText>See you.</EnglishText>
+      <EnglishText>Até mais.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>165</Id>

@@ -62,6 +62,12 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Karez | Karez | Canais subterrâneos do deserto; nome mantido |
 | Tent | Tenda | Ex.: "Anikamal - Tenda" |
 | Anikamal | Anikamal | Nome próprio, mantido |
+| Oasis | Oásis | |
+| Anikamal - Residence | Anikamal - Residência | |
+| Anikamal - Inn / Anikamal - Inn - Grocery Store | Anikamal - Pousada / Anikamal - Pousada - Mercearia | |
+| Anikamal - Tent | Anikamal - Tenda | |
+| Climbers' Cavern | Caverna dos Escaladores | Nome descritivo; "Climbers' Cavern Entrance" → "Entrada da Caverna dos Escaladores" |
+| Azure Sanctuary | Santuário Azul | |
 
 ## Termos do jogo
 
@@ -72,6 +78,9 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Gald | Gald | Moeda, mantida |
 | Grocery Store / grocer | Mercearia | |
 | Guidepost | Placa | Título das placas de sinalização |
+| Old Woman | Velha | Rótulo de falante |
+| Notice | Aviso | Rótulo de falante |
+| Grocer | Dono da Mercearia | Rótulo de falante |
 | Half | Half | Raça mista (Huma/Gajuma), mantida como Huma e Gajuma |
 | Inn | Pousada | |
 | Enhance | Aprimorar | Menu de equipamento (confirmar) |
@@ -95,6 +104,7 @@ Registre aqui os casos que possam gerar dúvida.
 - Battle Book (nome de recurso do jogo, usado na frase: "Ler o Battle Book?")
 - Birus, Ice Birus, Frost Crow (monstros; "Birus" não flexiona no plural)
 - Force Cube, Force of Moon
+- Nomes de Force são técnicas e ficam em inglês: Force of Ice, Force of Magnetism, Force of Wood, Force of Moon, Force of Rainbow, Force of Steel (em falas curtas, o elemento sozinho também: "Ice")
 - Livros da biblioteca de Minal (itens): History Book, Philosophy Book, Dictionary, Reference Book, Romance Novel, Mystery Novel, Historical Novel, Biography, Travelogue, Adventure Novel, Poetry Collection, Art Book
 - Pratos do Refeitório de Minal: Minalian Shellfish Paella, Lemon Apple Pie, Hasta Pasta, Deep-fried Centipede, Sauteed Ice Cream; Hamburger Steak
 - RG, Rush Gauge, RG Gauge (termos de batalha)
@@ -103,6 +113,8 @@ Registre aqui os casos que possam gerar dúvida.
 - Fusion Force(s) (técnica; menu: Menu de Force)
 - Sunnytown (nome próprio de cidade; decisão de revisão: fica em inglês)
 - Pratos e receitas contam como itens e ficam em inglês (decisão de revisão). Ex.: Poplar's Special Milk Soup; Mussels and Scallop Cream Stew, Bread Rolls, Shark Steak, Chocolate Vine Dessert (cardápio da pousada de Petnadjanka). Cardápio da Pousada: os nomes dos pratos em inglês, só o título traduzido.
+
+- Belde grass → "erva Belde"; Livgaro, Nakako Ore (nomes de planta/monstro/item); Deathgaro Fever → "Febre de Deathgaro"; Day of Goldba → "Dia de Goldba"
 
 ## Interjeições e onomatopeias (decisão de revisão)
 

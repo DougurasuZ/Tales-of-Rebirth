@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>3026</PointerOffset>
       <JapaneseText>おばあさんの声</JapaneseText>
-      <EnglishText>Old Woman's Voice</EnglishText>
+      <EnglishText>Voz de Velha</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>3560,3560,3560</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>3568,3568,3568</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Velha</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>654</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>651</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -108,7 +108,7 @@
       <PointerOffset>1138</PointerOffset>
       <VoiceId>1a000093</VoiceId>
       <JapaneseText>なんだ、あのバイラスは!?</JapaneseText>
-      <EnglishText>What's with that one over there?!</EnglishText>
+      <EnglishText>O que é aquele ali?!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -118,7 +118,7 @@
       <PointerOffset>1159</PointerOffset>
       <VoiceId>1a000094</VoiceId>
       <JapaneseText>金色に光ってるヨ！</JapaneseText>
-      <EnglishText>It's glittering gold!</EnglishText>
+      <EnglishText>Tá brilhando dourado!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -128,7 +128,7 @@
       <PointerOffset>1181</PointerOffset>
       <VoiceId>1a000095</VoiceId>
       <JapaneseText>……って事はヤツが!!</JapaneseText>
-      <EnglishText>Then that must be it...!</EnglishText>
+      <EnglishText>Então deve ser ele...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -138,7 +138,7 @@
       <PointerOffset>1217</PointerOffset>
       <VoiceId>1a000096</VoiceId>
       <JapaneseText>必ず仕留めるんだ！</JapaneseText>
-      <EnglishText>Bring it down at all costs!</EnglishText>
+      <EnglishText>Derrubem-no a qualquer custo!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -148,8 +148,8 @@
       <PointerOffset>1433</PointerOffset>
       <VoiceId>1a000097</VoiceId>
       <JapaneseText>今度こそ、リブガロを倒すぞ!!</JapaneseText>
-      <EnglishText>This time, we'll take
-down the Livgaro!!</EnglishText>
+      <EnglishText>Dessa vez, vamos derrubar
+o Livgaro!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -160,7 +160,7 @@ down the Livgaro!!</EnglishText>
       <VoiceId>3900000d</VoiceId>
       <JapaneseText>た、助けてーっ！
 </JapaneseText>
-      <EnglishText>H-Heeeelp!!</EnglishText>
+      <EnglishText>S-Socorrooo!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -171,7 +171,7 @@ down the Livgaro!!</EnglishText>
       <VoiceId>3900000e</VoiceId>
       <JapaneseText>いたぞ、あそこだ!!
 </JapaneseText>
-      <EnglishText>They're over there!</EnglishText>
+      <EnglishText>Eles estão ali!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -182,7 +182,7 @@ down the Livgaro!!</EnglishText>
       <VoiceId>3900000f</VoiceId>
       <JapaneseText>みんな、大丈夫か？
 </JapaneseText>
-      <EnglishText>Is everyone all right?</EnglishText>
+      <EnglishText>Todos bem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -193,7 +193,7 @@ down the Livgaro!!</EnglishText>
       <VoiceId>39000010</VoiceId>
       <JapaneseText>助かったよ、ありがとう。
 </JapaneseText>
-      <EnglishText>Thank you for saving us.</EnglishText>
+      <EnglishText>Obrigado por nos salvarem.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
@@ -206,9 +206,9 @@ down the Livgaro!!</EnglishText>
 こんな砂漠に、
 わしらを追い出しおって！
 </JapaneseText>
-      <EnglishText>...Those Gajuma thugs!
-They just tossed us
-out into the desert!</EnglishText>
+      <EnglishText>...Aqueles brutamontes Gajuma!
+Nos jogaram no deserto,
+assim, sem mais nem menos!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
@@ -220,8 +220,8 @@ out into the desert!</EnglishText>
       <JapaneseText>やっぱり、ここには住めないわ。
 アニカマルに帰りたい……
 </JapaneseText>
-      <EnglishText>We can't survive out here. I
-want to go back to Anikamal...</EnglishText>
+      <EnglishText>Não dá pra sobreviver aqui. Eu
+quero voltar pra Anikamal...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
@@ -233,9 +233,9 @@ want to go back to Anikamal...</EnglishText>
       <JapaneseText>そうだ、帰ろう。
 俺たちも一緒に説得をする。
 </JapaneseText>
-      <EnglishText>Yes, you should go back.
-We'll go with you and
-try to reason with them.</EnglishText>
+      <EnglishText>Sim, vocês deveriam voltar.
+Iremos com vocês e tentaremos
+conversar com eles.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -246,8 +246,8 @@ try to reason with them.</EnglishText>
       <VoiceId>39000014</VoiceId>
       <JapaneseText>ガジュマの言う事なんぞ……
 </JapaneseText>
-      <EnglishText>I'm supposed to trust
-the words of a Gajuma?</EnglishText>
+      <EnglishText>Eu devia confiar na palavra
+de um Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -259,8 +259,8 @@ the words of a Gajuma?</EnglishText>
       <JapaneseText>でも、この人たちは、
 私たちを助けてくれたのよ……
 </JapaneseText>
-      <EnglishText>But these people did
-come and save us...</EnglishText>
+      <EnglishText>Mas essas pessoas vieram
+nos salvar...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
@@ -273,9 +273,9 @@ come and save us...</EnglishText>
 仲良くできるはずよ……
 だって、以前は……
 </JapaneseText>
-      <EnglishText>It should be possible to get
-along with the Gajuma...
-After all, we did so before...</EnglishText>
+      <EnglishText>Deve ser possível nos darmos
+bem com os Gajuma...
+Afinal, já nos demos bem antes...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
@@ -288,9 +288,9 @@ After all, we did so before...</EnglishText>
 前にできて、今できない
 なんて事はないだろう？
 </JapaneseText>
-      <EnglishText>Yeah, she's right. If you could
-all get along before, then why
-can't you do it again?</EnglishText>
+      <EnglishText>É, ela tem razão. Se vocês já se
+davam bem antes, por que não
+podem se dar bem de novo?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -302,8 +302,8 @@ can't you do it again?</EnglishText>
       <JapaneseText>さ、アニカマルへ
 帰ろうぜ！
 </JapaneseText>
-      <EnglishText>Come on, let's head
-on back to Anikamal!</EnglishText>
+      <EnglishText>Vamos, vamos voltar
+pra Anikamal!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -316,8 +316,8 @@ on back to Anikamal!</EnglishText>
       <PointerOffset>2159</PointerOffset>
       <VoiceId>1a00009a</VoiceId>
       <JapaneseText>やったぞ……リブガロの角だ!!</JapaneseText>
-      <EnglishText>We did it... We have
-the Livgaro's horn!</EnglishText>
+      <EnglishText>Conseguimos... Temos o chifre
+do Livgaro!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
@@ -327,7 +327,7 @@ the Livgaro's horn!</EnglishText>
       <PointerOffset>2205</PointerOffset>
       <VoiceId>1a00009b</VoiceId>
       <JapaneseText>これで&lt;Annie&gt;は助かるぜ！</JapaneseText>
-      <EnglishText>Now we can save &lt;Annie&gt;!</EnglishText>
+      <EnglishText>Agora podemos salvar &lt;Annie&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -338,8 +338,8 @@ the Livgaro's horn!</EnglishText>
       <VoiceId>1a00009c</VoiceId>
       <JapaneseText>フランツさん、
 早く、薬を作って!!</JapaneseText>
-      <EnglishText>Frantz, hurry and make the
-medicine!</EnglishText>
+      <EnglishText>Frantz, anda logo e faz
+o remédio!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -349,7 +349,7 @@ medicine!</EnglishText>
       <PointerOffset>2387</PointerOffset>
       <VoiceId>1a00009d</VoiceId>
       <JapaneseText>ここではできない……</JapaneseText>
-      <EnglishText>I can't do it here...</EnglishText>
+      <EnglishText>Não posso fazer isso aqui...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>23</Id>
@@ -359,7 +359,7 @@ medicine!</EnglishText>
       <PointerOffset>2475</PointerOffset>
       <VoiceId>1a00009e</VoiceId>
       <JapaneseText>どうして!?</JapaneseText>
-      <EnglishText>Why not?!</EnglishText>
+      <EnglishText>Por que não?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
@@ -371,11 +371,10 @@ medicine!</EnglishText>
       <JapaneseText>角の中身を薬に使うのだが、
 光に当てると成分が変化してしまう。
 真っ暗な場所が必要だ。</JapaneseText>
-      <EnglishText>Although the contents of the horn
-are used to make the medicine, the
-chemical components will change
-if exposed to sunlight. It must be
-done in total darkness.</EnglishText>
+      <EnglishText>O conteúdo do chifre serve pra
+fazer o remédio, mas a luz muda os
+componentes químicos. Tem que ser
+feito na total escuridão.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
@@ -387,9 +386,8 @@ done in total darkness.</EnglishText>
       <JapaneseText>真っ暗な場所か……
 アニカマルで部屋を
 借りるしかない。</JapaneseText>
-      <EnglishText>Total darkness... We'll have to
-borrow a room somewhere in
-Anikamal.</EnglishText>
+      <EnglishText>Escuridão total... Vamos ter que
+conseguir um quarto em Anikamal.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -399,7 +397,7 @@ Anikamal.</EnglishText>
       <PointerOffset>2579</PointerOffset>
       <VoiceId>1a0000a1</VoiceId>
       <JapaneseText>でも、大丈夫かな？</JapaneseText>
-      <EnglishText>But will we be able to?</EnglishText>
+      <EnglishText>Mas será que vai dar certo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
@@ -411,9 +409,9 @@ Anikamal.</EnglishText>
       <JapaneseText>アニカマルへ戻ろう。
 どんな事をしてでも
 &lt;Annie&gt;を救う。</JapaneseText>
-      <EnglishText>Let's go back to Anikamal.
-We're saving &lt;Annie&gt;, no
-matter the cost.</EnglishText>
+      <EnglishText>Vamos voltar a Anikamal.
+Vamos salvar &lt;Annie&gt;, custe
+o que custar.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -423,7 +421,7 @@ matter the cost.</EnglishText>
       <PointerOffset>2648</PointerOffset>
       <VoiceId>1a0000a3</VoiceId>
       <JapaneseText>よし、急ごう！</JapaneseText>
-      <EnglishText>All right, let's go.</EnglishText>
+      <EnglishText>Certo, vamos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -435,10 +433,9 @@ matter the cost.</EnglishText>
       <JapaneseText>チクショウ……
 目の前で逃がすなんて……
 早くしないと&lt;Annie&gt;が！</JapaneseText>
-      <EnglishText>Damnit! It got away from
-us right before our eyes!
-We need to hurry or else
-&lt;Annie&gt; is going to...!</EnglishText>
+      <EnglishText>Droga! Escapou bem na nossa
+frente! Temos que correr, senão
+&lt;Annie&gt; vai...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -448,7 +445,7 @@ We need to hurry or else
       <PointerOffset>1731</PointerOffset>
       <VoiceId>1a000099</VoiceId>
       <JapaneseText>……追うぞ。</JapaneseText>
-      <EnglishText>...After it!</EnglishText>
+      <EnglishText>...Atrás dele!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
@@ -462,9 +459,9 @@ We need to hurry or else
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>

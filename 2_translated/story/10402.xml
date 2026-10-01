@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>820</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>817</PointerOffset>
       <JapaneseText>オアシス</JapaneseText>
-      <EnglishText>Oasis</EnglishText>
+      <EnglishText>Oásis</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -84,8 +84,8 @@
       <PointerOffset>2062</PointerOffset>
       <VoiceId>1a00009a</VoiceId>
       <JapaneseText>やったぞ……リブガロの角だ!!</JapaneseText>
-      <EnglishText>We did it... We have
-the Livgaro's horn!</EnglishText>
+      <EnglishText>Conseguimos... Temos o chifre
+do Livgaro!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -95,7 +95,7 @@ the Livgaro's horn!</EnglishText>
       <PointerOffset>2084</PointerOffset>
       <VoiceId>1a00009b</VoiceId>
       <JapaneseText>これで&lt;Annie&gt;は助かるぜ！</JapaneseText>
-      <EnglishText>Now we can save &lt;Annie&gt;!</EnglishText>
+      <EnglishText>Agora podemos salvar &lt;Annie&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -106,8 +106,8 @@ the Livgaro's horn!</EnglishText>
       <VoiceId>1a00009c</VoiceId>
       <JapaneseText>フランツさん、
 早く、薬を作って!!</JapaneseText>
-      <EnglishText>Frantz, hurry and
-make the medicine!</EnglishText>
+      <EnglishText>Frantz, anda logo e faz
+o remédio!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -117,7 +117,7 @@ make the medicine!</EnglishText>
       <PointerOffset>2174</PointerOffset>
       <VoiceId>1a00009d</VoiceId>
       <JapaneseText>ここではできない……</JapaneseText>
-      <EnglishText>I can't do it here...</EnglishText>
+      <EnglishText>Não posso fazer isso aqui...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -127,7 +127,7 @@ make the medicine!</EnglishText>
       <PointerOffset>2262</PointerOffset>
       <VoiceId>1a00009e</VoiceId>
       <JapaneseText>どうして!?</JapaneseText>
-      <EnglishText>Why not?!</EnglishText>
+      <EnglishText>Por que não?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -139,11 +139,10 @@ make the medicine!</EnglishText>
       <JapaneseText>角の中身を薬に使うのだが、
 光に当てると成分が変化してしまう。
 真っ暗な場所が必要だ。</JapaneseText>
-      <EnglishText>Although the contents of the horn
-are used to make the medicine, the
-chemical components will change
-if exposed to sunlight. It must be
-done in total darkness.</EnglishText>
+      <EnglishText>O conteúdo do chifre serve pra
+fazer o remédio, mas a luz muda os
+componentes químicos. Tem que ser
+feito na total escuridão.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -155,9 +154,8 @@ done in total darkness.</EnglishText>
       <JapaneseText>真っ暗な場所か……
 アニカマルで部屋を
 借りるしかない。</JapaneseText>
-      <EnglishText>Total darkness... We'll have to
-borrow a room somewhere in
-Anikamal.</EnglishText>
+      <EnglishText>Escuridão total... Vamos ter que
+conseguir um quarto em Anikamal.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -167,7 +165,7 @@ Anikamal.</EnglishText>
       <PointerOffset>2326</PointerOffset>
       <VoiceId>1a0000a1</VoiceId>
       <JapaneseText>でも、大丈夫かな？</JapaneseText>
-      <EnglishText>But will we be able to?</EnglishText>
+      <EnglishText>Mas será que vai dar certo?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -179,9 +177,9 @@ Anikamal.</EnglishText>
       <JapaneseText>アニカマルへ戻ろう。
 どんな事をしてでも
 &lt;Annie&gt;を救う。</JapaneseText>
-      <EnglishText>Let's go back to Anikamal.
-We're saving &lt;Annie&gt; no
-matter the cost.</EnglishText>
+      <EnglishText>Vamos voltar a Anikamal.
+Vamos salvar &lt;Annie&gt; custe
+o que custar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -191,7 +189,7 @@ matter the cost.</EnglishText>
       <PointerOffset>2368</PointerOffset>
       <VoiceId>1a0000a3</VoiceId>
       <JapaneseText>よし、急ごう！</JapaneseText>
-      <EnglishText>All right, let's go.</EnglishText>
+      <EnglishText>Certo, vamos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -203,10 +201,9 @@ matter the cost.</EnglishText>
       <JapaneseText>チクショウ……
 目の前で逃がすなんて……
 早くしないと&lt;Annie&gt;が！</JapaneseText>
-      <EnglishText>Damnit! It got away from
-us right before our eyes!
-We need to hurry or else
-&lt;Annie&gt; is going to...!</EnglishText>
+      <EnglishText>Droga! Escapou bem na nossa
+frente! Temos que correr, senão
+&lt;Annie&gt; vai...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -216,7 +213,7 @@ We need to hurry or else
       <PointerOffset>1657</PointerOffset>
       <VoiceId>1a000099</VoiceId>
       <JapaneseText>……追うぞ。</JapaneseText>
-      <EnglishText>...After it!</EnglishText>
+      <EnglishText>...Atrás dele!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -230,9 +227,9 @@ We need to hurry or else
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>

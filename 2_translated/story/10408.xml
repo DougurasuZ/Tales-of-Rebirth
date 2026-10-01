@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>1926,1473,1473,1473</PointerOffset>
       <JapaneseText>カレギア兵</JapaneseText>
-      <EnglishText>Callegean Soldier</EnglishText>
+      <EnglishText>Soldado Callegeano</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>559</PointerOffset>
       <JapaneseText>登山洞</JapaneseText>
-      <EnglishText>Climbers' Cavern</EnglishText>
+      <EnglishText>Caverna dos Escaladores</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>556</PointerOffset>
       <JapaneseText>登山洞</JapaneseText>
-      <EnglishText>Climbers' Cavern</EnglishText>
+      <EnglishText>Caverna dos Escaladores</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>639</PointerOffset>
       <JapaneseText>登山洞</JapaneseText>
-      <EnglishText>Climbers' Cavern</EnglishText>
+      <EnglishText>Caverna dos Escaladores</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -101,8 +101,8 @@
       <VoiceId>1b000000</VoiceId>
       <JapaneseText>この登山洞を抜ければ
 バビログラードだ。</JapaneseText>
-      <EnglishText>We can reach Babilograd
-by climbing this cavern.</EnglishText>
+      <EnglishText>Podemos chegar a Babilograd
+escalando esta caverna.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -114,9 +114,9 @@ by climbing this cavern.</EnglishText>
       <JapaneseText>街に行くために洞窟を登るのか？
 まったく、この旅は
 珍しいモノだらけだぜ。</JapaneseText>
-      <EnglishText>We have to climb up a CAVE in
-order to get into the city? Wow,
-this journey is full of surprises.</EnglishText>
+      <EnglishText>Temos que escalar uma CAVERNA
+pra entrar na cidade? Nossa,
+essa viagem é cheia de surpresas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -126,7 +126,7 @@ this journey is full of surprises.</EnglishText>
       <PointerOffset>1125</PointerOffset>
       <VoiceId>1b000002</VoiceId>
       <JapaneseText>フォルスを感じる。</JapaneseText>
-      <EnglishText>I'm picking up Force.</EnglishText>
+      <EnglishText>Tô sentindo Force.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -136,8 +136,8 @@ this journey is full of surprises.</EnglishText>
       <PointerOffset>1212</PointerOffset>
       <VoiceId>1b000003</VoiceId>
       <JapaneseText>登山洞の中からだよ。</JapaneseText>
-      <EnglishText>It's coming from
-inside the cavern.</EnglishText>
+      <EnglishText>Vem lá de dentro
+da caverna.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -148,9 +148,9 @@ inside the cavern.</EnglishText>
       <VoiceId>1b000004</VoiceId>
       <JapaneseText>待ち伏せってワケか。
 みんな、気をつけて行こうぜ!!</JapaneseText>
-      <EnglishText>I bet it's an ambush waiting
-for us. Everyone, stay on
-your toes!</EnglishText>
+      <EnglishText>Aposto que é uma emboscada
+esperando a gente. Pessoal,
+fiquem espertos!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -161,8 +161,8 @@ your toes!</EnglishText>
       <VoiceId>3a000023</VoiceId>
       <JapaneseText>あれ？
 復旧作業は終わったのかな？</JapaneseText>
-      <EnglishText>Huh? Are they done with
-the reconstruction work?</EnglishText>
+      <EnglishText>Hã? Já terminaram a obra
+de reconstrução?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -172,7 +172,7 @@ the reconstruction work?</EnglishText>
       <PointerOffset>2224</PointerOffset>
       <VoiceId>3a000024</VoiceId>
       <JapaneseText>そうね、行きましょう。</JapaneseText>
-      <EnglishText>Looks like it, let's go.</EnglishText>
+      <EnglishText>Parece que sim. Vamos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -187,10 +187,10 @@ the reconstruction work?</EnglishText>
 復旧作業中である。
 山頂へ行きたければ、
 港の方へ回れ。</JapaneseText>
-      <EnglishText>Currently, this cave is undergoing
-reconstruction due to a collapse.
-If you want to reach the summit,
-travel from the port side.</EnglishText>
+      <EnglishText>No momento, esta caverna passa
+por reconstrução devido a um
+desabamento. Para chegar ao topo,
+vá pelo lado do porto.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -201,8 +201,8 @@ travel from the port side.</EnglishText>
       <VoiceId>3a000000</VoiceId>
       <JapaneseText>現在、この登山洞は
 通行禁止である。</JapaneseText>
-      <EnglishText>At the moment, passing through
-the Climbers' Cavern is prohibited.</EnglishText>
+      <EnglishText>No momento, é proibido passar
+pela Caverna dos Escaladores.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -212,7 +212,7 @@ the Climbers' Cavern is prohibited.</EnglishText>
       <PointerOffset>1560</PointerOffset>
       <VoiceId>3a000001</VoiceId>
       <JapaneseText>何があったの？</JapaneseText>
-      <EnglishText>What happened?</EnglishText>
+      <EnglishText>O que aconteceu?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -223,9 +223,9 @@ the Climbers' Cavern is prohibited.</EnglishText>
       <VoiceId>3a000002</VoiceId>
       <JapaneseText>洞窟の一部が崩落したため、
 現在、突貫で復旧作業中だ。</JapaneseText>
-      <EnglishText>A section of this cavern has
-caved in, so work is being
-done to restore it.</EnglishText>
+      <EnglishText>Parte desta caverna desabou,
+então estamos trabalhando
+na sua restauração.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -236,9 +236,8 @@ done to restore it.</EnglishText>
       <VoiceId>3a000003</VoiceId>
       <JapaneseText>蒼の聖殿へ行きたいならば、
 港側から回れ。</JapaneseText>
-      <EnglishText>If you wish to travel to the
-Azure Sanctuary, please use
-the harbor instead.</EnglishText>
+      <EnglishText>Se deseja ir ao Santuário Azul,
+use o porto, por favor.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -249,9 +248,8 @@ the harbor instead.</EnglishText>
       <VoiceId>3a000004</VoiceId>
       <JapaneseText>しかたありませんね、
 港側から回りましょう。</JapaneseText>
-      <EnglishText>I guess we have no choice.
-Let's make our way to the
-harbor.</EnglishText>
+      <EnglishText>Parece que não temos escolha.
+Vamos até o porto.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
@@ -265,9 +263,9 @@ harbor.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>

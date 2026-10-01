@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  21.6% das falas traduzidas (6755 de 31269) | arquivos iniciados: 119 | sem problemas: 118
+story :  23.2% das falas traduzidas (7258 de 31269) | arquivos iniciados: 135 | sem problemas: 134
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 16.1% das falas traduzidas (6755 de 41924)
+TOTAL : 17.3% das falas traduzidas (7258 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -470,3 +470,27 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 10: PENDENTE (igual ao inglês): ...?
   Id 55: PENDENTE (igual ao inglês): Ahh!
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal; Id 2: Anikamal
+
+[story/10387.xml]
+  Id 58: PENDENTE (igual ao inglês): [VARIABLE]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal
+
+[story/10388.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal
+
+[story/10389.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Anikamal
+
+[story/10390.xml]
+  Id 13: PENDENTE (igual ao inglês): ◆◆◆◆◆◆
+  Id 65: PENDENTE (igual ao inglês): ...Hmm...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Anikamal
+
+[story/10391.xml]
+  Id 41: PENDENTE (igual ao inglês): ...Nnh....Ungh...
+  Id 43: PENDENTE (igual ao inglês): ...Aah... Ughh...
+  Id 45: PENDENTE (igual ao inglês): ...Uughh... Ungh...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal
+
+[story/10392.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Anikamal

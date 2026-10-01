@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548,1548</PointerOffset>
       <JapaneseText>おばあさん</JapaneseText>
-      <EnglishText>Old Woman</EnglishText>
+      <EnglishText>Velha</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>736,736,736,736,736,736,736,736,736,736,736,736,736,736,736,736,736,736,736</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>194</PointerOffset>
       <JapaneseText>アニカマル・民家</JapaneseText>
-      <EnglishText>Anikamal - Residence</EnglishText>
+      <EnglishText>Anikamal - Residência</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>254</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -76,7 +76,7 @@
       <PointerOffset>1603</PointerOffset>
       <JapaneseText>すみませんが、出てって
 もらえますか……？</JapaneseText>
-      <EnglishText>I'm sorry, but can you please leave?</EnglishText>
+      <EnglishText>Desculpe, mas pode ir embora?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -85,7 +85,7 @@
     <Entry>
       <PointerOffset>1653</PointerOffset>
       <JapaneseText>……ゴメンなさい、出てって……</JapaneseText>
-      <EnglishText>I'm sorry... Please leave...</EnglishText>
+      <EnglishText>Desculpe... Saiam, por favor...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -96,9 +96,9 @@
       <JapaneseText>あなたたちは悪くない……
 そう言う勇気がなかった
 ばっかりに……ゴメンなさい……</JapaneseText>
-      <EnglishText>I never held anything against you...
-I just never had the courage to speak
-up... I'm sorry...</EnglishText>
+      <EnglishText>Nunca tive nada contra vocês...
+Só nunca tive coragem de
+falar... Desculpem...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -109,9 +109,9 @@ up... I'm sorry...</EnglishText>
       <JapaneseText>ウチの旦那、前から怒りっぽい
 ところはあったんですけど……
 </JapaneseText>
-      <EnglishText>My husband has always
-had trouble controlling
-his anger, but...</EnglishText>
+      <EnglishText>Meu marido sempre teve
+dificuldade de controlar
+a raiva, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -123,10 +123,9 @@ his anger, but...</EnglishText>
 怒り出すようになって……
 どうしちゃったんでしょう……
 </JapaneseText>
-      <EnglishText>Now, he gets incredibly angry
-whenever he sees a Huma...
-I don't know what to do
-about it...</EnglishText>
+      <EnglishText>Agora ele fica furioso sempre
+que vê um Huma... Não sei
+o que fazer a respeito...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -137,9 +136,9 @@ about it...</EnglishText>
       <JapaneseText>ちょっと、出てってくれる？
 ウチの旦那、ヒューマが
 近づくだけで怒り始めるの！</JapaneseText>
-      <EnglishText>Sorry, could you leave us be?
-My husband starts getting angry
-whenever Huma are around!</EnglishText>
+      <EnglishText>Desculpe, pode nos deixar em paz?
+Meu marido fica furioso sempre
+que tem Huma por perto!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -149,7 +148,7 @@ whenever Huma are around!</EnglishText>
       <PointerOffset>1852</PointerOffset>
       <JapaneseText>私もあまり、
 いい気分じゃないけど！</JapaneseText>
-      <EnglishText>It makes me uncomfortable!</EnglishText>
+      <EnglishText>Isso me deixa desconfortável!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -160,8 +159,8 @@ whenever Huma are around!</EnglishText>
       <JapaneseText>前々から、この村に
 ヒューマなんて必要ないと
 思ってたのよ。</JapaneseText>
-      <EnglishText>I've always felt that this town
-could do without Huma.</EnglishText>
+      <EnglishText>Sempre achei que esta vila
+podia viver sem os Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -172,8 +171,8 @@ could do without Huma.</EnglishText>
       <JapaneseText>いなくなって
 せいせいしたわ！
 </JapaneseText>
-      <EnglishText>Now that they're gone,
-it's all better!</EnglishText>
+      <EnglishText>Agora que se foram,
+tudo está melhor!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -183,8 +182,8 @@ it's all better!</EnglishText>
       <PointerOffset>1976</PointerOffset>
       <JapaneseText>この村はガジュマの村、
 ヒューマは出ていきなさい！</JapaneseText>
-      <EnglishText>This is a Gajuma village!
-You Huma need to leave!</EnglishText>
+      <EnglishText>Esta é uma vila de Gajuma!
+Vocês, Huma, têm que ir embora!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -195,8 +194,8 @@ You Huma need to leave!</EnglishText>
       <JapaneseText>あなたほどの立派な
 ナリをしたガジュマが
 ヒューマを助けに行くなんて……</JapaneseText>
-      <EnglishText>To think a Gajuma as magnificent
-as you would deign to help Huma...</EnglishText>
+      <EnglishText>Pensar que um Gajuma tão magnífico
+quanto você ajudaria os Huma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -205,7 +204,7 @@ as you would deign to help Huma...</EnglishText>
     <Entry>
       <PointerOffset>2051</PointerOffset>
       <JapaneseText>なげかわしい事ね……</JapaneseText>
-      <EnglishText>What a disgrace...</EnglishText>
+      <EnglishText>Que vergonha...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -216,9 +215,8 @@ as you would deign to help Huma...</EnglishText>
       <JapaneseText>ヒューマを助けに行く？
 勝手になさい……！
 そのまま帰って来ないでね！</JapaneseText>
-      <EnglishText>You're going to help the
-Huma? Go ahead! Just
-don't come back!</EnglishText>
+      <EnglishText>Vai ajudar os Huma? Vá em
+frente! Só não volte aqui!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -229,7 +227,7 @@ don't come back!</EnglishText>
       <JapaneseText>許して……!!
 許してくださいっ!!
 </JapaneseText>
-      <EnglishText>I'm sorry! ...Please forgive me!</EnglishText>
+      <EnglishText>Desculpe! ...Por favor, me perdoe!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -241,9 +239,9 @@ don't come back!</EnglishText>
 ヒューマの事、前みたいに
 同じ&lt;Yellow&gt;ヒト&lt;White&gt;だなんて思えないの……
 </JapaneseText>
-      <EnglishText>Wh-What's wrong with me... I
-still can't bring myself to see
-Huma as my fellow &lt;Yellow&gt;Man&lt;White&gt;...</EnglishText>
+      <EnglishText>O-O que há de errado comigo...
+Ainda não consigo ver os Huma
+como meus &lt;Yellow&gt;semelhantes&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -255,9 +253,9 @@ Huma as my fellow &lt;Yellow&gt;Man&lt;White&gt;...</EnglishText>
 自分もいて……
 ああ、どうなってるの……!?
 </JapaneseText>
-      <EnglishText>But, I feel like I can't go
-on living like this... Oh,
-what am I to do...</EnglishText>
+      <EnglishText>Mas sinto que não posso
+continuar vivendo assim... Ai,
+o que devo fazer...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -269,9 +267,9 @@ what am I to do...</EnglishText>
 ヒューマの事、前みたいに
 同じ&lt;Yellow&gt;ヒト&lt;White&gt;だなんて思えないの……
 </JapaneseText>
-      <EnglishText>Wh-What's wrong with me... I
-still can't bring myself to see
-Huma as my fellow &lt;Yellow&gt;Man&lt;White&gt;...</EnglishText>
+      <EnglishText>O-O que há de errado comigo...
+Ainda não consigo ver os Huma
+como meus &lt;Yellow&gt;semelhantes&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -283,9 +281,9 @@ Huma as my fellow &lt;Yellow&gt;Man&lt;White&gt;...</EnglishText>
 自分もいて……
 ああ、どうなってるの……!?
 </JapaneseText>
-      <EnglishText>But, I feel like I can't go
-on living like this... Oh,
-what am I to do...</EnglishText>
+      <EnglishText>Mas sinto que não posso
+continuar vivendo assim... Ai,
+o que devo fazer...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -297,8 +295,8 @@ what am I to do...</EnglishText>
 聞こえるようになったわ……
 私、どうしちゃったのかしら……
 </JapaneseText>
-      <EnglishText>...Ah, even my ears are ringing now.
-I don't know what's wrong with me...</EnglishText>
+      <EnglishText>...Ah, até meus ouvidos estão
+zumbindo. O que há comigo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -310,8 +308,8 @@ I don't know what's wrong with me...</EnglishText>
 ヒューマを見るだけで
 イラつく事はなくなったわ。
 </JapaneseText>
-      <EnglishText>Seeing Huma doesn't irritate
-me as much as it used to.</EnglishText>
+      <EnglishText>Ver Huma já não me irrita
+tanto quanto antes.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -323,9 +321,9 @@ me as much as it used to.</EnglishText>
 考え方や姿の違いが、どうにも
 気になって仕方ないの……
 </JapaneseText>
-      <EnglishText>But I still can't help but be
-concerned about how we think
-different and look different...</EnglishText>
+      <EnglishText>Mas ainda me preocupa o quanto
+pensamos e parecemos
+diferentes...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -336,8 +334,8 @@ different and look different...</EnglishText>
       <JapaneseText>ヒューマと話したくないの……
 ほっといてちょうだい……
 </JapaneseText>
-      <EnglishText>Please leave me alone... I want
-nothing to do with Huma...</EnglishText>
+      <EnglishText>Por favor, me deixe em paz...
+Não quero nada com os Huma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -348,9 +346,9 @@ nothing to do with Huma...</EnglishText>
       <JapaneseText>うちの旦那は、さっき食事が
 済んだばかりなのに、
 食事はまだかと聞くんです。</JapaneseText>
-      <EnglishText>My husband keeps asking when
-we're having dinner even though
-we've just finished eating.</EnglishText>
+      <EnglishText>Meu marido não para de perguntar
+quando vamos jantar, mesmo
+depois de acabarmos de comer.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -359,7 +357,7 @@ we've just finished eating.</EnglishText>
     <Entry>
       <PointerOffset>2446</PointerOffset>
       <JapaneseText>大丈夫かしら？</JapaneseText>
-      <EnglishText>Is he all right?</EnglishText>
+      <EnglishText>Será que ele está bem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -372,8 +370,8 @@ we've just finished eating.</EnglishText>
       <PointerOffset>791</PointerOffset>
       <JapaneseText>勝手に入って来てもらっちゃ
 困りますな。</JapaneseText>
-      <EnglishText>I'm not happy with people
-who barge into my house.</EnglishText>
+      <EnglishText>Não gosto de quem entra
+na minha casa sem pedir.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -382,7 +380,7 @@ who barge into my house.</EnglishText>
     <Entry>
       <PointerOffset>841</PointerOffset>
       <JapaneseText>勝手に入って来るんじゃない!!</JapaneseText>
-      <EnglishText>Don't barge in here!</EnglishText>
+      <EnglishText>Não entre aqui!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -393,9 +391,9 @@ who barge into my house.</EnglishText>
       <JapaneseText>もし、あなたたちを受け入れていたら、
 ワシも村を追い出されとった……
 どうか、許してくだされ……</JapaneseText>
-      <EnglishText>If it seemed I accepted you people,
-then I would be exiled from the
-village... Please, forgive me...</EnglishText>
+      <EnglishText>Se parecer que aceito vocês,
+serei expulso da vila...
+Por favor, me perdoem...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -407,9 +405,9 @@ village... Please, forgive me...</EnglishText>
 あの憎々しい目を見ると、
 殴ってやりたくなるんじゃ！
 </JapaneseText>
-      <EnglishText>Whenever I see Huma glare at
-me with their hateful eyes, I
-want to smash their faces in!</EnglishText>
+      <EnglishText>Sempre que um Huma me encara
+com aqueles olhos de ódio, dá
+vontade de quebrar a cara dele!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -420,8 +418,8 @@ want to smash their faces in!</EnglishText>
       <JapaneseText>フン、ヒューマのよそ者が！
 さっさと村から出ていけ！
 </JapaneseText>
-      <EnglishText>Hmph! You Huma aren't
-from around here! Leave!</EnglishText>
+      <EnglishText>Hunf! Vocês, Huma, não são
+daqui! Fora!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
@@ -433,9 +431,9 @@ from around here! Leave!</EnglishText>
 みんなでそう判断した。
 だから追い出したんじゃ。
 </JapaneseText>
-      <EnglishText>We've all agreed that this
-village has no need for Huma,
-so we kicked them all out.</EnglishText>
+      <EnglishText>Todos concordamos que a vila
+não precisa de Huma, então
+expulsamos todos.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
@@ -445,9 +443,9 @@ so we kicked them all out.</EnglishText>
       <PointerOffset>1092</PointerOffset>
       <JapaneseText>ヒューマはこの村に必要なし！
 ……あんたらも出ていきなさい。</JapaneseText>
-      <EnglishText>This village has no need
-for Huma! You should
-leave as well.</EnglishText>
+      <EnglishText>Esta vila não precisa de
+Huma! Vocês também deveriam
+ir embora.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -457,8 +455,8 @@ leave as well.</EnglishText>
       <PointerOffset>1145</PointerOffset>
       <JapaneseText>ヒューマを助けて、
 どうするつもりじゃ？</JapaneseText>
-      <EnglishText>You? Saving Huma?
-But why?</EnglishText>
+      <EnglishText>Você? Salvando Huma?
+Mas por quê?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -468,8 +466,8 @@ But why?</EnglishText>
       <PointerOffset>1167</PointerOffset>
       <JapaneseText>この村に
 連れて戻ってくるんじゃないぞ？</JapaneseText>
-      <EnglishText>You're not planning on bringing
-them back here, are you?</EnglishText>
+      <EnglishText>Não está pensando em trazê-los
+de volta pra cá, está?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
@@ -479,8 +477,8 @@ them back here, are you?</EnglishText>
       <PointerOffset>1203</PointerOffset>
       <JapaneseText>ヒューマが何をしようと、
 ワシの知ったこっちゃないわ。</JapaneseText>
-      <EnglishText>I don't care about what
-you Huma do.</EnglishText>
+      <EnglishText>Não me importa o que
+vocês, Huma, fazem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
@@ -491,7 +489,7 @@ you Huma do.</EnglishText>
       <JapaneseText>バイラスが……
 バイラスがぁぁ……!!
 </JapaneseText>
-      <EnglishText>Th-There are Biruses...!</EnglishText>
+      <EnglishText>T-Tem Birus...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
@@ -503,10 +501,9 @@ you Huma do.</EnglishText>
 昔のようにヒューマと
 仲良くしたいと思う……
 </JapaneseText>
-      <EnglishText>I don't know anymore...
-I'd like to think that I
-want to go back to
-getting along with Huma...</EnglishText>
+      <EnglishText>Já não sei mais... Acho que
+quero voltar a me dar bem
+com os Huma...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -518,9 +515,9 @@ getting along with Huma...</EnglishText>
 ガジュマを区別してしまう自分が
 心の中におるんじゃ……
 </JapaneseText>
-      <EnglishText>But there's a part of me that
-can't help but notice the
-differences between us...</EnglishText>
+      <EnglishText>Mas uma parte de mim não
+consegue deixar de notar as
+diferenças entre nós...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
@@ -531,8 +528,8 @@ differences between us...</EnglishText>
       <JapaneseText>遠くで何か聞こえるようじゃが、
 嵐でも近づいとるのかのう……
 </JapaneseText>
-      <EnglishText>I heard something roar from far away...
-I wonder if there's a storm coming?</EnglishText>
+      <EnglishText>Ouvi um rugido distante...
+Será que vem tempestade?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
@@ -544,10 +541,10 @@ I wonder if there's a storm coming?</EnglishText>
 アニカマルの住民は皆、昔から
 助け合って来た……
 </JapaneseText>
-      <EnglishText>Perhaps I was mistaken. In the
-past, the people of Anikamal
-would always come together to
-help one another...</EnglishText>
+      <EnglishText>Talvez eu estivesse errado.
+Antigamente, o povo de Anikamal
+sempre se unia para ajudar uns
+aos outros...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
@@ -557,10 +554,10 @@ help one another...</EnglishText>
       <PointerOffset>1422</PointerOffset>
       <JapaneseText>種族なんて関係なかったんじゃ。
 あの頃を思い出せば、きっと……</JapaneseText>
-      <EnglishText>We never cared about race then.
-I'm sure we'd be able to do the
-same now if we remember those
-times...</EnglishText>
+      <EnglishText>Naquela época, raça não importava.
+Tenho certeza de que faríamos
+o mesmo se nos lembrássemos
+daqueles tempos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
@@ -570,7 +567,7 @@ times...</EnglishText>
       <PointerOffset>1447</PointerOffset>
       <JapaneseText>聞いてくれんか！
 </JapaneseText>
-      <EnglishText>Please, hear me out!</EnglishText>
+      <EnglishText>Por favor, me escutem!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -581,9 +578,9 @@ times...</EnglishText>
       <JapaneseText>うちの家内は食事がまだなのに、
 さっき食事はすんだばかりだと
 いうんじゃ。</JapaneseText>
-      <EnglishText>My wife hasn't eaten yet,
-but she insists that we've
-just finished eating!</EnglishText>
+      <EnglishText>Minha esposa ainda não comeu,
+mas insiste que acabamos
+de comer!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>45</Id>
@@ -593,8 +590,8 @@ just finished eating!</EnglishText>
       <PointerOffset>1491</PointerOffset>
       <JapaneseText>ワシはおかしくない！
 おかしいのは妻の方じゃ。</JapaneseText>
-      <EnglishText>I'm not crazy! It's my
-wife who's crazy!</EnglishText>
+      <EnglishText>Não estou louco! A louca
+é a minha esposa!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
@@ -608,9 +605,9 @@ wife who's crazy!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>47</Id>
@@ -627,12 +624,11 @@ No</EnglishText>
 アニカマルの樹の葉っぱを浮かべると
 とても良い香りで気持ちイイ。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Anikamal Bath -
-Long soaks in lukewarm water is a
-common way of bathing in this village.
-Bathing with the leaves from the
-Anikamal tree both smells good and
-feels good.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Banheira de Anikamal -
+Banhos longos em água morna são
+um costume por aqui. Banhar-se com
+folhas da árvore de Anikamal deixa
+um cheiro bom e é muito relaxante.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -649,12 +645,12 @@ feels good.</EnglishText>
 料理には欠かせない便利な釜戸。
 略して、アニ釜と呼ばれる。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Anikamal Stove -
-A typical stone oven in Anikamal.
-Used for making naan or just
-keeping things warm, this oven
-is a handy tool for cooking. Also
-known as an Ovenkamal.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Forno de Anikamal -
+Um forno de pedra típico de
+Anikamal. Serve para assar naan
+ou só manter a comida aquecida;
+é uma ferramenta de cozinha útil.
+Também chamado de Fornokamal.</EnglishText>
       <Notes>Stupid fucking anikamal pun アニ釜 kill me</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>49</Id>
@@ -669,9 +665,9 @@ known as an Ovenkamal.</EnglishText>
 暑いアニカマルでは食べ物を
 保存するために欠かせない。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Underground Storage -
-A necessity for preserving food
-in Anikamal's hot climate.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Depósito Subterrâneo -
+Essencial para conservar comida
+no clima quente de Anikamal.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>

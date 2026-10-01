@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>387,414</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -24,7 +24,7 @@
     <Entry>
       <PointerOffset>151</PointerOffset>
       <JapaneseText>登山洞</JapaneseText>
-      <EnglishText>Climbers' Cavern</EnglishText>
+      <EnglishText>Caverna dos Escaladores</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -32,7 +32,7 @@
     <Entry>
       <PointerOffset>148</PointerOffset>
       <JapaneseText>登山洞</JapaneseText>
-      <EnglishText>Climbers' Cavern</EnglishText>
+      <EnglishText>Caverna dos Escaladores</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -43,7 +43,7 @@
     <Entry>
       <PointerOffset>390</PointerOffset>
       <JapaneseText>&lt;Green&gt;格子が開きました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;The gate opened.</EnglishText>
+      <EnglishText>&lt;Green&gt;O portão se abriu.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -52,7 +52,7 @@
     <Entry>
       <PointerOffset>417</PointerOffset>
       <JapaneseText>&lt;Green&gt;格子が開いています。</JapaneseText>
-      <EnglishText>&lt;Green&gt;The gate is open.</EnglishText>
+      <EnglishText>&lt;Green&gt;O portão está aberto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>

@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>1351,1351</PointerOffset>
       <JapaneseText>宿屋のおかみ</JapaneseText>
-      <EnglishText>Inn Hostess</EnglishText>
+      <EnglishText>Dona da Pousada</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -104,7 +104,7 @@
     <Entry>
       <PointerOffset>218</PointerOffset>
       <JapaneseText>アニカマル・宿屋</JapaneseText>
-      <EnglishText>Anikamal - Inn</EnglishText>
+      <EnglishText>Anikamal - Pousada</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -118,9 +118,8 @@
       <JapaneseText>これでよし。
 さぁ、早いとこ医者を
 連れて来ようぜ!!</JapaneseText>
-      <EnglishText>There we go. All right, let's
-find ourselves a doctor and
-bring them on over!</EnglishText>
+      <EnglishText>Pronto! Vamos achar um médico
+e trazer pra cá!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -130,7 +129,7 @@ bring them on over!</EnglishText>
       <PointerOffset>1083</PointerOffset>
       <VoiceId>1a000003</VoiceId>
       <JapaneseText>はぁ……はぁ……</JapaneseText>
-      <EnglishText>Uuh... Ha...</EnglishText>
+      <EnglishText>Uuh... Ah...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -141,8 +140,7 @@ bring them on over!</EnglishText>
       <VoiceId>1a000004</VoiceId>
       <JapaneseText>さっきと比べて
 ずいぶん苦しそうよ……！</JapaneseText>
-      <EnglishText>She looks even worse
-than she did before!</EnglishText>
+      <EnglishText>Ela está pior do que antes!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -152,7 +150,7 @@ than she did before!</EnglishText>
       <PointerOffset>1141</PointerOffset>
       <VoiceId>1a000005</VoiceId>
       <JapaneseText>急ごう。</JapaneseText>
-      <EnglishText>Let's hurry.</EnglishText>
+      <EnglishText>Vamos depressa.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -162,7 +160,7 @@ than she did before!</EnglishText>
       <PointerOffset>1407</PointerOffset>
       <VoiceId>1a00002d</VoiceId>
       <JapaneseText>どうなんだ、フランツさん？</JapaneseText>
-      <EnglishText>How is she, Mr. Frantz?</EnglishText>
+      <EnglishText>Como ela está, senhor Frantz?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -182,7 +180,7 @@ than she did before!</EnglishText>
       <PointerOffset>1473</PointerOffset>
       <VoiceId>1a00002f</VoiceId>
       <JapaneseText>フランツさん？</JapaneseText>
-      <EnglishText>Mr. Frantz?</EnglishText>
+      <EnglishText>Senhor Frantz?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -194,9 +192,9 @@ than she did before!</EnglishText>
       <JapaneseText>……小生の診察に間違いがなければ、
 この娘の助かる可能性は
 限りなくゼロに近い。</JapaneseText>
-      <EnglishText>...If my diagnosis is correct,
-the probability of this girl
-surviving is close to zero.</EnglishText>
+      <EnglishText>...Se meu diagnóstico estiver
+correto, a chance de esta menina
+sobreviver é quase zero.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -207,9 +205,8 @@ surviving is close to zero.</EnglishText>
       <VoiceId>1a000031</VoiceId>
       <JapaneseText>助からないというのか？
 &lt;Annie&gt;の病気は一体……</JapaneseText>
-      <EnglishText>Is there no way to help
-her? Just what is &lt;Annie&gt;
-sick with...?</EnglishText>
+      <EnglishText>Não existe jeito de ajudá-la?
+Afinal, o que &lt;Annie&gt; tem...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -219,7 +216,7 @@ sick with...?</EnglishText>
       <PointerOffset>1660</PointerOffset>
       <VoiceId>1a000032</VoiceId>
       <JapaneseText>デスガロ熱だ。</JapaneseText>
-      <EnglishText>Deathgaro Fever.</EnglishText>
+      <EnglishText>Febre de Deathgaro.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -231,9 +228,9 @@ sick with...?</EnglishText>
       <JapaneseText>デスガロ熱とは……
 カレーズの上にあった村を
 滅ぼしたといわれる流行り病だ。</JapaneseText>
-      <EnglishText>Deathgaro Fever was an epidemic
-that completely wiped out the
-towns above Karez.</EnglishText>
+      <EnglishText>A Febre de Deathgaro foi uma
+epidemia que dizimou por completo
+as cidades acima de Karez.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -243,7 +240,7 @@ towns above Karez.</EnglishText>
       <PointerOffset>1796</PointerOffset>
       <VoiceId>1a000034</VoiceId>
       <JapaneseText>そんな病気、聞いた事あるか？</JapaneseText>
-      <EnglishText>Have you heard of it before?</EnglishText>
+      <EnglishText>Já ouviu falar dela?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -253,8 +250,8 @@ towns above Karez.</EnglishText>
       <PointerOffset>1833</PointerOffset>
       <VoiceId>1a000035</VoiceId>
       <JapaneseText>いや、初めて聞く名前だ。</JapaneseText>
-      <EnglishText>No, this is the first
-I'm hearing of it.</EnglishText>
+      <EnglishText>Não. É a primeira vez
+que ouço isso.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -264,7 +261,7 @@ I'm hearing of it.</EnglishText>
       <PointerOffset>1878</PointerOffset>
       <VoiceId>1a000036</VoiceId>
       <JapaneseText>……私も。</JapaneseText>
-      <EnglishText>...Me too.</EnglishText>
+      <EnglishText>...Eu também não.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -277,9 +274,9 @@ I'm hearing of it.</EnglishText>
 広まった地域は全滅した。
 そのせいで、話もほとんど
 伝わっていない。</JapaneseText>
-      <EnglishText>It's an incredibly lethal illness that
-once decimated an entire region.
-Few survived to tell others of it.</EnglishText>
+      <EnglishText>É uma doença letal que um dia
+dizimou uma região inteira.
+Poucos sobreviveram para contar.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
@@ -290,7 +287,7 @@ Few survived to tell others of it.</EnglishText>
       <VoiceId>1a000038</VoiceId>
       <JapaneseText>だが、どうして今さら、
 &lt;Annie&gt;がその病に？</JapaneseText>
-      <EnglishText>Then how did &lt;Annie&gt; catch it?</EnglishText>
+      <EnglishText>Então como &lt;Annie&gt; a contraiu?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
@@ -303,10 +300,9 @@ Few survived to tell others of it.</EnglishText>
 しかし、頭部の高熱と
 手足の異常な冷え。
 この喉の腫れ方……</JapaneseText>
-      <EnglishText>I wouldn't know... However, she
-has a high fever, her limbs are
-cold to the touch, and she has a
-swollen throat...</EnglishText>
+      <EnglishText>Não sei dizer... Mas ela tem
+febre alta, os membros frios ao
+toque e a garganta inchada...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -317,8 +313,8 @@ swollen throat...</EnglishText>
       <VoiceId>1a00003a</VoiceId>
       <JapaneseText>この娘の症状は、ほぼ間違いなく
 デスガロ熱のものだ。</JapaneseText>
-      <EnglishText>Her symptoms unmistakably mirror
-those of Deathgaro Fever.</EnglishText>
+      <EnglishText>Os sintomas dela são idênticos
+aos da Febre de Deathgaro.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
@@ -330,10 +326,10 @@ those of Deathgaro Fever.</EnglishText>
       <JapaneseText>小生が思うに、病原体が何らかの原因で
 生き延びていたとしか考えられん。
 倒れる前の状況を聞かせてくれないか？</JapaneseText>
-      <EnglishText>My theory is that the pathogens
-somehow managed to survive.
-Tell me, what were you doing
-before she lost consciousness?</EnglishText>
+      <EnglishText>Minha teoria é que os patógenos
+conseguiram sobreviver de algum
+jeito. Diga, o que faziam antes
+de ela desmaiar?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
@@ -344,8 +340,8 @@ before she lost consciousness?</EnglishText>
       <VoiceId>1a00003c</VoiceId>
       <JapaneseText>&lt;Annie&gt;が倒れたのは、
 カレーズを出た時だったよな？</JapaneseText>
-      <EnglishText>She fainted after we left
-Karez, right guys?</EnglishText>
+      <EnglishText>Ela desmaiou depois que saímos
+de Karez, né, pessoal?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -357,10 +353,10 @@ Karez, right guys?</EnglishText>
       <JapaneseText>そうだとすると、彼女が
 デスガロ熱にかかった原因は
 カレーズにあるのかもしれんな。</JapaneseText>
-      <EnglishText>That means she must have
-been exposed to Deathgaro
-Fever at some point while
-you were in there.</EnglishText>
+      <EnglishText>Isso significa que ela deve ter
+sido exposta à Febre de Deathgaro
+em algum momento quando
+estavam lá dentro.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
@@ -371,8 +367,8 @@ you were in there.</EnglishText>
       <VoiceId>1a00003e</VoiceId>
       <JapaneseText>カレーズに入ってから……
 何があった？</JapaneseText>
-      <EnglishText>Did anything happen when
-you were in Karez?</EnglishText>
+      <EnglishText>Aconteceu alguma coisa quando
+estavam em Karez?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -383,10 +379,9 @@ you were in Karez?</EnglishText>
       <VoiceId>1a00003f</VoiceId>
       <JapaneseText>……砂漠……水路……
 砂……井戸……</JapaneseText>
-      <EnglishText>We were in the desert... 
-Then the waterways...
-There was some sand
-from the well...</EnglishText>
+      <EnglishText>Estávamos no deserto... Depois
+nos canais... Tinha areia
+do poço...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -396,7 +391,7 @@ from the well...</EnglishText>
       <PointerOffset>2278</PointerOffset>
       <VoiceId>1a000040</VoiceId>
       <JapaneseText>それだ……井戸の砂だ。</JapaneseText>
-      <EnglishText>That's it... The sand from the well.</EnglishText>
+      <EnglishText>É isso... A areia do poço.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -406,7 +401,7 @@ from the well...</EnglishText>
       <PointerOffset>2307</PointerOffset>
       <VoiceId>1a000041</VoiceId>
       <JapaneseText>井戸？</JapaneseText>
-      <EnglishText>The well?</EnglishText>
+      <EnglishText>O poço?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -419,10 +414,10 @@ from the well...</EnglishText>
 湿気も適度に含んでいる。
 病原体が生き延びるのには
 適した環境だったのだろう。</JapaneseText>
-      <EnglishText>The sand in the wells absorb
-moisture from Karez. It's the
-perfect environment for the
-pathogen to propagate in.</EnglishText>
+      <EnglishText>A areia dos poços absorve a
+umidade de Karez. É o ambiente
+perfeito para o patógeno
+se propagar.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -434,9 +429,9 @@ pathogen to propagate in.</EnglishText>
       <JapaneseText>……確かに。
 &lt;Annie&gt;の様子がおかしく
 なったのも、あの後の事だ。</JapaneseText>
-      <EnglishText>That has to be it... &lt;Annie&gt;'s
-health began to deteriorate
-after the well collapsed.</EnglishText>
+      <EnglishText>Só pode ser isso... A saúde de
+&lt;Annie&gt; começou a piorar depois
+que o poço desabou.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>29</Id>
@@ -447,8 +442,8 @@ after the well collapsed.</EnglishText>
       <VoiceId>1a000044</VoiceId>
       <JapaneseText>えっ！　じゃあ、ボクたちも
 ヤバイんじゃないの!?</JapaneseText>
-      <EnglishText>Waah! Does that mean we're
-gonna get sick too?!</EnglishText>
+      <EnglishText>Uaaah! Quer dizer que a gente
+também vai ficar doente?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
@@ -460,12 +455,10 @@ gonna get sick too?!</EnglishText>
       <JapaneseText>この病気は発症すると、
 一日もたないと言われている。
 早急な治療が必要なのだが……</JapaneseText>
-      <EnglishText>It's said that after the onset
-of symptoms, those afflicted
-won't even last a single day.
-Treatment needs to be
-administered immediately,
-but...</EnglishText>
+      <EnglishText>Dizem que, após o início dos
+sintomas, o doente não dura
+nem um dia. O tratamento precisa
+ser dado imediatamente, mas...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
@@ -475,7 +468,7 @@ but...</EnglishText>
       <PointerOffset>2538</PointerOffset>
       <VoiceId>1a000046</VoiceId>
       <JapaneseText>治療法は……!?</JapaneseText>
-      <EnglishText>What's the treatment...?!</EnglishText>
+      <EnglishText>Qual é o tratamento...?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -485,7 +478,7 @@ but...</EnglishText>
       <PointerOffset>2727</PointerOffset>
       <VoiceId>1a000047</VoiceId>
       <JapaneseText>出てっておくれ!!</JapaneseText>
-      <EnglishText>Get out!</EnglishText>
+      <EnglishText>Fora!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>
@@ -495,7 +488,7 @@ but...</EnglishText>
       <PointerOffset>2758</PointerOffset>
       <VoiceId>1a000048</VoiceId>
       <JapaneseText>いきなり何を言うんだ！</JapaneseText>
-      <EnglishText>Whoa, what gives?!</EnglishText>
+      <EnglishText>Ei, qual é o problema?!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -506,8 +499,7 @@ but...</EnglishText>
       <VoiceId>1a000049</VoiceId>
       <JapaneseText>いいから、出て行きな!!
 今すぐだよ!!</JapaneseText>
-      <EnglishText>Never mind you, now
-leave at once!</EnglishText>
+      <EnglishText>Não interessa! Saiam já!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>35</Id>
@@ -521,9 +513,9 @@ leave at once!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>36</Id>
@@ -537,8 +529,8 @@ No</EnglishText>
       <JapaneseText>はぁ……はぁ……
 お……父さん……
 </JapaneseText>
-      <EnglishText>Hah...Hahh...
-F...Father...</EnglishText>
+      <EnglishText>Haah... Haah...
+P...Pai...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
@@ -549,8 +541,8 @@ F...Father...</EnglishText>
       <JapaneseText>……助ける……必ず助ける……
 バース……力を貸してくれ……
 </JapaneseText>
-      <EnglishText>...I'll save you... For sure... Barrs...
-Lend me your strength...</EnglishText>
+      <EnglishText>...Eu vou te salvar... Com certeza...
+Barrs... Me dê forças...</EnglishText>
       <Notes>Ah got it these are party leader specific lines.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>38</Id>
@@ -559,7 +551,7 @@ Lend me your strength...</EnglishText>
     <Entry>
       <PointerOffset>628</PointerOffset>
       <JapaneseText>はぁ……はぁ……</JapaneseText>
-      <EnglishText>Uuh... Ha...</EnglishText>
+      <EnglishText>Uuh... Ah...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -570,8 +562,8 @@ Lend me your strength...</EnglishText>
       <JapaneseText>早くお医者さんを
 探さなきゃ！
 </JapaneseText>
-      <EnglishText>We need to hurry up
-and find her a doctor!</EnglishText>
+      <EnglishText>Precisamos correr e achar
+um médico pra ela!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>40</Id>
@@ -590,8 +582,8 @@ and find her a doctor!</EnglishText>
       <PointerOffset>716</PointerOffset>
       <JapaneseText>急いで医者を
 連れて来なくては……！</JapaneseText>
-      <EnglishText>We need to get a
-doctor to her fast!</EnglishText>
+      <EnglishText>Precisamos levar um médico
+pra ela depressa!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>42</Id>
@@ -610,9 +602,9 @@ doctor to her fast!</EnglishText>
       <PointerOffset>782</PointerOffset>
       <JapaneseText>がんばれ、&lt;Annie&gt;！
 すぐに医者を連れて来るからな！</JapaneseText>
-      <EnglishText>Hang in there, &lt;Annie&gt;!
-We'll be back with a
-doctor soon!</EnglishText>
+      <EnglishText>Aguente firme, &lt;Annie&gt;!
+Logo voltamos com um
+médico!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -631,8 +623,8 @@ doctor soon!</EnglishText>
       <PointerOffset>848</PointerOffset>
       <JapaneseText>&lt;Annie&gt;……
 医者を探さなくちゃ……</JapaneseText>
-      <EnglishText>&lt;Annie&gt;... We'll find
-a doctor for you...</EnglishText>
+      <EnglishText>&lt;Annie&gt;... Vamos achar
+um médico pra você...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>46</Id>
@@ -641,7 +633,7 @@ a doctor for you...</EnglishText>
     <Entry>
       <PointerOffset>877</PointerOffset>
       <JapaneseText>はぁ……はぁ……</JapaneseText>
-      <EnglishText>Uuh... Ha...</EnglishText>
+      <EnglishText>Uuh... Ah...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>47</Id>

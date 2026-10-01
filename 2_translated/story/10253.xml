@@ -413,7 +413,7 @@ Concentre-se e pense nisso.</EnglishText>
       <VoiceId>0f000014</VoiceId>
       <JapaneseText>&lt;Yellow&gt;氷のフォルス&lt;White&gt;を使うんだ。
 できるな、&lt;Veigue&gt;。</JapaneseText>
-      <EnglishText>Use seu &lt;Yellow&gt;Force do Gelo&lt;White&gt;.
+      <EnglishText>Use seu &lt;Yellow&gt;Force of Ice&lt;White&gt;.
 Você consegue, &lt;Veigue&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -450,7 +450,7 @@ possível usar o Force ali.</EnglishText>
 氷の足場を作る事ができます。</JapaneseText>
       <EnglishText>&lt;Green&gt;Ao apertar o botão Force (&lt;icon:32&gt;),
 você cria um apoio usando o
-Force do Gelo do Veigue.</EnglishText>
+Force of Ice do Veigue.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>32</Id>
