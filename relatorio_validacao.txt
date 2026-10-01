@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  20.2% das falas traduzidas (6330 de 31269) | arquivos iniciados: 111 | sem problemas: 110
+story :  21.6% das falas traduzidas (6755 de 31269) | arquivos iniciados: 119 | sem problemas: 118
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 15.1% das falas traduzidas (6330 de 41924)
+TOTAL : 16.1% das falas traduzidas (6755 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -439,3 +439,34 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 
 [story/10373.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10374.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10375.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10376.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez; Id 3: Karez
+
+[story/10377.xml]
+  Id 36: PENDENTE (igual ao inglês): [VARIABLE]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10378.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Karez; Id 2: Karez
+
+[story/10384.xml]
+  Id 179: PENDENTE (igual ao inglês): Karez...
+  Id 199: PENDENTE (igual ao inglês): Waah!!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal; Id 2: Anikamal; Id 5: Anikamal; Id 99: Frantz; Id 105: Sulz; Id 106: Minal; Id 107: Petnadjanka; Id 108: Sunnytown; Id 109: Anikamal; Id 110: Babilograd; Id 112: Razilda; Id 113: Pipista; Id 114: Kyogen; Id 115: Nolzen; Id 116: Mocrado
+
+[story/10385.xml]
+  Id 63: PENDENTE (igual ao inglês): Grr...
+  Id 90: PENDENTE (igual ao inglês): Waah!!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal; Id 2: Anikamal
+
+[story/10386.xml]
+  Id 10: PENDENTE (igual ao inglês): ...?
+  Id 55: PENDENTE (igual ao inglês): Ahh!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Anikamal; Id 2: Anikamal

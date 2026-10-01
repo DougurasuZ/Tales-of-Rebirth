@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>2693,795,850,171</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>684,684</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -117,8 +117,8 @@
       <VoiceId>19000055</VoiceId>
       <JapaneseText>うーん!!
 太陽さんさん気持ちいいぜ！</JapaneseText>
-      <EnglishText>Ahhh!! Mr. Sun, you
-feel fan~tas~tic!</EnglishText>
+      <EnglishText>Ahhh!! Senhor Sol, você
+é fan~tás~tico!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -130,9 +130,9 @@ feel fan~tas~tic!</EnglishText>
       <JapaneseText>あんた、カレーズに入る前は
 「暑いから氷出せ」って
 言ってなかった？</JapaneseText>
-      <EnglishText>Weren't you so bothered by the
-heat before we entered Karez
-that you were begging for ice?</EnglishText>
+      <EnglishText>Você não estava tão incomodada
+com o calor antes de entrarmos
+em Karez, a ponto de pedir gelo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -143,8 +143,8 @@ that you were begging for ice?</EnglishText>
       <VoiceId>19000057</VoiceId>
       <JapaneseText>過去に縛られちゃあダメだ。
 未来に生きるんだ……&lt;Hilda&gt;。</JapaneseText>
-      <EnglishText>You shouldn't be bound by the past.
-Live for the future, &lt;Hilda&gt;.</EnglishText>
+      <EnglishText>Não se prenda ao passado.
+Viva pro futuro, &lt;Hilda&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -154,7 +154,7 @@ Live for the future, &lt;Hilda&gt;.</EnglishText>
       <PointerOffset>1566</PointerOffset>
       <VoiceId>19000058</VoiceId>
       <JapaneseText>うん、決まったぜ……</JapaneseText>
-      <EnglishText>Aw yeah, nailed it.</EnglishText>
+      <EnglishText>É isso aí, mandei bem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -165,9 +165,8 @@ Live for the future, &lt;Hilda&gt;.</EnglishText>
       <VoiceId>19000059</VoiceId>
       <JapaneseText>砂漠を抜けるまで
 まだ、かなりの距離がある。</JapaneseText>
-      <EnglishText>We still have a ways to
-go before we're out of
-the desert.</EnglishText>
+      <EnglishText>Ainda temos um bom caminho
+até sair do deserto.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -177,8 +176,8 @@ the desert.</EnglishText>
       <PointerOffset>1694</PointerOffset>
       <VoiceId>1900005a</VoiceId>
       <JapaneseText>一気に突っ切るのは無理ね。</JapaneseText>
-      <EnglishText>Yes, making it across in one
-quick go isn't feasible.</EnglishText>
+      <EnglishText>Sim, atravessar tudo de uma
+vez não é viável.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -189,7 +188,7 @@ quick go isn't feasible.</EnglishText>
       <VoiceId>1900005b</VoiceId>
       <JapaneseText>この近くに人が住んでいる
 場所はないのか？</JapaneseText>
-      <EnglishText>Do people live anywhere nearby?</EnglishText>
+      <EnglishText>Tem gente morando por perto?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -201,11 +200,10 @@ quick go isn't feasible.</EnglishText>
       <JapaneseText>このあたりまで来たなら……
 アニカマルっていう村があるわ。
 もう少し先だったと思うけど。</JapaneseText>
-      <EnglishText>If we've gone as far as I think
-we have, then there should be
-a village in this area called
-Anikamal. I believe it's just a
-bit further ahead.</EnglishText>
+      <EnglishText>Se avançamos o que penso, deve
+haver uma vila por aqui,
+chamada Anikamal. Acho que
+fica um pouco mais à frente.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -216,8 +214,8 @@ bit further ahead.</EnglishText>
       <VoiceId>1900005d</VoiceId>
       <JapaneseText>ああ、そう遠くはないはずだ。
 ここからだと、南の方角になる。</JapaneseText>
-      <EnglishText>Yes, it shouldn't be that far.
-We just need to head south.</EnglishText>
+      <EnglishText>Sim, não deve ser longe.
+Basta seguirmos ao sul.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -229,10 +227,10 @@ We just need to head south.</EnglishText>
       <JapaneseText>じゃあ、そのアニカマルとやらで
 ちょっくら休憩して、
 後はバビログラードまで一直線だな！</JapaneseText>
-      <EnglishText>Okay! We can get some rest
-at Anikamal or whatever it's
-called, then make a beeline
-for Babilograd!</EnglishText>
+      <EnglishText>Beleza! A gente descansa
+em Anikamal, ou sei lá como
+chama, e vai direto pra
+Babilograd!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -242,7 +240,7 @@ for Babilograd!</EnglishText>
       <PointerOffset>1972</PointerOffset>
       <VoiceId>1900005f</VoiceId>
       <JapaneseText>早く行こッ!!</JapaneseText>
-      <EnglishText>Let's go!</EnglishText>
+      <EnglishText>Vamos lá!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -279,7 +277,7 @@ for Babilograd!</EnglishText>
       <PointerOffset>2395</PointerOffset>
       <VoiceId>19000064</VoiceId>
       <JapaneseText>すごい熱だ……</JapaneseText>
-      <EnglishText>She's burning up...</EnglishText>
+      <EnglishText>Ela tá pegando fogo...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -290,7 +288,7 @@ for Babilograd!</EnglishText>
       <VoiceId>19000065</VoiceId>
       <JapaneseText>おい、&lt;Annie&gt;！
 しっかりしろ!!</JapaneseText>
-      <EnglishText>Hey, &lt;Annie&gt;! Snap out of it!</EnglishText>
+      <EnglishText>Ei, &lt;Annie&gt;! Acorda!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -300,7 +298,7 @@ for Babilograd!</EnglishText>
       <PointerOffset>2465</PointerOffset>
       <VoiceId>19000066</VoiceId>
       <JapaneseText>この暑さのせいかしら……？</JapaneseText>
-      <EnglishText>Is the heat getting to her...?</EnglishText>
+      <EnglishText>Será que o calor afetou ela...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -311,8 +309,8 @@ for Babilograd!</EnglishText>
       <VoiceId>19000067</VoiceId>
       <JapaneseText>わからん……
 とにかく、このままでは危険だ。</JapaneseText>
-      <EnglishText>I don't know... Whatever the case,
-we can't leave her like this.</EnglishText>
+      <EnglishText>Não sei... De todo modo,
+não podemos deixá-la assim.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -322,7 +320,7 @@ we can't leave her like this.</EnglishText>
       <PointerOffset>2545</PointerOffset>
       <VoiceId>19000068</VoiceId>
       <JapaneseText>どうしよう……</JapaneseText>
-      <EnglishText>What should we do?</EnglishText>
+      <EnglishText>O que a gente faz?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
@@ -332,7 +330,7 @@ we can't leave her like this.</EnglishText>
       <PointerOffset>2586</PointerOffset>
       <VoiceId>19000069</VoiceId>
       <JapaneseText>アニカマルで医者を探そう。</JapaneseText>
-      <EnglishText>Let's find a doctor in Anikamal.</EnglishText>
+      <EnglishText>Vamos achar um médico em Anikamal.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -342,7 +340,7 @@ we can't leave her like this.</EnglishText>
       <PointerOffset>2629</PointerOffset>
       <VoiceId>1900006a</VoiceId>
       <JapaneseText>急ごう!!</JapaneseText>
-      <EnglishText>We need to hurry!</EnglishText>
+      <EnglishText>Precisamos nos apressar!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -352,8 +350,8 @@ we can't leave her like this.</EnglishText>
       <PointerOffset>2696</PointerOffset>
       <JapaneseText>&lt;Red&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;Annie&gt;が戦闘パーティから外れます。
 </JapaneseText>
-      <EnglishText>&lt;Annie&gt; is unable to
-participate in battles.</EnglishText>
+      <EnglishText>&lt;Annie&gt; não pode
+participar de batalhas.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
@@ -363,7 +361,7 @@ participate in battles.</EnglishText>
       <PointerOffset>752</PointerOffset>
       <JapaneseText>ありがとう……
 助かったよ。</JapaneseText>
-      <EnglishText>Thanks for the help.</EnglishText>
+      <EnglishText>Valeu pela ajuda.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
@@ -372,7 +370,7 @@ participate in battles.</EnglishText>
     <Entry>
       <PointerOffset>774</PointerOffset>
       <JapaneseText>そうじゃ、これをお食べ。</JapaneseText>
-      <EnglishText>Here, have some of this.</EnglishText>
+      <EnglishText>Tome, leve um pouco disto.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -381,7 +379,7 @@ participate in battles.</EnglishText>
     <Entry>
       <PointerOffset>798</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000017&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You ate some "&lt;item:20000017&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Você comeu "&lt;item:20000017&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -390,7 +388,7 @@ participate in battles.</EnglishText>
     <Entry>
       <PointerOffset>964</PointerOffset>
       <JapaneseText>うまい……</JapaneseText>
-      <EnglishText>It's good...</EnglishText>
+      <EnglishText>É gostoso...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -400,8 +398,8 @@ participate in battles.</EnglishText>
       <PointerOffset>1000</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good! It's
-so dang tasty!</EnglishText>
+      <EnglishText>Que gostoso! É tão
+mas tão delicioso!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
@@ -410,7 +408,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>1036</PointerOffset>
       <JapaneseText>うむ、これはうまい……</JapaneseText>
-      <EnglishText>Mm, this is good...</EnglishText>
+      <EnglishText>Hm, está bom...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -419,7 +417,7 @@ so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>1073</PointerOffset>
       <JapaneseText>おいしい……</JapaneseText>
-      <EnglishText>It's delicious...</EnglishText>
+      <EnglishText>É delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
@@ -429,8 +427,8 @@ so dang tasty!</EnglishText>
       <PointerOffset>1110</PointerOffset>
       <JapaneseText>くぅぅ、うめえ！
 こいつぁ、五つ星だ！</JapaneseText>
-      <EnglishText>Whoaa, this is delicious!
-I give it five stars!</EnglishText>
+      <EnglishText>Uau, que delícia!
+Dou cinco estrelas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -440,7 +438,7 @@ I give it five stars!</EnglishText>
       <PointerOffset>1147</PointerOffset>
       <JapaneseText>おいしいわね……
 </JapaneseText>
-      <EnglishText>That was delicious...</EnglishText>
+      <EnglishText>Estava delicioso...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
@@ -458,7 +456,7 @@ I give it five stars!</EnglishText>
     <Entry>
       <PointerOffset>853</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000017&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000017&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Você obteve a receita de "&lt;item:20000017&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
@@ -481,9 +479,9 @@ I give it five stars!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>

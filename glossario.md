@@ -60,6 +60,8 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Eastalia, Southalia, Westalia, Northtalia | (iguais) | Nomes de regiões, mantidos |
 | Balka Island | Ilha de Balka | Nome misto |
 | Karez | Karez | Canais subterrâneos do deserto; nome mantido |
+| Tent | Tenda | Ex.: "Anikamal - Tenda" |
+| Anikamal | Anikamal | Nome próprio, mantido |
 
 ## Termos do jogo
 

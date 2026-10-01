@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361,3361</PointerOffset>
       <JapaneseText>行商人</JapaneseText>
-      <EnglishText>Peddler</EnglishText>
+      <EnglishText>Mascate</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>3116,3116,3116,3116,3116,3116,2558,2558,2558,2558,2558,2558,2558,2558,2558,2558,2558,2558,2558</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>5619</PointerOffset>
       <JapaneseText>村人の声</JapaneseText>
-      <EnglishText>Villager's Voice</EnglishText>
+      <EnglishText>Voz de Morador</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset>627</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>646</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -128,7 +128,7 @@
     <Entry>
       <PointerOffset>5731</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset>5750</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -144,7 +144,7 @@
     <Entry>
       <PointerOffset>5380</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -152,7 +152,7 @@
     <Entry>
       <PointerOffset>5399</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -164,7 +164,7 @@
       <PointerOffset>3377</PointerOffset>
       <JapaneseText>いらっしゃいませ。
 さて、何だったかな？</JapaneseText>
-      <EnglishText>Welcome! See anything you want?</EnglishText>
+      <EnglishText>Bem-vindo! Viu algo que queira?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -177,11 +177,11 @@
 　道具を買う
 　世間話をする　
 　やめる</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:12C&gt;Buy Weapons
-Buy Armor
-Buy Items
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:12C&gt;Comprar Armas
+Comprar Armaduras
+Comprar Itens
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -190,7 +190,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3452</PointerOffset>
       <JapaneseText>じゃあ、またよろしく！</JapaneseText>
-      <EnglishText>Thank you, come again!</EnglishText>
+      <EnglishText>Obrigado, volte sempre!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -199,7 +199,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3493</PointerOffset>
       <JapaneseText>武器はウチでよろしく！</JapaneseText>
-      <EnglishText>Thanks for buying my weapons!</EnglishText>
+      <EnglishText>Obrigado por comprar minhas armas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -208,7 +208,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3534</PointerOffset>
       <JapaneseText>防具はウチでよろしく！！</JapaneseText>
-      <EnglishText>Thanks for buying my armor!</EnglishText>
+      <EnglishText>Obrigado por comprar armaduras!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -217,7 +217,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3575</PointerOffset>
       <JapaneseText>道具はウチでよろしく！</JapaneseText>
-      <EnglishText>Thanks for buying my items!</EnglishText>
+      <EnglishText>Obrigado por comprar meus itens!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -227,8 +227,8 @@ Cancel</EnglishText>
       <PointerOffset>3688</PointerOffset>
       <JapaneseText>医者ねえ……僕はよそ者だから、
 よくわからないんだよね。</JapaneseText>
-      <EnglishText>A doctor...? I'm not from around
-here, so I wouldn't know.</EnglishText>
+      <EnglishText>Médico...? Não sou daqui,
+então não saberia dizer.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -238,9 +238,9 @@ here, so I wouldn't know.</EnglishText>
       <PointerOffset>3738</PointerOffset>
       <JapaneseText>病気なんだってね。
 残念ながら、薬は扱ってないんだ。</JapaneseText>
-      <EnglishText>Oh, someone's sick? Sorry,
-but I don't have medicine
-with me right now.</EnglishText>
+      <EnglishText>Ah, alguém está doente? Sinto
+muito, mas não tenho remédio
+comigo agora.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -253,10 +253,10 @@ with me right now.</EnglishText>
 ガジュマだ、ヒューマだって、
 互いの文句ばっかり言い合ってるんだ。
 </JapaneseText>
-      <EnglishText>I'm ambivalent towards it all, but
-the villagers here have been
-complaining about "Huma this"
-and "Gajuma that."</EnglishText>
+      <EnglishText>Pra mim tanto faz, mas os
+moradores daqui só reclamam
+de "Huma isso" e "Gajuma
+aquilo".</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -268,9 +268,8 @@ and "Gajuma that."</EnglishText>
 心配してるんだけど……僕の力じゃ
 何もできないし……ねえ。
 </JapaneseText>
-      <EnglishText>I'm worried that this might blow
-up into something big, but it's not
-like I can do anything about it.</EnglishText>
+      <EnglishText>Temo que isso vire algo grande,
+mas não posso fazer nada.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -281,8 +280,8 @@ like I can do anything about it.</EnglishText>
       <JapaneseText>君たちのような旅人が来ると
 安心するんだ……
 </JapaneseText>
-      <EnglishText>Seeing travelers like you come
-always gives me a peace of mind.</EnglishText>
+      <EnglishText>Ver viajantes como vocês chegar
+sempre me deixa tranquilo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -294,10 +293,9 @@ always gives me a peace of mind.</EnglishText>
 気にしてない場合が多いからね。
 気持ちの問題なのかな……
 </JapaneseText>
-      <EnglishText>Most travelers I've met usually
-don't care about things like race.
-I wonder if that's just how most
-travelers are...</EnglishText>
+      <EnglishText>A maioria dos viajantes que
+conheci não liga pra raça.
+Será que viajantes são assim?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -309,9 +307,9 @@ travelers are...</EnglishText>
 村の人たちはヒューマを
 追い出してたよ。
 </JapaneseText>
-      <EnglishText>I don't know what happened,
-but apparently the villagers
-chased the Huma out of town.</EnglishText>
+      <EnglishText>Não sei o que houve, mas pelo
+visto os moradores expulsaram
+os Huma da cidade.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -321,8 +319,8 @@ chased the Huma out of town.</EnglishText>
       <PointerOffset>3975</PointerOffset>
       <JapaneseText>ヒューマ？
 さあ、どこ行ったんだろうね……</JapaneseText>
-      <EnglishText>Where are the Huma?
-I don't know...</EnglishText>
+      <EnglishText>Onde estão os Huma?
+Não sei...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -334,8 +332,8 @@ I don't know...</EnglishText>
 あんまこの村に来ない方が
 いいんじゃない？
 </JapaneseText>
-      <EnglishText>Wouldn't it be better if Huma
-didn't come to this village?</EnglishText>
+      <EnglishText>Não seria melhor se os Huma
+não viessem a esta vila?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -346,8 +344,8 @@ didn't come to this village?</EnglishText>
       <JapaneseText>ま、君たちの
 勝手だけどね。
 </JapaneseText>
-      <EnglishText>Well, you're free to
-do what you like.</EnglishText>
+      <EnglishText>Bem, vocês são livres
+pra fazer o que quiserem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -359,8 +357,8 @@ do what you like.</EnglishText>
 気をつけて
 行っておいで。
 </JapaneseText>
-      <EnglishText>Huh? You're going to
-the Oasis? Take care!</EnglishText>
+      <EnglishText>Hã? Vão ao Oásis?
+Cuidado!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -371,8 +369,8 @@ the Oasis? Take care!</EnglishText>
       <JapaneseText>さっきの君たちのお説教、
 スカッとしたよ！
 </JapaneseText>
-      <EnglishText>I found what you said
-earlier very refreshing.</EnglishText>
+      <EnglishText>Achei o que você disse
+antes muito revigorante.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -383,8 +381,8 @@ earlier very refreshing.</EnglishText>
       <JapaneseText>村の人たちも反省してくれると
 いいんだけどねえ……
 </JapaneseText>
-      <EnglishText>I just hope the villagers would
-also take it to heart...</EnglishText>
+      <EnglishText>Só espero que os moradores
+também levem a sério...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -396,10 +394,9 @@ also take it to heart...</EnglishText>
 叱ってから、少しずつだけど、
 村の雰囲気が変わり始めてるよ。
 </JapaneseText>
-      <EnglishText>Ever since you guys came here
-and reprimanded everyone, things
-have slowly started changing
-around here.</EnglishText>
+      <EnglishText>Desde que vocês vieram e deram
+bronca em todos, as coisas
+aqui foram mudando aos poucos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -411,10 +408,9 @@ around here.</EnglishText>
 みたいなんだけど、今のままじゃ
 ダメだって、みんな思ってる……
 </JapaneseText>
-      <EnglishText>It seems like everyone has
-their own thoughts on the
-matter, but they all think
-that it could be better.</EnglishText>
+      <EnglishText>Parece que cada um tem sua
+opinião, mas todos acham que
+poderia ser melhor.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -425,9 +421,9 @@ that it could be better.</EnglishText>
       <JapaneseText>この地鳴りが始まってから、
 急に売上が伸びてるんだ。
 </JapaneseText>
-      <EnglishText>Ever since these earthquakes
-started happening, I've seen
-an increase in my sales.</EnglishText>
+      <EnglishText>Desde que esses terremotos
+começaram, minhas vendas
+aumentaram.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -438,8 +434,8 @@ an increase in my sales.</EnglishText>
       <JapaneseText>君たちも早く買わないと
 商品がなくなっちゃうよ！
 </JapaneseText>
-      <EnglishText>You guys should also hurry and buy
-some before I run out of stock!</EnglishText>
+      <EnglishText>Vocês também deviam se apressar
+e comprar antes que acabe!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -451,10 +447,9 @@ some before I run out of stock!</EnglishText>
 備えあれば憂いなし！
 イロイロ買ってよ！
 </JapaneseText>
-      <EnglishText>Who knows what will happen
-from here on out! Make sure
-to buy everything you need
-to be prepared!</EnglishText>
+      <EnglishText>Quem sabe o que vem por aí!
+Comprem tudo que precisarem
+pra estar preparados!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -465,8 +460,8 @@ to be prepared!</EnglishText>
       <JapaneseText>君たちも早く買わないと
 商品がなくなっちゃうよ！
 </JapaneseText>
-      <EnglishText>You guys should also hurry and buy
-some before I run out of stock!</EnglishText>
+      <EnglishText>Vocês também deviam se apressar
+e comprar antes que acabe!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -478,9 +473,9 @@ some before I run out of stock!</EnglishText>
 ちゃんと仕入れに出かけてるから、
 商品は古くはないよ。
 </JapaneseText>
-      <EnglishText>Look, you might think I'm here all the
-time, but I'm always leaving to restock.
-My products are always new!</EnglishText>
+      <EnglishText>Olha, pode parecer que estou aqui
+sempre, mas vivo saindo pra
+reabastecer. Produtos sempre novos!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -489,7 +484,7 @@ My products are always new!</EnglishText>
     <Entry>
       <PointerOffset>3620</PointerOffset>
       <JapaneseText>いつでも、よろしく！</JapaneseText>
-      <EnglishText>Come again!</EnglishText>
+      <EnglishText>Volte sempre!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -502,8 +497,8 @@ My products are always new!</EnglishText>
       <PointerOffset>3165</PointerOffset>
       <JapaneseText>奥のテントにいるヒューマ……
 何してるのかしら……</JapaneseText>
-      <EnglishText>I wonder what that Huma
-by the tent is doing...?</EnglishText>
+      <EnglishText>Será que aquele Huma perto
+da tenda está fazendo o quê...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -512,7 +507,7 @@ by the tent is doing...?</EnglishText>
     <Entry>
       <PointerOffset>3187</PointerOffset>
       <JapaneseText>怪しいわー……</JapaneseText>
-      <EnglishText>He's suspicious...</EnglishText>
+      <EnglishText>Ele é suspeito...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
@@ -523,8 +518,8 @@ by the tent is doing...?</EnglishText>
       <JapaneseText>触らないで！　近寄らないで！
 私はまだ死にたくないわ！
 </JapaneseText>
-      <EnglishText>D-Don't touch me! I-I
-don't want to die yet!</EnglishText>
+      <EnglishText>N-Não me toque! E-Eu
+ainda não quero morrer!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>38</Id>
@@ -534,9 +529,8 @@ don't want to die yet!</EnglishText>
       <PointerOffset>3287</PointerOffset>
       <JapaneseText>奥のテントにいたヒューマ、
 冒険家だったんですってね。</JapaneseText>
-      <EnglishText>Apparently, the Huma who
-lives in the tent over there
-is an adventurer.</EnglishText>
+      <EnglishText>Pelo visto, o Huma que mora
+naquela tenda é aventureiro.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
@@ -545,7 +539,7 @@ is an adventurer.</EnglishText>
     <Entry>
       <PointerOffset>3309</PointerOffset>
       <JapaneseText>カッコいい……</JapaneseText>
-      <EnglishText>How cool...</EnglishText>
+      <EnglishText>Que legal...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>40</Id>
@@ -555,8 +549,8 @@ is an adventurer.</EnglishText>
       <PointerOffset>3334</PointerOffset>
       <JapaneseText>考え事してるの。
 邪魔しないでくれる？</JapaneseText>
-      <EnglishText>Can you please not?
-I'm thinking here.</EnglishText>
+      <EnglishText>Pode não fazer isso?
+Estou pensando aqui.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
@@ -569,8 +563,8 @@ I'm thinking here.</EnglishText>
       <PointerOffset>2607</PointerOffset>
       <JapaneseText>うるさいな。
 アッチ行って！</JapaneseText>
-      <EnglishText>You're annoying! Go
-somewhere else!</EnglishText>
+      <EnglishText>Você é irritante! Vá
+pra outro lugar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -579,7 +573,7 @@ somewhere else!</EnglishText>
     <Entry>
       <PointerOffset>2657</PointerOffset>
       <JapaneseText>出てけったら出てけ！</JapaneseText>
-      <EnglishText>Get out of here!</EnglishText>
+      <EnglishText>Saia daqui!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>43</Id>
@@ -589,8 +583,8 @@ somewhere else!</EnglishText>
       <PointerOffset>2707</PointerOffset>
       <JapaneseText>冷たくして
 ゴメンなさい……</JapaneseText>
-      <EnglishText>I-I'm sorry that I was
-so cold to you...</EnglishText>
+      <EnglishText>D-Desculpe por ter sido
+tão fria com você...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>44</Id>
@@ -601,8 +595,8 @@ so cold to you...</EnglishText>
       <JapaneseText>……ガジュマなんか、
 いなくなればいいのよ……
 </JapaneseText>
-      <EnglishText>Sure would be nice if
-all Gajuma disappeared...</EnglishText>
+      <EnglishText>Seria bom se todos os
+Gajuma sumissem...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>45</Id>
@@ -614,10 +608,9 @@ all Gajuma disappeared...</EnglishText>
 私にお水を汲ませてくれないの。
 いなくなるのを待ってるんだけど……
 </JapaneseText>
-      <EnglishText>That stupid Gajuma fishing over
-there won't let me draw water
-from the pond! I have to wait
-until he's gone...</EnglishText>
+      <EnglishText>Aquele Gajuma idiota pescando ali
+não me deixa pegar água do lago!
+Vou ter que esperar ele sair...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>46</Id>
@@ -628,8 +621,8 @@ until he's gone...</EnglishText>
       <JapaneseText>ガジュマなんて……
 ガジュマなんかいるから……！
 </JapaneseText>
-      <EnglishText>All because there's
-a Gajuma there...!</EnglishText>
+      <EnglishText>Tudo porque tem um
+Gajuma ali...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>47</Id>
@@ -641,9 +634,9 @@ a Gajuma there...!</EnglishText>
 水を汲んでもいいって言うけど……
 顔を合わせるのも気まずくって……
 </JapaneseText>
-      <EnglishText>That guy over there said that I
-could draw water from the pond,
-but...it's hard to face him...</EnglishText>
+      <EnglishText>Aquele cara ali disse que eu
+podia pegar água do lago,
+mas...é difícil encará-lo...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>48</Id>
@@ -655,9 +648,9 @@ but...it's hard to face him...</EnglishText>
 何かの災害の前触れかしら……
 水を汲み貯めておかなくちゃ……
 </JapaneseText>
-      <EnglishText>This earthquake... I wonder if
-some disaster is coming? I-I've
-got to hurry and get water...!</EnglishText>
+      <EnglishText>Esse terremoto... Será que
+vem algum desastre? Preciso
+correr e pegar água...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>49</Id>
@@ -667,9 +660,8 @@ got to hurry and get water...!</EnglishText>
       <PointerOffset>2998</PointerOffset>
       <JapaneseText>今、国中で天変地異が
 起こってるのよね……？</JapaneseText>
-      <EnglishText>There are disasters happening
-all over the country right now,
-right...?</EnglishText>
+      <EnglishText>Estão acontecendo desastres
+por todo o país agora, né...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
@@ -681,9 +673,9 @@ right...?</EnglishText>
 この村はまとまり始めてるの……
 私はみんなのための水汲み係。
 </JapaneseText>
-      <EnglishText>If something like that happens here,
-this village will stand as one! I'll
-go and fetch water for everyone!</EnglishText>
+      <EnglishText>Se algo assim acontecer aqui,
+a vila vai se unir! Vou buscar
+água pra todo mundo!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>51</Id>
@@ -694,9 +686,8 @@ go and fetch water for everyone!</EnglishText>
       <JapaneseText>他の町も、助け合ったり
 してるといいんだけど……
 </JapaneseText>
-      <EnglishText>I hope that those who live
-in other towns will be willing
-to help one another...</EnglishText>
+      <EnglishText>Espero que quem mora em outras
+cidades se ajude também...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>52</Id>
@@ -706,8 +697,8 @@ to help one another...</EnglishText>
       <PointerOffset>3067</PointerOffset>
       <JapaneseText>毎日毎日コンコン、コンコンって
 水の湧き出る音が聞こえるのよ。</JapaneseText>
-      <EnglishText>Each and every day, I always
-hear the sound of gushing water.</EnglishText>
+      <EnglishText>Todo santo dia ouço o
+som de água jorrando.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>53</Id>
@@ -718,9 +709,8 @@ hear the sound of gushing water.</EnglishText>
       <JapaneseText>それを聞いてると癒されて……
 だから、いつもこうして
 水を汲みに来るの。</JapaneseText>
-      <EnglishText>I find it so relaxing that
-I'm always coming here to
-fetch water.</EnglishText>
+      <EnglishText>Acho tão relaxante que
+venho sempre buscar água.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>54</Id>
@@ -734,7 +724,7 @@ fetch water.</EnglishText>
       <VoiceId>1a00000e</VoiceId>
       <JapaneseText>この村に
 医者はいないか？</JapaneseText>
-      <EnglishText>Is there a doctor in this village?</EnglishText>
+      <EnglishText>Tem médico nesta vila?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>55</Id>
@@ -744,7 +734,7 @@ fetch water.</EnglishText>
       <PointerOffset>4572</PointerOffset>
       <VoiceId>1a00000f</VoiceId>
       <JapaneseText>さあ、どうかな。</JapaneseText>
-      <EnglishText>Beats me.</EnglishText>
+      <EnglishText>Sei lá.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
@@ -755,7 +745,7 @@ fetch water.</EnglishText>
       <VoiceId>1a000010</VoiceId>
       <JapaneseText>薬屋さんでも
 いいんだけど？</JapaneseText>
-      <EnglishText>What about a pharmacy?</EnglishText>
+      <EnglishText>E farmácia?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>57</Id>
@@ -765,7 +755,7 @@ fetch water.</EnglishText>
       <PointerOffset>4615</PointerOffset>
       <VoiceId>1a000011</VoiceId>
       <JapaneseText>さあ、どうかな。</JapaneseText>
-      <EnglishText>Beats me.</EnglishText>
+      <EnglishText>Sei lá.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
@@ -776,9 +766,8 @@ fetch water.</EnglishText>
       <VoiceId>1a000012</VoiceId>
       <JapaneseText>その言い方は何だ!!
 病人がいるんだぞ！</JapaneseText>
-      <EnglishText>What's with your tone!?
-Someone is sick, you
-know!</EnglishText>
+      <EnglishText>Que tom é esse!? Alguém
+está doente, sabia!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -789,7 +778,7 @@ know!</EnglishText>
       <VoiceId>1a000013</VoiceId>
       <JapaneseText>そうか、
 それは大変だな。</JapaneseText>
-      <EnglishText>Oh, that's too bad.</EnglishText>
+      <EnglishText>Ah, que pena.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>60</Id>
@@ -799,7 +788,7 @@ know!</EnglishText>
       <PointerOffset>4778</PointerOffset>
       <VoiceId>1a000014</VoiceId>
       <JapaneseText>貴様……！</JapaneseText>
-      <EnglishText>Why you...!</EnglishText>
+      <EnglishText>Seu...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>61</Id>
@@ -810,7 +799,7 @@ know!</EnglishText>
       <VoiceId>1a000015</VoiceId>
       <JapaneseText>やめてヨ！
 &lt;Eugene&gt;らしくない！</JapaneseText>
-      <EnglishText>Stop! &lt;Eugene&gt;, this isn't like you!</EnglishText>
+      <EnglishText>Pare! &lt;Eugene&gt;, isso não é você!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>62</Id>
@@ -830,7 +819,7 @@ know!</EnglishText>
       <PointerOffset>4870</PointerOffset>
       <VoiceId>1a000017</VoiceId>
       <JapaneseText>ふん……</JapaneseText>
-      <EnglishText>Hmph...</EnglishText>
+      <EnglishText>Hunf...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
@@ -841,8 +830,8 @@ know!</EnglishText>
       <VoiceId>1a000018</VoiceId>
       <JapaneseText>どうすればいいんだ!?
 早くしなければ、&lt;Annie&gt;は……</JapaneseText>
-      <EnglishText>What should we do? If we're
-not quick, &lt;Annie&gt; will...</EnglishText>
+      <EnglishText>O que fazemos? Se não formos
+rápidos, a &lt;Annie&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>65</Id>
@@ -852,7 +841,7 @@ not quick, &lt;Annie&gt; will...</EnglishText>
       <PointerOffset>1642</PointerOffset>
       <JapaneseText>病人？
 そりゃ大変だ。</JapaneseText>
-      <EnglishText>Someone's sick? That's unfortunate.</EnglishText>
+      <EnglishText>Alguém doente? Que azar.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -862,8 +851,8 @@ not quick, &lt;Annie&gt; will...</EnglishText>
       <PointerOffset>1692</PointerOffset>
       <JapaneseText>出てけって言われたら
 おとなしく出てけよ！</JapaneseText>
-      <EnglishText>Look, I'm telling you to leave
-so just shut up and go!</EnglishText>
+      <EnglishText>Escuta, tô mandando vocês irem
+embora, então calem a boca e vão!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
@@ -872,7 +861,7 @@ so just shut up and go!</EnglishText>
     <Entry>
       <PointerOffset>1742</PointerOffset>
       <JapaneseText>ちと反省中……</JapaneseText>
-      <EnglishText>I'm doing a little introspection...</EnglishText>
+      <EnglishText>Estou refletindo um pouco...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
@@ -884,9 +873,9 @@ so just shut up and go!</EnglishText>
 ヒューマの女……うっとうしいから
 帰れって怒鳴ってやったんだ。
 </JapaneseText>
-      <EnglishText>That Huma woman that always comes
-here to draw water is irritating,
-so I yelled at her to go home.</EnglishText>
+      <EnglishText>Aquela mulher Huma que vem
+sempre pegar água é irritante,
+então mandei ela voltar pra casa.</EnglishText>
       <Notes>Double check jp
 </Notes>
       <SpeakerId>4</SpeakerId>
@@ -899,9 +888,9 @@ so I yelled at her to go home.</EnglishText>
 出てこなくなったんだ。
 せいせいしたぜ。
 </JapaneseText>
-      <EnglishText>I would be so relieved if she
-just shut herself in her house
-and never came out again.</EnglishText>
+      <EnglishText>Eu ficaria tão aliviado se ela
+se trancasse em casa e nunca
+mais saísse.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -912,9 +901,9 @@ and never came out again.</EnglishText>
       <JapaneseText>おまえ……ヘンだな……
 ヒューマなのに気にならないな。
 ま、いっか……</JapaneseText>
-      <EnglishText>You're strange... You're a Huma,
-and yet I'm not bothered by you...
-Well, whatever.</EnglishText>
+      <EnglishText>Você é estranho... É Huma e
+mesmo assim não me incomoda...
+Bem, tanto faz.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
@@ -924,8 +913,8 @@ Well, whatever.</EnglishText>
       <PointerOffset>1995</PointerOffset>
       <JapaneseText>釣りのジャマなんだよ！
 魚が逃げるだろ、どっか行け！</JapaneseText>
-      <EnglishText>Go somewhere else! You're
-chasing away the fish!</EnglishText>
+      <EnglishText>Vá pra outro lugar! Você
+está espantando os peixes!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>72</Id>
@@ -935,9 +924,9 @@ chasing away the fish!</EnglishText>
       <PointerOffset>2072</PointerOffset>
       <JapaneseText>あんたもガジュマなら、
 ヒューマなんかと歩くな。</JapaneseText>
-      <EnglishText>Listen here, if you're a Gajuma,
-then you better stop traveling
-with Huma.</EnglishText>
+      <EnglishText>Escuta, se você é Gajuma,
+é melhor parar de viajar
+com Huma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>73</Id>
@@ -947,7 +936,7 @@ with Huma.</EnglishText>
       <PointerOffset>2094</PointerOffset>
       <JapaneseText>ガジュマとしての
 誇りを持ちな！</JapaneseText>
-      <EnglishText>Don't you have any pride?</EnglishText>
+      <EnglishText>Você não tem orgulho?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>74</Id>
@@ -958,9 +947,9 @@ with Huma.</EnglishText>
       <JapaneseText>この村はガジュマの村になったんだ！
 ヒューマはさっさと出ていけ!!
 </JapaneseText>
-      <EnglishText>This is a Gajuma village from
-now on! Huma like you don't
-belong here!</EnglishText>
+      <EnglishText>Esta é uma vila Gajuma de agora
+em diante! Huma como você não
+tem lugar aqui!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>75</Id>
@@ -971,9 +960,8 @@ belong here!</EnglishText>
       <JapaneseText>今頃、ヒューマの連中、
 オアシスでバイラスに……
 いいざまだ……</JapaneseText>
-      <EnglishText>Hah, those Huma scum are
-going to get eaten in the
-Oasis... Absolutely perfect!</EnglishText>
+      <EnglishText>Hah, esses Huma imundos vão ser
+comidos no Oásis... Perfeito!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>76</Id>
@@ -985,9 +973,9 @@ Oasis... Absolutely perfect!</EnglishText>
 イロイロ考えてるところさ……
 悩みの答が釣れるといいんだけどな……
 </JapaneseText>
-      <EnglishText>I've been thinking, ever since you
-reprimanded me... If only I could
-fish out the answer in this pond...</EnglishText>
+      <EnglishText>Penso nisso desde sua bronca...
+Queria pescar a resposta
+neste lago...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>77</Id>
@@ -999,9 +987,9 @@ fish out the answer in this pond...</EnglishText>
 一度気にし始めたら、
 忘れるわけには行かないよな……
 </JapaneseText>
-      <EnglishText>Once you start fretting about
-Gajuma and Huma, it'll never
-leave your mind.</EnglishText>
+      <EnglishText>Quando você começa a se preocupar
+com Gajuma e Huma, nunca mais
+sai da cabeça.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>78</Id>
@@ -1012,9 +1000,8 @@ leave your mind.</EnglishText>
       <JapaneseText>前は何も考えなくても
 うまくやってたのにな……
 </JapaneseText>
-      <EnglishText>Personally, everything was
-all well back when I never
-paid it much attention.</EnglishText>
+      <EnglishText>Pra mim, tudo ia bem quando
+eu não ligava pra isso.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>79</Id>
@@ -1024,8 +1011,8 @@ paid it much attention.</EnglishText>
       <PointerOffset>2288</PointerOffset>
       <JapaneseText>あんたたちヒューマは、
 ガジュマの事、どう思ってるんだ？</JapaneseText>
-      <EnglishText>As a Huma, what do you
-think of us Gajuma?</EnglishText>
+      <EnglishText>Como Huma, o que você
+acha de nós Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>80</Id>
@@ -1036,9 +1023,9 @@ think of us Gajuma?</EnglishText>
       <JapaneseText>口には出さないけど……
 どこかでバカにしたり、
 嫌ってたりするんじゃないのか……？</JapaneseText>
-      <EnglishText>I know you won't say it
-out loud, but do you hate
-or make fun of us...?</EnglishText>
+      <EnglishText>Sei que não vai dizer em voz
+alta, mas vocês nos odeiam
+ou zombam de nós...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>81</Id>
@@ -1050,9 +1037,9 @@ or make fun of us...?</EnglishText>
 さっぱり魚が釣れなくなったよ。
 いや、前からか……
 </JapaneseText>
-      <EnglishText>I haven't been able to catch
-any fish ever since this noise
-started... No, perhaps even before?</EnglishText>
+      <EnglishText>Não consigo pescar nada desde
+que esse barulho começou...
+Não, talvez até antes?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>82</Id>
@@ -1062,8 +1049,8 @@ started... No, perhaps even before?</EnglishText>
       <PointerOffset>2371</PointerOffset>
       <JapaneseText>どっちでもいいけどさ、
 なんだか気味が悪い音だな……</JapaneseText>
-      <EnglishText>Either way, this
-sound is unsettling...</EnglishText>
+      <EnglishText>De qualquer jeito, esse
+som é perturbador...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>83</Id>
@@ -1075,9 +1062,9 @@ sound is unsettling...</EnglishText>
 考えるのを、とりあえずやめたんだ。
 世の中、大騒ぎになってるしな……
 </JapaneseText>
-      <EnglishText>I've stopped fretting over Gajuma
-and Huma stuff for now. Apparently,
-there's something terrible happening...</EnglishText>
+      <EnglishText>Parei de me preocupar com a
+história de Gajuma e Huma. Pelo
+visto, há algo terrível rolando...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>84</Id>
@@ -1089,9 +1076,9 @@ there's something terrible happening...</EnglishText>
 思ってさ……ヒューマと手を
 組む事になったとしても……
 </JapaneseText>
-      <EnglishText>I have to cooperate with Huma
-to protect this village before
-something happens...</EnglishText>
+      <EnglishText>Preciso cooperar com os Huma pra
+proteger a vila antes que algo
+aconteça...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>85</Id>
@@ -1102,8 +1089,8 @@ something happens...</EnglishText>
       <JapaneseText>そのために、オレは食料を
 調達してるってわけさ。
 </JapaneseText>
-      <EnglishText>That's why I'm stocking
-up on ingredients.</EnglishText>
+      <EnglishText>Por isso estou estocando
+ingredientes.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>86</Id>
@@ -1113,7 +1100,7 @@ up on ingredients.</EnglishText>
       <PointerOffset>2490</PointerOffset>
       <JapaneseText>なーんにも釣れないな……
 </JapaneseText>
-      <EnglishText>Nothing's biting...</EnglishText>
+      <EnglishText>Nada mordendo...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>87</Id>
@@ -1124,8 +1111,8 @@ up on ingredients.</EnglishText>
       <JapaneseText>ここ一週間くらい、
 ずっとボウズだよ。
 </JapaneseText>
-      <EnglishText>I haven't been able to catch
-anything for a week.</EnglishText>
+      <EnglishText>Faz uma semana que não
+pego nada.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>88</Id>
@@ -1134,8 +1121,8 @@ anything for a week.</EnglishText>
     <Entry>
       <PointerOffset>2534</PointerOffset>
       <JapaneseText>魚いないのかな……？</JapaneseText>
-      <EnglishText>I wonder if there just
-aren't any fish...?</EnglishText>
+      <EnglishText>Será que simplesmente
+não tem peixe...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>89</Id>
@@ -1161,7 +1148,7 @@ aren't any fish...?</EnglishText>
       <JapaneseText>しまった!!
 まだ、いたか……！
 </JapaneseText>
-      <EnglishText>Damnit! There's more?!</EnglishText>
+      <EnglishText>Droga! Tem mais?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>91</Id>
@@ -1172,7 +1159,7 @@ aren't any fish...?</EnglishText>
       <VoiceId>39000025</VoiceId>
       <JapaneseText>奥の方だヨ……!!
 </JapaneseText>
-      <EnglishText>Over there!</EnglishText>
+      <EnglishText>Ali!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>92</Id>
@@ -1183,7 +1170,7 @@ aren't any fish...?</EnglishText>
       <VoiceId>39000021</VoiceId>
       <JapaneseText>あっちにもいます！
 </JapaneseText>
-      <EnglishText>They're over here too!</EnglishText>
+      <EnglishText>Aqui também!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>93</Id>
@@ -1195,7 +1182,7 @@ aren't any fish...?</EnglishText>
       <JapaneseText>くっ……
 キリがない……！
 </JapaneseText>
-      <EnglishText>Damn... There's no end to them...!</EnglishText>
+      <EnglishText>Droga... Não acabam nunca...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>94</Id>
@@ -1209,9 +1196,9 @@ aren't any fish...?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>95</Id>
@@ -1229,15 +1216,14 @@ No</EnglishText>
 今では国中探しても四人しか作れない。
 後継者不足が深刻な問題。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Anikamal Ceremonial Jar -
-Made out of baked red clay from
-Anikamal, it's extremely light despite
-its thickness. Crafting it requires a
-fair amount of skill. Nowadays, there
-are only four people in the country
-who can make them. The lack of
-people who are learning the craft
-is a growing concern.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Jarro Cerimonial de Anikamal -
+Feito de argila vermelha queimada
+de Anikamal, é levíssimo apesar
+da espessura. Exige bastante
+habilidade. Hoje só há quatro
+pessoas no país que sabem fazê-lo.
+A falta de aprendizes preocupa
+cada vez mais.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>96</Id>
@@ -1254,12 +1240,12 @@ is a growing concern.</EnglishText>
 アニカマルの樹を象形化したもので、
 三つの○は「力と技と団結」を表している。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Anikamal Crest -
-Anikamal's Crest is drawn on the
-wall. Passed down from ancient
-times, its design, which resembles
-the Anikamal Tree, has three circles
-symbolizing power, skill, and unity.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Brasão de Anikamal -
+O Brasão de Anikamal está pintado
+na parede. Herdado dos tempos
+antigos, seu desenho, parecido
+com a Árvore de Anikamal, tem três
+círculos: poder, habilidade e união.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>97</Id>
