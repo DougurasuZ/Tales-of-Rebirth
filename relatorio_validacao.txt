@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  14.2% das falas traduzidas (4425 de 31269) | arquivos iniciados: 71 | sem problemas: 70
+story :  15.5% das falas traduzidas (4854 de 31269) | arquivos iniciados: 79 | sem problemas: 78
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 10.6% das falas traduzidas (4425 de 41924)
+TOTAL : 11.6% das falas traduzidas (4854 de 41924)
 Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -314,3 +314,8 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 
 [story/10314.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Petnadjanka
+
+[story/10325.xml]
+  Id 16: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 17: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 18: PENDENTE (igual ao inglês): [VARIABLE]

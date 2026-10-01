@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>4658,4812,4952,5092,3905,4059,4199,4339,2681</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>3190,3190,3190,3190,3190,3190,3190,3190,3190,3190,3190,3190,3190,3190,3120,3120,5453,5453,5453,5453</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>1123</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>1120</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -86,9 +86,9 @@
 　持っていく　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Take the plate with you?
-Take it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Levar a placa com você?
+Levar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -97,7 +97,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4661</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を手に入れました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You took the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você pegou a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -109,9 +109,9 @@ Cancel</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -120,7 +120,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4815</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -130,8 +130,8 @@ Cancel</EnglishText>
       <PointerOffset>4955</PointerOffset>
       <JapaneseText>原版は四つまでしか
 持つ事ができません。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You can only carry
-up to four plates.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você só pode carregar
+no máximo quatro placas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -143,9 +143,9 @@ up to four plates.</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -154,7 +154,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>5095</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -165,10 +165,10 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の道具』
 製鉄用の道具につき
 持ち出し禁止。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Tools for Working Steel -
-Tools used for steel working
-are prohibited from being
-taken outside the workplace.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Ferramentas de Aço -
+Ferramentas de trabalho com aço
+não podem ser levadas para
+fora do local de trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -179,9 +179,9 @@ taken outside the workplace.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の原版』
 細かい模様が刻まれた
 鉄を作るための型。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Steel Plate -
-A mold for making steel with 
-fine patterns engraved on it.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Placa de Aço -
+Molde para fazer aço, com
+padrões delicados gravados.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -196,9 +196,9 @@ fine patterns engraved on it.</EnglishText>
 　持っていく　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Take the plate with you?
-Take it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Levar a placa com você?
+Levar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -207,7 +207,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>3908</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を手に入れました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You took the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você pegou a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -219,9 +219,9 @@ Cancel</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -230,7 +230,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4062</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -240,8 +240,8 @@ Cancel</EnglishText>
       <PointerOffset>4202</PointerOffset>
       <JapaneseText>原版は四つまでしか
 持つ事ができません。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You can only carry
-up to four plates.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você só pode carregar
+no máximo quatro placas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -253,9 +253,9 @@ up to four plates.</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -264,7 +264,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>4342</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -275,10 +275,10 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の道具』
 製鉄用の道具につき
 持ち出し禁止。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Tools for Working Steel -
-Tools used for steel working
-are prohibited from being
-taken outside the workplace.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Ferramentas de Aço -
+Ferramentas de trabalho com aço
+não podem ser levadas para
+fora do local de trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -289,9 +289,9 @@ taken outside the workplace.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の原版』
 細かい模様が刻まれた
 鉄を作るための型。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Steel Plate -
-A mold for making steel with 
-fine patterns engraved on it.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Placa de Aço -
+Molde para fazer aço, com
+padrões delicados gravados.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -305,10 +305,10 @@ fine patterns engraved on it.</EnglishText>
       <JapaneseText>工場で変な事が起こるって言って
 まともに仕事をしないヤツがいるんだ。
 ビビってないで仕事しろってんだよな。</JapaneseText>
-      <EnglishText>There's a guy who won't do his job
-properly because he says that strange
-things keep happening at the factory.
-I told him to quit being a baby.</EnglishText>
+      <EnglishText>Tem um cara que não trabalha direito
+porque diz que coisas estranhas
+acontecem na fábrica. Falei pra
+ele parar de ser bebê.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -319,10 +319,10 @@ I told him to quit being a baby.</EnglishText>
       <JapaneseText>変わった事？　おとといから
 設計士のガップラがいなくなって、
 くだらない噂が広まってるぜ。</JapaneseText>
-      <EnglishText>Anything different? Well, two days
-ago our architect Gappler disappeared,
-and now there are absurd rumors
-going around.</EnglishText>
+      <EnglishText>Algo diferente? Bem, há dois dias
+nosso arquiteto Gappler sumiu,
+e agora circulam uns boatos
+absurdos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -333,9 +333,9 @@ going around.</EnglishText>
       <JapaneseText>しまいには溶鉱炉に落ちたガップラの
 怨念が工場で悪さをしてるって
 言い出すヤツがでる始末だ……</JapaneseText>
-      <EnglishText>I've heard that Gappler fell into the
-blast furnace and now his vengeful
-spirit is haunting the factory...</EnglishText>
+      <EnglishText>Ouvi dizer que Gappler caiu no
+alto-forno e agora o espírito
+vingativo dele assombra a fábrica...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -346,11 +346,11 @@ spirit is haunting the factory...</EnglishText>
       <JapaneseText>行方知れずのガップラの怨念が
 工場で悪さをしてるだとか言って……
 ビビってないで仕事しろってんだよな。</JapaneseText>
-      <EnglishText>They keep saying that after
-Gappler went missing, his ghost
-started haunting the factory...
-I tell 'em to stop being babies
-and get back to work.</EnglishText>
+      <EnglishText>Ficam dizendo que, depois que
+Gappler sumiu, o fantasma dele
+passou a assombrar a fábrica...
+Eu mando parar de frescura
+e voltar ao trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
@@ -361,11 +361,11 @@ and get back to work.</EnglishText>
       <JapaneseText>行方知れずのガップラの怨念が
 工場で悪さをしてるだとか言って……
 ビビってないで仕事しろってんだよな。</JapaneseText>
-      <EnglishText>They keep saying that after
-Gappler went missing, his ghost
-started haunting the factory...
-I tell 'em to stop being babies
-and get back to work.</EnglishText>
+      <EnglishText>Ficam dizendo que, depois que
+Gappler sumiu, o fantasma dele
+passou a assombrar a fábrica...
+Eu mando parar de frescura
+e voltar ao trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -376,10 +376,10 @@ and get back to work.</EnglishText>
       <JapaneseText>四、五日前にガップラに頼まれて、
 溶鉱炉から持って来た鉄を磨いて
 ブローチにしてやったのが最後だ。</JapaneseText>
-      <EnglishText>The last time I saw Gappler was four
-or five days ago when he asked me
-to burnish some iron he got from the
-blast furnace into a brooch.</EnglishText>
+      <EnglishText>A última vez que vi Gappler foi há
+quatro ou cinco dias, quando ele
+pediu pra transformar o ferro do
+alto-forno num broche polido.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
@@ -390,10 +390,9 @@ blast furnace into a brooch.</EnglishText>
       <JapaneseText>何度も持って来て磨き直しを
 頼まれたから、良く覚えてるぜ。
 お前も鉄があるなら、磨いてやるよ。</JapaneseText>
-      <EnglishText>I remember it well because he asked me
-to do that for him several times. If you
-bring me some iron, I can burnish it for
-you too.</EnglishText>
+      <EnglishText>Lembro bem porque ele me pediu isso
+várias vezes. Se me trouxer ferro,
+também posso polir pra você.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
@@ -404,9 +403,9 @@ you too.</EnglishText>
       <JapaneseText>四、五日前にガップラが
 溶鉱炉から持ってきた鉄を
 ブローチにしてやったぜ。</JapaneseText>
-      <EnglishText>Four or five days ago, Gappler had me
-make some iron he got from the blast
-furnace into a brooch.</EnglishText>
+      <EnglishText>Há quatro ou cinco dias, Gappler me
+mandou fazer um broche com ferro
+do alto-forno.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
@@ -416,8 +415,8 @@ furnace into a brooch.</EnglishText>
       <PointerOffset>3526</PointerOffset>
       <JapaneseText>これを磨いてくれって？
 おう、まかせとけ！</JapaneseText>
-      <EnglishText>You want me to burnish this for you?
-Sure thing, I'm on it!</EnglishText>
+      <EnglishText>Quer que eu dê um polimento nisso?
+Claro, deixa comigo!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -428,8 +427,8 @@ Sure thing, I'm on it!</EnglishText>
       <JapaneseText>ほらよ。
 ガップラに作ってやったブローチと、
 寸分たがわねえ仕上がりだぜ！</JapaneseText>
-      <EnglishText>Here you go. The finish for this brooch
-is just like the one I made for Gappler!</EnglishText>
+      <EnglishText>Aqui está. O acabamento deste broche
+ficou igual ao que fiz pro Gappler!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -439,8 +438,8 @@ is just like the one I made for Gappler!</EnglishText>
       <PointerOffset>3652</PointerOffset>
       <JapaneseText>磨いてほしい物があったら、
 いつでも言ってくれよ！</JapaneseText>
-      <EnglishText>If you have anything you want me
-to burnish, feel free to ask me!</EnglishText>
+      <EnglishText>Se tiver algo pra eu polir,
+fique à vontade pra pedir!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
@@ -451,9 +450,8 @@ to burnish, feel free to ask me!</EnglishText>
       <JapaneseText>傷ひとつ残さずに
 ピカピカに磨き上げて
 みせるぜ！</JapaneseText>
-      <EnglishText>I'll polish it up and make it
-sparkle without leaving behind
-a single scratch!</EnglishText>
+      <EnglishText>Vou deixar brilhando, sem
+nenhum arranhão!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -464,10 +462,10 @@ a single scratch!</EnglishText>
       <JapaneseText>この工場に恨みを持ったヤツの怨念が
 溶鉱炉に出るようになったんだって、
 昨日の夜に仲間から聞いたよ……</JapaneseText>
-      <EnglishText>Last night, one of my coworkers said that
-the blast furnace is haunted by the ghost
-of someone who holds a grudge against
-this factory.</EnglishText>
+      <EnglishText>Ontem à noite, um colega disse que
+o alto-forno é assombrado pelo fantasma
+de alguém que guarda rancor
+contra esta fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -478,9 +476,8 @@ this factory.</EnglishText>
       <JapaneseText>傷ひとつ残さずに
 ピカピカに磨き上げて
 みせるぜ！</JapaneseText>
-      <EnglishText>I'll polish it up and make it
-sparkle without leaving behind
-a single scratch!</EnglishText>
+      <EnglishText>Vou deixar brilhando, sem
+nenhum arranhão!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -493,9 +490,9 @@ a single scratch!</EnglishText>
       <PointerOffset>3144</PointerOffset>
       <JapaneseText>素人が勝手に機械をいじると
 大変な事になる。</JapaneseText>
-      <EnglishText>If an amateur were to tamper
-with the machinery without asking,
-then bad things would happen.</EnglishText>
+      <EnglishText>Se um amador mexer nas máquinas
+sem pedir, coisas ruins vão
+acontecer.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
@@ -506,9 +503,8 @@ then bad things would happen.</EnglishText>
       <JapaneseText>ぜーーーーーーったいに
 ……………………
 触るなよっっっっっ!!</JapaneseText>
-      <EnglishText>So under ABSOLUTELY NO
-CIRCUMSTANCES SHOULD
-YOU TOUCH IT!!!</EnglishText>
+      <EnglishText>Então, EM HIPÓTESE ALGUMA
+VOCÊ DEVE MEXER NISSO!!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
@@ -523,11 +519,9 @@ YOU TOUCH IT!!!</EnglishText>
       <JapaneseText>立てこもっている人たちが、
 部屋から出たくなるような
 何かを起こせば……</JapaneseText>
-      <EnglishText>They've barricaded themselves in
-there, but perhaps if something
-were to happen that would make
-them feel compelled to leave
-that room...</EnglishText>
+      <EnglishText>Eles se trancaram lá dentro, mas
+talvez, se algo acontecesse que os
+obrigasse a sair daquela sala...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
@@ -537,7 +531,7 @@ that room...</EnglishText>
       <PointerOffset>5576</PointerOffset>
       <VoiceId>370000be</VoiceId>
       <JapaneseText>あのレバーは……</JapaneseText>
-      <EnglishText>That lever...</EnglishText>
+      <EnglishText>Aquela alavanca...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
@@ -547,7 +541,7 @@ that room...</EnglishText>
       <PointerOffset>5637</PointerOffset>
       <VoiceId>370000bf</VoiceId>
       <JapaneseText>コラッ!!</JapaneseText>
-      <EnglishText>Hey!!</EnglishText>
+      <EnglishText>Ei!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -557,7 +551,7 @@ that room...</EnglishText>
       <PointerOffset>5695</PointerOffset>
       <VoiceId>370000c0</VoiceId>
       <JapaneseText>触るなよっ！</JapaneseText>
-      <EnglishText>Don't touch that!</EnglishText>
+      <EnglishText>Não toque nisso!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
@@ -569,10 +563,9 @@ that room...</EnglishText>
       <JapaneseText>速度調節できない素人が
 機械をいじったら、
 大変な事になるんだ！</JapaneseText>
-      <EnglishText>Someone without the proper training
-to control the speed of the machine
-shouldn't be operating it!
-Things could get really bad!</EnglishText>
+      <EnglishText>Quem não sabe controlar a
+velocidade da máquina não deve
+mexer nela! Pode ficar bem feio!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -583,8 +576,8 @@ Things could get really bad!</EnglishText>
       <VoiceId>370000c2</VoiceId>
       <JapaneseText>大変な事……？
 どうなるのですか？</JapaneseText>
-      <EnglishText>"Really bad?" How
-so, if I may ask?</EnglishText>
+      <EnglishText>"Bem feio?" Como assim,
+se me permite perguntar?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>42</Id>
@@ -596,9 +589,9 @@ so, if I may ask?</EnglishText>
       <JapaneseText>機械が熱くなって、
 工場の中が蒸し風呂みたいに
 なるんだ。</JapaneseText>
-      <EnglishText>The machine would overheat,
-and cause the entire factory
-to feel like a sauna.</EnglishText>
+      <EnglishText>A máquina superaquece e a
+fábrica inteira vira
+uma sauna.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -608,7 +601,7 @@ to feel like a sauna.</EnglishText>
       <PointerOffset>5852</PointerOffset>
       <VoiceId>370000c4</VoiceId>
       <JapaneseText>（これだわ……）</JapaneseText>
-      <EnglishText>(That could work.)</EnglishText>
+      <EnglishText>(Isso pode funcionar.)</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>44</Id>
@@ -622,9 +615,9 @@ to feel like a sauna.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>45</Id>
@@ -636,7 +629,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2831</PointerOffset>
       <JapaneseText>柵が閉まっている……</JapaneseText>
-      <EnglishText>The grating is shut...</EnglishText>
+      <EnglishText>A grade está fechada...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>46</Id>
@@ -645,7 +638,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2869</PointerOffset>
       <JapaneseText>柵が閉まってるよ。</JapaneseText>
-      <EnglishText>The grating is shut.</EnglishText>
+      <EnglishText>A grade está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>47</Id>
@@ -654,7 +647,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2907</PointerOffset>
       <JapaneseText>鉄柵が閉まっているな。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>48</Id>
@@ -663,7 +656,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2946</PointerOffset>
       <JapaneseText>鉄の柵が閉まってますね。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>49</Id>
@@ -672,7 +665,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2985</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているな。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>50</Id>
@@ -681,7 +674,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>3024</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているわ。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>51</Id>
@@ -690,7 +683,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>3064</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているわ……</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>52</Id>
@@ -699,7 +692,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>3075</PointerOffset>
       <JapaneseText>鉄の柵が閉まっている。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>53</Id>
@@ -714,10 +707,10 @@ No</EnglishText>
 動かしますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;There is a lever.
-Pull it?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;Tem uma alavanca.
+Puxar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>54</Id>
@@ -726,7 +719,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2528</PointerOffset>
       <JapaneseText>さわるんじゃない。</JapaneseText>
-      <EnglishText>Don't touch that!</EnglishText>
+      <EnglishText>Não toque nisso!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>55</Id>
@@ -735,7 +728,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>2684</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;レバーを倒しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;You pulled the lever.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;Você puxou a alavanca.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>

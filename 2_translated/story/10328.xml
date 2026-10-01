@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>485,639,779,919</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>159</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>156</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -62,9 +62,9 @@
 　持っていく　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Take the plate with you?
-Take it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Levar a placa com você?
+Levar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -73,7 +73,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>488</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を手に入れました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You took the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você pegou a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -85,9 +85,9 @@ Cancel</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -96,7 +96,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>642</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -106,8 +106,8 @@ Cancel</EnglishText>
       <PointerOffset>782</PointerOffset>
       <JapaneseText>原版は四つまでしか
 持つ事ができません。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You can only carry
-up to four plates.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você só pode carregar
+no máximo quatro placas.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -119,9 +119,9 @@ up to four plates.</EnglishText>
 　戻す　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Put back the plate?
-Return it
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Devolver a placa?
+Devolver
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -130,7 +130,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>922</PointerOffset>
       <JapaneseText>&lt;Green&gt;原版を戻しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You put back the plate.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você devolveu a placa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -141,10 +141,10 @@ Cancel</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の道具』
 製鉄用の道具につき
 持ち出し禁止。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Tools for Working Steel -
-Tools used for steel working
-are prohibited from being
-taken outside the workplace.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Ferramentas de Aço -
+Ferramentas de trabalho com aço
+não podem ser levadas para
+fora do local de trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -155,9 +155,9 @@ taken outside the workplace.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『製鉄用の原版』
 細かい模様が刻まれた
 鉄を作るための型。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Steel Plate -
-A mold for making steel with 
-fine patterns engraved on it.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Placa de Aço -
+Molde para fazer aço, com
+padrões delicados gravados.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -171,9 +171,9 @@ fine patterns engraved on it.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>

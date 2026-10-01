@@ -76,6 +76,14 @@
 | 2_translated/story/10314.xml | 2026-09-30 |
 | 2_translated/story/10319.xml | 2026-09-30 |
 | 2_translated/story/10320.xml | 2026-09-30 |
+| 2_translated/story/10321.xml | 2026-09-30 |
+| 2_translated/story/10322.xml | 2026-09-30 |
+| 2_translated/story/10323.xml | 2026-09-30 |
+| 2_translated/story/10324.xml | 2026-09-30 |
+| 2_translated/story/10325.xml | 2026-09-30 |
+| 2_translated/story/10326.xml | 2026-09-30 |
+| 2_translated/story/10327.xml | 2026-09-30 |
+| 2_translated/story/10328.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -203,4 +211,12 @@
 - 10313.xml, Id 8 ("<scale:180>Selena!!") e Id 11 ("...") mantidos como no inglês. Id 50: "you" para Claire traduzido no feminino ("foi levada").
 - 10314.xml, Id 33/37: "Lady Zilva" mantido (nome). 10320.xml: "Nakako ore" e "Gappler" mantidos em inglês (item/nome). "Boss" → "Chefe" (Id 8).
 - Decisões de revisão aplicadas (2026-09-30): (1) Sunnytown fica em inglês (já estava assim). (2) "Coo... Coo..." → "Zzz..." em 10266, 10267, 10269, 10300 e 10302 (5 falas). (3) Pratos/receitas em inglês: 10237 (título "Poplar's Special Milk Soup") e 10309 Id 5 (cardápio: Mussels and Scallop Cream Stew, Bread Rolls, Shark Steak, Chocolate Vine Dessert); isso resolve a dúvida do "Chocolate Vine". (4) "Hmph" → "Hunf" (6 ocorrências, em 10236, 10242, 10274, 10275, 10302, 10308) e "Tch" → "Tsc" (4 ocorrências, em 10236, 10270, 10271, 10282). Arquivos ainda não traduzidos seguem as mesmas regras. Dúvida: "torta de pêssego" (Poplar/Claire) segue em português por ser fala comum, não nome de item; conferir se deve ficar "Peach Pie". Validador após as decisões: 1 aviso INGLES em 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"); é falso positivo, pois o nome do prato fica em inglês por decisão. As falas "Tch!" de 10270 Id 20 e 10271 Id 19 agora são "Tsc!".
-- 10300.xml: textos da carruagem seguem o padrão de 10229 ("Cancel" → "Cancelar"). Id 9 reduzido a 1 linha ("Provavelmente... Fiquem alertas."). Ids 15/18: "Sis" → "Mana". "Zilva" e "Lady Zilva" mantidos (nome).
+- 10300.xml: textos da carruagem seguem o padrão de 10229 ("Cancel" → "Cancelar"). Id 9 reduzido a 1 linha ("Provavelmente... Fiquem alertas."). Ids 15/18: "Sis" → "Mana". "Zilva" e "Lady Zilva" mantidos (nome).- Revisão do relatorio_validacao.txt (2026-09-30, lote 10321–10328): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido (nome de prato fica em inglês). Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10321–10328 (2026-09-30): traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 3 problemas na 1ª rodada (TAMANHO em 10323 Id 14, 10327 Id 28 e o aviso INGLES de 10309), 1 na 2ª (só o falso positivo). 10325 Ids 16–18 ([VARIABLE]) mantidos.
+- 10321–10328, rótulos de falante: "Notice" → "Aviso", "Man" → "Homem", "Manager" → "Gerente", "Warden" (10324, quem conversa com Selena sobre a patrulha) → "Supervisor" (conferir). Nomes (Gappler, Selena) e "Select" mantidos. Texto "Iron Factory" → "Fábrica de Ferro" (glossário).
+- 10321–10328: "Boss" → "chefe" nas falas; "factory manager" → "gerente". "blast furnace" → "alto-forno"; "plate/negative plate" → "placa/placa negativa"; "indentation" → "entalhe"; "brooch" → "broche". "Human" (ヒト, não a raça) → "humano" minúsculo (10323 Ids 7, 14, 16). Conferir termos.
+- 10322–10328: textos de placas/levers/grades padronizados ("Você pegou a placa.", "A grade de ferro está fechada.", "Tem uma alavanca. Puxar?"). Título "Tools for Working Steel" → "Ferramentas de Aço" e "Steel Plate" → "Placa de Aço".
+- 10323.xml, Id 4 e Id 31: "Agh...!" → "Argh...!" e "Uooohh!" → "Uaaaah!" (interjeições adaptadas). Id 9 de 10321: itens do menu (linhas que começavam com espaço no inglês) ficaram sem o espaço inicial, por causa do validador.
+- 10323.xml, Id 33: "SHUT UP!" → "CALA A BOCA!" (código `<scale:180>` preservado). Id 14: frase de Selena reorganizada em 4 linhas para caber com o código `<Yellow>`.
+- 10326.xml, Ids 26–31: "burnish" tratado como "polir/polimento" (serviço do operário que transforma ferro em broche). Id 55 tem SpeakerId -1 ([VARIABLE]); texto "Não toque nisso!" traduzido normalmente.
+- 10327.xml, Ids 27/36: Claire (SpeakerId 1) fala formal ("peço desculpas de todo o coração"). Ids 11/15: Selena e o Gerente falam entrecortado (calor); pontuação do inglês preservada.

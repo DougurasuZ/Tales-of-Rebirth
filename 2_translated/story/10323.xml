@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>6790,6970,7113,7259,7310,8128,8172,8993</PointerOffset>
       <JapaneseText>工場長</JapaneseText>
-      <EnglishText>Manager</EnglishText>
+      <EnglishText>Gerente</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>6595,8093,8093,8093,8093,8093,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029,5029</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>416</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>413</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -109,8 +109,8 @@
       <VoiceId>27000028</VoiceId>
       <JapaneseText>こら！　誰が休んでいいと
 言った！　働け!!</JapaneseText>
-      <EnglishText>Hey! Who said you could take
-a break?! Get back to work!</EnglishText>
+      <EnglishText>Ei! Quem disse que podia parar
+pra descansar?! Volte ao trabalho!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -120,7 +120,7 @@ a break?! Get back to work!</EnglishText>
       <PointerOffset>6815</PointerOffset>
       <VoiceId>27000029</VoiceId>
       <JapaneseText>ひぃっ……!!</JapaneseText>
-      <EnglishText>Agh...!</EnglishText>
+      <EnglishText>Argh...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -130,7 +130,7 @@ a break?! Get back to work!</EnglishText>
       <PointerOffset>6934</PointerOffset>
       <VoiceId>2700002a</VoiceId>
       <JapaneseText>なにやってんだ、工場長!?</JapaneseText>
-      <EnglishText>Boss, what are you doing?!</EnglishText>
+      <EnglishText>Chefe, o que está fazendo?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -142,8 +142,8 @@ a break?! Get back to work!</EnglishText>
       <JapaneseText>おお、&lt;Tytree&gt;。
 見てのとおり、怠け者のガジュマを
 罰しておったところだよ。</JapaneseText>
-      <EnglishText>Ah, &lt;Tytree&gt;. I'm punishing this
-lazy Gajuma, as you can see.</EnglishText>
+      <EnglishText>Ah, &lt;Tytree&gt;. Estou punindo este
+Gajuma preguiçoso, como pode ver.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -155,9 +155,9 @@ lazy Gajuma, as you can see.</EnglishText>
       <JapaneseText>そういう事じゃなくて！
 ムチ打って&lt;Yellow&gt;ヒト&lt;White&gt;を働かせるなんて、
 いいと思ってんのかよ！</JapaneseText>
-      <EnglishText>That's not what I meant! You seriously
-think it's okay to force a &lt;Yellow&gt;Human&lt;White&gt; being
-to work by whipping them?!</EnglishText>
+      <EnglishText>Não é isso! Você acha mesmo certo
+forçar um &lt;Yellow&gt;humano&lt;White&gt; a trabalhar
+à base de chicote?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -169,9 +169,9 @@ to work by whipping them?!</EnglishText>
       <JapaneseText>突然、何を言い出すんだね。
 私たちはガジュマに労働の場を
 与えてやっているんだろう？</JapaneseText>
-      <EnglishText>What's gotten into you all of a
-sudden? Aren't we supposed to
-be putting these Gajuma to work?</EnglishText>
+      <EnglishText>O que deu em você de repente?
+Não devíamos pôr esses Gajuma
+pra trabalhar?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -181,7 +181,7 @@ be putting these Gajuma to work?</EnglishText>
       <PointerOffset>7182</PointerOffset>
       <VoiceId>2700002e</VoiceId>
       <JapaneseText>？？？</JapaneseText>
-      <EnglishText>Eh???</EnglishText>
+      <EnglishText>Hã???</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -192,9 +192,9 @@ be putting these Gajuma to work?</EnglishText>
       <VoiceId>2700002f</VoiceId>
       <JapaneseText>こいつら、身体だけは
 丈夫にできているからな。</JapaneseText>
-      <EnglishText>Bodily strength is about the
-only thing they have going
-for them, after all.</EnglishText>
+      <EnglishText>Força física é praticamente a
+única coisa que eles têm
+a seu favor, afinal.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -206,11 +206,11 @@ for them, after all.</EnglishText>
       <JapaneseText>知性の低いガジュマの連中には
 我らヒューマのため、しっかりと
 働いて、社会に貢献してもらわんと。</JapaneseText>
-      <EnglishText>We have to make these
-intellectually challenged
-Gajuma work hard for us
-Huma so that they can
-contribute to society.</EnglishText>
+      <EnglishText>Temos que fazer esses Gajuma,
+intelectualmente limitados,
+trabalharem duro por nós, Huma,
+pra que contribuam com a
+sociedade.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -223,10 +223,10 @@ contribute to society.</EnglishText>
 ヒューマは頭を使い、
 ガジュマは身体を使う。
 当然の事じゃないの。</JapaneseText>
-      <EnglishText>It is as he says. Huma use
-their brains, and Gajuma use
-their brawn. It's the natural
-order of things.</EnglishText>
+      <EnglishText>É como ele diz. Huma usam o
+cérebro, e Gajuma usam a
+força bruta. É a ordem natural
+das coisas.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -237,8 +237,8 @@ order of things.</EnglishText>
       <VoiceId>27000032</VoiceId>
       <JapaneseText>本気で言ってんのかよ、姉貴!!
 これは差別じゃないか!!</JapaneseText>
-      <EnglishText>You can't be serious, sis!
-That's discrimination!</EnglishText>
+      <EnglishText>Fala sério, mana!
+Isso é discriminação!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -251,10 +251,10 @@ That's discrimination!</EnglishText>
 動物と&lt;Yellow&gt;ヒト&lt;White&gt;が違うように、
 ヒューマとガジュマにも
 住み分けが必要なの。</JapaneseText>
-      <EnglishText>No, it's differentiation. Just
-as animals are different from
-&lt;Yellow&gt;Humans&lt;White&gt;, Gajuma need to be
-considered separate from Huma.</EnglishText>
+      <EnglishText>Não, é diferenciação. Assim como
+os animais diferem dos
+&lt;Yellow&gt;humanos&lt;White&gt;, os Gajuma
+devem ser vistos à parte dos Huma.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -266,8 +266,8 @@ considered separate from Huma.</EnglishText>
       <JapaneseText>やめてくれ、姉貴!!
 いつからそんなふうに
 なっちまったんだ!!</JapaneseText>
-      <EnglishText>Cut it out, sis! Since when
-did you think like that?!</EnglishText>
+      <EnglishText>Para com isso, mana! Desde
+quando você pensa assim?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -278,8 +278,8 @@ did you think like that?!</EnglishText>
       <VoiceId>27000035</VoiceId>
       <JapaneseText>ヒューマとガジュマは
 同じ&lt;Yellow&gt;ヒト&lt;White&gt;じゃないか!!</JapaneseText>
-      <EnglishText>Huma or Gajuma, we're all
-&lt;Yellow&gt;Human&lt;White&gt; beings, aren't we?</EnglishText>
+      <EnglishText>Huma ou Gajuma, somos todos
+seres &lt;Yellow&gt;humanos&lt;White&gt;, não é?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -290,10 +290,9 @@ did you think like that?!</EnglishText>
       <VoiceId>27000036</VoiceId>
       <JapaneseText>本気でそんな事を言ってるの？
 本当に同じなの……？</JapaneseText>
-      <EnglishText>Do you really believe the words
-coming out of your mouth?
-Do you really think that they
-are the same...?</EnglishText>
+      <EnglishText>Você acredita mesmo no que diz?
+Acha mesmo que eles
+são iguais...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -313,7 +312,7 @@ are the same...?</EnglishText>
       <PointerOffset>7924</PointerOffset>
       <VoiceId>27000041</VoiceId>
       <JapaneseText>また、おれは……</JapaneseText>
-      <EnglishText>Here again...</EnglishText>
+      <EnglishText>De novo isso...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -323,7 +322,7 @@ are the same...?</EnglishText>
       <PointerOffset>8038</PointerOffset>
       <VoiceId>27000042</VoiceId>
       <JapaneseText>……工場長！　やめてくれ！</JapaneseText>
-      <EnglishText>...Stop it, Boss!</EnglishText>
+      <EnglishText>...Pare com isso, chefe!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -336,10 +335,10 @@ are the same...?</EnglishText>
 俺たちはこの工場のためを思って、
 効率のいい作業のやり方を
 提案しただけじゃないか!!</JapaneseText>
-      <EnglishText>Why are you doing this!? We
-were only suggesting a way to
-make our work more efficient
-for the benefit of the factory!</EnglishText>
+      <EnglishText>Por que está fazendo isso?! Só
+sugerimos um jeito de deixar o
+trabalho mais eficiente, em
+benefício da fábrica!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -352,10 +351,9 @@ for the benefit of the factory!</EnglishText>
 しなくていいのだよ。
 我々ヒューマ以上の考えなど
 ガジュマに出るはずがない。</JapaneseText>
-      <EnglishText>Gajuma have no business proposing
-anything. You couldn't possibly
-come up with a better idea
-than a Huma.</EnglishText>
+      <EnglishText>Gajuma não têm o que propor.
+Vocês jamais teriam uma ideia
+melhor que a de um Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -367,9 +365,8 @@ than a Huma.</EnglishText>
       <JapaneseText>俺たちガジュマだって
 ヒューマと同じように考えたり
 何かを作ったりする事はできる!!</JapaneseText>
-      <EnglishText>We Gajuma are just as capable
-of thinking and creating things
-as Huma are!</EnglishText>
+      <EnglishText>Nós, Gajuma, somos tão capazes de
+pensar e criar quanto os Huma!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -381,9 +378,9 @@ as Huma are!</EnglishText>
       <JapaneseText>それがムダだと言うのだ。
 そんな事に意味はない。
 黙って働いておればよい！</JapaneseText>
-      <EnglishText>You're wasting your breath spouting
-off that nonsense. Now, shut up
-and get back to work!</EnglishText>
+      <EnglishText>Está perdendo tempo com essa
+bobagem. Agora, calem a boca
+e voltem ao trabalho!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -396,11 +393,10 @@ and get back to work!</EnglishText>
 わからなくなったのかしら？
 だったら、叩いて教え込むしか
 ないわね。おやりなさい！</JapaneseText>
-      <EnglishText>Perhaps they no longer understand
-what we're saying? If that's the
-case, then giving them a beating
-is the only way we can hammer it
-into them. Give them what's coming!</EnglishText>
+      <EnglishText>Talvez eles não entendam mais
+o que dizemos? Se for assim, só
+com uma surra vão aprender.
+Dêem o que eles merecem!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -410,7 +406,7 @@ into them. Give them what's coming!</EnglishText>
       <PointerOffset>8303</PointerOffset>
       <VoiceId>27000048</VoiceId>
       <JapaneseText>やめろ!!</JapaneseText>
-      <EnglishText>Stop!</EnglishText>
+      <EnglishText>Parem!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -420,7 +416,7 @@ into them. Give them what's coming!</EnglishText>
       <PointerOffset>8569</PointerOffset>
       <VoiceId>27000049</VoiceId>
       <JapaneseText>何をするの、&lt;Tytree&gt;!!</JapaneseText>
-      <EnglishText>What are you doing, &lt;Tytree&gt;?!</EnglishText>
+      <EnglishText>O que está fazendo, &lt;Tytree&gt;?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
@@ -433,10 +429,10 @@ into them. Give them what's coming!</EnglishText>
 おれたちは同じ街に住む仲間じゃないか。
 どうして、こんなひどい事が
 できるんだよ!!</JapaneseText>
-      <EnglishText>Sis, Boss, you're both wrong! How
-can you justify doing these terrible
-things when we all live in this
-town together! We're neighbors!</EnglishText>
+      <EnglishText>Mana, chefe, vocês estão errados!
+Como podem justificar essas coisas
+terríveis se moramos na mesma
+cidade? Somos vizinhos!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
@@ -449,11 +445,10 @@ town together! We're neighbors!</EnglishText>
 ヒューマとガジュマが同じじゃないって。
 それを認めようとしないだけでしょ。
 キレイごとを言わないで!!</JapaneseText>
-      <EnglishText>You should know why.
-It's because Huma and Gajuma
-are different, yet you can't
-bring yourself to admit that.
-Stop trying to sugarcoat it!</EnglishText>
+      <EnglishText>Você sabe por quê. É porque
+Huma e Gajuma são diferentes,
+mas você não admite isso.
+Chega de tentar maquiar!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -466,10 +461,10 @@ Stop trying to sugarcoat it!</EnglishText>
 おれは本気でそう思ってるんだ!!
 こんなやり方は……こんな差別は
 おれがブチ壊してやる!!</JapaneseText>
-      <EnglishText>I'm not sugarcoating anything! It's
-what I truly believe! This system...
-All this discrimination... I'm going
-to tear it all down!</EnglishText>
+      <EnglishText>Não estou maquiando nada! É o que
+acredito de verdade! Esse sistema...
+Toda essa discriminação... Eu vou
+derrubar tudo isso!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -479,7 +474,7 @@ to tear it all down!</EnglishText>
       <PointerOffset>8750</PointerOffset>
       <VoiceId>2700004d</VoiceId>
       <JapaneseText>うおぉぉぉぉぉぉぉッ!!</JapaneseText>
-      <EnglishText>Uooohh!</EnglishText>
+      <EnglishText>Uaaaah!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
@@ -491,8 +486,8 @@ to tear it all down!</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……
 おまえ、自分が何をしているのか
 わかっているのか……？</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;! Do you have any
-idea what you're doing...?</EnglishText>
+      <EnglishText>&lt;Tytree&gt;! Você tem ideia do
+que está fazendo...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -502,7 +497,7 @@ idea what you're doing...?</EnglishText>
       <PointerOffset>9036</PointerOffset>
       <VoiceId>2700004f</VoiceId>
       <JapaneseText>&lt;scale:180&gt;うるせぇ!!&lt;scale:100&gt;</JapaneseText>
-      <EnglishText>&lt;scale:180&gt;SHUT UP!</EnglishText>
+      <EnglishText>&lt;scale:180&gt;CALA A BOCA!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
@@ -512,7 +507,7 @@ idea what you're doing...?</EnglishText>
       <PointerOffset>9058</PointerOffset>
       <VoiceId>27000050</VoiceId>
       <JapaneseText>助かった……</JapaneseText>
-      <EnglishText>You helped us...</EnglishText>
+      <EnglishText>Você nos ajudou...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -523,8 +518,8 @@ idea what you're doing...?</EnglishText>
       <VoiceId>27000051</VoiceId>
       <JapaneseText>あんたたちはもう自由だ。
 早くここから逃げろ。</JapaneseText>
-      <EnglishText>You're free now. Hurry up
-and get out of here.</EnglishText>
+      <EnglishText>Vocês estão livres. Rápido,
+saiam daqui.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
@@ -535,7 +530,7 @@ and get out of here.</EnglishText>
       <VoiceId>27000052</VoiceId>
       <JapaneseText>……ああ、そうするさ。
 ありがとうよ……</JapaneseText>
-      <EnglishText>Right, we will. Thanks...</EnglishText>
+      <EnglishText>Certo, vamos sair. Obrigado...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
@@ -548,11 +543,10 @@ and get out of here.</EnglishText>
 ガジュマとヒューマは違う！
 それを、思い知らせてやるぜ!!
 楽しみにしてな!!</JapaneseText>
-      <EnglishText>Boss...you're right! Gajuma
-and Huma are different, and
-we'll make sure that you
-understand that. You'd better
-watch your back!</EnglishText>
+      <EnglishText>Chefe... você tem razão! Gajuma
+e Huma são diferentes, e vamos
+fazer você entender isso.
+É bom ficar de olho!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
@@ -563,8 +557,8 @@ watch your back!</EnglishText>
       <VoiceId>27000054</VoiceId>
       <JapaneseText>おい……ちょっと待て！
 何を……どういう事だ!?</JapaneseText>
-      <EnglishText>Hey... Hold on! What are you...
-What are you talking about?!</EnglishText>
+      <EnglishText>Ei... Espera! O que vocês...
+Do que estão falando?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>38</Id>
@@ -577,8 +571,8 @@ What are you talking about?!</EnglishText>
       <PointerOffset>5071</PointerOffset>
       <JapaneseText>新入りの野郎、昨日から
 サボってやがるんだ。</JapaneseText>
-      <EnglishText>The new guy hasn't shown
-up to work since yesterday.</EnglishText>
+      <EnglishText>O novato não aparece pra
+trabalhar desde ontem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -589,10 +583,9 @@ up to work since yesterday.</EnglishText>
       <JapaneseText>設計士のガップラもおとといから
 工場にきてないしよ……
 まったく、困ったもんだぜ。</JapaneseText>
-      <EnglishText>Our architect, Gappler, hasn't been
-to the factory since the day
-before yesterday... Man, things
-aren't going well around here...</EnglishText>
+      <EnglishText>Nosso arquiteto, Gappler, não vem
+à fábrica desde anteontem... Puxa,
+as coisas não andam bem por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
@@ -602,8 +595,8 @@ aren't going well around here...</EnglishText>
       <PointerOffset>5146</PointerOffset>
       <JapaneseText>変わった事かい？
 そりゃあ、新人の野郎だよ。</JapaneseText>
-      <EnglishText>Anything odd lately? Well,
-there's that new hire.</EnglishText>
+      <EnglishText>Algo estranho ultimamente? Bem,
+tem aquele novato.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
@@ -614,9 +607,9 @@ there's that new hire.</EnglishText>
       <JapaneseText>怖くて仕事ができないとか
 わけのわからん理由で
 仕事をサボリやがって……</JapaneseText>
-      <EnglishText>He's either too scared to work,
-or is skipping work for reasons
-that I don't understand...</EnglishText>
+      <EnglishText>Ou ele tem medo de trabalhar,
+ou está matando serviço por
+motivos que não entendo...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
@@ -626,9 +619,9 @@ that I don't understand...</EnglishText>
       <PointerOffset>5204</PointerOffset>
       <JapaneseText>新人の野郎、わけのわからん理由で
 仕事をサボリやがって……</JapaneseText>
-      <EnglishText>The new guy's been skipping
-work for reasons that I don't
-understand...</EnglishText>
+      <EnglishText>O novato anda faltando ao
+trabalho por motivos que
+eu não entendo...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
@@ -638,9 +631,9 @@ understand...</EnglishText>
       <PointerOffset>5240</PointerOffset>
       <JapaneseText>新人の野郎、わけのわからん理由で
 仕事をサボリやがって……</JapaneseText>
-      <EnglishText>The new guy's been skipping
-work for reasons that I don't
-understand...</EnglishText>
+      <EnglishText>O novato anda faltando ao
+trabalho por motivos que
+eu não entendo...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -651,9 +644,9 @@ understand...</EnglishText>
       <JapaneseText>あのくぼみは工場を修理する時に、
 設計士のガップラってヤツが、
 どうしてもって、作らせたんだ。</JapaneseText>
-      <EnglishText>While the factory was under repairs,
-Gappler, our architect, had me make
-those indentations for some reason.</EnglishText>
+      <EnglishText>Na reforma da fábrica, Gappler,
+nosso arquiteto, me mandou fazer
+esses entalhes por algum motivo.</EnglishText>
       <Notes>indentations</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>45</Id>
@@ -664,8 +657,8 @@ those indentations for some reason.</EnglishText>
       <JapaneseText>ガップラさんが、
 くぼみを作らせた理由は
 わかりませんか？</JapaneseText>
-      <EnglishText>Do you know why Gappler
-had those indentations made?</EnglishText>
+      <EnglishText>Sabe por que Gappler mandou
+fazer esses entalhes?</EnglishText>
       <Notes>indentations </Notes>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
@@ -676,9 +669,9 @@ had those indentations made?</EnglishText>
       <JapaneseText>さあな……本人に直接聞ければ
 一発なんだけど、おとといくらいから
 行方知れずなんだよ。</JapaneseText>
-      <EnglishText>Beats me... If I could I'd just go
-and ask him, but he's been missing
-since around two days ago.</EnglishText>
+      <EnglishText>Não faço ideia... Se pudesse, iria
+perguntar a ele, mas ele sumiu
+desde uns dois dias atrás.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>47</Id>
@@ -689,8 +682,8 @@ since around two days ago.</EnglishText>
       <JapaneseText>このくぼみは
 ガップラが作らせたと言うが、
 一体何のために……</JapaneseText>
-      <EnglishText>He said that Gappler had this
-indentation made, but why...</EnglishText>
+      <EnglishText>Ele disse que Gappler mandou
+fazer esse entalhe, mas por quê...</EnglishText>
       <Notes>indentation</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>48</Id>
@@ -701,9 +694,9 @@ indentation made, but why...</EnglishText>
       <JapaneseText>それを尋ねようにも、
 おとといからガップラさんの姿を
 見かけないって言いますし……</JapaneseText>
-      <EnglishText>Even if we were to ask,
-Gappler hasn't been seen
-in the past two days...</EnglishText>
+      <EnglishText>Mesmo que perguntássemos,
+Gappler não é visto
+há dois dias...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
@@ -713,8 +706,8 @@ in the past two days...</EnglishText>
       <PointerOffset>6248</PointerOffset>
       <JapaneseText>すすり泣きが聞こえ始めたのも
 おとといだったよな……</JapaneseText>
-      <EnglishText>It was two days ago that people
-first started hearing that sobbing...</EnglishText>
+      <EnglishText>Foi há dois dias que começaram
+a ouvir aquele choro...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
@@ -725,9 +718,9 @@ first started hearing that sobbing...</EnglishText>
       <JapaneseText>と、とにかく！
 あのくぼみのことが気になりますね。
 他の人にも聞いてみませんか？</JapaneseText>
-      <EnglishText>A-Anyway! I'm curious about that
-indentation. Perhaps we should go
-ask some of the others about it?</EnglishText>
+      <EnglishText>E-Enfim! Estou curiosa com esse
+entalhe. Será que devemos
+perguntar aos outros sobre ele?</EnglishText>
       <Notes>indentation</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
@@ -736,7 +729,7 @@ ask some of the others about it?</EnglishText>
     <Entry>
       <PointerOffset>6347</PointerOffset>
       <JapaneseText>そうだな。</JapaneseText>
-      <EnglishText>Sounds like a plan.</EnglishText>
+      <EnglishText>Boa ideia.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>52</Id>
@@ -746,9 +739,9 @@ ask some of the others about it?</EnglishText>
       <PointerOffset>5304</PointerOffset>
       <JapaneseText>くぼみのことが知りたいんなら
 他のヤツに聞いてみるんだな。</JapaneseText>
-      <EnglishText>If you want to hear about
-that indentation, you'll have
-to ask someone else.</EnglishText>
+      <EnglishText>Se quer saber desse entalhe,
+vai ter que perguntar a
+outra pessoa.</EnglishText>
       <Notes>indentation</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
@@ -758,8 +751,8 @@ to ask someone else.</EnglishText>
       <PointerOffset>5381</PointerOffset>
       <JapaneseText>新入りの野郎、昨日から
 サボってやがるんだ。</JapaneseText>
-      <EnglishText>The new guy hasn't shown
-up to work since yesterday.</EnglishText>
+      <EnglishText>O novato não aparece pra
+trabalhar desde ontem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>54</Id>
@@ -770,10 +763,9 @@ up to work since yesterday.</EnglishText>
       <JapaneseText>設計士のガップラもおとといから
 工場にきてないしよ……
 まったく、困ったもんだぜ。</JapaneseText>
-      <EnglishText>Our architect, Gappler, hasn't been
-to the factory since the day
-before yesterday... Man, things
-aren't going well around here...</EnglishText>
+      <EnglishText>Nosso arquiteto, Gappler, não vem
+à fábrica desde anteontem... Puxa,
+as coisas não andam bem por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>55</Id>
@@ -783,8 +775,8 @@ aren't going well around here...</EnglishText>
       <PointerOffset>5439</PointerOffset>
       <JapaneseText>ゴタゴタもかたづいたことだし、
 まじめに働くとするか！</JapaneseText>
-      <EnglishText>Now that that's all settled,
-it's time to get back to work!</EnglishText>
+      <EnglishText>Agora que tudo se resolveu,
+hora de voltar ao trabalho!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
@@ -794,8 +786,8 @@ it's time to get back to work!</EnglishText>
       <PointerOffset>5464</PointerOffset>
       <JapaneseText>新入りの野郎、昨日から
 サボってやがるんだ。</JapaneseText>
-      <EnglishText>The new guy hasn't shown
-up to work since yesterday.</EnglishText>
+      <EnglishText>O novato não aparece pra
+trabalhar desde ontem.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
@@ -806,10 +798,9 @@ up to work since yesterday.</EnglishText>
       <JapaneseText>設計士のガップラもおとといから
 工場にきてないしよ……
 まったく、困ったもんだぜ。</JapaneseText>
-      <EnglishText>Our architect, Gappler, hasn't been
-to the factory since the day
-before yesterday... Man, things
-aren't going well around here...</EnglishText>
+      <EnglishText>Nosso arquiteto, Gappler, não vem
+à fábrica desde anteontem... Puxa,
+as coisas não andam bem por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>58</Id>
@@ -819,9 +810,9 @@ aren't going well around here...</EnglishText>
       <PointerOffset>5517</PointerOffset>
       <JapaneseText>やっぱり体を動かして
 まじめに働くのが一番だぜ！</JapaneseText>
-      <EnglishText>It's best to keep your
-body moving by staying
-hard at work!</EnglishText>
+      <EnglishText>O melhor é manter o corpo
+em movimento, trabalhando
+duro!</EnglishText>
       <Notes>After all at the end maybe?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>59</Id>
@@ -835,9 +826,9 @@ hard at work!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>60</Id>
@@ -849,7 +840,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1439</PointerOffset>
       <JapaneseText>柵が閉まっている……</JapaneseText>
-      <EnglishText>The grating is shut...</EnglishText>
+      <EnglishText>A grade está fechada...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
@@ -858,7 +849,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1477</PointerOffset>
       <JapaneseText>柵が閉まってるよ。</JapaneseText>
-      <EnglishText>The grating is shut.</EnglishText>
+      <EnglishText>A grade está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>62</Id>
@@ -867,7 +858,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1515</PointerOffset>
       <JapaneseText>鉄柵が閉まっているな。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>63</Id>
@@ -876,7 +867,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1554</PointerOffset>
       <JapaneseText>鉄の柵が閉まってますね。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
@@ -885,7 +876,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1593</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているな。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
@@ -894,7 +885,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1632</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているわ。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
@@ -903,7 +894,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1672</PointerOffset>
       <JapaneseText>鉄の柵が閉まっているわ……</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
@@ -912,7 +903,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1683</PointerOffset>
       <JapaneseText>鉄の柵が閉まっている。</JapaneseText>
-      <EnglishText>The iron grating is shut.</EnglishText>
+      <EnglishText>A grade de ferro está fechada.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -924,7 +915,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>1971</PointerOffset>
       <JapaneseText>この壁のくぼみは……</JapaneseText>
-      <EnglishText>This indentation in the wall...</EnglishText>
+      <EnglishText>Este entalhe na parede...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>69</Id>
@@ -934,8 +925,8 @@ No</EnglishText>
       <PointerOffset>2018</PointerOffset>
       <JapaneseText>ただの装飾という感じでは
 なさそうですね。</JapaneseText>
-      <EnglishText>It doesn't seem to be
-just for decoration.</EnglishText>
+      <EnglishText>Não parece ser só
+para decoração.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -945,9 +936,8 @@ just for decoration.</EnglishText>
       <PointerOffset>2066</PointerOffset>
       <JapaneseText>怪しいな……ちょうど何か
 はめ込めそうな形だぜ。</JapaneseText>
-      <EnglishText>It's pretty suspicious... Looks
-like we might be able to fit
-something in there.</EnglishText>
+      <EnglishText>É bem suspeito... Parece que dá
+pra encaixar algo ali.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>71</Id>
@@ -958,8 +948,8 @@ something in there.</EnglishText>
       <JapaneseText>このくぼみは
 ガップラが作らせたと言うが、
 一体何のために……</JapaneseText>
-      <EnglishText>He said that Gappler had
-it made, but why...?</EnglishText>
+      <EnglishText>Ele disse que Gappler mandou
+fazer, mas por quê...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>72</Id>
@@ -970,9 +960,9 @@ it made, but why...?</EnglishText>
       <JapaneseText>それを尋ねようにも、
 おとといからガップラさんの姿を
 見かけないって言いますし……</JapaneseText>
-      <EnglishText>Even if we were to ask,
-Gappler hasn't been seen
-in the past two days...</EnglishText>
+      <EnglishText>Mesmo que perguntássemos,
+Gappler não é visto
+há dois dias...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>73</Id>
@@ -982,9 +972,9 @@ in the past two days...</EnglishText>
       <PointerOffset>2437</PointerOffset>
       <JapaneseText>すすり泣きが聞こえ始めたのも
 おとといだったよな……</JapaneseText>
-      <EnglishText>It was two days ago
-that people first started
-hearing that sobbing...</EnglishText>
+      <EnglishText>Foi há dois dias que
+começaram a ouvir
+aquele choro...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>74</Id>
@@ -995,9 +985,9 @@ hearing that sobbing...</EnglishText>
       <JapaneseText>と、とにかく！
 あのくぼみのことが気になりますね。
 他の人にも聞いてみませんか？</JapaneseText>
-      <EnglishText>A-Anyway! I'm curious about that
-indentation. Perhaps we should go
-ask some of the others about it?</EnglishText>
+      <EnglishText>E-Enfim! Estou curiosa com esse
+entalhe. Será que devemos
+perguntar aos outros sobre ele?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>75</Id>
@@ -1006,7 +996,7 @@ ask some of the others about it?</EnglishText>
     <Entry>
       <PointerOffset>2498</PointerOffset>
       <JapaneseText>そうだな。</JapaneseText>
-      <EnglishText>Sounds like a plan.</EnglishText>
+      <EnglishText>Boa ideia.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
@@ -1016,9 +1006,9 @@ ask some of the others about it?</EnglishText>
       <PointerOffset>2843</PointerOffset>
       <JapaneseText>ガップラさんが作った壁のくぼみと
 同じ形のブローチ……</JapaneseText>
-      <EnglishText>A brooch made by Gappler
-that shares the same shape
-as the indentation...</EnglishText>
+      <EnglishText>Um broche feito por Gappler,
+com o mesmo formato
+do entalhe...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>77</Id>
@@ -1028,8 +1018,8 @@ as the indentation...</EnglishText>
       <PointerOffset>2891</PointerOffset>
       <JapaneseText>製鉄工場の修復とは、全然
 関係ない事ばかりだな……</JapaneseText>
-      <EnglishText>It has nothing to do with the
-reconstruction of the factory...</EnglishText>
+      <EnglishText>Não tem nada a ver com a
+reconstrução da fábrica...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>78</Id>
@@ -1040,9 +1030,9 @@ reconstruction of the factory...</EnglishText>
       <JapaneseText>それにガップラは、この溶鉱炉に
 向かうところを目撃された後から、
 消息がわからなくなっている。</JapaneseText>
-      <EnglishText>And Gappler has been missing
-after last being seen heading
-towards the blast furnace.</EnglishText>
+      <EnglishText>E Gappler sumiu depois de ser
+visto indo em direção ao
+alto-forno.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>79</Id>
@@ -1053,10 +1043,9 @@ towards the blast furnace.</EnglishText>
       <JapaneseText>おまけにココですすり泣くような声や
 物音を聞いたって騒ぎまであるし
 まったく、ワケわかんねーよ。</JapaneseText>
-      <EnglishText>What's more, there's been that
-whole scare over hearing sobbing
-and voices around here... Man, I
-can't figure it out at all.</EnglishText>
+      <EnglishText>Além disso, tem esse alvoroço de
+choro e vozes por aqui... Puxa, eu
+não entendo nada.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>80</Id>
@@ -1066,8 +1055,8 @@ can't figure it out at all.</EnglishText>
       <PointerOffset>3068</PointerOffset>
       <JapaneseText>ま、まずは、このくぼみの秘密を
 突き止めるのが先決ですね！</JapaneseText>
-      <EnglishText>W-Well, first things first, we need to
-uncover the secrets of this indentation!</EnglishText>
+      <EnglishText>B-Bem, primeiro de tudo, temos que
+desvendar os segredos deste entalhe!</EnglishText>
       <Notes>indentation</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>81</Id>
@@ -1078,8 +1067,8 @@ uncover the secrets of this indentation!</EnglishText>
       <JapaneseText>ああ、そうすれば
 この怪事件の真相が
 見えるかもしれないな。</JapaneseText>
-      <EnglishText>Yeah, then maybe we can get
-to the bottom of all this.</EnglishText>
+      <EnglishText>É. Assim talvez cheguemos
+ao fundo disso.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>82</Id>
@@ -1089,8 +1078,8 @@ to the bottom of all this.</EnglishText>
       <PointerOffset>3196</PointerOffset>
       <JapaneseText>ひょっとして、おまえたち、
 何かわかったのか？</JapaneseText>
-      <EnglishText>You guys wouldn't have happened
-to figure anything out, have you?</EnglishText>
+      <EnglishText>Será que vocês descobriram
+alguma coisa?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>83</Id>
@@ -1101,9 +1090,9 @@ to figure anything out, have you?</EnglishText>
       <JapaneseText>……どうだろうな。
 俺たちもガップラと同じ事をすれば
 答えはでるはずだ……</JapaneseText>
-      <EnglishText>...I wonder. Perhaps if we
-follow in Gappler's footsteps,
-we might have our answer....</EnglishText>
+      <EnglishText>...Quem sabe. Talvez, seguindo
+os passos de Gappler,
+encontremos a resposta....</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>84</Id>
@@ -1112,7 +1101,7 @@ we might have our answer....</EnglishText>
     <Entry>
       <PointerOffset>3258</PointerOffset>
       <JapaneseText>行くぞ、アニー。</JapaneseText>
-      <EnglishText>Let's go, &lt;Annie&gt;.</EnglishText>
+      <EnglishText>Vamos, &lt;Annie&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>85</Id>
@@ -1121,7 +1110,7 @@ we might have our answer....</EnglishText>
     <Entry>
       <PointerOffset>3295</PointerOffset>
       <JapaneseText>はい。</JapaneseText>
-      <EnglishText>Yes, let's.</EnglishText>
+      <EnglishText>Sim, vamos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>86</Id>
@@ -1132,9 +1121,9 @@ we might have our answer....</EnglishText>
       <JapaneseText>おい、&lt;Veigue&gt;、&lt;Annie&gt;！
 何がわかったのか
 教えてくれよぉー。</JapaneseText>
-      <EnglishText>Hey, &lt;Veigue&gt;, &lt;Annie&gt;!
-What'd you figure out?
-C'mon, let me in on it!</EnglishText>
+      <EnglishText>Ei, &lt;Veigue&gt;, &lt;Annie&gt;!
+O que vocês descobriram?
+Vai, me conta!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>87</Id>
@@ -1143,8 +1132,8 @@ C'mon, let me in on it!</EnglishText>
     <Entry>
       <PointerOffset>4056</PointerOffset>
       <JapaneseText>これで事の真相がわかるはずだ。</JapaneseText>
-      <EnglishText>Now we should be able to
-get to the bottom of things.</EnglishText>
+      <EnglishText>Agora devemos conseguir
+chegar ao fundo disso.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>88</Id>
@@ -1153,8 +1142,8 @@ get to the bottom of things.</EnglishText>
     <Entry>
       <PointerOffset>4130</PointerOffset>
       <JapaneseText>アニー、ひょっとして怖いのか？</JapaneseText>
-      <EnglishText>&lt;Annie&gt;, don't tell
-me you're scared?</EnglishText>
+      <EnglishText>&lt;Annie&gt;, não me diga
+que está com medo?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>89</Id>
@@ -1164,8 +1153,8 @@ me you're scared?</EnglishText>
       <PointerOffset>4205</PointerOffset>
       <JapaneseText>そ、そんなことありません！
 ちょっと緊張してるだけです……</JapaneseText>
-      <EnglishText>N-No, of course not!
-I'm just a little nervous...</EnglishText>
+      <EnglishText>N-Não, claro que não!
+Só estou um pouco nervosa...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>90</Id>
@@ -1177,9 +1166,9 @@ I'm just a little nervous...</EnglishText>
 　はめる　
 　はめない　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Insert the brooch into the indentation?
-Insert
-Don't insert</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;Encaixar o broche no entalhe?
+Encaixar
+Não encaixar</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>91</Id>
@@ -1189,7 +1178,7 @@ Don't insert</EnglishText>
       <PointerOffset>4772</PointerOffset>
       <JapaneseText>うおっ！
 壁が動きやがった。</JapaneseText>
-      <EnglishText>Whoa! The wall moved.</EnglishText>
+      <EnglishText>Uau! A parede se mexeu.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>92</Id>
@@ -1198,7 +1187,7 @@ Don't insert</EnglishText>
     <Entry>
       <PointerOffset>4809</PointerOffset>
       <JapaneseText>……いくぞ。</JapaneseText>
-      <EnglishText>...Let's go.</EnglishText>
+      <EnglishText>...Vamos.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>93</Id>
@@ -1207,7 +1196,7 @@ Don't insert</EnglishText>
     <Entry>
       <PointerOffset>4840</PointerOffset>
       <JapaneseText>おう！</JapaneseText>
-      <EnglishText>Yeah!</EnglishText>
+      <EnglishText>É!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>94</Id>
@@ -1216,7 +1205,7 @@ Don't insert</EnglishText>
     <Entry>
       <PointerOffset>4866</PointerOffset>
       <JapaneseText>……はい。</JapaneseText>
-      <EnglishText>...All right.</EnglishText>
+      <EnglishText>...Certo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>95</Id>
@@ -1227,10 +1216,10 @@ Don't insert</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『壁のくぼみ』
 何かをかたどったような形をした
 くぼみがある。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Indentation in the Wall -
-There is an indentation in
-the wall that seems to be
-in the shape of something.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Entalhe na Parede -
+Há um entalhe na parede
+que parece ter o formato
+de alguma coisa.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>96</Id>

@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>198</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>195</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -67,8 +67,8 @@
     <Entry>
       <PointerOffset>863</PointerOffset>
       <JapaneseText>やっぱりヘンだぜ……</JapaneseText>
-      <EnglishText>Yep, there's something
-strange going on...</EnglishText>
+      <EnglishText>É, tem alguma coisa estranha
+rolando por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -79,9 +79,9 @@ strange going on...</EnglishText>
       <JapaneseText>これだけ大勢の人が
 異変を感じている以上、
 気のせいとは言えないな。</JapaneseText>
-      <EnglishText>So many people have noted weird
-things going on, and they can't
-all be imagining it.</EnglishText>
+      <EnglishText>Tanta gente notou coisas
+estranhas. Não pode ser tudo
+imaginação.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -91,8 +91,8 @@ all be imagining it.</EnglishText>
       <PointerOffset>953</PointerOffset>
       <JapaneseText>でも、声だったり物音だったり、
 一体、何が原因なんでしょう……</JapaneseText>
-      <EnglishText>But what on earth could be
-causing the noises or voices...?</EnglishText>
+      <EnglishText>Mas o que será que causa
+esses barulhos e vozes...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -103,9 +103,9 @@ causing the noises or voices...?</EnglishText>
       <JapaneseText>それはわからないが……
 みんなの話を聞いてみて
 ひとつ気になった事がある。</JapaneseText>
-      <EnglishText>I have no clue, but...when we were
-talking to everyone, there was
-something that stuck out to me...</EnglishText>
+      <EnglishText>Não sei, mas... conversando com
+eles, uma coisa me chamou
+a atenção...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -114,7 +114,7 @@ something that stuck out to me...</EnglishText>
     <Entry>
       <PointerOffset>1027</PointerOffset>
       <JapaneseText>一体、何だそりゃ？</JapaneseText>
-      <EnglishText>Which was?</EnglishText>
+      <EnglishText>Qual?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -123,7 +123,7 @@ something that stuck out to me...</EnglishText>
     <Entry>
       <PointerOffset>1062</PointerOffset>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText>That would be...</EnglishText>
+      <EnglishText>Seria...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -136,10 +136,10 @@ something that stuck out to me...</EnglishText>
 　怪しい場所　
 　仕事サボリの新入り　
 </JapaneseText>
-      <EnglishText> Kind Boss
- Someone with a grudge
- The suspicious location
- The new hire being a slacker</EnglishText>
+      <EnglishText>Gerente gentil
+Alguém com rancor
+O lugar suspeito
+O novato preguiçoso</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -149,9 +149,9 @@ something that stuck out to me...</EnglishText>
       <PointerOffset>1146</PointerOffset>
       <JapaneseText>優しい工場長……
 あの人の態度が妙な気が……</JapaneseText>
-      <EnglishText>The factory manager being kind...
-Something about that behavior 
-seems weird to me...</EnglishText>
+      <EnglishText>O gerente ser gentil...
+Algo nesse comportamento
+me parece estranho...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -162,9 +162,9 @@ seems weird to me...</EnglishText>
       <JapaneseText>そうか？　ああ見えても
 工場長は小心者だけど、
 悪い人じゃないんだぜ。</JapaneseText>
-      <EnglishText>You think so? He's a
-coward, but he's not a
-bad guy by any means.</EnglishText>
+      <EnglishText>Você acha? Ele é meio
+covarde, mas de jeito nenhum
+é má pessoa.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -175,8 +175,8 @@ bad guy by any means.</EnglishText>
       <JapaneseText>そうですよ。
 何も言わずに&lt;Tytree&gt;さんを
 雇ってくれる人なんですよ。</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s right. He hired &lt;Tytree&gt;
-without a fuss, after all.</EnglishText>
+      <EnglishText>&lt;Tytree&gt; tem razão. Ele contratou
+&lt;Tytree&gt; sem fazer caso, afinal.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -187,9 +187,9 @@ without a fuss, after all.</EnglishText>
       <JapaneseText>そうか……それもそうだな。
 他にも気になる事がある。
 それは……</JapaneseText>
-      <EnglishText>I see... I guess you're right.
-There's something else that
-was bothering me. Which was...</EnglishText>
+      <EnglishText>Entendo... Acho que tem razão.
+Outra coisa também me
+incomodava. Que é...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -200,9 +200,9 @@ was bothering me. Which was...</EnglishText>
       <JapaneseText>恨みを持った人物……
 工場の人たちが言っていた
 「怨念」……</JapaneseText>
-      <EnglishText>The person holding a grudge...
-The factory workers were talking
-about a "vengeful spirit"...</EnglishText>
+      <EnglishText>A pessoa com rancor...
+Os operários falaram de um
+"espírito vingativo"...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -213,9 +213,9 @@ about a "vengeful spirit"...</EnglishText>
       <JapaneseText>な、なにを言ってるんですか！
 「怨念」だなんて、そんなもの
 小説の中だけの話ですよ！</JapaneseText>
-      <EnglishText>Wh-What are you insinuating?!
-Vengeful spirits only exist
-in fiction!</EnglishText>
+      <EnglishText>O-O que está insinuando?!
+Espíritos vingativos só
+existem em ficção!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -226,8 +226,8 @@ in fiction!</EnglishText>
       <JapaneseText>「怨念」があるかどうかは別として、
 この工場では、今までに一度も
 人が亡くなるような事故はなかった。</JapaneseText>
-      <EnglishText>Even if ghosts did exist, no
-one's ever died in this factory.</EnglishText>
+      <EnglishText>Mesmo que existam fantasmas,
+ninguém nunca morreu aqui.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -237,8 +237,8 @@ one's ever died in this factory.</EnglishText>
       <PointerOffset>1328</PointerOffset>
       <JapaneseText>工場を恨むような人も
 いるとは思えないぜ……</JapaneseText>
-      <EnglishText>So I don't think there's anyone holding
-a grudge towards this place.</EnglishText>
+      <EnglishText>Então não acho que alguém
+guarde rancor deste lugar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -248,8 +248,8 @@ a grudge towards this place.</EnglishText>
       <PointerOffset>1349</PointerOffset>
       <JapaneseText>そうか……だとしたら、
 他に気になるのは……</JapaneseText>
-      <EnglishText>I see... Well, there's something
-else that's piqued my interest...</EnglishText>
+      <EnglishText>Entendo... Então, tem outra coisa
+que me chamou a atenção...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -258,7 +258,7 @@ else that's piqued my interest...</EnglishText>
     <Entry>
       <PointerOffset>1383</PointerOffset>
       <JapaneseText>怪しい場所だ……</JapaneseText>
-      <EnglishText>The suspicious location...</EnglishText>
+      <EnglishText>O lugar suspeito...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -268,9 +268,9 @@ else that's piqued my interest...</EnglishText>
       <PointerOffset>1404</PointerOffset>
       <JapaneseText>奇妙な事が起きているのは、
 全て溶鉱炉のところなんだ。</JapaneseText>
-      <EnglishText>All of the strange occurrences
-have been happening around
-the blast furnace.</EnglishText>
+      <EnglishText>Todos os acontecimentos estranhos
+têm ocorrido perto do
+alto-forno.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -280,9 +280,8 @@ the blast furnace.</EnglishText>
       <PointerOffset>1426</PointerOffset>
       <JapaneseText>だとしたら、溶鉱炉の周りを
 調べてみるしかないですね！</JapaneseText>
-      <EnglishText>Well, if that's so, then we have
-no choice but to investigate
-the blast furnace.</EnglishText>
+      <EnglishText>Se é assim, não temos escolha
+senão investigar o alto-forno.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -292,8 +291,8 @@ the blast furnace.</EnglishText>
       <PointerOffset>1448</PointerOffset>
       <JapaneseText>ああ、そうだ！
 さっそく行って調べようぜ！</JapaneseText>
-      <EnglishText>Oh, you're right! Let's
-head on over there!</EnglishText>
+      <EnglishText>É isso aí! Vamos lá
+dar uma olhada!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -304,9 +303,9 @@ head on over there!</EnglishText>
       <JapaneseText>仕事サボリの新入り……
 あいつは……工場に恨みを
 持っていないのか？</JapaneseText>
-      <EnglishText>The new hire has been slacking
-off... Perhaps he's the one who
-has a grudge against the factory?</EnglishText>
+      <EnglishText>O novato anda matando serviço...
+Talvez seja ele quem tem
+rancor da fábrica?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -316,9 +315,9 @@ has a grudge against the factory?</EnglishText>
       <PointerOffset>1511</PointerOffset>
       <JapaneseText>みんな優しくしてたみたいだし、
 恨むなんて事はないはずだぜ。</JapaneseText>
-      <EnglishText>But everyone's been so nice
-to him, he doesn't have much
-of a reason to hold a grudge.</EnglishText>
+      <EnglishText>Mas todo mundo foi tão legal
+com ele, não tem muito motivo
+pra guardar rancor.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -328,8 +327,8 @@ of a reason to hold a grudge.</EnglishText>
       <PointerOffset>1532</PointerOffset>
       <JapaneseText>そうか……となると、
 気になるのは……</JapaneseText>
-      <EnglishText>I see... In that case, something
-else that caught my attention is...</EnglishText>
+      <EnglishText>Entendo... Nesse caso, outra coisa
+que me chamou a atenção é...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -339,8 +338,8 @@ else that caught my attention is...</EnglishText>
       <PointerOffset>1556</PointerOffset>
       <JapaneseText>そうか……となると、
 デフォルトだ……</JapaneseText>
-      <EnglishText>I see... In that case,
-the default is...</EnglishText>
+      <EnglishText>Entendo... Nesse caso,
+o padrão é...</EnglishText>
       <Notes>debug/ exception handler string is my assumption</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -354,9 +353,9 @@ the default is...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>

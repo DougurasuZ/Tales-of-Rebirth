@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>2159,2183,2208</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>224</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>221</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -75,7 +75,7 @@
     <Entry>
       <PointerOffset>1036</PointerOffset>
       <JapaneseText>ああっ!!　ガップラ!!</JapaneseText>
-      <EnglishText>Oh! It's Gappler!!</EnglishText>
+      <EnglishText>Ah! É o Gappler!!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -84,7 +84,7 @@
     <Entry>
       <PointerOffset>1058</PointerOffset>
       <JapaneseText>おお、&lt;Tytree&gt;くんか!!</JapaneseText>
-      <EnglishText>Well, if it isn't &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Ora, se não é o &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>1089</PointerOffset>
       <JapaneseText>この部屋は一体……</JapaneseText>
-      <EnglishText>What the heck is this room for...?</EnglishText>
+      <EnglishText>Pra que diabos serve essa sala...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -103,8 +103,8 @@
       <PointerOffset>1119</PointerOffset>
       <JapaneseText>ここは、貴重品の保管用に作った、
 私の秘密の部屋だ……</JapaneseText>
-      <EnglishText>This is my secret room that I
-made to store my valuables...</EnglishText>
+      <EnglishText>Essa é minha sala secreta, que
+fiz pra guardar meus valores...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -115,9 +115,9 @@ made to store my valuables...</EnglishText>
       <JapaneseText>あんたの？
 勝手に自分専用の部屋を
 作ったのかよ……</JapaneseText>
-      <EnglishText>Yours? You mean you built
-a room for yourself without
-permission...?</EnglishText>
+      <EnglishText>Sua? Quer dizer que construiu
+uma sala pra você sem
+permissão...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -128,9 +128,9 @@ permission...?</EnglishText>
       <JapaneseText>ここに閉じ込められた時には
 どうしようかと思ったが、
 おかげで助かったよ。</JapaneseText>
-      <EnglishText>I got worried when I was
-locked in this room, but
-thanks to you I'm saved.</EnglishText>
+      <EnglishText>Fiquei preocupado quando me
+trancaram nesta sala, mas
+graças a você estou salvo.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -139,7 +139,7 @@ thanks to you I'm saved.</EnglishText>
     <Entry>
       <PointerOffset>1194</PointerOffset>
       <JapaneseText>閉じ込められたって、誰に？</JapaneseText>
-      <EnglishText>You got locked in here? By who?</EnglishText>
+      <EnglishText>Você foi trancado aqui? Por quem?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -150,9 +150,9 @@ thanks to you I'm saved.</EnglishText>
       <JapaneseText>い、いや……三日前の夜、
 ここに隠しておいたヘソクリを
 取りにきた時に、間違って自分で……</JapaneseText>
-      <EnglishText>W-Well, three nights ago, I stopped
-by to pick up some money I had
-hidden in here, and I accidentally...</EnglishText>
+      <EnglishText>B-Bem, três noites atrás, passei
+aqui pra pegar um dinheiro que
+tinha escondido e, sem querer...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -163,9 +163,9 @@ hidden in here, and I accidentally...</EnglishText>
       <JapaneseText>……あっ、じゃあ……
 溶鉱炉の近くで聞こえた
 すすり泣くような声って……</JapaneseText>
-      <EnglishText>...Oh, then... That weeping
-that was heard near the
-blast furnace was...</EnglishText>
+      <EnglishText>...Ah, então... O choro que
+se ouvia perto do alto-forno
+era...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -176,9 +176,9 @@ blast furnace was...</EnglishText>
       <JapaneseText>ああ……夜が明けるまで
 助けを呼び続けたんだが、
 声がかすれてしまってね。</JapaneseText>
-      <EnglishText>Yeah... I called for help all
-night long, but my voice
-started getting hoarse.</EnglishText>
+      <EnglishText>É... Pedi socorro a noite
+inteira, mas minha voz foi
+ficando rouca.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -188,9 +188,8 @@ started getting hoarse.</EnglishText>
       <PointerOffset>1508</PointerOffset>
       <JapaneseText>良かったな、アニー。
 こわーいオバケじゃなくて。</JapaneseText>
-      <EnglishText>Isn't that lovely, &lt;Annie&gt;?
-There weren't any spooky
-ghosts after all.</EnglishText>
+      <EnglishText>Que alívio, &lt;Annie&gt;? Não tinha
+fantasma assustador nenhum.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -199,7 +198,7 @@ ghosts after all.</EnglishText>
     <Entry>
       <PointerOffset>1677</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;さんのイジワル！</JapaneseText>
-      <EnglishText>You're mean, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Que maldade, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -209,8 +208,8 @@ ghosts after all.</EnglishText>
       <PointerOffset>1973</PointerOffset>
       <JapaneseText>とにかく助かったよ。
 ありがとう。</JapaneseText>
-      <EnglishText>Anyway, thanks.
-I owe you one.</EnglishText>
+      <EnglishText>Enfim, obrigado.
+Fico te devendo uma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -251,10 +250,9 @@ I owe you one.</EnglishText>
       <JapaneseText>お礼といってはなんだが、
 箱にしまってあるへそくりを
 持っていってくれ。</JapaneseText>
-      <EnglishText>I don't know if this'll make up
-for the trouble, but you can
-take the money I have stashed
-away in that chest.</EnglishText>
+      <EnglishText>Não sei se compensa o trabalho,
+mas pode ficar com o dinheiro
+que guardei naquele baú.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -264,8 +262,8 @@ away in that chest.</EnglishText>
       <PointerOffset>476</PointerOffset>
       <JapaneseText>悪い事はできないもんだね。
 もう二度とこんなことはしないよ。</JapaneseText>
-      <EnglishText>I guess crime doesn't pay...
-I'm never doing this again.</EnglishText>
+      <EnglishText>Acho que o crime não compensa...
+Nunca mais faço isso.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -275,8 +273,8 @@ I'm never doing this again.</EnglishText>
       <PointerOffset>513</PointerOffset>
       <JapaneseText>ここは工場の貴重品を置く部屋として
 使うことになったよ。</JapaneseText>
-      <EnglishText>This room is used to story valuable
-items for use in the factory.</EnglishText>
+      <EnglishText>Esta sala guarda itens valiosos
+para uso na fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -290,9 +288,9 @@ items for use in the factory.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
