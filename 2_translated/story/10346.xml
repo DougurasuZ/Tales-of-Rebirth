@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>3143,3143,3143,3143,3143,3143,3143,3143,3143,3143,3143,3143,3143,2679,2679,2679,2679,2679,2679,2679,2679,2679,2679,2679,2679</PointerOffset>
       <JapaneseText>女の人</JapaneseText>
-      <EnglishText>Woman</EnglishText>
+      <EnglishText>Mulher</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>3245,3489,3632</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890,890</PointerOffset>
       <JapaneseText>道具屋「水の戯れ」</JapaneseText>
-      <EnglishText>Item Shop</EnglishText>
+      <EnglishText>Loja de Itens</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>618</PointerOffset>
       <JapaneseText>サニイタウン・道具屋</JapaneseText>
-      <EnglishText>Sunnytown - Item Shop</EnglishText>
+      <EnglishText>Sunnytown - Loja de Itens</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>699</PointerOffset>
       <JapaneseText>道具屋</JapaneseText>
-      <EnglishText>Item Shop</EnglishText>
+      <EnglishText>Loja de Itens</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -85,10 +85,10 @@
       <JapaneseText>旅行記ならデートの参考にしようと
 思って借りたわよ。
 わざわざ取りに来てくれたんだ。</JapaneseText>
-      <EnglishText>I borrowed the Travelogue because
-I wanted to find a good date spot.
-I'm surprised you came all this way
-to pick it up.</EnglishText>
+      <EnglishText>Peguei o Travelogue emprestado
+pra achar um bom lugar de encontro.
+Nossa, você veio até aqui
+só pra buscar?</EnglishText>
       <Notes>This is reference the book side quest that linked to a librairy i think this npc has the travelogue in their possession - pegi</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -99,8 +99,8 @@ to pick it up.</EnglishText>
       <JapaneseText>そういえば借りたのって
 ずいぶん前だったものね。
 すっかり忘れてたわ……はい！</JapaneseText>
-      <EnglishText>Come to think of it, I borrowed it
-so long ago that I forgot about it!</EnglishText>
+      <EnglishText>Pensando bem, peguei faz tanto
+tempo que acabei esquecendo!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -109,7 +109,7 @@ so long ago that I forgot about it!</EnglishText>
     <Entry>
       <PointerOffset>3248</PointerOffset>
       <JapaneseText>&lt;Green&gt;『旅行記』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Travelogue.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou o Travelogue.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -120,10 +120,10 @@ so long ago that I forgot about it!</EnglishText>
       <JapaneseText>恋愛小説が読みたいんだけど
 前に旅行記を借りたままだったから
 借りに行きずらくって……</JapaneseText>
-      <EnglishText>I'd love to read a romance novel,
-but I still have the Travelogue
-that I borrowed previously, so I
-can't go get one...</EnglishText>
+      <EnglishText>Queria ler um Romance Novel, mas
+ainda estou com o Travelogue que
+peguei antes, então não
+posso buscar outro...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -133,8 +133,8 @@ can't go get one...</EnglishText>
       <PointerOffset>3416</PointerOffset>
       <JapaneseText>恋愛小説を
 貸してくれるの？</JapaneseText>
-      <EnglishText>Would you lend me
-a Romance Novel?</EnglishText>
+      <EnglishText>Você poderia me emprestar
+um Romance Novel?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -144,8 +144,8 @@ a Romance Novel?</EnglishText>
       <PointerOffset>3439</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -154,7 +154,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>3492</PointerOffset>
       <JapaneseText>&lt;Green&gt;『恋愛小説』を貸し出しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You lent the
+      <EnglishText>&lt;Green&gt;Você emprestou o
 Romance Novel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -165,7 +165,7 @@ Romance Novel.</EnglishText>
       <PointerOffset>3514</PointerOffset>
       <JapaneseText>ありがとう。
 さっそく読ませてもらうわね。</JapaneseText>
-      <EnglishText>Thanks! I'll start reading right away.</EnglishText>
+      <EnglishText>Obrigada! Já vou começar a ler.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -174,7 +174,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>3561</PointerOffset>
       <JapaneseText>そう……違うの。</JapaneseText>
-      <EnglishText>Oh... That's not the right book.</EnglishText>
+      <EnglishText>Ah... Esse não é o livro certo.</EnglishText>
       <Notes>Need to check to see if it's when you give her the wrong book - pegi</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -183,7 +183,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>3611</PointerOffset>
       <JapaneseText>この本ありがとうね。</JapaneseText>
-      <EnglishText>Thank you for the book.</EnglishText>
+      <EnglishText>Obrigada pelo livro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -192,7 +192,7 @@ Romance Novel.</EnglishText>
     <Entry>
       <PointerOffset>3635</PointerOffset>
       <JapaneseText>&lt;Green&gt;『恋愛小説』を回収しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;You got back the Romance Novel.</EnglishText>
+      <EnglishText>&lt;Green&gt;Você recuperou o Romance Novel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -202,7 +202,7 @@ Romance Novel.</EnglishText>
       <PointerOffset>3657</PointerOffset>
       <JapaneseText>おかげで楽しい時間を
 過ごせたわ♪</JapaneseText>
-      <EnglishText>Thank you, I enjoyed it♪</EnglishText>
+      <EnglishText>Obrigada, eu gostei muito♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -212,8 +212,8 @@ Romance Novel.</EnglishText>
       <PointerOffset>3687</PointerOffset>
       <JapaneseText>ごめんなさい。
 まだ読み終わってないの。</JapaneseText>
-      <EnglishText>I'm sorry. I'm still not
-finished reading it yet.</EnglishText>
+      <EnglishText>Desculpe. Ainda não
+terminei de ler.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -224,9 +224,9 @@ finished reading it yet.</EnglishText>
       <JapaneseText>最近ちょっと落ち込んでたから、
 いい気分転換になったわ。
 ありがと♪</JapaneseText>
-      <EnglishText>I've been in low spirits lately,
-so this has been a nice change
-of pace. Thanks♪</EnglishText>
+      <EnglishText>Ando meio desanimada ultimamente,
+então foi uma boa mudança
+de ares. Obrigada♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -238,10 +238,10 @@ of pace. Thanks♪</EnglishText>
 このお店にいると、楽しくて
 自分の世界に入っちゃうのよね。
 </JapaneseText>
-      <EnglishText>What? Did I notice the ground
-shaking? Sorry, when I'm in this
-store, I have so much fun that
-I lose sight of everything.</EnglishText>
+      <EnglishText>O quê? Se notei o chão tremendo?
+Desculpe, quando estou nesta loja
+me divirto tanto que me
+esqueço de tudo.</EnglishText>
       <Notes>mabye tunnel vision instead of self-absorbed.
 Dragon</Notes>
       <SpeakerId>0</SpeakerId>
@@ -253,9 +253,9 @@ Dragon</Notes>
       <JapaneseText>ここのお店、好きなのよね。
 商品を見てるだけで
 楽しくなっちゃうわ。</JapaneseText>
-      <EnglishText>I like this shop a lot. I
-mostly just window-shop,
-but I enjoy coming here.</EnglishText>
+      <EnglishText>Gosto muito desta loja. Quase
+sempre só olho as vitrines,
+mas adoro vir aqui.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -266,9 +266,9 @@ but I enjoy coming here.</EnglishText>
       <JapaneseText>ウチの夫、ここはヒューマの店だから
 入りたくない、なんて言ってたけど、
 理解に苦しむわ。</JapaneseText>
-      <EnglishText>My husband says he doesn't like to
-come here because it's a Huma shop,
-but I just don't understand why.</EnglishText>
+      <EnglishText>Meu marido diz que não gosta de
+vir aqui porque é loja de Huma,
+mas eu não entendo por quê.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -281,8 +281,8 @@ but I just don't understand why.</EnglishText>
       <PointerOffset>2717</PointerOffset>
       <JapaneseText>ヒューマの女の子が
 さらわれた、ですって？</JapaneseText>
-      <EnglishText>So, you're telling me that Huma
-girls are being kidnapped?</EnglishText>
+      <EnglishText>Então estão sequestrando
+garotas Huma?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -292,8 +292,8 @@ girls are being kidnapped?</EnglishText>
       <PointerOffset>2739</PointerOffset>
       <JapaneseText>それは大変！
 ぜひ助けてあげてね！</JapaneseText>
-      <EnglishText>That's horrible! Please
-save them!</EnglishText>
+      <EnglishText>Que horror! Por favor,
+salvem elas!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -303,8 +303,8 @@ save them!</EnglishText>
       <PointerOffset>2789</PointerOffset>
       <JapaneseText>なんか外が大変な事に
 なってるみたいね？</JapaneseText>
-      <EnglishText>It looks like there's something
-horrible happening outside.</EnglishText>
+      <EnglishText>Parece que tem algo horrível
+acontecendo lá fora.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -314,8 +314,8 @@ horrible happening outside.</EnglishText>
       <PointerOffset>2811</PointerOffset>
       <JapaneseText>しばらく外には
 出ないほうがよさそうね。</JapaneseText>
-      <EnglishText>I think it's best to stay
-inside for the moment.</EnglishText>
+      <EnglishText>Acho melhor ficar
+aqui dentro por enquanto.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -325,8 +325,8 @@ inside for the moment.</EnglishText>
       <PointerOffset>2850</PointerOffset>
       <JapaneseText>うちに隠れるような
 ところはないけど？</JapaneseText>
-      <EnglishText>I don't think there are
-any places to hide here...</EnglishText>
+      <EnglishText>Acho que não tem nenhum
+lugar pra se esconder aqui...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -337,9 +337,9 @@ any places to hide here...</EnglishText>
       <JapaneseText>広場の方が騒がしいけど……
 何かお祭りでもやってるの？
 </JapaneseText>
-      <EnglishText>There's quite a commotion at
-the town square... Is there
-a festival going on?</EnglishText>
+      <EnglishText>Tem a maior confusão na
+praça da cidade... Será que
+tem um festival?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -349,7 +349,7 @@ a festival going on?</EnglishText>
       <PointerOffset>2911</PointerOffset>
       <JapaneseText>それともまた
 誰かが暴れてる……？</JapaneseText>
-      <EnglishText>Or is someone rampaging again?</EnglishText>
+      <EnglishText>Ou alguém tá em fúria de novo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -360,10 +360,9 @@ a festival going on?</EnglishText>
       <JapaneseText>お披露目の儀式って、
 記念品とか発売されるのかしら？
 </JapaneseText>
-      <EnglishText>I wonder if there will be
-any commemorative items
-on sale at Her Highness's
-inauguration ceremony?</EnglishText>
+      <EnglishText>Será que vão vender itens
+comemorativos na cerimônia
+de posse de Sua Alteza?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -374,8 +373,8 @@ inauguration ceremony?</EnglishText>
       <JapaneseText>もしそうなら、このお店にも
 仕入れてもらわなくちゃだわ♪
 </JapaneseText>
-      <EnglishText>If so, then I might have to stock
-up on some of them for this shop~</EnglishText>
+      <EnglishText>Se sim, talvez eu precise estocar
+alguns deles pra esta loja~</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -387,8 +386,8 @@ up on some of them for this shop~</EnglishText>
 ガジュマ向けの品は
 ないと思うけど……？
 </JapaneseText>
-      <EnglishText>I don't think there's anything
-here for you Gajuma...</EnglishText>
+      <EnglishText>Acho que não tem nada
+aqui pra vocês, Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -399,8 +398,8 @@ here for you Gajuma...</EnglishText>
       <JapaneseText>どうも！
 楽しいお店よね。
 </JapaneseText>
-      <EnglishText>Welcome! This is a
-fun store, isn't it?</EnglishText>
+      <EnglishText>Seja bem-vindo! Esta loja
+é divertida, né?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -411,11 +410,9 @@ fun store, isn't it?</EnglishText>
       <JapaneseText>時々、水に浸かった商品が
 混じってるから
 気をつけなくちゃ。</JapaneseText>
-      <EnglishText>There will be times when some
-waterlogged items get mixed in
-among the commodities, so I've
-got to be careful when sorting
-through them.</EnglishText>
+      <EnglishText>Às vezes itens encharcados se
+misturam com as mercadorias, então
+preciso ter cuidado ao separá-los.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -429,9 +426,9 @@ through them.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
@@ -444,8 +441,8 @@ No</EnglishText>
       <PointerOffset>939</PointerOffset>
       <JapaneseText>外が大変な事に
 なってるみたいだけど……</JapaneseText>
-      <EnglishText>It looks like something bad's
-happening outside, but...</EnglishText>
+      <EnglishText>Parece que algo ruim tá
+acontecendo lá fora, mas...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
@@ -456,8 +453,8 @@ happening outside, but...</EnglishText>
       <JapaneseText>営業をやめるわけには
 いかないわ……
 </JapaneseText>
-      <EnglishText>I can't just up and
-abandon my post...</EnglishText>
+      <EnglishText>Não posso simplesmente
+abandonar meu posto...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
@@ -468,9 +465,9 @@ abandon my post...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -481,8 +478,8 @@ Cancel</EnglishText>
       <JapaneseText>大変な事になってますけど
 また来てくださいね。
 </JapaneseText>
-      <EnglishText>I know it's really dangerous
-outside, but please come again!</EnglishText>
+      <EnglishText>Sei que lá fora tá perigoso,
+mas volte sempre, por favor!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -492,8 +489,8 @@ outside, but please come again!</EnglishText>
       <PointerOffset>2251</PointerOffset>
       <JapaneseText>私、あのお客さん見てて
 反省しました……</JapaneseText>
-      <EnglishText>When I look at that customer,
-I am reminded of something...</EnglishText>
+      <EnglishText>Quando olho pra aquela cliente,
+me lembro de uma coisa...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -504,9 +501,9 @@ I am reminded of something...</EnglishText>
       <JapaneseText>種族の事なんて、
 気にするような話じゃ
 ないんだって……</JapaneseText>
-      <EnglishText>That I shouldn't worry
-about something like
-our racial differences...</EnglishText>
+      <EnglishText>Que eu não deveria me
+preocupar com algo como
+nossas diferenças raciais...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>39</Id>
@@ -516,9 +513,9 @@ our racial differences...</EnglishText>
       <PointerOffset>2323</PointerOffset>
       <JapaneseText>怖くて外に出られないわ！
 今日の納品、ちゃんと届くかしら……</JapaneseText>
-      <EnglishText>I-I can't bring myself to go outside,
-I'm scared! I-I hope my delivery
-comes in on time...</EnglishText>
+      <EnglishText>N-Não consigo sair, tenho
+medo! E-Espero que minha
+entrega chegue a tempo...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
@@ -529,8 +526,8 @@ comes in on time...</EnglishText>
       <JapaneseText>すいません……
 私、話題にとぼしい
 ヒューマなんです……</JapaneseText>
-      <EnglishText>Sorry, I'm not really good at
-finding things to talk about...</EnglishText>
+      <EnglishText>Desculpe, não tenho muito jeito
+pra puxar assunto...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -540,9 +537,9 @@ finding things to talk about...</EnglishText>
       <PointerOffset>2412</PointerOffset>
       <JapaneseText>怖くて外に出られないわ！
 今日の納品、ちゃんと届くかしら……</JapaneseText>
-      <EnglishText>I-I can't bring myself to go outside,
-I'm scared! I-I hope my delivery
-comes in on time...</EnglishText>
+      <EnglishText>N-Não consigo sair, tenho
+medo! E-Espero que minha
+entrega chegue a tempo...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
@@ -552,8 +549,8 @@ comes in on time...</EnglishText>
       <PointerOffset>2462</PointerOffset>
       <JapaneseText>ガジュマって、なんとなく
 ずうずうしい気がしません？</JapaneseText>
-      <EnglishText>Don't you think that Gajuma
-are a little...brazen?</EnglishText>
+      <EnglishText>Você não acha que os Gajuma
+são meio... atrevidos?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -564,10 +561,10 @@ are a little...brazen?</EnglishText>
       <JapaneseText>モサッとしてるっていうか、
 お客さんだとしても、
 なんだかイヤなんですよね……</JapaneseText>
-      <EnglishText>If I were to describe it... Perhaps
-they're...unrefined? I can't really
-help but dislike them even
-if they're a customer.</EnglishText>
+      <EnglishText>Se eu fosse descrever... Talvez
+sejam... rudes? Não consigo
+deixar de não gostar deles,
+mesmo sendo clientes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -578,9 +575,9 @@ if they're a customer.</EnglishText>
       <JapaneseText>……そこにいるガジュマ、全然
 出ていってくれないんですよ……
 私がイヤな顔してるのに……</JapaneseText>
-      <EnglishText>That Gajuma over there...
-She's not leaving! I don't
-want her here!</EnglishText>
+      <EnglishText>Aquela Gajuma ali...
+Ela não vai embora! Eu não
+quero ela aqui!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>45</Id>
@@ -591,9 +588,9 @@ want her here!</EnglishText>
       <JapaneseText>今、ヒューマとガジュマが
 どうなってるのか知らないのかしら。
 まったくずうずうしい……</JapaneseText>
-      <EnglishText>How shameless! I wonder if she's
-totally oblivious to what's going
-on between Huma and Gajuma...</EnglishText>
+      <EnglishText>Que cara de pau! Será que ela
+ignora totalmente o que está
+acontecendo entre Huma e Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -603,8 +600,8 @@ on between Huma and Gajuma...</EnglishText>
       <PointerOffset>2606</PointerOffset>
       <JapaneseText>私、あのお客さん見てて
 反省しました……</JapaneseText>
-      <EnglishText>When I look at that customer,
-I am reminded of something...</EnglishText>
+      <EnglishText>Quando olho pra aquela cliente,
+me lembro de uma coisa...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -615,9 +612,9 @@ I am reminded of something...</EnglishText>
       <JapaneseText>種族の事なんて、
 気にするような話じゃ
 ないんだって……</JapaneseText>
-      <EnglishText>That I shouldn't worry
-about something like
-our racial differences...</EnglishText>
+      <EnglishText>Que eu não deveria me
+preocupar com algo como
+nossas diferenças raciais...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
@@ -628,9 +625,9 @@ our racial differences...</EnglishText>
       <JapaneseText>サニイタウンは観光地だから
 お土産品しかないって言う人も
 いますけど……ウチは違います！</JapaneseText>
-      <EnglishText>Some say that Sunnytown's a
-tourist attraction and only has
-souvenirs, but... I think not!</EnglishText>
+      <EnglishText>Dizem que Sunnytown é só um ponto
+turístico de lembrancinhas, mas...
+acho que não é bem assim!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>49</Id>
@@ -641,9 +638,9 @@ souvenirs, but... I think not!</EnglishText>
       <JapaneseText>買い物してるどころ
 じゃないですかね……
 </JapaneseText>
-      <EnglishText>You're not just here
-to window-shop are
-you...?</EnglishText>
+      <EnglishText>Você não está aqui só
+pra olhar vitrine,
+está...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -653,7 +650,7 @@ you...?</EnglishText>
       <PointerOffset>1192</PointerOffset>
       <JapaneseText>はい……なんですか？
 </JapaneseText>
-      <EnglishText>Yes, can I help you...?</EnglishText>
+      <EnglishText>Pois não, posso ajudar...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>51</Id>
@@ -664,9 +661,9 @@ you...?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>52</Id>
@@ -677,7 +674,7 @@ Cancel</EnglishText>
       <JapaneseText>……また来なくても
 いいですよ……
 </JapaneseText>
-      <EnglishText>It's okay if you don't come back...</EnglishText>
+      <EnglishText>Não tem problema se não voltar...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
@@ -688,8 +685,8 @@ Cancel</EnglishText>
       <JapaneseText>ひやかしなら……
 やめてください……
 </JapaneseText>
-      <EnglishText>Please stop if you're just
-window-shopping...</EnglishText>
+      <EnglishText>Por favor, não fique só
+olhando as vitrines...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
@@ -700,7 +697,7 @@ window-shopping...</EnglishText>
       <JapaneseText>いらっしゃいませ、
 ヒューマのお客様！
 </JapaneseText>
-      <EnglishText>Welcome, Huma customers!</EnglishText>
+      <EnglishText>Bem-vindos, clientes Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>55</Id>
@@ -711,9 +708,9 @@ window-shopping...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>56</Id>
@@ -723,8 +720,8 @@ Cancel</EnglishText>
       <PointerOffset>1452</PointerOffset>
       <JapaneseText>また来てくださいね、
 ヒューマのお客様！</JapaneseText>
-      <EnglishText>Please come back, 
-Huma customers!</EnglishText>
+      <EnglishText>Voltem sempre,
+clientes Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -734,8 +731,8 @@ Huma customers!</EnglishText>
       <PointerOffset>1516</PointerOffset>
       <JapaneseText>また来てくださいね、
 ヒューマのお客様！</JapaneseText>
-      <EnglishText>Please come back, 
-Huma customers!</EnglishText>
+      <EnglishText>Voltem sempre,
+clientes Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>58</Id>
@@ -746,8 +743,8 @@ Huma customers!</EnglishText>
       <JapaneseText>ね、ねえ、この音……
 津波なんかじゃないわよね!?
 </JapaneseText>
-      <EnglishText>H-Hey... This sound... This isn't
-from a tsunami, right...?</EnglishText>
+      <EnglishText>E-Ei... Esse barulho... Não é
+de um tsunami, né...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>59</Id>
@@ -758,8 +755,8 @@ from a tsunami, right...?</EnglishText>
       <JapaneseText>こ、この街は、
 津波だけはダメだって……
 </JapaneseText>
-      <EnglishText>This city wouldn't be able
-to handle a tsunami...</EnglishText>
+      <EnglishText>Esta cidade não aguentaria
+um tsunami...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>60</Id>
@@ -769,7 +766,7 @@ to handle a tsunami...</EnglishText>
       <PointerOffset>1695</PointerOffset>
       <JapaneseText>……はい、何ですか？
 </JapaneseText>
-      <EnglishText>Yes, how can I help you?</EnglishText>
+      <EnglishText>Pois não, como posso ajudar?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>61</Id>
@@ -780,9 +777,9 @@ to handle a tsunami...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>62</Id>
@@ -793,8 +790,8 @@ Cancel</EnglishText>
       <JapaneseText>そんなにウチの店で……
 買いたいですか……？
 </JapaneseText>
-      <EnglishText>Are you really sure you
-want to shop at my store?</EnglishText>
+      <EnglishText>Você tem certeza de que
+quer comprar na minha loja?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>63</Id>
@@ -805,8 +802,8 @@ want to shop at my store?</EnglishText>
       <JapaneseText>ヒューマのお客様、
 お待ちしてました！
 </JapaneseText>
-      <EnglishText>I've been waiting for you,
-Huma customers!</EnglishText>
+      <EnglishText>Estava esperando por vocês,
+clientes Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>64</Id>
@@ -817,9 +814,9 @@ Huma customers!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>65</Id>
@@ -829,8 +826,8 @@ Cancel</EnglishText>
       <PointerOffset>1933</PointerOffset>
       <JapaneseText>また来てくださいね。
 ヒューマのお客様！</JapaneseText>
-      <EnglishText>Please come back, 
-Huma customers!</EnglishText>
+      <EnglishText>Voltem sempre,
+clientes Huma!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>66</Id>
@@ -840,8 +837,8 @@ Huma customers!</EnglishText>
       <PointerOffset>2009</PointerOffset>
       <JapaneseText>いらっしゃいませ。
 何をお探しですか？</JapaneseText>
-      <EnglishText>Welcome! What are
-you looking for?</EnglishText>
+      <EnglishText>Bem-vindo! O que
+você procura?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>67</Id>
@@ -852,9 +849,9 @@ you looking for?</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;　道具を買う　
 　世間話をする　
 　やめる　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>68</Id>
@@ -863,7 +860,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>2090</PointerOffset>
       <JapaneseText>ありがとうございました。</JapaneseText>
-      <EnglishText>Thank you very much!</EnglishText>
+      <EnglishText>Muito obrigado!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>69</Id>
@@ -873,7 +870,7 @@ Cancel</EnglishText>
       <PointerOffset>2154</PointerOffset>
       <JapaneseText>また来てくださいね。
 </JapaneseText>
-      <EnglishText>Come back again!</EnglishText>
+      <EnglishText>Volte sempre!</EnglishText>
       <Notes>this one has a dupe that is different because of the context. -dragon</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>70</Id>
@@ -891,13 +888,13 @@ Cancel</EnglishText>
 ・ホーリィボトルは
 　ほーりぃ投げちゃイヤン。
 　　　「水の戯れ」店主より</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;     - Small Wisdoms of Life -
-* Eating Peach Gels not only restores
-  your health but also makes your skin
-  as pink as a peach!
-* Please don't hurl your Holy Bottles
-  into holes.
-　　　              - Playful Water's Store Owner.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;     - Pequenas Sabedorias da Vida -
+* Comer Peach Gels não só recupera
+sua saúde, mas também deixa a pele
+rosada como um pêssego!
+* Não jogue seus Holy Bottles em
+buracos, por favor.
+　　　              - Dono da Playful Water.</EnglishText>
       <Notes>dajare nonsense reeeee</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>

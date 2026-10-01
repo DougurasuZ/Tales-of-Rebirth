@@ -92,6 +92,14 @@
 | 2_translated/story/10338.xml | 2026-09-30 |
 | 2_translated/story/10339.xml | 2026-09-30 |
 | 2_translated/story/10340.xml | 2026-09-30 |
+| 2_translated/story/10341.xml | 2026-09-30 |
+| 2_translated/story/10342.xml | 2026-09-30 |
+| 2_translated/story/10343.xml | 2026-09-30 |
+| 2_translated/story/10344.xml | 2026-09-30 |
+| 2_translated/story/10345.xml | 2026-09-30 |
+| 2_translated/story/10346.xml | 2026-09-30 |
+| 2_translated/story/10347.xml | 2026-09-30 |
+| 2_translated/story/10348.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -239,3 +247,12 @@
 - 10338.xml, Ids 102/116 e 10340.xml: "Man" (humano) → "humanos"; "Military" → "Exército de Callegea" (10340 Ids 117/118) e "the army" → "o exército". Id 140/141 (10340) têm SpeakerId -1 ([VARIABLE]); texto traduzido normalmente.
 - 10339.xml: o dialeto caipira do menino ("ya", "hafta", "purty") foi adaptado para fala informal ("tô", "pra"), sem sotaque regional marcado.
 - 10340.xml, Id 150: "swimsuit contest" → "concurso de trajes de banho". Id 107: a Gajuma (Mulher) fala no feminino. Id 111: "Nunca sentiu discriminação" (evita gênero).
+- Revisão do relatorio_validacao.txt (2026-09-30, lote 10341–10348): único problema era o aviso INGLES de 10309 Id 5 ("and" em "Mussels and Scallop Cream Stew"), falso positivo já decidido. Os PENDENTE restantes são nomes, reticências ou interjeições; mantidos de propósito.
+- Lote 10341–10348 (2026-09-30): traduzido com script temporário na pasta de rascunho (fora do projeto). Arquivos 10349+ fora do lote. Validador rodado: 0 problemas novos (só o falso positivo de 10309). Na 1ª aplicação o script danificou os 8 arquivos (regex); foram restaurados a partir da cópia em inglês (referencia_ingles, idêntica ao original não traduzido) e reaplicados; XML conferido pelo validador.
+- 10341–10348, rótulos de falante: "Grocer" → "Dono da Mercearia", "Innkeeper" → "Pousadeiro", "Callegean Soldier" → "Soldado Callegeano" (recepção, como em 10275), "Woman" → "Mulher", "Boy" → "Menino", "Old Man" → "Velho", "Girl" → "Menina", "Item Shop" → "Loja de Itens", "Weapon Shop" → "Loja de Armas", "Armor and Accessories Shop" → "Loja de Armaduras e Acessórios". 10347: o arquivo se chama "Weapon Shop", mas o falante 0 é a loja de armaduras e acessórios; mantido como no inglês.
+- 10342.xml: o Pousadeiro/recepcionista tem o cacoete "totally" (traduzido como "super"). Id 4 ("Sneak a Bite") → "Beliscar um Pouco"; Ids 157/158 "Sunny Green Turtle" → "Tartaruga Verde Ensolarada" (nome de animal examinável). Ids 13/52: "your friend/sick person" mantido sem gênero.
+- 10343/10344: "Ottoman" → "Baú" (móvel que abre pra guardar bagagem); "Relief of a Turtle" → "Relevo de Tartaruga"; "Oceanview" (nome da pousada) mantido em inglês. 10343 Id 9: a assinatura perdeu o recuo (ESPACO) e virou "-Com amor, Alexander." (original "-Sincerely"). Nomes Slobodanka e Alexander mantidos.
+- 10344.xml: "Eyaah!", "Waah!", "Ugh...", "Hm?" e "..." mantidos como no inglês (interjeições). "Half" mantido (glossário). Id 17: "you're completely right, <Mao>" traduzido sem marca de gênero. Id 23: "você" genérico (fala de Annie para Tytree) traduzido como "você/seus pais".
+- 10346.xml: "Travelogue", "Romance Novel", "Peach Gels" e "Holy Bottles" mantidos em inglês (itens/livros). Id 71 ("Small Wisdoms of Life"): recuos das linhas foram removidos (ESPACO) e "Playful Water" (nome da loja) mantido em inglês: "- Dono da Playful Water.". Conferir se o nome da loja deve ser traduzido.
+- 10347.xml, Id 39: "Gem Synthesis" → "Síntese de Gemas" (termo de sistema), frase reescrita ("<Red>Síntese de Gemas<White> ganhou uma explicação no <Green>Battle Book<White>.") para caber na linha mantendo a ordem dos códigos. Id 64: "Tortoise" (guerreiro lendário) mantido como nome.
+- 10348.xml, Id 39: série de livros "Chalkman" mantida como nome; subtítulos traduzidos ("Virilidade", "Paixão", "Euforia", "Reviravolta"). O Menino e o Velho (Gajuma com penas) usam "Huma" sem artigo flexionado.

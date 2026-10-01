@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>2384</PointerOffset>
       <JapaneseText>女の人の声</JapaneseText>
-      <EnglishText>Woman's Voice</EnglishText>
+      <EnglishText>Voz de Mulher</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>2406</PointerOffset>
       <JapaneseText>男の人の声</JapaneseText>
-      <EnglishText>Man's Voice</EnglishText>
+      <EnglishText>Voz de Homem</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -104,7 +104,7 @@
     <Entry>
       <PointerOffset>436</PointerOffset>
       <JapaneseText>サニイタウン・宿屋・客室</JapaneseText>
-      <EnglishText>Sunnytown - Inn - Guest Room</EnglishText>
+      <EnglishText>Sunnytown - Pousada - Quarto</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -116,7 +116,7 @@
       <PointerOffset>1113</PointerOffset>
       <VoiceId>17000000</VoiceId>
       <JapaneseText>……どうだ、&lt;Annie&gt;？</JapaneseText>
-      <EnglishText>How is she, &lt;Annie&gt;?</EnglishText>
+      <EnglishText>Como ela está, &lt;Annie&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -129,10 +129,10 @@
 フォルスも安定してますし、
 しばらく安静にしていれば
 元の状態に戻るはずです。</JapaneseText>
-      <EnglishText>Her resilience is amazing. Her Force
-has stabilized too, so with some
-good rest she should be all better
-before long.</EnglishText>
+      <EnglishText>A resistência dela é incrível.
+O Force dela também estabilizou,
+então com um bom descanso ela
+logo estará totalmente recuperada.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -143,7 +143,7 @@ before long.</EnglishText>
       <VoiceId>17000002</VoiceId>
       <JapaneseText>そうか……
 良かった良かった！</JapaneseText>
-      <EnglishText>Really? Oh, thank goodness!</EnglishText>
+      <EnglishText>Sério? Ah, que alívio!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -153,8 +153,8 @@ before long.</EnglishText>
       <PointerOffset>1253</PointerOffset>
       <VoiceId>17000003</VoiceId>
       <JapaneseText>わたしたちはツイてましたね。</JapaneseText>
-      <EnglishText>That could have gone
-much worse for us.</EnglishText>
+      <EnglishText>Poderia ter sido muito
+pior para nós.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -176,9 +176,9 @@ much worse for us.</EnglishText>
       <JapaneseText>角を折った状態で
 ここまで強い力を持っているのに、
 もし角があったら……</JapaneseText>
-      <EnglishText>If she is this strong without
-her horns, just imagine if she
-still had them...</EnglishText>
+      <EnglishText>Se ela é tão forte sem os
+chifres, imagine se ainda
+os tivesse...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -190,9 +190,9 @@ still had them...</EnglishText>
       <JapaneseText>ハーフか……
 話には聞いていたが、
 実際に存在したとはな。</JapaneseText>
-      <EnglishText>A Half, hm... I had heard
-stories, but to think that
-any actually existed...</EnglishText>
+      <EnglishText>Um Half, hm... Eu tinha ouvido
+histórias, mas jamais imaginei
+que existissem de verdade...</EnglishText>
       <Notes>wouldn't 
 "A Half, hm... I had heard stories,
 but I didn't really believe they were
@@ -206,9 +206,8 @@ real until now." be more apt because of how the second part was written 実際�
       <VoiceId>17000007</VoiceId>
       <JapaneseText>そもそもガジュマとヒューマは
 結婚したりしないんでしょ？</JapaneseText>
-      <EnglishText>Gajuma and Huma typically don't
-get married or anything in the
-first place, right?</EnglishText>
+      <EnglishText>Gajuma e Huma nem costumam
+se casar um com o outro, né?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -220,10 +219,10 @@ first place, right?</EnglishText>
       <JapaneseText>いや……確かに、種族間婚は
 タブー視されているが、
 まれにそういう夫婦もいると聞く。</JapaneseText>
-      <EnglishText>No... It's true that mixed marriages
-are generally viewed as taboo, but 
-I have heard of such unions here
-and there.</EnglishText>
+      <EnglishText>Não... É verdade que casamentos
+mistos são vistos como tabu, mas
+já ouvi falar de uniões assim
+aqui e ali.</EnglishText>
       <Notes>too much "of"s</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -234,8 +233,8 @@ and there.</EnglishText>
       <VoiceId>17000009</VoiceId>
       <JapaneseText>そうなんだ……
 知らなかった……</JapaneseText>
-      <EnglishText>Really...? I didn't 
-know that...</EnglishText>
+      <EnglishText>Sério...? Eu não
+sabia disso...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -247,10 +246,10 @@ know that...</EnglishText>
       <JapaneseText>それにハーフは生まれにくい上に、
 子供のうちは身体が弱くて、
 病気にかかりやすいらしいの。</JapaneseText>
-      <EnglishText>Moreover, birth complications are common
-with Halfs, and their bodies also tend to
-be weak and easily prone to sickness
-during childhood.</EnglishText>
+      <EnglishText>Além disso, complicações no parto são
+comuns com Halfs, e o corpo deles
+costuma ser frágil e propenso a
+doenças durante a infância.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -261,8 +260,8 @@ during childhood.</EnglishText>
       <VoiceId>1700000b</VoiceId>
       <JapaneseText>じゃあ、&lt;Hilda&gt;って
 幸せな子なんだね。</JapaneseText>
-      <EnglishText>Then &lt;Hilda&gt; sure is a miracle
-child, isn't she?</EnglishText>
+      <EnglishText>Então a &lt;Hilda&gt; é mesmo uma
+criança milagrosa, né?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -272,7 +271,7 @@ child, isn't she?</EnglishText>
       <PointerOffset>1670</PointerOffset>
       <VoiceId>1700000c</VoiceId>
       <JapaneseText>幸せな子？</JapaneseText>
-      <EnglishText>A miracle child?</EnglishText>
+      <EnglishText>Uma criança milagrosa?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -285,10 +284,10 @@ child, isn't she?</EnglishText>
 大変なのに、&lt;Hilda&gt;は
 ここまで大きくなったんでしょ。
 これって、すごいコトじゃないの？</JapaneseText>
-      <EnglishText>Even if it was a struggle to make it
-from birth to adulthood, she made it
-through and grew to be pretty strong!
-That's amazing, don't you think?</EnglishText>
+      <EnglishText>Mesmo sendo difícil chegar do
+nascimento até a idade adulta, ela
+conseguiu e ficou bem forte!
+Isso é incrível, não acha?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -300,9 +299,9 @@ That's amazing, don't you think?</EnglishText>
       <JapaneseText>そうだよな……
 確かにそうだよ、&lt;Mao&gt;！
 おれも同感だぜ。</JapaneseText>
-      <EnglishText>Hey, that's right... You're
-completely right, &lt;Mao&gt;! I
-feel the same way.</EnglishText>
+      <EnglishText>Ei, é isso aí... Você acertou
+em cheio, &lt;Mao&gt;! Eu penso
+igual.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
@@ -314,9 +313,9 @@ feel the same way.</EnglishText>
       <JapaneseText>でも&lt;Hilda&gt;さんは、
 ハーフである事を隠そうとして
 角を折ったんですよね……</JapaneseText>
-      <EnglishText>But still, &lt;Hilda&gt; went as far
-as breaking her own horns
-just to hide her heritage...</EnglishText>
+      <EnglishText>Mas, ainda assim, &lt;Hilda&gt; chegou
+a quebrar os próprios chifres
+para esconder sua origem...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -337,7 +336,7 @@ just to hide her heritage...</EnglishText>
       <VoiceId>17000011</VoiceId>
       <JapaneseText>……た、確かにそうかも
 しれないけど……</JapaneseText>
-      <EnglishText>Th-That's true I guess, but...</EnglishText>
+      <EnglishText>É-É verdade, acho, mas...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -348,8 +347,8 @@ just to hide her heritage...</EnglishText>
       <VoiceId>17000012</VoiceId>
       <JapaneseText>&lt;Tytree&gt;さんは、
 ハーフに生まれたかったですか？</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;, would you want
-to be born as a Half?</EnglishText>
+      <EnglishText>&lt;Tytree&gt;, você gostaria de
+nascer como um Half?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -359,7 +358,7 @@ to be born as a Half?</EnglishText>
       <PointerOffset>2023</PointerOffset>
       <VoiceId>17000013</VoiceId>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText>Well, I mean...</EnglishText>
+      <EnglishText>Bom, quer dizer...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -372,11 +371,10 @@ to be born as a Half?</EnglishText>
 角と尻尾があるからヒューマでもない。
 唯一の肉親であるお父さんやお母さんすら、
 同じ種族じゃないんですよ……</JapaneseText>
-      <EnglishText>Even with horns and a tail, you aren't
-a Gajuma. And because of those horns
-and tail, you aren't a Huma either.
-Even your own flesh and blood parents
-aren't the same race as you...</EnglishText>
+      <EnglishText>Mesmo com chifres e cauda, você não
+é um Gajuma. E por causa deles,
+também não é um Huma. Nem seus
+próprios pais são da sua raça...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -389,10 +387,10 @@ aren't the same race as you...</EnglishText>
 身体に生んだ両親を恨みます。
 身体を変えられるなら、
 変えたいと思う。</JapaneseText>
-      <EnglishText>If it were me... I would resent my
-parents for giving birth to me, and
-if I could change myself, I think I
-would want to.</EnglishText>
+      <EnglishText>Se fosse eu... Eu teria rancor dos
+meus pais por me darem à luz, e
+se eu pudesse me mudar, acho
+que mudaria.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -404,9 +402,9 @@ would want to.</EnglishText>
       <JapaneseText>でもおれは、ヒューマとか
 ガジュマとかハーフとか、
 そんなの関係ないと思うぜ。</JapaneseText>
-      <EnglishText>Well I don't care if someone's
-a Huma, or a Gajuma, or a
-Half, or whatever!</EnglishText>
+      <EnglishText>Ah, eu não ligo se alguém é
+Huma, Gajuma, Half ou
+sei lá o quê!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -416,7 +414,7 @@ Half, or whatever!</EnglishText>
       <PointerOffset>2167</PointerOffset>
       <VoiceId>17000017</VoiceId>
       <JapaneseText>でも……</JapaneseText>
-      <EnglishText>Even so...</EnglishText>
+      <EnglishText>Mesmo assim...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -429,11 +427,10 @@ Half, or whatever!</EnglishText>
 できっこないんだから、
 ありのままの自分で生きるしか
 ないって思うんだけどな。</JapaneseText>
-      <EnglishText>Besides, it's not like you can change
-your body, anyway. You've got no
-choice but to make the best of your
-life with the one you've got, you
-know?</EnglishText>
+      <EnglishText>Além disso, não dá pra mudar o
+corpo mesmo. Você não tem escolha,
+só aproveitar a vida com o que
+tem, sabe?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -443,7 +440,7 @@ know?</EnglishText>
       <PointerOffset>2235</PointerOffset>
       <VoiceId>17000019</VoiceId>
       <JapaneseText>それはそうですけど……</JapaneseText>
-      <EnglishText>You're right, but still...</EnglishText>
+      <EnglishText>Você tem razão, mas ainda assim...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -474,8 +471,8 @@ know?</EnglishText>
       <VoiceId>1700001c</VoiceId>
       <JapaneseText>フォルス!?　近いよ!!
 ……外！</JapaneseText>
-      <EnglishText>Force!? It's close!
-Right outside!</EnglishText>
+      <EnglishText>Force!? Tá perto!
+Bem aqui fora!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
@@ -485,7 +482,7 @@ Right outside!</EnglishText>
       <PointerOffset>2694</PointerOffset>
       <VoiceId>1700001d</VoiceId>
       <JapaneseText>行くぞ！</JapaneseText>
-      <EnglishText>Let's go!</EnglishText>
+      <EnglishText>Vamos!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -499,9 +496,9 @@ Right outside!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>
@@ -523,8 +520,8 @@ No</EnglishText>
       <PointerOffset>2874</PointerOffset>
       <JapaneseText>……そっとしておいた
 ほうがよさそうだな。</JapaneseText>
-      <EnglishText>I think it's best if
-we leave her alone.</EnglishText>
+      <EnglishText>Acho melhor deixarmos
+ela em paz.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -533,7 +530,7 @@ we leave her alone.</EnglishText>
     <Entry>
       <PointerOffset>2910</PointerOffset>
       <JapaneseText>休ませてあげなきゃネ。</JapaneseText>
-      <EnglishText>We should let her rest.</EnglishText>
+      <EnglishText>A gente deve deixar ela descansar.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -543,8 +540,8 @@ we leave her alone.</EnglishText>
       <PointerOffset>2946</PointerOffset>
       <JapaneseText>今は、そっとしておく
 べきだな……</JapaneseText>
-      <EnglishText>She should be left
-alone for now.</EnglishText>
+      <EnglishText>É melhor deixá-la
+em paz por ora.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
@@ -564,7 +561,7 @@ alone for now.</EnglishText>
       <PointerOffset>3020</PointerOffset>
       <JapaneseText>早くよくなれよ。
 </JapaneseText>
-      <EnglishText>Get well soon!</EnglishText>
+      <EnglishText>Melhore logo!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
@@ -579,9 +576,9 @@ alone for now.</EnglishText>
 宿屋の受付にいる若者の
 カメコレクションのひとつ。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Relief of a Turtle -
-Yet another one of the young
-receptionist's collection.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Relevo de Tartaruga -
+Mais uma peça da coleção
+da jovem recepcionista.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>40</Id>
@@ -596,10 +593,10 @@ receptionist's collection.</EnglishText>
 開くと中に物が収納できるように
 なっている。
 今は寝間着が入っている。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-You can open and store
-luggage in this. Currently,
-there are pajamas inside.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Dá pra abrir e guardar
+bagagem aqui. No momento,
+tem pijamas dentro.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>41</Id>
@@ -611,10 +608,10 @@ there are pajamas inside.</EnglishText>
 寝間着が入っている。
 &lt;Veigue&gt;が着るには
 少し小さそうだ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside.
-They're a little too
-small to fit &lt;Veigue&gt;.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro.
+São um pouco pequenos
+demais pra &lt;Veigue&gt; vestir.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>42</Id>
@@ -625,10 +622,10 @@ small to fit &lt;Veigue&gt;.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『椅子』
 寝間着が入っている。
 &lt;Mao&gt;が着るには少し大きい。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside.
-They're a little too
-big to fit &lt;Mao&gt;.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro.
+São um pouco grandes
+demais pra &lt;Mao&gt; vestir.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>43</Id>
@@ -639,9 +636,9 @@ big to fit &lt;Mao&gt;.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『椅子』
 寝間着が入っている。
 &lt;Eugene&gt;が着たらかなりきつそうだ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside. They look a
-little too tight to fit &lt;Eugene&gt;.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro. Parecem
+apertados demais pra &lt;Eugene&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -652,10 +649,10 @@ little too tight to fit &lt;Eugene&gt;.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『椅子』
 寝間着が入っている。
 &lt;Annie&gt;に似合いそうだ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside.
-They look like a perfect
-fit for &lt;Annie&gt;.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro.
+Parecem ter o tamanho
+perfeito pra &lt;Annie&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>45</Id>
@@ -666,10 +663,10 @@ fit for &lt;Annie&gt;.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『椅子』
 寝間着が入っている。
 &lt;Tytree&gt;が着たら暑苦しそうだ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside.
-They seem too stuffy
-for &lt;Tytree&gt; to wear.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro.
+Parecem abafados demais
+pra &lt;Tytree&gt; vestir.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>46</Id>
@@ -680,10 +677,10 @@ for &lt;Tytree&gt; to wear.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『椅子』
 寝間着が入っている。
 &lt;Hilda&gt;が着るには少し可愛すぎる。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Ottoman -
-Pajamas are inside.
-They're a little too cute
-for &lt;Hilda&gt; to wear.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Baú -
+Tem pijamas dentro.
+São fofos demais
+pra &lt;Hilda&gt; vestir.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
