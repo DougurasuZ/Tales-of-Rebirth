@@ -86,3 +86,13 @@ Registre aqui os casos que possam gerar dúvida.
 - RG, Rush Gauge, RG Gauge (termos de batalha)
 - Magical Pot
 - Fusion Force(s) (técnica; menu: Menu de Force)
+- Sunnytown (nome próprio de cidade; decisão de revisão: fica em inglês)
+- Pratos e receitas contam como itens e ficam em inglês (decisão de revisão). Ex.: Poplar's Special Milk Soup; Mussels and Scallop Cream Stew, Bread Rolls, Shark Steak, Chocolate Vine Dessert (cardápio da pousada de Petnadjanka). Cardápio da Pousada: os nomes dos pratos em inglês, só o título traduzido.
+
+## Interjeições e onomatopeias (decisão de revisão)
+
+| Inglês | Português | Observação |
+|---|---|---|
+| Coo... Coo... | Zzz... | Sono; vale para arquivos já traduzidos e para os próximos |
+| Hmph | Hunf | Vale para o texto todo ("Hunf...", "Hunf!") |
+| Tch | Tsc | Vale para o texto todo ("Tsc...", "Tsc!") |

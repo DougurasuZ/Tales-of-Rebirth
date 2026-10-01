@@ -1,12 +1,12 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  14.1% das falas traduzidas (4416 de 31269) | arquivos iniciados: 71 | sem problemas: 71
+story :  14.2% das falas traduzidas (4425 de 31269) | arquivos iniciados: 71 | sem problemas: 70
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 10.5% das falas traduzidas (4416 de 41924)
-Problemas encontrados (sem contar pendentes): 0
+TOTAL : 10.6% das falas traduzidas (4425 de 41924)
+Problemas encontrados (sem contar pendentes): 1
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
 PENDENTE = fala ainda em inglês num arquivo que já foi iniciado.
@@ -51,7 +51,6 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 32: PENDENTE (igual ao inglês): Monica!
   Id 38: PENDENTE (igual ao inglês): H-Heeeee!
   Id 39: PENDENTE (igual ao inglês): Force...
-  Id 41: PENDENTE (igual ao inglês): Hmph...
   Id 52: PENDENTE (igual ao inglês): Saleh!
   Id 72: PENDENTE (igual ao inglês): ...!?
   Id 82: PENDENTE (igual ao inglês): Guaaghh!!
@@ -140,11 +139,9 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 54: PENDENTE (igual ao inglês): Hehehe...
   Id 67: PENDENTE (igual ao inglês): Militsa?
   Id 109: PENDENTE (igual ao inglês): ...?
-  Id 191: PENDENTE (igual ao inglês): Coo... Coo...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal; Id 3: Minal; Id 145: Sulz; Id 146: Minal; Id 147: Petnadjanka; Id 148: Sunnytown; Id 149: Anikamal; Id 150: Babilograd; Id 152: Razilda; Id 153: Pipista; Id 154: Kyogen; Id 155: Nolzen; Id 156: Mocrado
 
 [story/10267.xml]
-  Id 4: PENDENTE (igual ao inglês): Coo... Coo...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
 
 [story/10268.xml]
@@ -158,17 +155,14 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 77: PENDENTE (igual ao inglês): ...?
   Id 86: PENDENTE (igual ao inglês): ...?
   Id 93: PENDENTE (igual ao inglês): ...?
-  Id 122: PENDENTE (igual ao inglês): Coo... Coo...
   Id 143: PENDENTE (igual ao inglês): ...!
   Id 144: PENDENTE (igual ao inglês): Aaaagh... Aaaaaghhh!!
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
 
 [story/10270.xml]
-  Id 20: PENDENTE (igual ao inglês): Tch!
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
 
 [story/10271.xml]
-  Id 19: PENDENTE (igual ao inglês): Tch!
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal; Id 29: Minal; Id 30: Sunnytown; Id 34: Nolzen; Id 37: Nolzen; Id 39: Minal
 
 [story/10272.xml]
@@ -177,9 +171,6 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
 
 [story/10273.xml]
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Minal; Id 2: Minal
-
-[story/10274.xml]
-  Id 49: PENDENTE (igual ao inglês): Huma... Hmph!
 
 [story/10275.xml]
   Id 43: PENDENTE (igual ao inglês): Claire...
@@ -272,7 +263,6 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 11: PENDENTE (igual ao inglês): [VARIABLE]
 
 [story/10300.xml]
-  Id 22: PENDENTE (igual ao inglês): Coo... Coo...
   Id 72: PENDENTE (igual ao inglês): Minal...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka; Id 4: Petnadjanka; Id 28: Sulz; Id 29: Minal; Id 30: Petnadjanka; Id 31: Sunnytown; Id 32: Anikamal; Id 33: Babilograd; Id 35: Razilda; Id 36: Pipista; Id 37: Kyogen; Id 38: Nolzen; Id 39: Mocrado
 
@@ -281,7 +271,6 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
 
 [story/10302.xml]
-  Id 4: PENDENTE (igual ao inglês): Coo... Coo...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
 
 [story/10303.xml]
@@ -310,6 +299,7 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Petnadjanka
 
 [story/10309.xml]
+  Id 5 (Strings): INGLES: possível sobra em inglês (and)
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Petnadjanka
 
 [story/10310.xml]
