@@ -1,11 +1,11 @@
 RELATÓRIO DE VALIDAÇÃO - TRADUÇÃO PT-BR TALES OF REBIRTH
 ============================================================
 
-story :  10.7% das falas traduzidas (3343 de 31269) | arquivos iniciados: 55 | sem problemas: 55
+story :  12.7% das falas traduzidas (3981 de 31269) | arquivos iniciados: 63 | sem problemas: 63
 skits :   0.0% das falas traduzidas (0 de 4110) | arquivos iniciados: 0 | sem problemas: 0
 menu  :   0.0% das falas traduzidas (0 de 6545) | arquivos iniciados: 0 | sem problemas: 0
 
-TOTAL : 8.0% das falas traduzidas (3343 de 41924)
+TOTAL : 9.5% das falas traduzidas (3981 de 41924)
 Problemas encontrados (sem contar pendentes): 0
 
 Legenda: CODIGO, LINHAS, TAMANHO, ESPACO, CARACTERE, INGLES = precisam de correção;
@@ -275,3 +275,36 @@ Arquivos de debug (Debug Do Not Translate) são ignorados.
   Id 22: PENDENTE (igual ao inglês): Coo... Coo...
   Id 72: PENDENTE (igual ao inglês): Minal...
   Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka; Id 4: Petnadjanka; Id 28: Sulz; Id 29: Minal; Id 30: Petnadjanka; Id 31: Sunnytown; Id 32: Anikamal; Id 33: Babilograd; Id 35: Razilda; Id 36: Pipista; Id 37: Kyogen; Id 38: Nolzen; Id 39: Mocrado
+
+[story/10301.xml]
+  Id 30: PENDENTE (igual ao inglês): H-Huma—!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
+
+[story/10302.xml]
+  Id 4: PENDENTE (igual ao inglês): Coo... Coo...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
+
+[story/10303.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
+
+[story/10304.xml]
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
+
+[story/10305.xml]
+  Id 12: PENDENTE (igual ao inglês): Aaaaah!
+  Id 91: PENDENTE (igual ao inglês): ...?
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka; Id 17: Kekee♪
+
+[story/10306.xml]
+  Id 23: PENDENTE (igual ao inglês): Sunnytown...?
+  Id 60: PENDENTE (igual ao inglês): Saleh! Tohma!
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 1: Petnadjanka; Id 2: Petnadjanka
+
+[story/10307.xml]
+  Id 45: PENDENTE (igual ao inglês): [VARIABLE]
+  Id 59: PENDENTE (igual ao inglês): Minal...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Petnadjanka
+
+[story/10308.xml]
+  Id 81: PENDENTE (igual ao inglês): ...Hmm...
+  Mantidos iguais (parecem nomes, provavelmente de propósito): Id 2: Petnadjanka

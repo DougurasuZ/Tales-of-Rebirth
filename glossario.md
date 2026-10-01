@@ -23,6 +23,10 @@ Acrescente aqui todo termo novo, em ordem alfabética.
 | Forest Labyrinth | Floresta Labirinto | |
 | General Store | Armazém | |
 | Minal - Town Hall Library | Minal - Biblioteca da Prefeitura | |
+| Iron Factory | Fábrica de Ferro | Petnadjanka |
+| [Nome]'s House (ex.: Tytree's House) | Casa de [Nome] | |
+| Toyohose River | Rio Toyohose | Nome misto |
+| Eat Well, Sleep Well (inn) | Coma Bem, Durma Bem | Nome da pousada de Petnadjanka |
 | Island of Illusions | Ilha das Ilusões | |
 | Minal Plains | Planícies de Minal | Nome misto |
 | Roaring Seas (City of the) | Cidade dos Mares Rugentes | Apelido de Minal |

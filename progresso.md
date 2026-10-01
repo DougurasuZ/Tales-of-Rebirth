@@ -60,6 +60,14 @@
 | 2_translated/story/10294.xml | 2026-09-30 |
 | 2_translated/story/10299.xml | 2026-09-30 |
 | 2_translated/story/10300.xml | 2026-09-30 |
+| 2_translated/story/10301.xml | 2026-09-30 |
+| 2_translated/story/10302.xml | 2026-09-30 |
+| 2_translated/story/10303.xml | 2026-09-30 |
+| 2_translated/story/10304.xml | 2026-09-30 |
+| 2_translated/story/10305.xml | 2026-09-30 |
+| 2_translated/story/10306.xml | 2026-09-30 |
+| 2_translated/story/10307.xml | 2026-09-30 |
+| 2_translated/story/10308.xml | 2026-09-30 |
 
 ## Arquivos sem texto a traduzir
 
@@ -168,4 +176,12 @@
 - 10289–10300: traduzido com script temporário na pasta de rascunho (fora do projeto). Rótulos de falante: "Traveler" → "Viajante", "Notice" → "Aviso", "Carriage Coach" → "Cocheiro", "Woman" → "Mulher". "First Time Item Conversation" mantido (rótulo interno).
 - 10292.xml: "Tel'alla Hostel" → "Hospedaria Tel'alla" (glossário). Id 16: "You got back the Biography" virou "Você recuperou a Biography." para caber. Gênero do Viajante evitado de propósito.
 - 10294.xml, Ids 12–13: "Fusion Forces" mantido em inglês (técnica); "Force Menu" → "Menu de Force". Conferir.
+- Lote 10301–10308 (2026-09-30): o relatório anterior tinha 0 problemas (só PENDENTE de nomes/interjeições, mantidos). Traduzido com script temporário na pasta de rascunho (fora do projeto). Validador rodado: 17 problemas na 1ª rodada (LINHAS/TAMANHO), 0 na 2ª. Mantidos de propósito: "Kekee♪", "Coo... Coo...", "...?", "Aaaaah!", "H-Huma—!", "Sunnytown...?", "Saleh! Tohma!", "Minal...", "...Hmm...", [VARIABLE].
+- 10301–10308, rótulos de falante: "Manager" → "Gerente", "Man" → "Homem", "Girl" → "Menina", "Boy" → "Menino", "Old Man" → "Velho", "Woman" → "Mulher", "Woman's Voice" → "Voz de Mulher", "New Hire" → "Novato", "Grocer" → "Dono da Mercearia", "Innkeeper" → "Pousadeiro", "General Store" → "Armazém", "Notice" → "Aviso". Nomes e "Select" mantidos.
+- 10305.xml, Ids 38/39 e 10306.xml, Ids 29/30: `<unk19:...>` seguido de " entrou para o grupo." / " agora viaja com você." (conferir espaço/gênero no jogo). Id 17 ("Kekee♪", Zapie) mantido igual.
+- 10305–10306: Selena e Veigue tratam Agarte (no corpo de Claire) como Claire; falas de Agarte/Claire em tom formal. "Sis" → "Mana"; "Foreman" → "Capataz"; "Force of Wood" mantido (técnica); "Rio Toyohose" (glossário).
+- 10305.xml, Id 79 (e 10306 Id 79 só "..."): o inglês do Id 79 do 10305 está cortado ("But the factory manager"); traduzido como "Mas o gerente da fábrica" sem inventar continuação.
+- 10306.xml, Id 54/56: frases de Gerente condensadas ("pra reaver a Selena", "brotavam frenéticas") para caber nas linhas.
+- 10307.xml, Ids 75/77/79: títulos e textos de objetos examináveis traduzidos; "Birdie Grass" (planta) mantido em inglês. Id 53: "Human" (raça, não Huma) → "humana" minúsculo. Id 14: "Gappler" mantido (nome).
+- 10308.xml: frases padrão de pousada (Ids 57–129) copiadas de 10275 (mesmo texto em inglês). "Eat Well, Sleep Well" → "Coma Bem, Durma Bem" (nome da pousada; glossário). "Callegean Soldier" mantido como rótulo do recepcionista (igual a 10275). Id 136/138: "grow big and tall" → "vai crescer bastante" (evitar gênero; Annie reage no Id 139 "baixa").
 - 10300.xml: textos da carruagem seguem o padrão de 10229 ("Cancel" → "Cancelar"). Id 9 reduzido a 1 linha ("Provavelmente... Fiquem alertas."). Ids 15/18: "Sis" → "Mana". "Zilva" e "Lady Zilva" mantidos (nome).

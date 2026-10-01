@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645,645</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>378</PointerOffset>
       <JapaneseText>装備品屋</JapaneseText>
-      <EnglishText>Weapon Shop</EnglishText>
+      <EnglishText>Loja de Armas</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -71,7 +71,7 @@
     <Entry>
       <PointerOffset>1457</PointerOffset>
       <JapaneseText>ワン！</JapaneseText>
-      <EnglishText>Woof!</EnglishText>
+      <EnglishText>Au au!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -85,10 +85,10 @@
       <JapaneseText>ガジュマは力仕事しかできないから、
 ヒューマの言うとおりに
 しなければいけないんだって。</JapaneseText>
-      <EnglishText>Gajuma can only do heavy
-lifting, so we have no
-choice but to do what
-Huma say.</EnglishText>
+      <EnglishText>Gajuma só servem pra
+carregar peso, então não
+temos escolha a não ser
+obedecer os Huma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -97,7 +97,7 @@ Huma say.</EnglishText>
     <Entry>
       <PointerOffset>705</PointerOffset>
       <JapaneseText>そう教わったよ？</JapaneseText>
-      <EnglishText>That's what I've been taught.</EnglishText>
+      <EnglishText>Foi o que me ensinaram.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -107,9 +107,9 @@ Huma say.</EnglishText>
       <PointerOffset>768</PointerOffset>
       <JapaneseText>ヒューマに追い出されて、
 この街に来たんだ。</JapaneseText>
-      <EnglishText>We moved here after
-being kicked out of
-our old town by Huma.</EnglishText>
+      <EnglishText>Nos mudamos pra cá depois
+de sermos expulsos da nossa
+cidade pelos Huma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -120,9 +120,9 @@ our old town by Huma.</EnglishText>
       <JapaneseText>前は別に好きでも
 嫌いでもなかったけど、
 今はすごく嫌いになっちゃった!!</JapaneseText>
-      <EnglishText>I didn't care for them
-much before, but now
-I really hate them!</EnglishText>
+      <EnglishText>Eu não ia muito com a cara
+deles antes, mas agora
+eu odeio eles!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -133,7 +133,7 @@ I really hate them!</EnglishText>
       <JapaneseText>ヒューマは
 あっち行っちゃえ！
 </JapaneseText>
-      <EnglishText>Go somewhere else, Huma!</EnglishText>
+      <EnglishText>Vai pra outro lugar, Huma!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -144,9 +144,9 @@ I really hate them!</EnglishText>
       <JapaneseText>食材屋のおばさんは
 ガジュマもヒューマも仲良くしろって
 言うんだけど……</JapaneseText>
-      <EnglishText>The lady at the grocery store
-told me that Huma and Gajuma
-should get along together, but...</EnglishText>
+      <EnglishText>A moça da mercearia me disse
+que Huma e Gajuma deviam
+se dar bem, mas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -155,7 +155,7 @@ should get along together, but...</EnglishText>
     <Entry>
       <PointerOffset>900</PointerOffset>
       <JapaneseText>そんなのムリだよね！</JapaneseText>
-      <EnglishText>I'm not gonna!</EnglishText>
+      <EnglishText>Eu não vou!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -165,7 +165,7 @@ should get along together, but...</EnglishText>
       <PointerOffset>936</PointerOffset>
       <JapaneseText>ヒューマなんて
 キライだ!!</JapaneseText>
-      <EnglishText>I hate Huma!</EnglishText>
+      <EnglishText>Eu odeio os Huma!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -175,9 +175,8 @@ should get along together, but...</EnglishText>
       <PointerOffset>999</PointerOffset>
       <JapaneseText>工場で働いてる人たち、
 カワイソウ！</JapaneseText>
-      <EnglishText>I feel so bad for the
-people working in the
-factory!</EnglishText>
+      <EnglishText>Tenho tanta pena do pessoal
+que trabalha na fábrica!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -187,8 +186,8 @@ factory!</EnglishText>
       <PointerOffset>1021</PointerOffset>
       <JapaneseText>自分勝手なヒューマたちの
 下で働かなきゃいけないなんて……</JapaneseText>
-      <EnglishText>They've gotta work under
-those selfish Huma...</EnglishText>
+      <EnglishText>Eles têm que trabalhar pra
+esses Huma egoístas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -198,7 +197,7 @@ those selfish Huma...</EnglishText>
       <PointerOffset>1057</PointerOffset>
       <JapaneseText>ふん……!!
 あっち行って！</JapaneseText>
-      <EnglishText>Hmph! Leave me alone!</EnglishText>
+      <EnglishText>Hmph! Me deixa em paz!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -209,8 +208,8 @@ those selfish Huma...</EnglishText>
       <JapaneseText>前に来たヒューマのお姉さんに
 おいしいチョコ、もらっちゃった！
 </JapaneseText>
-      <EnglishText>A Huma lady came by here earlier
-and gave me some chocolate!</EnglishText>
+      <EnglishText>Uma moça Huma passou por
+aqui e me deu chocolate!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -221,8 +220,8 @@ and gave me some chocolate!</EnglishText>
       <JapaneseText>やっぱ、ヒューマの事、
 好きかも……！
 </JapaneseText>
-      <EnglishText>Maybe I might like
-Huma, after all!</EnglishText>
+      <EnglishText>Talvez eu goste dos
+Huma, afinal!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -232,9 +231,8 @@ Huma, after all!</EnglishText>
       <PointerOffset>1165</PointerOffset>
       <JapaneseText>工場で働いてる人たち、
 カワイソウ！</JapaneseText>
-      <EnglishText>I feel so bad for the
-people working in the
-factory!</EnglishText>
+      <EnglishText>Tenho tanta pena do pessoal
+que trabalha na fábrica!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -244,8 +242,8 @@ factory!</EnglishText>
       <PointerOffset>1187</PointerOffset>
       <JapaneseText>自分勝手なヒューマたちの
 下で働かなきゃいけないなんて……</JapaneseText>
-      <EnglishText>They've gotta work under
-those selfish Huma...</EnglishText>
+      <EnglishText>Eles têm que trabalhar pra
+esses Huma egoístas...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -255,7 +253,7 @@ those selfish Huma...</EnglishText>
       <PointerOffset>1223</PointerOffset>
       <JapaneseText>ヒューマは
 あっち行っちゃえ！</JapaneseText>
-      <EnglishText>Go somewhere else, Huma!</EnglishText>
+      <EnglishText>Vai pra outro lugar, Huma!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -266,8 +264,8 @@ those selfish Huma...</EnglishText>
       <JapaneseText>どうしたの……!?
 大丈夫なの……!?
 </JapaneseText>
-      <EnglishText>Wh-What's wrong...!?
-Are you all right?</EnglishText>
+      <EnglishText>O-O que foi...!?
+Você tá bem?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -277,9 +275,9 @@ Are you all right?</EnglishText>
       <PointerOffset>1326</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;お兄ちゃん、
 セレーナさんはボクが守るよ！</JapaneseText>
-      <EnglishText>Don't you worry, &lt;Tytree&gt;!
-I'll make sure Selena is
-safe!</EnglishText>
+      <EnglishText>Não se preocupe, &lt;Tytree&gt;!
+Eu vou garantir que a Selena
+esteja segura!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
@@ -289,8 +287,8 @@ safe!</EnglishText>
       <PointerOffset>1368</PointerOffset>
       <JapaneseText>工場の方はまだ
 少しもめてるみたいだけど……</JapaneseText>
-      <EnglishText>They still seem to be having
-trouble at the factory...</EnglishText>
+      <EnglishText>Parece que ainda estão com
+problemas na fábrica...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -301,9 +299,9 @@ trouble at the factory...</EnglishText>
       <JapaneseText>工場長さんが少しずつ
 悪いところを直そうって、
 色々と考えてくれてるみたいだよ。</JapaneseText>
-      <EnglishText>...But the factory manager seems to
-be putting a little more thought
-into fixing what is wrong there...</EnglishText>
+      <EnglishText>...Mas o gerente da fábrica parece
+estar se esforçando mais pra
+consertar o que tá errado...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
@@ -314,9 +312,9 @@ into fixing what is wrong there...</EnglishText>
       <JapaneseText>工場でかくれんぼしてたら、
 怒られちゃったよ……
 チェッ……</JapaneseText>
-      <EnglishText>They got mad at me for
-playing hide and seek in
-the factory... Lame...</EnglishText>
+      <EnglishText>Eles ficaram bravos porque eu
+brinquei de esconde-esconde na
+fábrica... Que chato...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>

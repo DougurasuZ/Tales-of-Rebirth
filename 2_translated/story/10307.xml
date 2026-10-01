@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569,2107,2569</PointerOffset>
       <JapaneseText>新入り</JapaneseText>
-      <EnglishText>New Hire</EnglishText>
+      <EnglishText>Novato</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>1908,1957,201,2054,2078</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943,943</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>325</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>331</PointerOffset>
       <JapaneseText>ペトナジャンカ・民家</JapaneseText>
-      <EnglishText>Petnadjanka - Residence</EnglishText>
+      <EnglishText>Petnadjanka - Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -107,7 +107,7 @@
     <Entry>
       <PointerOffset>2585</PointerOffset>
       <JapaneseText>あなたは……？</JapaneseText>
-      <EnglishText>Who are you?</EnglishText>
+      <EnglishText>Quem é você?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -118,10 +118,10 @@
       <JapaneseText>お前の先輩の&lt;Tytree&gt;さ。
 工場長から聞いたぜ。
 なんで工場に行きたくないんだ？</JapaneseText>
-      <EnglishText>My name is &lt;Tytree&gt;, I'm a coworker
-of yours. I heard from the boss
-that you didn't show up to work
-yesterday. Why's that?</EnglishText>
+      <EnglishText>Me chamo &lt;Tytree&gt;, sou seu colega
+de trabalho. Ouvi do chefe que
+você não apareceu ontem.
+Por quê?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -131,9 +131,9 @@ yesterday. Why's that?</EnglishText>
       <PointerOffset>2656</PointerOffset>
       <JapaneseText>黙ってちゃあわからないぜ。
 話してくれよ、な？</JapaneseText>
-      <EnglishText>I won't know what's up if
-you don't speak up. You
-can tell me about it, okay?</EnglishText>
+      <EnglishText>Não vou saber o que houve se
+você não falar. Pode me contar,
+certo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -144,10 +144,10 @@ can tell me about it, okay?</EnglishText>
       <JapaneseText>……昨日の朝の事なんですけど、
 溶鉱炉の掃除をしている時に、
 すすり泣くような声を聞いて……</JapaneseText>
-      <EnglishText>...So, yesterday morning, when
-I was cleaning the blast furnace,
-I heard what sounded like
-someone crying... </EnglishText>
+      <EnglishText>...Então, ontem de manhã, quando
+eu limpava o alto-forno, ouvi
+um som de alguém
+chorando...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -158,10 +158,10 @@ someone crying... </EnglishText>
       <JapaneseText>最初は気のせいかと思ったんだけど、
 誰もいないのに聞こえたんです！
 もう怖くて怖くて……</JapaneseText>
-      <EnglishText>At first I thought it was just my 
-imagination, but I swear I heard
-something despite no one being
-around! It freaked me out...</EnglishText>
+      <EnglishText>No começo achei que era
+imaginação, mas juro que ouvi
+algo sem ter ninguém por perto!
+Me deu um medo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -171,8 +171,8 @@ around! It freaked me out...</EnglishText>
       <PointerOffset>2737</PointerOffset>
       <JapaneseText>それが怖くて、
 工場に行けないんだな？</JapaneseText>
-      <EnglishText>So you won't show up to work 
-because that scared you?</EnglishText>
+      <EnglishText>Então você não vai trabalhar
+porque isso te assustou?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -183,9 +183,9 @@ because that scared you?</EnglishText>
       <JapaneseText>……はい。
 行かなきゃと思うんですけど、
 あの声が耳にこびりついて……</JapaneseText>
-      <EnglishText>...Yes. I know I need to
-show up, but that voice
-has been haunting me...</EnglishText>
+      <EnglishText>...Sim. Sei que preciso ir,
+mas essa voz não sai da
+minha cabeça...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -196,11 +196,10 @@ has been haunting me...</EnglishText>
       <JapaneseText>よっしゃ、わかった！
 オレが声の正体を調べてやる。
 原因がわかれば、怖くないだろ？</JapaneseText>
-      <EnglishText>All right, got it! I'll get to
-the bottom of this. If you
-know what's making it,
-then it's not going to scare
-you anymore, right?</EnglishText>
+      <EnglishText>Beleza, entendi! Vou descobrir
+o que é. Se você souber
+o que causa isso, não vai
+mais te assustar, né?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -210,7 +209,7 @@ you anymore, right?</EnglishText>
       <PointerOffset>2826</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;さん……
 ありがとうございます。</JapaneseText>
-      <EnglishText>Thank you, &lt;Tytree&gt;...</EnglishText>
+      <EnglishText>Obrigado, &lt;Tytree&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -221,9 +220,9 @@ you anymore, right?</EnglishText>
       <JapaneseText>確かに溶鉱炉ですすり泣く声を
 聞いたんです……
 どうかよろしくお願いします。</JapaneseText>
-      <EnglishText>I'm sure I heard crying from
-the blast furnace... Thanks
-for going to check it out.</EnglishText>
+      <EnglishText>Tenho certeza de que ouvi choro
+vindo do alto-forno... Obrigado
+por ir verificar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -234,9 +233,9 @@ for going to check it out.</EnglishText>
       <JapaneseText>あの声の主がガップラさん
 だったなんて……
 なんだか拍子抜けしちゃいました。</JapaneseText>
-      <EnglishText>So that voice was Gappler's...
-Kinda underwhelming if you
-ask me.</EnglishText>
+      <EnglishText>Então aquela voz era do Gappler...
+Um tanto decepcionante, se
+quer saber.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -246,8 +245,8 @@ ask me.</EnglishText>
       <PointerOffset>2253</PointerOffset>
       <JapaneseText>これで安心して働く事ができます。
 ありがとうございました。</JapaneseText>
-      <EnglishText>Well, now I can go to work
-without worry. Thank you.</EnglishText>
+      <EnglishText>Bem, agora posso ir trabalhar
+sem preocupação. Obrigado.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -257,9 +256,9 @@ without worry. Thank you.</EnglishText>
       <PointerOffset>2275</PointerOffset>
       <JapaneseText>工場のみんなに迷惑をかけた分、
 これからは一生懸命頑張ります。</JapaneseText>
-      <EnglishText>I'll do my best to make it up to
-all the people I inconvenienced at
-the factory.</EnglishText>
+      <EnglishText>Vou me esforçar pra compensar
+todo mundo que prejudiquei
+na fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -270,9 +269,9 @@ the factory.</EnglishText>
       <JapaneseText>確かに溶鉱炉ですすり泣く声を
 聞いたんです……
 どうかよろしくお願いします。</JapaneseText>
-      <EnglishText>I'm sure I heard crying from
-the blast furnace... Thanks
-for going to check it out.</EnglishText>
+      <EnglishText>Tenho certeza de que ouvi choro
+vindo do alto-forno... Obrigado
+por ir verificar.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -282,8 +281,8 @@ for going to check it out.</EnglishText>
       <PointerOffset>2936</PointerOffset>
       <JapaneseText>もう行かない……
 あんな工場には……</JapaneseText>
-      <EnglishText>I can't work at that
-factory anymore...</EnglishText>
+      <EnglishText>Não consigo mais trabalhar
+naquela fábrica...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -295,9 +294,9 @@ factory anymore...</EnglishText>
 帰っていらっしゃるまで、
 微力ながら、
 変わりになれるようがんばります。</JapaneseText>
-      <EnglishText>Until you get back, I'll
-do my best to cover
-your job for you.</EnglishText>
+      <EnglishText>Até você voltar, vou me
+esforçar pra cobrir o
+seu trabalho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -307,8 +306,8 @@ your job for you.</EnglishText>
       <PointerOffset>3065</PointerOffset>
       <JapaneseText>も、もちろんお帰りになった後も
 先輩と一緒に働けたら……</JapaneseText>
-      <EnglishText>A-And we can work together
-after you come back as well...</EnglishText>
+      <EnglishText>E-E a gente pode trabalhar
+junto quando você voltar também...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -318,8 +317,8 @@ after you come back as well...</EnglishText>
       <PointerOffset>3090</PointerOffset>
       <JapaneseText>この製鉄工場で、いつか大きな仕事を
 成し遂げるのが夢なんです。</JapaneseText>
-      <EnglishText>My dream is to accomplish some
-big project at the iron factory.</EnglishText>
+      <EnglishText>Meu sonho é realizar um grande
+projeto na fábrica de ferro.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -329,8 +328,8 @@ big project at the iron factory.</EnglishText>
       <PointerOffset>3112</PointerOffset>
       <JapaneseText>まだ大きな仕事がなんなのか、
 具体的には見つかってないんですが……</JapaneseText>
-      <EnglishText>As to what that is, I
-don't really know yet...</EnglishText>
+      <EnglishText>Qual seria, ainda não
+sei bem...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -340,8 +339,7 @@ don't really know yet...</EnglishText>
       <PointerOffset>3134</PointerOffset>
       <JapaneseText>これから、それを
 見つけたいと思います。</JapaneseText>
-      <EnglishText>I'm going to try
-to figure it out.</EnglishText>
+      <EnglishText>Vou tentar descobrir.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -352,9 +350,9 @@ to figure it out.</EnglishText>
       <JapaneseText>住むところがないからって……
 新しく街にやって来た
 ガジュマと同じ部屋なんです。</JapaneseText>
-      <EnglishText>I'm sharing a room with a Gajuma
-because he had no place to stay
-after moving to a new town...</EnglishText>
+      <EnglishText>Divido o quarto com um Gajuma
+porque ele não tinha onde ficar
+depois de se mudar pra cá...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -363,8 +361,8 @@ after moving to a new town...</EnglishText>
     <Entry>
       <PointerOffset>3206</PointerOffset>
       <JapaneseText>う、うまくやってけるかな……？</JapaneseText>
-      <EnglishText>D-Do you think we
-can get along...?</EnglishText>
+      <EnglishText>A-Acha que a gente
+consegue se dar bem...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -375,9 +373,9 @@ can get along...?</EnglishText>
       <JapaneseText>ベルサスで演説があったでしょ？
 病気だったっていう女王陛下が
 元気になられたみたいで……</JapaneseText>
-      <EnglishText>Did you hear about that speech
-in Belsas? I guess the Queen has
-finally gotten over her illness...</EnglishText>
+      <EnglishText>Soube do discurso em Belsas?
+Parece que a Rainha finalmente
+superou a doença...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -387,9 +385,8 @@ finally gotten over her illness...</EnglishText>
       <PointerOffset>3278</PointerOffset>
       <JapaneseText>でもそれを処刑しようだなんて、
 とんでもない人もいたもんですね。</JapaneseText>
-      <EnglishText>But I heard that there were
-some awful people who wanted
-to have her executed.</EnglishText>
+      <EnglishText>Mas ouvi dizer que havia gente
+horrível que queria executá-la.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -400,9 +397,9 @@ to have her executed.</EnglishText>
       <JapaneseText>カレギア城でジルバ様が
 演説されてからこっち、
 どうも街の空気が不穏なんです。</JapaneseText>
-      <EnglishText>Ever since Lady Zilva's speech
-at Callegea Castle, this town
-has faced some unrest.</EnglishText>
+      <EnglishText>Desde o discurso da Lady Zilva
+no Castelo de Callegea, esta
+cidade anda inquieta.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -413,8 +410,8 @@ has faced some unrest.</EnglishText>
       <JapaneseText>特にヒューマの文句を言う
 ガジュマが増えて……
 </JapaneseText>
-      <EnglishText>Especially with Huma complaining
-about all the Gajuma moving in...</EnglishText>
+      <EnglishText>Principalmente com Huma reclamando
+dos Gajuma que estão chegando...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -424,8 +421,8 @@ about all the Gajuma moving in...</EnglishText>
       <PointerOffset>3372</PointerOffset>
       <JapaneseText>僕なんて一緒に住んでるから、、
 なんとなく、息が詰まりそうで……</JapaneseText>
-      <EnglishText>And I just so happen to live with
-one... I feel like I'm suffocating...</EnglishText>
+      <EnglishText>E eu moro justamente com um...
+Tô me sentindo sufocado...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -436,9 +433,9 @@ one... I feel like I'm suffocating...</EnglishText>
       <JapaneseText>ガジュマとヒューマの間に
 確執がありましたが、
 少し解消されました。</JapaneseText>
-      <EnglishText>There's been some antagonism
-between Gajuma and Huma,
-but it's dissipated somewhat.</EnglishText>
+      <EnglishText>Tem havido antagonismo entre
+Gajuma e Huma, mas
+diminuiu um pouco.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>31</Id>
@@ -448,8 +445,8 @@ but it's dissipated somewhat.</EnglishText>
       <PointerOffset>3453</PointerOffset>
       <JapaneseText>あの人……時々、謝りたそうに
 してるんですが……</JapaneseText>
-      <EnglishText>That guy sometimes seems
-like he wants to apologize...</EnglishText>
+      <EnglishText>Às vezes parece que aquele
+cara quer pedir desculpas...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>32</Id>
@@ -459,8 +456,8 @@ like he wants to apologize...</EnglishText>
       <PointerOffset>3475</PointerOffset>
       <JapaneseText>どうすれば
 仲良くできるんでしょうか……？</JapaneseText>
-      <EnglishText>I wonder how we'd be able
-to get along better...</EnglishText>
+      <EnglishText>Será que a gente consegue
+se dar melhor?</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>33</Id>
@@ -469,7 +466,7 @@ to get along better...</EnglishText>
     <Entry>
       <PointerOffset>3513</PointerOffset>
       <JapaneseText>ひっ……ガジュマ……!!</JapaneseText>
-      <EnglishText>Eek, Gajuma...!</EnglishText>
+      <EnglishText>Ai, Gajuma...!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>34</Id>
@@ -479,8 +476,8 @@ to get along better...</EnglishText>
       <PointerOffset>3535</PointerOffset>
       <JapaneseText>あ……なんでもないです……
 ご、ごめんなさい……</JapaneseText>
-      <EnglishText>Oh... It's nothing...
-S-Sorry...</EnglishText>
+      <EnglishText>Ah... Não é nada...
+D-Desculpa...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>35</Id>
@@ -490,8 +487,8 @@ S-Sorry...</EnglishText>
       <PointerOffset>3577</PointerOffset>
       <JapaneseText>最近、同室のガジュマが、
 コワイんです。</JapaneseText>
-      <EnglishText>My Gajuma roommate has
-been creeping me out lately.</EnglishText>
+      <EnglishText>Meu colega de quarto Gajuma
+tem me deixado arrepiado.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>36</Id>
@@ -501,9 +498,9 @@ been creeping me out lately.</EnglishText>
       <PointerOffset>3599</PointerOffset>
       <JapaneseText>いつもブツブツ言ってるし
 時々、こっちをにらみつけるし……</JapaneseText>
-      <EnglishText>He's always mumbling about
-something and I've caught him
-glaring at me a few times....</EnglishText>
+      <EnglishText>Ele vive resmungando sozinho
+e já o flagrei me encarando
+várias vezes...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>37</Id>
@@ -513,7 +510,7 @@ glaring at me a few times....</EnglishText>
       <PointerOffset>3621</PointerOffset>
       <JapaneseText>すっかりガジュマ恐怖症に
 なっちゃって……</JapaneseText>
-      <EnglishText>I'm totally afraid of Gajuma...</EnglishText>
+      <EnglishText>Tenho muito medo dos Gajuma...</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>38</Id>
@@ -523,7 +520,7 @@ glaring at me a few times....</EnglishText>
       <PointerOffset>3660</PointerOffset>
       <JapaneseText>これって……
 どうなってるんですか……!?</JapaneseText>
-      <EnglishText>Wh-What's going on...?!</EnglishText>
+      <EnglishText>O-O que tá acontecendo...?!</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>39</Id>
@@ -534,10 +531,9 @@ glaring at me a few times....</EnglishText>
       <JapaneseText>工場に立てこもって以来、
 ガジュマたちが
 いづらそうにしてるんです。</JapaneseText>
-      <EnglishText>After the whole situation where they
-boarded themselves up in the factory,
-the Gajuma don't feel like they can
-stay here.</EnglishText>
+      <EnglishText>Depois que se barricaram na
+fábrica, os Gajuma sentem
+que não podem ficar aqui.</EnglishText>
       <Notes>Tl check this. its been workshopped </Notes>
       <SpeakerId>-1</SpeakerId>
       <Id>40</Id>
@@ -548,9 +544,9 @@ stay here.</EnglishText>
       <JapaneseText>でもいつか仲良くできると
 思ってます。
 それまで気長にやりますよ。</JapaneseText>
-      <EnglishText>But I think we'll be able to
-get along one day, so I'll
-take it as it comes.</EnglishText>
+      <EnglishText>Mas acho que um dia vamos
+nos entender, então vou
+levando.</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
       <Id>41</Id>
@@ -564,8 +560,8 @@ take it as it comes.</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものが入ってるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty in here! Lemme take a sip.</EnglishText>
+      <EnglishText>Oooh! Parece que tem algo
+gostoso aqui! Deixa eu provar.</EnglishText>
       <Notes>this one is different because the food item is fruit punch.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -574,7 +570,7 @@ tasty in here! Lemme take a sip.</EnglishText>
     <Entry>
       <PointerOffset>1911</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000003&gt;』を食べました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Drank "&lt;item:20000003&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Bebeu "&lt;item:20000003&gt;."</EnglishText>
       <Notes>Fruit punch moment</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
@@ -583,7 +579,7 @@ tasty in here! Lemme take a sip.</EnglishText>
     <Entry>
       <PointerOffset>1960</PointerOffset>
       <JapaneseText>&lt;Green&gt;『&lt;item:20000003&gt;』のレシピを入手しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Obtained recipe for "&lt;item:20000003&gt;"!</EnglishText>
+      <EnglishText>&lt;Green&gt;Obteve a receita de "&lt;item:20000003&gt;"!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
@@ -601,7 +597,7 @@ tasty in here! Lemme take a sip.</EnglishText>
     <Entry>
       <PointerOffset>2057</PointerOffset>
       <JapaneseText>&lt;Green&gt;料理が入っていました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There's food inside.</EnglishText>
+      <EnglishText>&lt;Green&gt;Há comida dentro.</EnglishText>
       <Notes>not a bag, a box</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
@@ -611,9 +607,9 @@ tasty in here! Lemme take a sip.</EnglishText>
       <PointerOffset>2081</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、誰のものかわからないので
 とりあえず、箱を閉じました。</JapaneseText>
-      <EnglishText>...But since it's unknown
-whose it is, the box stays
-closed for the time being.</EnglishText>
+      <EnglishText>...Mas como não se sabe
+de quem é, a caixa fica
+fechada por enquanto.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>47</Id>
@@ -627,9 +623,9 @@ closed for the time being.</EnglishText>
       <JapaneseText>ここの街のヒューマは比較的、
 親切なんで安心してるよ。
 </JapaneseText>
-      <EnglishText>I feel safe in this town because
-the Huma here are kinder than
-in other places.</EnglishText>
+      <EnglishText>Me sinto seguro nesta cidade
+porque os Huma daqui são mais
+gentis que em outros lugares.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>48</Id>
@@ -640,8 +636,8 @@ in other places.</EnglishText>
       <JapaneseText>君も他の街を追い出されたんなら、
 この街に来たらどうだい？
 </JapaneseText>
-      <EnglishText>If you were kicked out of town as
-well, why don't you come live here?</EnglishText>
+      <EnglishText>Se também foi expulso da cidade,
+por que não vem morar aqui?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
@@ -652,7 +648,7 @@ well, why don't you come live here?</EnglishText>
       <JapaneseText>ヒューマはすぐガジュマを
 いじめるんだよね。
 </JapaneseText>
-      <EnglishText>Huma are quick to harass Gajuma.</EnglishText>
+      <EnglishText>Os Huma logo assediam os Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>50</Id>
@@ -662,9 +658,9 @@ well, why don't you come live here?</EnglishText>
       <PointerOffset>1074</PointerOffset>
       <JapaneseText>君はガジュマと一緒だけど、
 いじめたりしてない……よね？</JapaneseText>
-      <EnglishText>But since you're traveling with a
-Gajuma, then you aren't the type
-to bully them...are you?</EnglishText>
+      <EnglishText>Mas como você viaja com um
+Gajuma, então não é do tipo
+que os intimida...né?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
@@ -675,7 +671,7 @@ to bully them...are you?</EnglishText>
       <JapaneseText>女王陛下が素晴らしい演説を
 なされたんだそうだ。
 </JapaneseText>
-      <EnglishText>The queen gave a wonderful speech.</EnglishText>
+      <EnglishText>A rainha fez um discurso lindo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
@@ -685,9 +681,9 @@ to bully them...are you?</EnglishText>
       <PointerOffset>1163</PointerOffset>
       <JapaneseText>ガジュマもヒューマも
 同じ&lt;Yellow&gt;ヒト&lt;White&gt;だって。</JapaneseText>
-      <EnglishText>She said that both Gajuma and
-Huma are members of the same
-&lt;Yellow&gt;Human&lt;White&gt; race.</EnglishText>
+      <EnglishText>Ela disse que Gajuma e Huma
+são membros da mesma raça
+&lt;Yellow&gt;humana&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>53</Id>
@@ -698,9 +694,9 @@ Huma are members of the same
       <JapaneseText>僕もそれには賛成だよ。
 どうしてヒューマは
 それがわからないんだろう……？</JapaneseText>
-      <EnglishText>I agree with that sentiment.
-But, why can't Huma see
-that as well...</EnglishText>
+      <EnglishText>Concordo com esse sentimento.
+Mas por que os Huma não
+enxergam isso também...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
@@ -711,9 +707,9 @@ that as well...</EnglishText>
       <JapaneseText>女王様に続きジルバ様も
 ガジュマのための演説を
 なさったんだ。</JapaneseText>
-      <EnglishText>After the queen's speech, Zilva
-gave her own speech directed
-towards Gajuma.</EnglishText>
+      <EnglishText>Depois do discurso da rainha,
+Zilva fez o dela, dirigido
+aos Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>55</Id>
@@ -723,8 +719,8 @@ towards Gajuma.</EnglishText>
       <PointerOffset>1270</PointerOffset>
       <JapaneseText>時代は少しずつ動いてる……
 僕たちガジュマの時代が来るんだ。</JapaneseText>
-      <EnglishText>The tides are gradually turning...
-Soon it will be an era for us Gajuma.</EnglishText>
+      <EnglishText>A maré está virando aos poucos...
+Logo será a era dos Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
@@ -735,9 +731,9 @@ Soon it will be an era for us Gajuma.</EnglishText>
       <JapaneseText>ガジュマの時代が来るんだ。
 ヒューマばかり
 偉そうな顔はさせない！</JapaneseText>
-      <EnglishText>The era of Gajuma is upon us.
-Huma need to stop acting so
-high and mighty!</EnglishText>
+      <EnglishText>A era dos Gajuma chegou.
+Os Huma precisam parar de
+se achar tão superiores!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>57</Id>
@@ -748,9 +744,9 @@ high and mighty!</EnglishText>
       <JapaneseText>ついこの間まで、この街も
 イヤな感じだったけど、
 今、ミナールがよくないらしいよ。</JapaneseText>
-      <EnglishText>Things haven't been too great
-here lately, but I've heard
-that Minal is pretty bad too.</EnglishText>
+      <EnglishText>As coisas não andam muito boas
+aqui ultimamente, mas ouvi
+que Minal também tá feia.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
@@ -771,10 +767,10 @@ that Minal is pretty bad too.</EnglishText>
       <JapaneseText>工場の待遇が少しよくなりそうなんだ。
 あの変なヒューマの女の子に
 感謝しなきゃな……</JapaneseText>
-      <EnglishText>It looks like things are going
-to improve a little at the
-factory. I'll have to thank
-that strange Huma girl...</EnglishText>
+      <EnglishText>Parece que as coisas vão
+melhorar um pouco na fábrica.
+Tenho que agradecer àquela
+estranha moça Huma...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>60</Id>
@@ -786,8 +782,8 @@ that strange Huma girl...</EnglishText>
 お給料が安かったのは、
 ガジュマだから、って
 わけじゃなかったんだ。</JapaneseText>
-      <EnglishText>We weren't being paid less
-because we were Gajuma.</EnglishText>
+      <EnglishText>Não recebíamos menos porque
+éramos Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>61</Id>
@@ -797,9 +793,9 @@ because we were Gajuma.</EnglishText>
       <PointerOffset>1487</PointerOffset>
       <JapaneseText>長く働いていた人の方が
 お給料が高いのは当たり前だもんね。</JapaneseText>
-      <EnglishText>It's only natural that people who
-have been working there longer
-have higher wages.</EnglishText>
+      <EnglishText>É natural que quem trabalha
+lá há mais tempo tenha
+salário maior.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>62</Id>
@@ -809,8 +805,8 @@ have higher wages.</EnglishText>
       <PointerOffset>1525</PointerOffset>
       <JapaneseText>最近、工場の待遇が
 悪いんだ。</JapaneseText>
-      <EnglishText>They've been treating us
-poorly at the factory lately.</EnglishText>
+      <EnglishText>Ultimamente têm nos tratado
+mal na fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>63</Id>
@@ -821,9 +817,9 @@ poorly at the factory lately.</EnglishText>
       <JapaneseText>お給料がヒューマより、
 少し低くても我慢してやってたのに、
 もう我慢できないよ……！</JapaneseText>
-      <EnglishText>I've been putting up with having a
-lower salary than the Huma, but I
-just can't take it any more!</EnglishText>
+      <EnglishText>Eu vinha aguentando ganhar menos
+que os Huma, mas não
+aguento mais!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
@@ -833,8 +829,8 @@ just can't take it any more!</EnglishText>
       <PointerOffset>1572</PointerOffset>
       <JapaneseText>所詮、ヒューマはヒューマ、
 どこの街へ行っても同じだね。</JapaneseText>
-      <EnglishText>Wherever you go, Huma
-are always the same.</EnglishText>
+      <EnglishText>Onde quer que se vá, os Huma
+são sempre iguais.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
@@ -844,8 +840,8 @@ are always the same.</EnglishText>
       <PointerOffset>1594</PointerOffset>
       <JapaneseText>あんたらもどうせ、ガジュマの事、
 見下してるんだろ？</JapaneseText>
-      <EnglishText>I take it you guys look
-down on Gajuma as well?</EnglishText>
+      <EnglishText>Imagino que vocês também
+menosprezam os Gajuma?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -855,7 +851,7 @@ down on Gajuma as well?</EnglishText>
       <PointerOffset>1633</PointerOffset>
       <JapaneseText>な、なんだ、
 何が起こってるんだ!?</JapaneseText>
-      <EnglishText>Wh-What's got you all worked up?</EnglishText>
+      <EnglishText>O-O que tá deixando todos assim?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
@@ -866,9 +862,9 @@ down on Gajuma as well?</EnglishText>
       <JapaneseText>工場に立てこもって以来、
 どうも街のヒューマとの間が
 少し気まずいんだ。</JapaneseText>
-      <EnglishText>Ever since we barricaded ourselves in
-the factory, things have been awkward
-between the Gajuma and Huma here.</EnglishText>
+      <EnglishText>Desde que nos barricamos na
+fábrica, as coisas ficaram
+estranhas entre Gajuma e Huma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
@@ -878,8 +874,8 @@ between the Gajuma and Huma here.</EnglishText>
       <PointerOffset>1719</PointerOffset>
       <JapaneseText>でも、本当は
 仲良くやりたいんだ。</JapaneseText>
-      <EnglishText>But I really want for
-us to get along.</EnglishText>
+      <EnglishText>Mas eu quero muito que a
+gente se dê bem.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>69</Id>
@@ -890,9 +886,9 @@ us to get along.</EnglishText>
       <JapaneseText>ヒューマに街を追い出されて以来、
 少し被害妄想ぎみに
 なってたのかもしれない……</JapaneseText>
-      <EnglishText>Ever since I got kicked out of where
-I used to live by Huma, I guess I've
-gotten a little paranoid...</EnglishText>
+      <EnglishText>Desde que fui expulso de onde
+morava pelos Huma, acho que
+fiquei meio paranoico...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -902,8 +898,8 @@ gotten a little paranoid...</EnglishText>
       <PointerOffset>1766</PointerOffset>
       <JapaneseText>僕たちガジュマにも
 反省する点はたくさんあるんだろうな。</JapaneseText>
-      <EnglishText>Even we Gajuma have things that
-we need to reflect on, I suppose.</EnglishText>
+      <EnglishText>Acho que até nós, Gajuma,
+temos coisas pra refletir.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
@@ -913,8 +909,8 @@ we need to reflect on, I suppose.</EnglishText>
       <PointerOffset>1791</PointerOffset>
       <JapaneseText>昼休みにちょっとうちに
 帰ってきたら……</JapaneseText>
-      <EnglishText>When I stop by my house
-on my lunch break...</EnglishText>
+      <EnglishText>Quando passo em casa no
+horário do almoço...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>72</Id>
@@ -924,8 +920,8 @@ on my lunch break...</EnglishText>
       <PointerOffset>1813</PointerOffset>
       <JapaneseText>……仕事に
 戻りたくなくなっちゃった……</JapaneseText>
-      <EnglishText>...It kinda makes me not
-want to go back to work...</EnglishText>
+      <EnglishText>...Dá vontade de não
+voltar ao trabalho...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>73</Id>
@@ -939,9 +935,9 @@ want to go back to work...</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>74</Id>
@@ -955,9 +951,9 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『色々入った棚』
 工場で使う道具や仕事着が
 並んでいる。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Shelf with All Sorts of Things - 
-Tools used by factory workers
-lie alongside each other.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Prateleira de Variedades -
+Ferramentas usadas por operários
+ficam lado a lado.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
@@ -967,7 +963,7 @@ lie alongside each other.</EnglishText>
       <PointerOffset>918</PointerOffset>
       <JapaneseText>懐かしいな……
 </JapaneseText>
-      <EnglishText>This takes me back...</EnglishText>
+      <EnglishText>Isso traz lembranças...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>76</Id>
@@ -983,11 +979,11 @@ lie alongside each other.</EnglishText>
 「工場賄い用食材。
 　無断で持ち出すべからず」
 ……と張り紙がしてある。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt; - Wooden Crate -
-There are tomatoes and cucumbers
-inside. Written on the front is
-"Food for Factory Meals. Don't
-take without permission."</EnglishText>
+      <EnglishText>&lt;speed:0&gt; - Caixote de Madeira -
+Há tomates e pepinos lá
+dentro. Na frente está escrito
+"Comida das Refeições da Fábrica.
+Não pegue sem permissão."</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>77</Id>
@@ -998,7 +994,7 @@ take without permission."</EnglishText>
       <JapaneseText>うー、なんか
 お腹空いてきたヨ。
 </JapaneseText>
-      <EnglishText>Ohh... This is making me hungry.</EnglishText>
+      <EnglishText>Ohh... Isso tá me dando fome.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>78</Id>
@@ -1016,13 +1012,13 @@ take without permission."</EnglishText>
 大きくなってきたら水上に移す。
 大きくなるまで二十年はかかるという。
 主に南方の水辺に生息。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Potted Birdie Grass -
-As it grows, it produces insect-like
-flowers that attract birds. It is first
-planted in the soil and then transferred
-onto water after it has grown. It takes
-around twenty years to mature, and grows
-mostly on the water's edge in the south.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Vaso de Birdie Grass -
+Ao crescer, produz flores que
+parecem insetos e atraem pássaros.
+É plantada na terra e depois
+transferida pra água. Leva cerca
+de vinte anos pra amadurecer e
+cresce na beira da água, no sul.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>79</Id>

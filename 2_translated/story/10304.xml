@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919,919</PointerOffset>
       <JapaneseText>男の子</JapaneseText>
-      <EnglishText>Boy</EnglishText>
+      <EnglishText>Menino</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>535</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>557</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;の家</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s House</EnglishText>
+      <EnglishText>Casa de &lt;Tytree&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -56,7 +56,7 @@
     <Entry>
       <PointerOffset>582</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
       <JapaneseText>&lt;Tytree&gt;兄ちゃん、
 がんばってきてね！
 </JapaneseText>
-      <EnglishText>Good luck out there, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Boa sorte, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -80,7 +80,7 @@
       <JapaneseText>セレーナさんは、
 僕たちのあこがれのマトなんだ！
 </JapaneseText>
-      <EnglishText>We all look up to Selena!</EnglishText>
+      <EnglishText>Todos nós admiramos a Selena!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -90,7 +90,7 @@
       <PointerOffset>1029</PointerOffset>
       <JapaneseText>セレーナさんを
 助けてあげて！</JapaneseText>
-      <EnglishText>So please, save her!</EnglishText>
+      <EnglishText>Então, por favor, salve ela!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -100,7 +100,7 @@
       <PointerOffset>1093</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;兄ちゃん、
 帰ってきたの？</JapaneseText>
-      <EnglishText>Have you come home, &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Você voltou pra casa, &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -110,8 +110,8 @@
       <PointerOffset>1115</PointerOffset>
       <JapaneseText>また、行っちゃうの……？
 つまんないの……</JapaneseText>
-      <EnglishText>What, you're leaving again?
-Lame...</EnglishText>
+      <EnglishText>O quê, você vai embora de novo?
+Que chato...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -121,7 +121,7 @@ Lame...</EnglishText>
       <PointerOffset>1140</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;兄ちゃんを
 連れてっちゃヤだー!!</JapaneseText>
-      <EnglishText>Don't take &lt;Tytree&gt; with you!</EnglishText>
+      <EnglishText>Não leve o &lt;Tytree&gt; com você!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -132,7 +132,7 @@ Lame...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;さん、
 おはようございます！
 </JapaneseText>
-      <EnglishText>Good morning, Mister &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Bom dia, senhor &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -143,8 +143,8 @@ Lame...</EnglishText>
       <JapaneseText>と、父ちゃんが
 い、いつもお世話に……
 </JapaneseText>
-      <EnglishText>Y-You're always looking
-out for my dad...</EnglishText>
+      <EnglishText>V-Você sempre cuida do
+meu pai...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -154,7 +154,7 @@ out for my dad...</EnglishText>
       <PointerOffset>1317</PointerOffset>
       <JapaneseText>また、旅に出るの？
 </JapaneseText>
-      <EnglishText>Are you leaving again?</EnglishText>
+      <EnglishText>Você vai embora de novo?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -165,8 +165,8 @@ out for my dad...</EnglishText>
       <JapaneseText>帰ってきたら、
 遊んでよ！
 </JapaneseText>
-      <EnglishText>Play with me when
-you get back, okay?</EnglishText>
+      <EnglishText>Brinca comigo quando
+voltar, tá?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -177,7 +177,7 @@ you get back, okay?</EnglishText>
       <JapaneseText>&lt;Tytree&gt;兄ちゃんを
 よろしくお願いします！
 </JapaneseText>
-      <EnglishText>Have fun with &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Divirtam-se com o &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -187,8 +187,8 @@ you get back, okay?</EnglishText>
       <PointerOffset>1396</PointerOffset>
       <JapaneseText>ちょっとうるさいけど、
 面白い人だよ！</JapaneseText>
-      <EnglishText>He's a little annoying,
-but he sure is funny!</EnglishText>
+      <EnglishText>Ele é meio chato,
+mas é muito engraçado!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -198,8 +198,8 @@ but he sure is funny!</EnglishText>
       <PointerOffset>1421</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;兄ちゃんの家？
 その階段の右側のところだよ。</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s house? It's the
-one by the stairs.</EnglishText>
+      <EnglishText>A casa do &lt;Tytree&gt;? É aquela
+perto da escada.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -209,9 +209,9 @@ one by the stairs.</EnglishText>
       <PointerOffset>1443</PointerOffset>
       <JapaneseText>でもこの時間は
 工場で働いてるんじゃないかな？</JapaneseText>
-      <EnglishText>But I think he should be
-at work at the factory
-right about now.</EnglishText>
+      <EnglishText>Mas acho que ele deve estar
+trabalhando na fábrica
+agora.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -220,7 +220,7 @@ right about now.</EnglishText>
     <Entry>
       <PointerOffset>1465</PointerOffset>
       <JapaneseText>行ってみたら？</JapaneseText>
-      <EnglishText>Why don't you go look there?</EnglishText>
+      <EnglishText>Por que não vão procurar lá?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -230,8 +230,8 @@ right about now.</EnglishText>
       <PointerOffset>1529</PointerOffset>
       <JapaneseText>最近、街の雰囲気が
 少し悪いんだ。</JapaneseText>
-      <EnglishText>Things have been bad
-around here lately.</EnglishText>
+      <EnglishText>As coisas andam ruins
+por aqui ultimamente.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -242,8 +242,8 @@ around here lately.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;兄ちゃん、
 早く帰ってきて！
 </JapaneseText>
-      <EnglishText>So please hurry and
-come back, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Então, por favor, volte
+logo, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -254,8 +254,8 @@ come back, &lt;Tytree&gt;!</EnglishText>
       <JapaneseText>最近、ガジュマのお友達が
 増えたんだ。
 </JapaneseText>
-      <EnglishText>I've made a lot of
-Gajuma friends lately.</EnglishText>
+      <EnglishText>Fiz muitos amigos Gajuma
+ultimamente.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -267,9 +267,9 @@ Gajuma friends lately.</EnglishText>
 追い出されたみたいで、
 なんかピリピリしてるよ……
 </JapaneseText>
-      <EnglishText>But they're all so nervous...
-Apparently they were all
-kicked out of their old towns.</EnglishText>
+      <EnglishText>Mas todos eles são tão tensos...
+Parece que foram todos expulsos
+das suas cidades antigas.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -280,8 +280,8 @@ kicked out of their old towns.</EnglishText>
       <JapaneseText>やっぱりこの街は
 &lt;Tytree&gt;兄ちゃんがいないと
 ダメなんだ。</JapaneseText>
-      <EnglishText>This town isn't the
-same without &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Esta cidade não é a mesma
+sem o &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -292,9 +292,9 @@ same without &lt;Tytree&gt;.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;お兄ちゃん、
 どうしたら、お兄ちゃんたちみたいに
 ヒューマとガジュマ、うまくやれるの？</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;, how can I be more
-like you? I want to get along
-with Huma and Gajuma too.</EnglishText>
+      <EnglishText>&lt;Tytree&gt;, como posso ser mais
+como você? Quero me dar bem
+com Huma e Gajuma também.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -305,9 +305,9 @@ with Huma and Gajuma too.</EnglishText>
       <JapaneseText>ガジュマのお友達も
 ヒューマとなんか仲良くしちゃ
 ダメって言うんだ。</JapaneseText>
-      <EnglishText>My Gajuma friends told me
-that they won't ever get
-along with Huma.</EnglishText>
+      <EnglishText>Meus amigos Gajuma disseram
+que nunca vão se dar bem
+com os Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -318,8 +318,8 @@ along with Huma.</EnglishText>
       <JapaneseText>僕、ヒューマとも
 ガジュマとも仲良くしたいんだ。
 </JapaneseText>
-      <EnglishText>I want to make
-friends with Huma.</EnglishText>
+      <EnglishText>Eu quero ser amigo
+dos Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -329,7 +329,7 @@ friends with Huma.</EnglishText>
       <PointerOffset>1753</PointerOffset>
       <JapaneseText>だってこれまで、
 それが普通だったし……</JapaneseText>
-      <EnglishText>I thought that was normal...</EnglishText>
+      <EnglishText>Achei que isso era normal...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -339,7 +339,7 @@ friends with Huma.</EnglishText>
       <PointerOffset>1775</PointerOffset>
       <JapaneseText>でも……そっちの方が
 間違ってるのかな……</JapaneseText>
-      <EnglishText>But now I'm not so sure...</EnglishText>
+      <EnglishText>Mas agora não tenho certeza...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -350,9 +350,9 @@ friends with Huma.</EnglishText>
       <JapaneseText>ゴメンね、&lt;Tytree&gt;お兄ちゃん……
 ヒューマと仲良くすると、
 仲間外れにされちゃうんだ……</JapaneseText>
-      <EnglishText>I'm sorry, &lt;Tytree&gt;...
-I get bullied when I try
-to get along with Huma...</EnglishText>
+      <EnglishText>Desculpa, &lt;Tytree&gt;...
+Me zoam quando tento me
+dar bem com os Huma...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -361,7 +361,7 @@ to get along with Huma...</EnglishText>
     <Entry>
       <PointerOffset>1861</PointerOffset>
       <JapaneseText>ゴメンね……</JapaneseText>
-      <EnglishText>Sorry...</EnglishText>
+      <EnglishText>Desculpa...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -372,9 +372,8 @@ to get along with Huma...</EnglishText>
       <JapaneseText>ねえ、おじちゃん、
 ガジュマとヒューマが仲良くするのって
 やっぱりおかしいの？</JapaneseText>
-      <EnglishText>Hey, mister, isn't it
-weird for Huma and
-Gajuma to be friends?</EnglishText>
+      <EnglishText>Ei, moço, não é estranho
+Huma e Gajuma serem amigos?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -384,8 +383,8 @@ Gajuma to be friends?</EnglishText>
       <PointerOffset>1921</PointerOffset>
       <JapaneseText>僕がおかしいの……？
 僕、どうすればいいのかな……？</JapaneseText>
-      <EnglishText>Am I weird...? I wonder
-what I should do...?</EnglishText>
+      <EnglishText>Será que eu sou estranho...?
+O que devo fazer...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -394,7 +393,7 @@ what I should do...?</EnglishText>
     <Entry>
       <PointerOffset>1946</PointerOffset>
       <JapaneseText>……僕……</JapaneseText>
-      <EnglishText>I...</EnglishText>
+      <EnglishText>Eu...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -413,8 +412,8 @@ what I should do...?</EnglishText>
       <PointerOffset>2016</PointerOffset>
       <JapaneseText>なんか最近、
 少し街の雰囲気がよくなったよ。</JapaneseText>
-      <EnglishText>I think things have been
-getting better around here.</EnglishText>
+      <EnglishText>Acho que as coisas têm
+melhorado por aqui.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -424,8 +423,8 @@ getting better around here.</EnglishText>
       <PointerOffset>2038</PointerOffset>
       <JapaneseText>このあいだ、来た
 女の人のおかげだな……</JapaneseText>
-      <EnglishText>It must be thanks to that
-girl who stopped by...</EnglishText>
+      <EnglishText>Deve ser graças àquela
+moça que passou por aqui...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -435,9 +434,9 @@ girl who stopped by...</EnglishText>
       <PointerOffset>2063</PointerOffset>
       <JapaneseText>工場の大人たちが
 少しもめてるみたい。</JapaneseText>
-      <EnglishText>It looks like the adults
-at the factory aren't
-happy with each other...</EnglishText>
+      <EnglishText>Parece que os adultos da
+fábrica não estão se
+entendendo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>
@@ -446,7 +445,7 @@ happy with each other...</EnglishText>
     <Entry>
       <PointerOffset>2085</PointerOffset>
       <JapaneseText>なんでケンカするのかな……</JapaneseText>
-      <EnglishText>I wonder why they're fighting?</EnglishText>
+      <EnglishText>Por que será que estão brigando?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>40</Id>
@@ -456,7 +455,7 @@ happy with each other...</EnglishText>
       <PointerOffset>2124</PointerOffset>
       <JapaneseText>ねえ……ねえ……
 大丈夫なの……？</JapaneseText>
-      <EnglishText>H-Hey... Are you okay...?</EnglishText>
+      <EnglishText>E-Ei... Você tá bem...?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>41</Id>
@@ -467,7 +466,7 @@ happy with each other...</EnglishText>
       <JapaneseText>みんな、
 &lt;Tytree&gt;兄ちゃんを
 必要としてるんだ。</JapaneseText>
-      <EnglishText>Everyone here needs you, &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Todos precisam de você, &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>42</Id>
@@ -477,9 +476,8 @@ happy with each other...</EnglishText>
       <PointerOffset>2210</PointerOffset>
       <JapaneseText>旅が終わったら、
 絶対帰ってきてよ！</JapaneseText>
-      <EnglishText>So make sure you come
-home once your journey
-is over, okay?</EnglishText>
+      <EnglishText>Então volte pra casa quando
+sua jornada terminar, tá?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>43</Id>
@@ -489,7 +487,7 @@ is over, okay?</EnglishText>
       <PointerOffset>2232</PointerOffset>
       <JapaneseText>そのまま、
 どっか行っちゃわないでよ。</JapaneseText>
-      <EnglishText>You can't just leave like that...</EnglishText>
+      <EnglishText>Você não pode ir embora assim...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>44</Id>
@@ -499,8 +497,8 @@ is over, okay?</EnglishText>
       <PointerOffset>2257</PointerOffset>
       <JapaneseText>ガジュマとヒューマのケンカは
 おさまったけど……</JapaneseText>
-      <EnglishText>Gajuma and Huma aren't fighting
-as much anymore, but...</EnglishText>
+      <EnglishText>Gajuma e Huma não brigam
+tanto quanto antes, mas...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>45</Id>
@@ -510,7 +508,7 @@ as much anymore, but...</EnglishText>
       <PointerOffset>2279</PointerOffset>
       <JapaneseText>まだ少し
 ギクシャクしてるんだ。</JapaneseText>
-      <EnglishText>Things are still a little awkward.</EnglishText>
+      <EnglishText>Ainda tá um pouco estranho.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>46</Id>
@@ -521,9 +519,9 @@ as much anymore, but...</EnglishText>
       <JapaneseText>オレはカレギア最強の
 鉄工職人になるんダッ!!
 </JapaneseText>
-      <EnglishText>I'm gonna grow up to be
-the best iron worker in
-all of Callegea!</EnglishText>
+      <EnglishText>Quando crescer, vou ser o
+melhor ferreiro de toda
+Callegea!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>47</Id>
@@ -544,9 +542,8 @@ all of Callegea!</EnglishText>
       <JapaneseText>……いや……なれって父ちゃんに
 言われたし……
 </JapaneseText>
-      <EnglishText>Ah... Uhh...well, that's
-what my Dad wants me
-to do...</EnglishText>
+      <EnglishText>Ah... Hum... bem, é o que
+meu pai quer que eu faça...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>49</Id>

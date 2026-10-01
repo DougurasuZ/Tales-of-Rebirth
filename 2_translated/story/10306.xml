@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>5664,5664,5664,5664,5664,1034,1248,1248,1248,1248,1248,1248,1248,1248,1248</PointerOffset>
       <JapaneseText>工場長</JapaneseText>
-      <EnglishText>Manager</EnglishText>
+      <EnglishText>Gerente</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>9914</PointerOffset>
       <JapaneseText>notice</JapaneseText>
-      <EnglishText>Notice</EnglishText>
+      <EnglishText>Aviso</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>986,1344,1344,1344,1344</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -128,7 +128,7 @@
     <Entry>
       <PointerOffset>687</PointerOffset>
       <JapaneseText>製鉄工場</JapaneseText>
-      <EnglishText>Iron Factory</EnglishText>
+      <EnglishText>Fábrica de Ferro</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -140,7 +140,7 @@
       <PointerOffset>4614</PointerOffset>
       <VoiceId>1300000a</VoiceId>
       <JapaneseText>これは……まさか!?</JapaneseText>
-      <EnglishText>Oh... This is awful!</EnglishText>
+      <EnglishText>Ah... Isso é terrível!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -150,8 +150,8 @@
       <PointerOffset>4776</PointerOffset>
       <VoiceId>1300000b</VoiceId>
       <JapaneseText>フォルスが暴走してる!!</JapaneseText>
-      <EnglishText>Someone's Force has
-gone berserk!</EnglishText>
+      <EnglishText>O Force de alguém
+enlouqueceu!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -161,7 +161,7 @@ gone berserk!</EnglishText>
       <PointerOffset>4854</PointerOffset>
       <VoiceId>1300000c</VoiceId>
       <JapaneseText>&lt;Yellow&gt;樹のフォルス&lt;White&gt;だ！</JapaneseText>
-      <EnglishText>It's the &lt;Yellow&gt;Force of Wood&lt;White&gt;!</EnglishText>
+      <EnglishText>É o &lt;Yellow&gt;Force of Wood&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -171,7 +171,7 @@ gone berserk!</EnglishText>
       <PointerOffset>4875</PointerOffset>
       <VoiceId>1300000d</VoiceId>
       <JapaneseText>そんなのがあるのか？</JapaneseText>
-      <EnglishText>There's a Force like that?</EnglishText>
+      <EnglishText>Existe um Force assim?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -183,9 +183,9 @@ gone berserk!</EnglishText>
       <JapaneseText>以前、見た事がある。
 植物を自由に操る事のできる
 フォルスだ！</JapaneseText>
-      <EnglishText>Yes, I've seen it before.
-It allows one to freely
-control plant life.</EnglishText>
+      <EnglishText>Sim, já vi um antes.
+Permite controlar livremente
+a vida vegetal.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -195,8 +195,8 @@ control plant life.</EnglishText>
       <PointerOffset>4940</PointerOffset>
       <VoiceId>1300000f</VoiceId>
       <JapaneseText>&lt;Blue&gt;王の盾&lt;White&gt;の能力者か!?</JapaneseText>
-      <EnglishText>Could it be a member
-of the &lt;Blue&gt;Royal Shield&lt;White&gt;?</EnglishText>
+      <EnglishText>Seria um membro do
+&lt;Blue&gt;Escudo Real&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -206,8 +206,8 @@ of the &lt;Blue&gt;Royal Shield&lt;White&gt;?</EnglishText>
       <PointerOffset>4969</PointerOffset>
       <VoiceId>13000010</VoiceId>
       <JapaneseText>とにかく状況を探るんだ！</JapaneseText>
-      <EnglishText>We'll have to ask
-what's going on.</EnglishText>
+      <EnglishText>Teremos que perguntar
+o que está acontecendo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -219,10 +219,10 @@ what's going on.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……!!　本当にすまん!!
 娘が可愛いあまりに、セレーナを……
 許してくれ……</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;! I'm so sorry! I was
-so focused on keeping my
-daughter safe, that Selena...
-Forgive me...</EnglishText>
+      <EnglishText>&lt;Tytree&gt;! Sinto muito! Eu estava
+tão concentrado em proteger
+minha filha que a Selena...
+Me perdoe...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -235,10 +235,10 @@ Forgive me...</EnglishText>
 暴れちまったしな……
 それに終わった事をウダウダ言うのは
 おれの性分に合わないぜ……</JapaneseText>
-      <EnglishText>No, well... I totally freaked out...
-Besides, whining and complaining
-about something that's in the past
-isn't my thing.</EnglishText>
+      <EnglishText>Não, bem... Eu surtei total...
+Além disso, ficar choramingando
+sobre o que já passou
+não é a minha.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
@@ -249,7 +249,7 @@ isn't my thing.</EnglishText>
       <VoiceId>1300007c</VoiceId>
       <JapaneseText>だが……だが、セレーナは
 さらわれて……</JapaneseText>
-      <EnglishText>But... But, Selena was taken...</EnglishText>
+      <EnglishText>Mas... Mas a Selena foi levada...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -260,9 +260,8 @@ isn't my thing.</EnglishText>
       <VoiceId>1300007d</VoiceId>
       <JapaneseText>姉貴はおれが助けに行って来る。
 この仲間と一緒にな。</JapaneseText>
-      <EnglishText>I'm going to go save
-her. Together with
-my friends.</EnglishText>
+      <EnglishText>Eu vou salvar ela. Junto
+com meus amigos.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
@@ -273,9 +272,9 @@ my friends.</EnglishText>
       <VoiceId>1300007e</VoiceId>
       <JapaneseText>そうか……本当にすまない……
 私がふがいないばっかりに……</JapaneseText>
-      <EnglishText>Is that so? I'm really, truly
-sorry. I'm really ashamed of
-what I did...</EnglishText>
+      <EnglishText>É mesmo? Sinto muito, de
+coração. Tenho vergonha do
+que fiz...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -287,9 +286,9 @@ what I did...</EnglishText>
       <JapaneseText>気をつけてな……
 いや、言うまでもないか……
 あんな力を持っているんだからな。</JapaneseText>
-      <EnglishText>Take care, will ya? Well, I guess I
-don't even need to say that. You
-have that power of yours, after all.</EnglishText>
+      <EnglishText>Se cuida, tá? Bom, acho que nem
+precisava dizer. Você tem esse
+poder seu, afinal.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -301,9 +300,9 @@ have that power of yours, after all.</EnglishText>
       <JapaneseText>……すまないな、黙ってて。
 こいつで連中ぶっ飛ばして、
 すぐに姉貴を連れて帰って来るさ。</JapaneseText>
-      <EnglishText>...Sorry for hiding it from you.
-I'm gonna give those guys hell
-and bring my big sister home!</EnglishText>
+      <EnglishText>...Desculpa por esconder de você.
+Vou dar uma lição nesses caras
+e trazer minha irmã pra casa!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
@@ -315,9 +314,9 @@ and bring my big sister home!</EnglishText>
       <JapaneseText>少し仕事を休むけど、
 戻ってきた時は
 また働かせてくれよな。</JapaneseText>
-      <EnglishText>I'm going to have to take some time
-off, but when I get back, could you
-let me work for you again?</EnglishText>
+      <EnglishText>Vou ter que me ausentar um tempo,
+mas, quando voltar, posso
+trabalhar pro senhor de novo?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
@@ -329,8 +328,8 @@ let me work for you again?</EnglishText>
       <JapaneseText>ああ、もちろんだとも。
 二人が帰って来るのを待っているよ。
 それじゃあ……</JapaneseText>
-      <EnglishText>Of course. I'll be waiting for you
-two to return. Well then...</EnglishText>
+      <EnglishText>Claro. Estarei esperando vocês
+dois voltarem. Bem, então...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -340,7 +339,7 @@ two to return. Well then...</EnglishText>
       <PointerOffset>6055</PointerOffset>
       <VoiceId>13000083</VoiceId>
       <JapaneseText>……出発しよう。</JapaneseText>
-      <EnglishText>...Let's head out.</EnglishText>
+      <EnglishText>...Vamos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
@@ -352,9 +351,9 @@ two to return. Well then...</EnglishText>
       <JapaneseText>ところで、姉貴をさらってった
 連中は、どこへ向かったか、
 わかってんのか？</JapaneseText>
-      <EnglishText>By the way, do you have any
-idea where those guys who
-took my sister are headed?</EnglishText>
+      <EnglishText>Aliás, vocês fazem ideia
+pra onde foram aqueles caras
+que levaram minha irmã?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
@@ -366,10 +365,10 @@ took my sister are headed?</EnglishText>
       <JapaneseText>おそらくサニイタウンだろう。
 あそこからなら、集められた娘たちを
 船で首都バルカへ運べる。</JapaneseText>
-      <EnglishText>Sunnytown, in all likelihood.
-From there, they would be
-able to take the kidnapped
-girls to Balka by ship.</EnglishText>
+      <EnglishText>Provavelmente Sunnytown.
+De lá, poderiam levar as
+moças sequestradas a Balka
+de navio.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -390,8 +389,8 @@ girls to Balka by ship.</EnglishText>
       <VoiceId>13000087</VoiceId>
       <JapaneseText>水上にある
 キレイな街だヨ！</JapaneseText>
-      <EnglishText>It's a really pretty town
-built right over water!</EnglishText>
+      <EnglishText>É uma cidade lindíssima
+construída em cima da água!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -401,7 +400,7 @@ built right over water!</EnglishText>
       <PointerOffset>6272</PointerOffset>
       <VoiceId>13000088</VoiceId>
       <JapaneseText>水の上に街が……？</JapaneseText>
-      <EnglishText>A town built over water...?</EnglishText>
+      <EnglishText>Uma cidade sobre a água...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -412,8 +411,8 @@ built right over water!</EnglishText>
       <VoiceId>13000089</VoiceId>
       <JapaneseText>ま、行ってみれば
 わかるって。</JapaneseText>
-      <EnglishText>Well, you'll understand
-when you see it.</EnglishText>
+      <EnglishText>Bom, você vai entender
+quando vir.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -426,10 +425,9 @@ when you see it.</EnglishText>
 トヨホウス河がある。
 サニイタウンに行くなら
 そこを舟で下れば、歩くより早いぜ。</JapaneseText>
-      <EnglishText>The Toyohose River is southeast of here.
-If you want to get to Sunnytown, going
-down the river would be faster than
-going on foot.</EnglishText>
+      <EnglishText>O Rio Toyohose fica a sudeste.
+Pra chegar a Sunnytown, descer
+o rio é mais rápido que a pé.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -440,8 +438,8 @@ going on foot.</EnglishText>
       <VoiceId>1300008b</VoiceId>
       <JapaneseText>東南か……
 よし、トヨホウス河へ向かおう。</JapaneseText>
-      <EnglishText>Southeast, was it? All right, let's
-head for the Toyohose River.</EnglishText>
+      <EnglishText>Sudeste, é? Muito bem, vamos
+ao Rio Toyohose.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
@@ -450,7 +448,7 @@ head for the Toyohose River.</EnglishText>
     <Entry>
       <PointerOffset>9740</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; entrou para o grupo.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>29</Id>
@@ -459,7 +457,7 @@ head for the Toyohose River.</EnglishText>
     <Entry>
       <PointerOffset>9818</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now traveling with you.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; agora viaja com você.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>30</Id>
@@ -471,8 +469,8 @@ head for the Toyohose River.</EnglishText>
     <Entry>
       <PointerOffset>1058</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;を頼む……！</JapaneseText>
-      <EnglishText>I'm counting on you
-to save &lt;Tytree&gt;...!</EnglishText>
+      <EnglishText>Conto com vocês pra salvar
+o &lt;Tytree&gt;...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
@@ -497,7 +495,7 @@ to save &lt;Tytree&gt;...!</EnglishText>
       <PointerOffset>1330</PointerOffset>
       <VoiceId>13000011</VoiceId>
       <JapaneseText>何があったんだ？</JapaneseText>
-      <EnglishText>What happened here?</EnglishText>
+      <EnglishText>O que aconteceu aqui?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -510,11 +508,11 @@ to save &lt;Tytree&gt;...!</EnglishText>
 あっと言う間に街を占拠して……
 それで、ヒューマの娘たちを工場に
 連れていって、中に閉じ込めたんだ。</JapaneseText>
-      <EnglishText>A group of what seemed to
-be soldiers suddenly took over
-the city... They've locked
-themselves in the factory with
-a bunch of Huma girls.</EnglishText>
+      <EnglishText>Um grupo que parecia ser de
+soldados tomou a cidade de
+repente... Eles se trancaram
+na fábrica com um monte de
+moças Huma.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>34</Id>
@@ -524,8 +522,8 @@ a bunch of Huma girls.</EnglishText>
       <PointerOffset>1451</PointerOffset>
       <VoiceId>13000013</VoiceId>
       <JapaneseText>きっとサレたちだよ!!</JapaneseText>
-      <EnglishText>It's gotta be Saleh
-and the others!</EnglishText>
+      <EnglishText>Só pode ser o Saleh
+e os outros!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -536,8 +534,8 @@ and the others!</EnglishText>
       <VoiceId>13000014</VoiceId>
       <JapaneseText>まだ全員、中に
 閉じ込められているのか？</JapaneseText>
-      <EnglishText>Is everyone still
-trapped inside?</EnglishText>
+      <EnglishText>Ainda estão todos presos
+lá dentro?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
@@ -550,11 +548,11 @@ trapped inside?</EnglishText>
 何人かの娘たちは解放されたんだけど、
 その二人と、&lt;Tytree&gt;の姉セレーナが
 まだ戻って来ていないんだ。</JapaneseText>
-      <EnglishText>The boss and &lt;Tytree&gt; went inside
-to negotiate and some of the girls
-were released, but neither they,
-nor Selena, &lt;Tytree&gt;'s older sister,
-have come out.</EnglishText>
+      <EnglishText>O chefe e o &lt;Tytree&gt; entraram
+pra negociar e algumas moças
+foram soltas, mas nem eles,
+nem a Selena, irmã mais velha
+do &lt;Tytree&gt;, saíram.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>37</Id>
@@ -564,7 +562,7 @@ have come out.</EnglishText>
       <PointerOffset>1538</PointerOffset>
       <VoiceId>13000016</VoiceId>
       <JapaneseText>その&lt;Tytree&gt;というのは？</JapaneseText>
-      <EnglishText>Who's &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Quem é &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
@@ -574,8 +572,8 @@ have come out.</EnglishText>
       <PointerOffset>1560</PointerOffset>
       <VoiceId>13000017</VoiceId>
       <JapaneseText>工場で働いていた青年だ。</JapaneseText>
-      <EnglishText>One of the younger
-factory workers.</EnglishText>
+      <EnglishText>Um dos operários mais
+jovens da fábrica.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>39</Id>
@@ -585,7 +583,7 @@ factory workers.</EnglishText>
       <PointerOffset>1731</PointerOffset>
       <VoiceId>13000018</VoiceId>
       <JapaneseText>た、助けてくれぇー!!</JapaneseText>
-      <EnglishText>H-Help meeeee!</EnglishText>
+      <EnglishText>S-Socorrooo!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -595,7 +593,7 @@ factory workers.</EnglishText>
       <PointerOffset>1827</PointerOffset>
       <VoiceId>13000019</VoiceId>
       <JapaneseText>工場長!!</JapaneseText>
-      <EnglishText>Boss!</EnglishText>
+      <EnglishText>Chefe!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>41</Id>
@@ -605,7 +603,7 @@ factory workers.</EnglishText>
       <PointerOffset>1848</PointerOffset>
       <VoiceId>1300001a</VoiceId>
       <JapaneseText>大丈夫ですか!?</JapaneseText>
-      <EnglishText>Are you all right!?</EnglishText>
+      <EnglishText>O senhor está bem!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -617,9 +615,9 @@ factory workers.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;が！
 セレーナを、あの連中に、
 工場が森に……！</JapaneseText>
-      <EnglishText>&lt;Tytree&gt; is...! Selena was...
-Those guys went and...
-The factory, a jungle...!</EnglishText>
+      <EnglishText>O &lt;Tytree&gt;...! A Selena...
+Aqueles caras foram e...
+A fábrica, uma selva...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -629,7 +627,7 @@ The factory, a jungle...!</EnglishText>
       <PointerOffset>1891</PointerOffset>
       <VoiceId>1300001c</VoiceId>
       <JapaneseText>…………？</JapaneseText>
-      <EnglishText>Huh...?</EnglishText>
+      <EnglishText>Hã...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -640,8 +638,8 @@ The factory, a jungle...!</EnglishText>
       <VoiceId>1300001d</VoiceId>
       <JapaneseText>落ち着いて！
 ゆっくり話してください！</JapaneseText>
-      <EnglishText>Calm down! Please
-speak more clearly!</EnglishText>
+      <EnglishText>Acalme-se! Por favor,
+fale com mais clareza!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>45</Id>
@@ -653,8 +651,8 @@ speak more clearly!</EnglishText>
       <JapaneseText>だから、うちの娘が……
 いや、&lt;Tytree&gt;が……
 うわぁぁ……っ！</JapaneseText>
-      <EnglishText>But...my daughter...! No,
-no, &lt;Tytree&gt; is... Aaaaagh!</EnglishText>
+      <EnglishText>Mas...minha filha...! Não,
+não, o &lt;Tytree&gt;... Aaaaagh!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
@@ -674,7 +672,7 @@ no, &lt;Tytree&gt; is... Aaaaagh!</EnglishText>
       <PointerOffset>2210</PointerOffset>
       <VoiceId>13000020</VoiceId>
       <JapaneseText>……落ち着きましたか？</JapaneseText>
-      <EnglishText>...Did that help you calm down?</EnglishText>
+      <EnglishText>...Isso ajudou você a se acalmar?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>48</Id>
@@ -684,7 +682,7 @@ no, &lt;Tytree&gt; is... Aaaaagh!</EnglishText>
       <PointerOffset>2240</PointerOffset>
       <VoiceId>13000021</VoiceId>
       <JapaneseText>……あ、ああ、ああ、なんとか……</JapaneseText>
-      <EnglishText>Y-Yeah... I guess...</EnglishText>
+      <EnglishText>S-Sim... acho que sim...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
@@ -695,8 +693,8 @@ no, &lt;Tytree&gt; is... Aaaaagh!</EnglishText>
       <VoiceId>13000022</VoiceId>
       <JapaneseText>何があったのか
 話してください。</JapaneseText>
-      <EnglishText>Please explain the
-situation to us.</EnglishText>
+      <EnglishText>Por favor, explique a
+situação pra nós.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>50</Id>
@@ -708,9 +706,9 @@ situation to us.</EnglishText>
       <JapaneseText>ああ……いや、その……
 兵隊を連れて来た
 妙な二人組がいてな……</JapaneseText>
-      <EnglishText>Yes, well, you see... There were
-these two odd fellows who arrived
-with a bunch of soldiers.</EnglishText>
+      <EnglishText>Sim, bem, veja... Dois sujeitos
+estranhos chegaram com um monte
+de soldados.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
@@ -723,9 +721,9 @@ with a bunch of soldiers.</EnglishText>
 連れて行こうとしてたのさ。
 ヒューマの中で一番キレイな
 娘だとか言って……</JapaneseText>
-      <EnglishText>They took Selena with them,
-saying that she was the most
-beautiful Huma girl in the city...</EnglishText>
+      <EnglishText>Levaram a Selena com eles,
+dizendo que era a Huma mais
+bonita da cidade...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
@@ -735,8 +733,8 @@ beautiful Huma girl in the city...</EnglishText>
       <PointerOffset>2335</PointerOffset>
       <VoiceId>13000025</VoiceId>
       <JapaneseText>やっぱりサレたちみたいだね。</JapaneseText>
-      <EnglishText>It must be Saleh and
-the others, after all.</EnglishText>
+      <EnglishText>Só pode ser o Saleh e
+os outros, então.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
@@ -749,9 +747,9 @@ the others, after all.</EnglishText>
 木のツタが伸びて来て、
 奴らからセレーナを
 取り戻そうとして……</JapaneseText>
-      <EnglishText>And then suddenly, vines sprouted
-from the factory's floor, as if to
-try and take Selena back...</EnglishText>
+      <EnglishText>Daí, de repente, trepadeiras
+brotaram do chão da fábrica,
+pra reaver a Selena...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
@@ -763,8 +761,8 @@ try and take Selena back...</EnglishText>
       <JapaneseText>……&lt;Tytree&gt;が
 何かしてるらしい事は
 わかったが……</JapaneseText>
-      <EnglishText>I know Tytree would try to
-do something like that, but...</EnglishText>
+      <EnglishText>Sei que o Tytree tentaria
+fazer algo assim, mas...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>55</Id>
@@ -777,10 +775,10 @@ do something like that, but...</EnglishText>
 後はヤケを起こしたみたいに
 次々とツタや樹が生えて来て、
 私は命からがら……</JapaneseText>
-      <EnglishText>Even after they were cut down,
-vines and trees kept sprouting up
-frantically, or so it seemed...
-I barely escaped with my life!</EnglishText>
+      <EnglishText>Mesmo depois de cortadas,
+trepadeiras e árvores brotavam
+frenéticas, ao que parecia...
+Escapei por pouco com vida!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
@@ -791,8 +789,8 @@ I barely escaped with my life!</EnglishText>
       <VoiceId>13000029</VoiceId>
       <JapaneseText>……やはり、フォルスが
 暴走したんだな。</JapaneseText>
-      <EnglishText>It sounds like he lost
-control of his Force.</EnglishText>
+      <EnglishText>Parece que ele perdeu o
+controle do Force.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>57</Id>
@@ -802,7 +800,7 @@ control of his Force.</EnglishText>
       <PointerOffset>2479</PointerOffset>
       <VoiceId>1300002a</VoiceId>
       <JapaneseText>で、サレたちはどこ？</JapaneseText>
-      <EnglishText>Where is Saleh now?</EnglishText>
+      <EnglishText>Onde o Saleh está agora?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>58</Id>
@@ -812,7 +810,7 @@ control of his Force.</EnglishText>
       <PointerOffset>2735</PointerOffset>
       <VoiceId>1300002b</VoiceId>
       <JapaneseText>ここだよ、ぼうや。</JapaneseText>
-      <EnglishText>Right here, kiddo.</EnglishText>
+      <EnglishText>Bem aqui, garoto.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>59</Id>
@@ -835,11 +833,11 @@ control of his Force.</EnglishText>
 あなたの大事な娘さんを連れていかない
 代わりに、セレーナさんを引き渡すという
 約束をしたじゃないですか？</JapaneseText>
-      <EnglishText>Lying will get you nowhere, Foreman.
-You were the one who made a deal
-to hand over Miss Selena so that we
-wouldn't take your precious daughter,
-weren't you?</EnglishText>
+      <EnglishText>Mentir não vai te levar a lugar
+nenhum, Capataz. Foi você quem
+fez o acordo de entregar a Srta.
+Selena pra gente não levar a sua
+preciosa filhinha, não foi?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>61</Id>
@@ -851,9 +849,9 @@ weren't you?</EnglishText>
       <JapaneseText>もっとも、あなたの娘さんを
 連れていくつもりなんて、
 はなからなかったけど。</JapaneseText>
-      <EnglishText>Not that we ever had any
-intentions of taking your
-daughter in the first place.</EnglishText>
+      <EnglishText>Não que a gente tivesse alguma
+intenção de levar sua filha,
+pra começar.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>62</Id>
@@ -864,8 +862,8 @@ daughter in the first place.</EnglishText>
       <VoiceId>1300002f</VoiceId>
       <JapaneseText>なぜなら、あなたの娘さんは
 美しくないから。</JapaneseText>
-      <EnglishText>Because she's just
-not beautiful.</EnglishText>
+      <EnglishText>Porque ela simplesmente
+não é bonita.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
@@ -875,7 +873,7 @@ not beautiful.</EnglishText>
       <PointerOffset>3167</PointerOffset>
       <VoiceId>13000030</VoiceId>
       <JapaneseText>貴様ら、クレアはどこだ!!</JapaneseText>
-      <EnglishText>You bastards! Where is Claire!?</EnglishText>
+      <EnglishText>Seus desgraçados! Cadê a Claire!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>64</Id>
@@ -886,7 +884,7 @@ not beautiful.</EnglishText>
       <VoiceId>13000031</VoiceId>
       <JapaneseText>見ての通りだ。
 ここにはいない。</JapaneseText>
-      <EnglishText>As you can see, not here.</EnglishText>
+      <EnglishText>Como pode ver, aqui não.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>65</Id>
@@ -897,8 +895,8 @@ not beautiful.</EnglishText>
       <VoiceId>13000032</VoiceId>
       <JapaneseText>どこへやったんだ!?
 クレアを……クレアを返せ！</JapaneseText>
-      <EnglishText>Where have you taken
-her!? Let Claire go!</EnglishText>
+      <EnglishText>Pra onde a levaram!?
+Soltem a Claire!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>66</Id>
@@ -909,8 +907,8 @@ her!? Let Claire go!</EnglishText>
       <VoiceId>13000033</VoiceId>
       <JapaneseText>悪いけど、おしゃべりしてる
 ヒマはないんだよね。</JapaneseText>
-      <EnglishText>My apologies, but we have no
-time to make small talk.</EnglishText>
+      <EnglishText>Minhas desculpas, mas não
+temos tempo pra conversa fiada.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>67</Id>
@@ -921,9 +919,9 @@ time to make small talk.</EnglishText>
       <VoiceId>13000034</VoiceId>
       <JapaneseText>待て!!　おまえたちの目的は何だ!?
 それは女王陛下のご存念なのか？</JapaneseText>
-      <EnglishText>Wait! Why are you doing
-this!? Are you really under
-orders from Her Majesty?!</EnglishText>
+      <EnglishText>Esperem! Por que estão fazendo
+isso!? Estão mesmo sob ordens
+de Sua Majestade?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>68</Id>
@@ -933,7 +931,7 @@ orders from Her Majesty?!</EnglishText>
       <PointerOffset>3504</PointerOffset>
       <VoiceId>13000035</VoiceId>
       <JapaneseText>ああっ、前に進めないヨ!!</JapaneseText>
-      <EnglishText>Agh, we can't go forward!</EnglishText>
+      <EnglishText>Agh, não conseguimos avançar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>69</Id>
@@ -945,9 +943,9 @@ orders from Her Majesty?!</EnglishText>
       <JapaneseText>お願いです!!
 私にかまわず、弟を……
 &lt;Tytree&gt;を止めてください!!</JapaneseText>
-      <EnglishText>Please, don't worry about me!
-You need to stop my brother,
-&lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Por favor, não se preocupem
+comigo! Vocês precisam deter
+meu irmão, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>70</Id>
@@ -959,9 +957,9 @@ You need to stop my brother,
       <JapaneseText>このままだと、街の人たちが
 &lt;Tytree&gt;のあの変な力に
 巻き込まれてしまいます!!</JapaneseText>
-      <EnglishText>At this rate, everyone in the
-city will be consumed by his
-strange power!</EnglishText>
+      <EnglishText>Desse jeito, todos na cidade
+serão consumidos pelo estranho
+poder dele!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>71</Id>
@@ -973,10 +971,9 @@ strange power!</EnglishText>
       <JapaneseText>ボクからもお願いするよ。
 この美しいお姉さんを
 悲しませないようにね。</JapaneseText>
-      <EnglishText>I ask that of you, myself.
-I would hate to have such
-a pretty face marred by
-sadness.</EnglishText>
+      <EnglishText>Eu mesmo lhes peço isso.
+Odiaria ver um rosto tão
+bonito marcado pela tristeza.</EnglishText>
       <Notes>put a dampener? a blemish? a scar?</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>72</Id>
@@ -986,7 +983,7 @@ sadness.</EnglishText>
       <PointerOffset>3883</PointerOffset>
       <VoiceId>13000039</VoiceId>
       <JapaneseText>……逃がさん……!!</JapaneseText>
-      <EnglishText>...Get back here!</EnglishText>
+      <EnglishText>...Volta aqui!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>73</Id>
@@ -998,9 +995,9 @@ sadness.</EnglishText>
       <JapaneseText>待て、&lt;Veigue&gt;。
 このフォルスの暴走を
 止めるのが先だ。</JapaneseText>
-      <EnglishText>Wait, &lt;Veigue&gt;! Stopping this
-rampaging Force is our
-priority right now!</EnglishText>
+      <EnglishText>Espere, &lt;Veigue&gt;! Deter esse
+Force descontrolado é nossa
+prioridade agora!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>74</Id>
@@ -1012,10 +1009,10 @@ priority right now!</EnglishText>
       <JapaneseText>連中を追いたい気持ちはわかる。
 しかし、目の前のこの状況を
 おまえは放って行くのか？</JapaneseText>
-      <EnglishText>I understand you want to pursue
-them, but do you really have the
-heart to just ignore what is
-happening in front of you?</EnglishText>
+      <EnglishText>Entendo que queira persegui-los,
+mas tem mesmo coragem de ignorar
+o que está acontecendo diante
+de nós?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>75</Id>
@@ -1025,7 +1022,7 @@ happening in front of you?</EnglishText>
       <PointerOffset>4044</PointerOffset>
       <VoiceId>1300003c</VoiceId>
       <JapaneseText>しかし……！</JapaneseText>
-      <EnglishText>But...!</EnglishText>
+      <EnglishText>Mas...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>76</Id>
@@ -1037,10 +1034,9 @@ happening in front of you?</EnglishText>
       <JapaneseText>セレーナさんは自分が
 連れ去られようとしているのに、
 この街と弟の事を案じ、俺たちに託した。</JapaneseText>
-      <EnglishText>Selena has entrusted us with
-the safety of this city and
-her brother, even as she was
-about to be taken away.</EnglishText>
+      <EnglishText>A Selena nos confiou a segurança
+desta cidade e do irmão, mesmo
+prestes a ser levada embora.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>77</Id>
@@ -1051,8 +1047,8 @@ about to be taken away.</EnglishText>
       <VoiceId>1300003e</VoiceId>
       <JapaneseText>……スールズでの
 クレアさんに似てるね……</JapaneseText>
-      <EnglishText>It's just like what
-Claire did in Sulz...</EnglishText>
+      <EnglishText>É igualzinho ao que a
+Claire fez em Sulz...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>78</Id>
@@ -1072,7 +1068,7 @@ Claire did in Sulz...</EnglishText>
       <PointerOffset>4142</PointerOffset>
       <VoiceId>13000040</VoiceId>
       <JapaneseText>フォルスを……</JapaneseText>
-      <EnglishText>That Force...</EnglishText>
+      <EnglishText>Aquele Force...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>80</Id>
@@ -1082,7 +1078,7 @@ Claire did in Sulz...</EnglishText>
       <PointerOffset>4196</PointerOffset>
       <VoiceId>13000041</VoiceId>
       <JapaneseText>フォルスを止めに行こう……</JapaneseText>
-      <EnglishText>We have to put a stop to it.</EnglishText>
+      <EnglishText>Temos que detê-lo.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>81</Id>
@@ -1093,8 +1089,8 @@ Claire did in Sulz...</EnglishText>
       <VoiceId>13000042</VoiceId>
       <JapaneseText>……それから、
 &lt;Tytree&gt;も助けないとネ！</JapaneseText>
-      <EnglishText>...And save &lt;Tytree&gt;
-while we're at it!</EnglishText>
+      <EnglishText>...E já aproveitar pra salvar
+o &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>82</Id>
@@ -1108,9 +1104,9 @@ while we're at it!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>83</Id>

@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546,546</PointerOffset>
       <JapaneseText>おじいさん</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Velho</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>Done</Status>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>366</PointerOffset>
       <JapaneseText>民家</JapaneseText>
-      <EnglishText>Residence</EnglishText>
+      <EnglishText>Residência</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
       <JapaneseText>&lt;Tytree&gt;さん、
 おはようございます……
 </JapaneseText>
-      <EnglishText>Good morning, &lt;Tytree&gt;...</EnglishText>
+      <EnglishText>Bom dia, &lt;Tytree&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -63,7 +63,7 @@
       <PointerOffset>617</PointerOffset>
       <JapaneseText>べ、別にさぼっておったわけじゃ
 ありませんよ……!!</JapaneseText>
-      <EnglishText>I-I'm not slacking off, sir...!</EnglishText>
+      <EnglishText>N-Não estou enrolando, senhor...!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -73,8 +73,8 @@
       <PointerOffset>704</PointerOffset>
       <JapaneseText>セレーナの弟か……
 </JapaneseText>
-      <EnglishText>You're Selena's younger
-brother, aren't you?</EnglishText>
+      <EnglishText>Você é o irmão mais novo da
+Selena, não é?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -85,9 +85,9 @@ brother, aren't you?</EnglishText>
       <JapaneseText>姉ちゃんに会ったら、
 ヒューマだからって偉そうにするな、
 と言っておけ。</JapaneseText>
-      <EnglishText>When you see her, tell her
-to stop being so haughty
-just because she's a Huma.</EnglishText>
+      <EnglishText>Quando a vir, diga pra ela
+parar de se achar só porque
+é uma Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -96,8 +96,8 @@ just because she's a Huma.</EnglishText>
     <Entry>
       <PointerOffset>748</PointerOffset>
       <JapaneseText>……おまえもな。</JapaneseText>
-      <EnglishText>...That goes for you
-too, you know.</EnglishText>
+      <EnglishText>...Isso vale pra você
+também, sabia?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -108,9 +108,9 @@ too, you know.</EnglishText>
       <JapaneseText>あんたもガジュマなら、
 ヒューマなんかと
 歩くのはやめたらどうだ？</JapaneseText>
-      <EnglishText>You're a Gajuma, so you
-might want to stop walking
-alongside those Huma.</EnglishText>
+      <EnglishText>Você é Gajuma, então é melhor
+parar de andar ao lado
+desses Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
@@ -120,8 +120,8 @@ alongside those Huma.</EnglishText>
       <PointerOffset>808</PointerOffset>
       <JapaneseText>そいつらは
 血も涙もない連中だぞ。</JapaneseText>
-      <EnglishText>Heed my words, those
-Huma are a cruel lot.</EnglishText>
+      <EnglishText>Ouça o que digo, esses
+Huma são um bando cruel.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -131,8 +131,8 @@ Huma are a cruel lot.</EnglishText>
       <PointerOffset>833</PointerOffset>
       <JapaneseText>ヒューマめが……
 いつか、仕返しを……！</JapaneseText>
-      <EnglishText>I'll get my revenge, just
-you wait, Huma bastards!</EnglishText>
+      <EnglishText>Vou me vingar, podem
+esperar, Huma desgraçados!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -142,8 +142,8 @@ you wait, Huma bastards!</EnglishText>
       <PointerOffset>897</PointerOffset>
       <JapaneseText>ヒューマの言いなりには
 ならんぞ！</JapaneseText>
-      <EnglishText>I'll never listen to
-you damn Huma!</EnglishText>
+      <EnglishText>Nunca vou dar ouvidos a
+vocês, malditos Huma!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -154,9 +154,9 @@ you damn Huma!</EnglishText>
       <JapaneseText>特におまえみたいに
 工場にも行かず、ブラブラしてる
 ろくでなしの言いなりにはな！</JapaneseText>
-      <EnglishText>Especially ones who just wander
-around and can't even be bothered
-to go to the factory!</EnglishText>
+      <EnglishText>Principalmente os que ficam
+vagando por aí e nem se dão ao
+trabalho de ir à fábrica!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -166,7 +166,7 @@ to go to the factory!</EnglishText>
       <PointerOffset>974</PointerOffset>
       <JapaneseText>ヒューマと一緒に
 旅をしてるじゃと!?</JapaneseText>
-      <EnglishText>You're traveling with Huma!?</EnglishText>
+      <EnglishText>Você viaja com Huma!?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>14</Id>
@@ -176,8 +176,8 @@ to go to the factory!</EnglishText>
       <PointerOffset>996</PointerOffset>
       <JapaneseText>……おまえさんは
 よほどの幸せ者じゃな……</JapaneseText>
-      <EnglishText>You...must have had
-a blessed life...</EnglishText>
+      <EnglishText>Você...deve ter tido uma
+vida abençoada...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -187,8 +187,8 @@ a blessed life...</EnglishText>
       <PointerOffset>1018</PointerOffset>
       <JapaneseText>ワシらのような目にあったなら、
 そんな事は絶対できまいて……</JapaneseText>
-      <EnglishText>If you've been through what I have,
-you'd never do such a thing...</EnglishText>
+      <EnglishText>Se tivesse passado pelo que
+passei, nunca faria isso...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -198,8 +198,8 @@ you'd never do such a thing...</EnglishText>
       <PointerOffset>1043</PointerOffset>
       <JapaneseText>ヒューマめが……
 いつか、仕返しを……！</JapaneseText>
-      <EnglishText>I'll get my revenge, just
-you wait, Huma bastards!</EnglishText>
+      <EnglishText>Vou me vingar, podem
+esperar, Huma desgraçados!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -209,8 +209,8 @@ you wait, Huma bastards!</EnglishText>
       <PointerOffset>1107</PointerOffset>
       <JapaneseText>もうおまえら
 ヒューマの言いなりにはならん！</JapaneseText>
-      <EnglishText>I'll never listen to
-what you say, Huma!</EnglishText>
+      <EnglishText>Nunca vou dar ouvidos ao
+que dizem, Huma!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
@@ -219,7 +219,7 @@ what you say, Huma!</EnglishText>
     <Entry>
       <PointerOffset>1129</PointerOffset>
       <JapaneseText>これからはガジュマの時代じゃ！</JapaneseText>
-      <EnglishText>The Era of Gajuma is now!</EnglishText>
+      <EnglishText>A Era dos Gajuma é agora!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -230,9 +230,9 @@ what you say, Huma!</EnglishText>
       <JapaneseText>これからはガジュマの時代じゃ！
 ジルバ様がそうおっしゃったと、
 工場の者たちがそう騒いでおる。</JapaneseText>
-      <EnglishText>As Lady Zilva said, and as
-the factory workers shout out:
-The Era of Gajuma is now!</EnglishText>
+      <EnglishText>Como disse a Lady Zilva e
+gritam os operários:
+A Era dos Gajuma é agora!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -242,9 +242,9 @@ The Era of Gajuma is now!</EnglishText>
       <PointerOffset>1189</PointerOffset>
       <JapaneseText>ヒューマなどと歩かず、
 そろそろその事を認識した方がよいぞ。</JapaneseText>
-      <EnglishText>It's about time you realized
-that and stopped walking
-alongside Huma.</EnglishText>
+      <EnglishText>Já era hora de perceber isso
+e parar de andar ao lado
+dos Huma.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -254,9 +254,8 @@ alongside Huma.</EnglishText>
       <PointerOffset>1211</PointerOffset>
       <JapaneseText>いずれヒューマはこの地上から
 いなくなるのだからな。</JapaneseText>
-      <EnglishText>There will come a time
-where there are no more
-Huma in this world.</EnglishText>
+      <EnglishText>Chegará o dia em que não
+haverá mais Huma neste mundo.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>22</Id>
@@ -266,7 +265,7 @@ Huma in this world.</EnglishText>
       <PointerOffset>1236</PointerOffset>
       <JapaneseText>ふん、ヒューマめ……
 いい気味じゃ……！</JapaneseText>
-      <EnglishText>Hm... That'll serve them right.</EnglishText>
+      <EnglishText>Hm... Bem feito pra eles.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -276,7 +275,7 @@ Huma in this world.</EnglishText>
       <PointerOffset>1297</PointerOffset>
       <JapaneseText>ヒューマなんて
 ロクなもんじゃない！</JapaneseText>
-      <EnglishText>Huma are good for nothing!</EnglishText>
+      <EnglishText>Os Huma não servem pra nada!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -286,8 +285,8 @@ Huma in this world.</EnglishText>
       <PointerOffset>1319</PointerOffset>
       <JapaneseText>一緒に旅してるんなら、
 あんたもわかるだろ？</JapaneseText>
-      <EnglishText>I'm sure you know that well,
-after traveling alongside them.</EnglishText>
+      <EnglishText>Tenho certeza de que sabe
+disso, depois de viajar com eles.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>25</Id>
@@ -297,8 +296,8 @@ after traveling alongside them.</EnglishText>
       <PointerOffset>1344</PointerOffset>
       <JapaneseText>どこの街へ行っても
 ヒューマは同じだ。</JapaneseText>
-      <EnglishText>Huma are the same no
-matter where you go.</EnglishText>
+      <EnglishText>Os Huma são todos iguais,
+não importa onde estejam.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>26</Id>
@@ -308,9 +307,9 @@ matter where you go.</EnglishText>
       <PointerOffset>1366</PointerOffset>
       <JapaneseText>あんたらがどこから来たか、知らんが、
 おんなじなんだろうな。</JapaneseText>
-      <EnglishText>I have no idea where you 
-all are from, but you're all
-the same nonetheless.</EnglishText>
+      <EnglishText>Não sei de onde vocês
+vêm, mas são todos iguais
+de qualquer jeito.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>27</Id>
@@ -322,9 +321,9 @@ the same nonetheless.</EnglishText>
 誤解していたのか……
 いやいや……そんな事は
 ないはずじゃ……</JapaneseText>
-      <EnglishText>Was I wrong about Huma
-all this time...? N-No...
-That can't be the case...</EnglishText>
+      <EnglishText>Será que eu estava errado
+sobre os Huma esse tempo
+todo...? N-Não... Não pode ser...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>28</Id>
@@ -334,7 +333,7 @@ That can't be the case...</EnglishText>
       <PointerOffset>1430</PointerOffset>
       <JapaneseText>地面が揺れておる……
 なんじゃ……？</JapaneseText>
-      <EnglishText>Wh-What...? The ground's shaking...</EnglishText>
+      <EnglishText>O-O quê...? O chão tá tremendo...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>
@@ -344,8 +343,8 @@ That can't be the case...</EnglishText>
       <PointerOffset>1493</PointerOffset>
       <JapaneseText>工場の問題は解決に
 向かいつつある。</JapaneseText>
-      <EnglishText>Our issues at the factory
-are gradually being resolved.</EnglishText>
+      <EnglishText>Nossos problemas na fábrica
+estão sendo resolvidos aos poucos.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>30</Id>
@@ -355,8 +354,8 @@ are gradually being resolved.</EnglishText>
       <PointerOffset>1515</PointerOffset>
       <JapaneseText>ヒューマの中にも
 いい奴と悪い奴がいるんだ。</JapaneseText>
-      <EnglishText>Guess there are good and
-bad amongst Huma as well.</EnglishText>
+      <EnglishText>Acho que entre os Huma também
+há bons e maus.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>31</Id>
@@ -366,8 +365,8 @@ bad amongst Huma as well.</EnglishText>
       <PointerOffset>1537</PointerOffset>
       <JapaneseText>工場長……
 奴は意外といい奴だ。</JapaneseText>
-      <EnglishText>The Factory Manager...
-He's surprisingly nice.</EnglishText>
+      <EnglishText>O Gerente da Fábrica...
+É surpreendentemente simpático.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -378,9 +377,9 @@ He's surprisingly nice.</EnglishText>
       <JapaneseText>ヒューマの中にも
 いい奴と悪い奴が
 いる事がわかったのさ。</JapaneseText>
-      <EnglishText>Guess there are good and
-bad amongst Huma as well...
-I've come to learn that.</EnglishText>
+      <EnglishText>Acho que entre os Huma também
+há bons e maus... Foi o que
+aprendi.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
@@ -390,9 +389,9 @@ I've come to learn that.</EnglishText>
       <PointerOffset>1584</PointerOffset>
       <JapaneseText>あんたらは……
 いい奴か？　悪い奴か？</JapaneseText>
-      <EnglishText>How about you...?
-Are you good...
-or are you bad?</EnglishText>
+      <EnglishText>E você...?
+É bom...
+ou é mau?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -402,8 +401,8 @@ or are you bad?</EnglishText>
       <PointerOffset>1623</PointerOffset>
       <JapaneseText>この街は煙突の町と
 呼ばれておる。</JapaneseText>
-      <EnglishText>This town is known as
-a town of smokestacks.</EnglishText>
+      <EnglishText>Esta cidade é conhecida
+como a cidade das chaminés.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>35</Id>
@@ -413,9 +412,9 @@ a town of smokestacks.</EnglishText>
       <PointerOffset>1645</PointerOffset>
       <JapaneseText>ほれ、家の屋根屋根に煙突が
 たくさん見えておるじゃろ？</JapaneseText>
-      <EnglishText>Look up there, you can
-see lots of 'em sticking
-out from the roofs.</EnglishText>
+      <EnglishText>Olhe lá em cima, dá pra ver
+muitas delas saindo dos
+telhados.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>36</Id>
@@ -424,7 +423,7 @@ out from the roofs.</EnglishText>
     <Entry>
       <PointerOffset>1667</PointerOffset>
       <JapaneseText>それに、工場の煙突も……な？</JapaneseText>
-      <EnglishText>And from the factory too, see?</EnglishText>
+      <EnglishText>E da fábrica também, viu?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -434,8 +433,8 @@ out from the roofs.</EnglishText>
       <PointerOffset>1692</PointerOffset>
       <JapaneseText>働かざる者
 食うべからず</JapaneseText>
-      <EnglishText>He who does not
-work, shall not eat.</EnglishText>
+      <EnglishText>Quem não trabalha,
+não come.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>38</Id>
@@ -445,9 +444,8 @@ work, shall not eat.</EnglishText>
       <PointerOffset>1714</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;、帰ってきたら、
 しっかり働くんじゃぞ。</JapaneseText>
-      <EnglishText>I'll make sure to whip
-you into shape when
-you come back, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Vou te botar nos eixos quando
+voltar, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>39</Id>

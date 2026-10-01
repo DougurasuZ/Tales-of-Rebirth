@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>5966,6025,6131</PointerOffset>
       <JapaneseText>工場長</JapaneseText>
-      <EnglishText>Manager</EnglishText>
+      <EnglishText>Gerente</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>5856,5864,4265,4265,4209,4209,4136,4136,4080,4080</PointerOffset>
       <JapaneseText>男の人</JapaneseText>
-      <EnglishText>Man</EnglishText>
+      <EnglishText>Homem</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213,3213</PointerOffset>
       <JapaneseText>女の子</JapaneseText>
-      <EnglishText>Girl</EnglishText>
+      <EnglishText>Menina</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Done</Status>
@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200</PointerOffset>
       <JapaneseText>雑貨屋「準備万端」</JapaneseText>
-      <EnglishText>General Store</EnglishText>
+      <EnglishText>Armazém</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Done</Status>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset>758</PointerOffset>
       <JapaneseText>宿屋・食材屋</JapaneseText>
-      <EnglishText>Inn - Grocery Store</EnglishText>
+      <EnglishText>Pousada - Mercearia</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Done</Status>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>777</PointerOffset>
       <JapaneseText>雑貨屋</JapaneseText>
-      <EnglishText>General Store</EnglishText>
+      <EnglishText>Armazém</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Done</Status>
@@ -132,7 +132,7 @@
       <PointerOffset>4585</PointerOffset>
       <VoiceId>13000005</VoiceId>
       <JapaneseText>誰もいないな。</JapaneseText>
-      <EnglishText>There's no one here.</EnglishText>
+      <EnglishText>Não tem ninguém aqui.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -142,7 +142,7 @@
       <PointerOffset>4648</PointerOffset>
       <VoiceId>13000006</VoiceId>
       <JapaneseText>やっぱり……静か過ぎる……</JapaneseText>
-      <EnglishText>Indeed, it's too quiet...</EnglishText>
+      <EnglishText>De fato, está quieto demais...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -152,7 +152,7 @@
       <PointerOffset>4700</PointerOffset>
       <VoiceId>13000007</VoiceId>
       <JapaneseText>見て、コレ！</JapaneseText>
-      <EnglishText>Hey, look!</EnglishText>
+      <EnglishText>Ei, olha!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -162,7 +162,7 @@
       <PointerOffset>4944</PointerOffset>
       <VoiceId>13000008</VoiceId>
       <JapaneseText>やはり&lt;Blue&gt;王の盾&lt;White&gt;か!?</JapaneseText>
-      <EnglishText>Could it be the &lt;Blue&gt;Royal Shield&lt;White&gt;!?</EnglishText>
+      <EnglishText>Seria o &lt;Blue&gt;Escudo Real&lt;White&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -172,7 +172,7 @@
       <PointerOffset>4986</PointerOffset>
       <VoiceId>13000009</VoiceId>
       <JapaneseText>あっちだよ!!</JapaneseText>
-      <EnglishText>It's coming from over there!</EnglishText>
+      <EnglishText>Tá vindo de lá!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -183,7 +183,7 @@
       <VoiceId>42000088</VoiceId>
       <JapaneseText>や、やったぞ……！
 </JapaneseText>
-      <EnglishText>W-We did it!</EnglishText>
+      <EnglishText>C-Conseguimos!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -194,8 +194,8 @@
       <VoiceId>42000089</VoiceId>
       <JapaneseText>やりましたね、工場長！
 </JapaneseText>
-      <EnglishText>We put up quite a fight,
-didn't we Boss?</EnglishText>
+      <EnglishText>Mandamos bem na luta,
+não foi, chefe?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
@@ -208,10 +208,10 @@ didn't we Boss?</EnglishText>
 倒しても倒してもわいて来る……
 もうダメかもしれん……
 </JapaneseText>
-      <EnglishText>But it seems like no matter
-how many we defeat, more
-and more keep coming. This
-might not end well for us...</EnglishText>
+      <EnglishText>Mas parece que, por mais que a
+gente derrote, vêm mais e
+mais. Isso pode acabar mal
+pra nós...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -224,9 +224,9 @@ might not end well for us...</EnglishText>
 バイラスだって倒せるんだから、
 がんばりましょうよ！
 </JapaneseText>
-      <EnglishText>These Biruses don't stand a
-chance as long as we work
-together! We can do this!</EnglishText>
+      <EnglishText>Esses Birus não têm vez se a
+gente trabalhar junto! Vamos
+conseguir!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
@@ -238,8 +238,8 @@ together! We can do this!</EnglishText>
       <JapaneseText>そうですよ、工場長！
 あきらめちゃダメです！
 </JapaneseText>
-      <EnglishText>He's right, Boss! There's
-no need to give up!</EnglishText>
+      <EnglishText>Ele tem razão, chefe! Não
+tem por que desistir!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
@@ -250,8 +250,8 @@ no need to give up!</EnglishText>
       <VoiceId>4200008d</VoiceId>
       <JapaneseText>あ、ああ、がんばるさ……
 </JapaneseText>
-      <EnglishText>Y-Yeah, okay... I'll try
-hanging in there...</EnglishText>
+      <EnglishText>É... tá bem... Vou tentar
+aguentar firme...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -263,8 +263,8 @@ hanging in there...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……
 あなたもがんばるのよ……
 </JapaneseText>
-      <EnglishText>&lt;Tytree&gt;... I hope you're
-hanging in there, too.</EnglishText>
+      <EnglishText>&lt;Tytree&gt;... Espero que você
+esteja aguentando firme também.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
@@ -278,9 +278,9 @@ hanging in there, too.</EnglishText>
       <JapaneseText>セレーナさんをかばって、
 なんか一騒動あったみたいだが……
 </JapaneseText>
-      <EnglishText>I guess there was a huge
-disturbance because he
-tried to protect Selena...</EnglishText>
+      <EnglishText>Acho que foi uma baita confusão
+porque ele tentou proteger
+a Selena...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
@@ -291,9 +291,8 @@ tried to protect Selena...</EnglishText>
       <JapaneseText>……まったく、最近、
 世間は物騒な話ばっかだぜ。
 </JapaneseText>
-      <EnglishText>Geez... There's been a
-lot of awful things
-happening these days...</EnglishText>
+      <EnglishText>Nossa... Tem acontecido tanta
+coisa horrível ultimamente...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
@@ -307,8 +306,8 @@ happening these days...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;はまだ生きてるって！
 こいつら、勝手に殺しやがって……
 </JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s still alive! Those guys
-just left him for dead...</EnglishText>
+      <EnglishText>&lt;Tytree&gt; ainda tá vivo! Aqueles
+caras deixaram ele pra morrer...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
@@ -319,8 +318,8 @@ just left him for dead...</EnglishText>
       <JapaneseText>あんたら……
 助けに行ってくれるんだろ？
 </JapaneseText>
-      <EnglishText>You guys are going
-to save him, right?</EnglishText>
+      <EnglishText>Vocês vão salvar ele,
+não vão?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
@@ -333,8 +332,8 @@ to save him, right?</EnglishText>
       <PointerOffset>4152</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;はとてもいい奴だったよ……
 人を分け隔てしなかったし……</JapaneseText>
-      <EnglishText>&lt;Tytree&gt; was a good kid...
-He treated everyone fairly...</EnglishText>
+      <EnglishText>&lt;Tytree&gt; era um bom garoto...
+Tratava todo mundo igual...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
@@ -345,8 +344,8 @@ He treated everyone fairly...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……
 俺たちはおまえの事を
 忘れないぞ……</JapaneseText>
-      <EnglishText>&lt;Tytree&gt;... We won't
-ever forget you...</EnglishText>
+      <EnglishText>&lt;Tytree&gt;... A gente nunca
+vai te esquecer...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
@@ -360,7 +359,7 @@ ever forget you...</EnglishText>
       <JapaneseText>&lt;Tytree&gt;は
 とても気のいい奴なんだ。
 </JapaneseText>
-      <EnglishText>&lt;Tytree&gt;'s a good kid.</EnglishText>
+      <EnglishText>&lt;Tytree&gt; é um bom garoto.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
@@ -372,8 +371,8 @@ ever forget you...</EnglishText>
 どうしたっていうんだ、
 &lt;Tytree&gt;のやつ……
 </JapaneseText>
-      <EnglishText>...But just what is
-happening to him...?</EnglishText>
+      <EnglishText>...Mas o que será que tá
+acontecendo com ele...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
@@ -387,8 +386,8 @@ happening to him...?</EnglishText>
       <JapaneseText>ああ、&lt;Tytree&gt;……!!
 ぶたないで……!!
 </JapaneseText>
-      <EnglishText>Eep, &lt;Tytree&gt;...!!
-Don't hit me...!</EnglishText>
+      <EnglishText>Ai, &lt;Tytree&gt;...!!
+Não me bate...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
@@ -398,9 +397,8 @@ Don't hit me...!</EnglishText>
       <PointerOffset>3348</PointerOffset>
       <JapaneseText>私は南の方から逃げてきたの。
 ヒューマの人に追い出されて……</JapaneseText>
-      <EnglishText>I fled here from the south.
-The Huma there chased
-us out of town...</EnglishText>
+      <EnglishText>Fugi do sul. Os Huma de lá
+nos expulsaram da cidade...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
@@ -410,7 +408,7 @@ us out of town...</EnglishText>
       <PointerOffset>3373</PointerOffset>
       <JapaneseText>ヒューマ……!!
 コワイよ……!!</JapaneseText>
-      <EnglishText>I'm afraid of Huma!!</EnglishText>
+      <EnglishText>Tenho medo de Huma!!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>27</Id>
@@ -421,8 +419,8 @@ us out of town...</EnglishText>
       <JapaneseText>女王様まで
 処刑しようとしたなんて……
 </JapaneseText>
-      <EnglishText>I heard that they tried to
-execute the Queen...</EnglishText>
+      <EnglishText>Ouvi dizer que tentaram
+executar a Rainha...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
@@ -433,8 +431,8 @@ execute the Queen...</EnglishText>
       <JapaneseText>やっぱりヒューマって
 残酷なんでしょ……？
 </JapaneseText>
-      <EnglishText>Huma sure are cruel,
-aren't they...?</EnglishText>
+      <EnglishText>Os Huma são mesmo cruéis,
+não são...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
@@ -455,10 +453,9 @@ aren't they...?</EnglishText>
       <JapaneseText>ほんの少しだけセレーナお姉ちゃんみたいに
 優しいヒューマもいるけど、
 やっぱり私はヒューマは好きになれないの……</JapaneseText>
-      <EnglishText>There are nice Huma like
-Ms. Selena, but I don't
-think I'm ever going to
-like them all...</EnglishText>
+      <EnglishText>Tem Huma legais, como a
+Selena, mas acho que nunca
+vou gostar de todos...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
@@ -468,7 +465,7 @@ like them all...</EnglishText>
       <PointerOffset>3585</PointerOffset>
       <JapaneseText>だって……
 コワイんだもん……</JapaneseText>
-      <EnglishText>Because... I'm scared of them...</EnglishText>
+      <EnglishText>Porque... eu tenho medo deles...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>32</Id>
@@ -478,7 +475,7 @@ like them all...</EnglishText>
       <PointerOffset>3610</PointerOffset>
       <JapaneseText>きゃっ……!!
 ヒューマっ！</JapaneseText>
-      <EnglishText>A-Ahhh!! A Huma!</EnglishText>
+      <EnglishText>A-Ahhh!! Um Huma!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>
@@ -490,8 +487,8 @@ like them all...</EnglishText>
 来たヒューマのお姉ちゃんは
 とても優しかった……
 </JapaneseText>
-      <EnglishText>An older Huma girl was here
-earlier. She was very kind...</EnglishText>
+      <EnglishText>Uma Huma mais velha esteve
+aqui antes. Foi muito gentil...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>34</Id>
@@ -501,8 +498,8 @@ earlier. She was very kind...</EnglishText>
       <PointerOffset>3704</PointerOffset>
       <JapaneseText>ヒューマにも
 ああいう人がいるのね……</JapaneseText>
-      <EnglishText>I guess there are
-kind Huma as well...</EnglishText>
+      <EnglishText>Acho que também existem
+Huma gentis...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>35</Id>
@@ -512,8 +509,8 @@ kind Huma as well...</EnglishText>
       <PointerOffset>3741</PointerOffset>
       <JapaneseText>え、えっと……
 あ、あの……</JapaneseText>
-      <EnglishText>Ah, uhm...
-Uhh...</EnglishText>
+      <EnglishText>Ah, bem...
+Hum...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>36</Id>
@@ -524,8 +521,8 @@ Uhh...</EnglishText>
       <JapaneseText>おじちゃんは
 とても強そうだね。
 </JapaneseText>
-      <EnglishText>Y-You look p-pretty
-strong, Mister.</EnglishText>
+      <EnglishText>V-Você parece f-forte,
+moço.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>37</Id>
@@ -536,8 +533,8 @@ strong, Mister.</EnglishText>
       <JapaneseText>ヒューマも
 怖くないんでしょ？
 </JapaneseText>
-      <EnglishText>I guess you're not
-afraid of Huma...?</EnglishText>
+      <EnglishText>Acho que você não tem
+medo de Huma...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>38</Id>
@@ -549,8 +546,8 @@ afraid of Huma...?</EnglishText>
 イヤだよー！
 どっか行って……!!
 </JapaneseText>
-      <EnglishText>A-A H-Huma—!
-N-No—! Go away...!!</EnglishText>
+      <EnglishText>U-Um H-Huma—!
+N-Não—! Vai embora...!!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>39</Id>
@@ -560,7 +557,7 @@ N-No—! Go away...!!</EnglishText>
       <PointerOffset>3865</PointerOffset>
       <JapaneseText>コワイ!!
 助けて!!？</JapaneseText>
-      <EnglishText>S-Someone, save me!!</EnglishText>
+      <EnglishText>A-Alguém, me salva!!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>40</Id>
@@ -571,7 +568,7 @@ N-No—! Go away...!!</EnglishText>
       <JapaneseText>ヒューマって
 怖い人ばっかじゃないんだ……
 </JapaneseText>
-      <EnglishText>Not all Huma are scary...</EnglishText>
+      <EnglishText>Nem todo Huma é assustador...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>41</Id>
@@ -581,8 +578,8 @@ N-No—! Go away...!!</EnglishText>
       <PointerOffset>3950</PointerOffset>
       <JapaneseText>でも……ヒューマの人と
 話す時は体がこわばっちゃうの……</JapaneseText>
-      <EnglishText>But... I freeze up wh-whenever
-I have to talk to one...</EnglishText>
+      <EnglishText>Mas... eu congelo q-quando
+tenho que falar com um...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>42</Id>
@@ -592,7 +589,7 @@ I have to talk to one...</EnglishText>
       <PointerOffset>3975</PointerOffset>
       <JapaneseText>こ、こんにちは……私……
 …………</JapaneseText>
-      <EnglishText>H-Hello... I'm...</EnglishText>
+      <EnglishText>O-Oi... Eu sou...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>43</Id>
@@ -603,8 +600,8 @@ I have to talk to one...</EnglishText>
       <JapaneseText>おじちゃん、
 ヒューマと一緒にいて、
 大丈夫なの？</JapaneseText>
-      <EnglishText>Are you all right being
-together with Huma?</EnglishText>
+      <EnglishText>Você tá bem andando
+junto com Huma?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>44</Id>
@@ -613,7 +610,7 @@ together with Huma?</EnglishText>
     <Entry>
       <PointerOffset>4056</PointerOffset>
       <JapaneseText>私、ヒューマは……</JapaneseText>
-      <EnglishText>I'm...not...</EnglishText>
+      <EnglishText>Eu...não...tô...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>45</Id>
@@ -627,8 +624,8 @@ together with Huma?</EnglishText>
       <JapaneseText>おう、&lt;Tytree&gt;！
 きょうも精が出るな！
 </JapaneseText>
-      <EnglishText>Hello, &lt;Tytree&gt;! Let's both
-do our best today, too!</EnglishText>
+      <EnglishText>Oi, &lt;Tytree&gt;! Vamos dar o
+melhor de nós hoje também!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>46</Id>
@@ -639,8 +636,8 @@ do our best today, too!</EnglishText>
       <JapaneseText>ガジュマどもを
 ビシビシ監督してこいよ！
 </JapaneseText>
-      <EnglishText>Make sure to keep a good
-eye on those Gajuma!</EnglishText>
+      <EnglishText>Fica de olho direitinho
+nesses Gajuma!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>47</Id>
@@ -650,7 +647,7 @@ eye on those Gajuma!</EnglishText>
       <PointerOffset>1337</PointerOffset>
       <JapaneseText>いらっしゃい！
 今日はどんな御用だい？</JapaneseText>
-      <EnglishText>Welcome! What can I do for you?</EnglishText>
+      <EnglishText>Bem-vindos! Em que posso ajudar?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>48</Id>
@@ -662,9 +659,9 @@ eye on those Gajuma!</EnglishText>
 　世間話をする　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>49</Id>
@@ -674,8 +671,8 @@ Cancel</EnglishText>
       <PointerOffset>1422</PointerOffset>
       <JapaneseText>何だ、もう帰るのかい？
 何か買っていきなよ。</JapaneseText>
-      <EnglishText>Oh, you're leaving? Come on,
-don't be shy! Buy something!</EnglishText>
+      <EnglishText>Ah, já vão? Ora, não sejam
+tímidos! Comprem alguma coisa!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>50</Id>
@@ -686,8 +683,8 @@ don't be shy! Buy something!</EnglishText>
       <JapaneseText>色々置いてあるから、
 見てっておくれ。
 </JapaneseText>
-      <EnglishText>I have all kinds of stuff here,
-come and take a look!</EnglishText>
+      <EnglishText>Tenho de tudo aqui,
+venham dar uma olhada!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>51</Id>
@@ -697,7 +694,7 @@ come and take a look!</EnglishText>
       <PointerOffset>1485</PointerOffset>
       <JapaneseText>またな。
 </JapaneseText>
-      <EnglishText>See ya!</EnglishText>
+      <EnglishText>Até mais!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>52</Id>
@@ -709,9 +706,9 @@ come and take a look!</EnglishText>
 みたいだけど商売もあるし、
 抜けられないんだ。
 </JapaneseText>
-      <EnglishText>There's some sort of commotion
-going on at the factory, but I
-can't leave my shop.</EnglishText>
+      <EnglishText>Tem uma confusão lá na
+fábrica, mas não posso
+sair da loja.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>53</Id>
@@ -721,8 +718,8 @@ can't leave my shop.</EnglishText>
       <PointerOffset>1970</PointerOffset>
       <JapaneseText>見てきたら、
 何があったか教えてくれよっ！</JapaneseText>
-      <EnglishText>Let me know if you find
-out what's going on!</EnglishText>
+      <EnglishText>Me avisem se descobrirem
+o que tá acontecendo!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>54</Id>
@@ -733,8 +730,8 @@ out what's going on!</EnglishText>
       <JapaneseText>&lt;Tytree&gt;の身に
 何かがあったそうだな……
 </JapaneseText>
-      <EnglishText>I heard that something
-happened to &lt;Tytree&gt;...</EnglishText>
+      <EnglishText>Ouvi dizer que aconteceu
+algo com o &lt;Tytree&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>55</Id>
@@ -744,8 +741,8 @@ happened to &lt;Tytree&gt;...</EnglishText>
       <PointerOffset>2042</PointerOffset>
       <JapaneseText>あんたたちの
 しわざかい？</JapaneseText>
-      <EnglishText>Were you the ones
-behind it?</EnglishText>
+      <EnglishText>Foram vocês os
+responsáveis?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
@@ -756,7 +753,7 @@ behind it?</EnglishText>
       <JapaneseText>&lt;Tytree&gt;……
 気の毒にな……
 </JapaneseText>
-      <EnglishText>&lt;Tytree&gt;... You look like a wreck.</EnglishText>
+      <EnglishText>&lt;Tytree&gt;... Você tá um trapo.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>57</Id>
@@ -766,7 +763,7 @@ behind it?</EnglishText>
       <PointerOffset>2128</PointerOffset>
       <JapaneseText>……元気だせよ。
 </JapaneseText>
-      <EnglishText>...Cheer up, kid.</EnglishText>
+      <EnglishText>...Anima essa cara, garoto.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>58</Id>
@@ -777,8 +774,8 @@ behind it?</EnglishText>
       <JapaneseText>セレーナが誘拐された
 みたいだな。
 </JapaneseText>
-      <EnglishText>Looks like Selena
-was kidnapped.</EnglishText>
+      <EnglishText>Parece que a Selena
+foi sequestrada.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>59</Id>
@@ -788,8 +785,8 @@ was kidnapped.</EnglishText>
       <PointerOffset>2175</PointerOffset>
       <JapaneseText>一体、何が目的なんだ？
 金か？</JapaneseText>
-      <EnglishText>Why would they do such a thing?
-Are they holding her for ransom?</EnglishText>
+      <EnglishText>Por que fariam isso?
+Estão pedindo resgate?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>60</Id>
@@ -800,7 +797,7 @@ Are they holding her for ransom?</EnglishText>
       <JapaneseText>セレーナが
 助かったって？
 </JapaneseText>
-      <EnglishText>You saved Selena?</EnglishText>
+      <EnglishText>Vocês salvaram a Selena?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>61</Id>
@@ -812,8 +809,8 @@ Are they holding her for ransom?</EnglishText>
 セレーナはまだ
 バビログラードなんだな。
 </JapaneseText>
-      <EnglishText>But she's still in Babilograd, huh?
-Well, thank goodness, she's safe...</EnglishText>
+      <EnglishText>Mas ela ainda tá em Babilograd?
+Bem, graças aos céus ela tá bem...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>62</Id>
@@ -825,8 +822,8 @@ Well, thank goodness, she's safe...</EnglishText>
 一時はどうなるかと
 思ったよ。
 </JapaneseText>
-      <EnglishText>I was wondering about what
-would happen to her.</EnglishText>
+      <EnglishText>Eu estava preocupado com o
+que aconteceria com ela.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
@@ -838,8 +835,8 @@ would happen to her.</EnglishText>
 事件らしい事件も
 ないからね。
 </JapaneseText>
-      <EnglishText>After all, nothing like that has
-ever happened here before.</EnglishText>
+      <EnglishText>Afinal, nunca tinha
+acontecido algo assim aqui.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>
@@ -850,8 +847,8 @@ ever happened here before.</EnglishText>
       <JapaneseText>いやあ、セレーナが助かって、
 よかった、よかった……
 </JapaneseText>
-      <EnglishText>Ahhh... I'm glad Selena's
-finally safe...</EnglishText>
+      <EnglishText>Ahhh... Que bom que a Selena
+finalmente tá segura...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>65</Id>
@@ -861,9 +858,8 @@ finally safe...</EnglishText>
       <PointerOffset>2394</PointerOffset>
       <JapaneseText>いくら顔なじみの&lt;Tytree&gt;でも
 うちの商品は安くできないぜ。</JapaneseText>
-      <EnglishText>Just because you're friends with
-&lt;Tytree&gt;, doesn't mean I'm gonna
-give you a discount.</EnglishText>
+      <EnglishText>Só porque vocês são amigos do
+&lt;Tytree&gt;, não vou dar desconto.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>66</Id>
@@ -874,8 +870,8 @@ give you a discount.</EnglishText>
       <JapaneseText>こっちも生活が
 かかってるんだからよ。
 </JapaneseText>
-      <EnglishText>I've got to make
-money, after all.</EnglishText>
+      <EnglishText>Eu preciso ganhar
+dinheiro, afinal.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>67</Id>
@@ -886,8 +882,8 @@ money, after all.</EnglishText>
       <JapaneseText>いつも&lt;Tytree&gt;が
 世話になってるな。
 </JapaneseText>
-      <EnglishText>Thanks for always
-looking out for &lt;Tytree&gt;.</EnglishText>
+      <EnglishText>Obrigado por sempre cuidar
+do &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>68</Id>
@@ -899,9 +895,9 @@ looking out for &lt;Tytree&gt;.</EnglishText>
 &lt;Tytree&gt;の従兄弟の嫁の
 弟の友人さ。
 </JapaneseText>
-      <EnglishText>Hm? Who am I? Why, I'm
-&lt;Tytree&gt;'s cousin's wife's
-little brother's friend.</EnglishText>
+      <EnglishText>Hm? Quem sou eu? Ora, sou o
+amigo do irmãozinho da esposa
+do primo do &lt;Tytree&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>69</Id>
@@ -913,8 +909,8 @@ little brother's friend.</EnglishText>
 まったくの他人って事
 だけどな。
 </JapaneseText>
-      <EnglishText>Which I guess means I'm
-not related to him at all.</EnglishText>
+      <EnglishText>O que quer dizer que não
+sou parente dele, na verdade.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>70</Id>
@@ -926,10 +922,10 @@ not related to him at all.</EnglishText>
 連中はみんな工場で働いてるから、
 別にどうという事はないが……
 </JapaneseText>
-      <EnglishText>Seems like there's been more
-Gajuma around lately... Well,
-they're all working at the
-factory, so it's no big deal...</EnglishText>
+      <EnglishText>Parece que tem aparecido mais
+Gajuma por aqui... Bom, todos
+trabalham na fábrica, então
+não tem problema...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>71</Id>
@@ -939,8 +935,8 @@ factory, so it's no big deal...</EnglishText>
       <PointerOffset>2571</PointerOffset>
       <JapaneseText>工場の連中は色々と
 大変みたいだぜ？</JapaneseText>
-      <EnglishText>There's been trouble brewing
-at the factory lately.</EnglishText>
+      <EnglishText>Tem havido confusão na
+fábrica ultimamente.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>72</Id>
@@ -951,8 +947,8 @@ at the factory lately.</EnglishText>
       <JapaneseText>もともとこの街は
 ガジュマが少ない街なんだ。
 </JapaneseText>
-      <EnglishText>There weren't many Gajuma
-who lived here before.</EnglishText>
+      <EnglishText>Antes não moravam muitos
+Gajuma aqui.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>73</Id>
@@ -964,10 +960,10 @@ who lived here before.</EnglishText>
 追い出されたとかで、
 ガジュマが増えてな……
 </JapaneseText>
-      <EnglishText>But now because they're
-all getting kicked out of
-other towns, we've gotten
-an influx of them here...</EnglishText>
+      <EnglishText>Mas agora que estão sendo
+expulsos de outras cidades,
+recebemos uma enxurrada
+deles aqui...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>74</Id>
@@ -977,7 +973,7 @@ an influx of them here...</EnglishText>
       <PointerOffset>2682</PointerOffset>
       <JapaneseText>&lt;Tytree&gt;、精が出るな！
 </JapaneseText>
-      <EnglishText>Good work out there, &lt;Tytree&gt;!</EnglishText>
+      <EnglishText>Bom trabalho lá fora, &lt;Tytree&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>75</Id>
@@ -987,8 +983,8 @@ an influx of them here...</EnglishText>
       <PointerOffset>2704</PointerOffset>
       <JapaneseText>いつ帰ってくるんだ？
 セレーナも心配してるぞ！</JapaneseText>
-      <EnglishText>When're ya gonna come back?
-Selena's worried sick about you!</EnglishText>
+      <EnglishText>Quando vai voltar? A Selena
+tá morrendo de preocupação!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
@@ -1000,9 +996,9 @@ Selena's worried sick about you!</EnglishText>
 俺みたいな商売人は
 少し肩身が狭いのさ。
 </JapaneseText>
-      <EnglishText>Being a merchant in a town
-full of factories makes me
-feel a little insignificant.</EnglishText>
+      <EnglishText>Ser comerciante numa cidade
+cheia de fábricas me faz
+sentir meio insignificante.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
@@ -1013,9 +1009,9 @@ feel a little insignificant.</EnglishText>
       <JapaneseText>そういう意味では、
 工場に来たガジュマも
 同じかもしれないな……</JapaneseText>
-      <EnglishText>So I suppose the Gajuma
-that moved here might
-feel the same way...</EnglishText>
+      <EnglishText>Então imagino que os Gajuma
+que se mudaram pra cá
+possam sentir o mesmo...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>78</Id>
@@ -1027,9 +1023,9 @@ feel the same way...</EnglishText>
 新入りのガジュマが
 不満を抱いてるんだと。
 </JapaneseText>
-      <EnglishText>Someone at the factory
-told me that the new
-Gajuma hires are unhappy.</EnglishText>
+      <EnglishText>Alguém da fábrica me disse que
+os novos Gajuma contratados
+estão descontentes.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>79</Id>
@@ -1039,10 +1035,9 @@ Gajuma hires are unhappy.</EnglishText>
       <PointerOffset>2837</PointerOffset>
       <JapaneseText>まったく……新しく来たくせに
 生意気な事を言う連中だ……</JapaneseText>
-      <EnglishText>They've gotta lotta nerve
-thinking they can be so
-conceited when they've
-just arrived.</EnglishText>
+      <EnglishText>Têm muita coragem de se achar
+tão importantes quando
+acabaram de chegar.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
@@ -1052,9 +1047,9 @@ just arrived.</EnglishText>
       <PointerOffset>2879</PointerOffset>
       <JapaneseText>カレギア中に種族間のいがみ合いが
 広がってるみたいだな。</JapaneseText>
-      <EnglishText>It seems like the interracial
-conflict is spreading throughout
-Callegea.</EnglishText>
+      <EnglishText>Parece que o conflito entre
+as raças tá se espalhando
+por toda Callegea.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
@@ -1065,9 +1060,8 @@ Callegea.</EnglishText>
       <JapaneseText>まさかこの街でも
 そんな事になるとは
 思わなかったよ。</JapaneseText>
-      <EnglishText>I never thought that we'd
-be having problems like
-that here too.</EnglishText>
+      <EnglishText>Nunca imaginei que teríamos
+problemas assim aqui também.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>82</Id>
@@ -1078,9 +1072,8 @@ that here too.</EnglishText>
       <JapaneseText>いやね、工場で働く
 ガジュマの不安が
 溜まってるみたいでね。</JapaneseText>
-      <EnglishText>It seems that the Gajuma working
-at the factory have been growing
-more restless...</EnglishText>
+      <EnglishText>Parece que os Gajuma da fábrica
+têm ficado mais inquietos...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>83</Id>
@@ -1090,8 +1083,8 @@ more restless...</EnglishText>
       <PointerOffset>2982</PointerOffset>
       <JapaneseText>風のようにやって来て、
 風のように去っていったあの娘……</JapaneseText>
-      <EnglishText>Like a passing breeze, she came
-and left in the blink of an eye.</EnglishText>
+      <EnglishText>Como uma brisa, ela veio e
+se foi num piscar de olhos.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>84</Id>
@@ -1101,9 +1094,8 @@ and left in the blink of an eye.</EnglishText>
       <PointerOffset>3004</PointerOffset>
       <JapaneseText>北の方へ向かったけど……
 今はどこにいるのやら……</JapaneseText>
-      <EnglishText>It seemed like she was
-heading north... I wonder
-where she is now...?</EnglishText>
+      <EnglishText>Parecia ir para o norte...
+Onde será que ela está agora?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>85</Id>
@@ -1114,9 +1106,9 @@ where she is now...?</EnglishText>
       <JapaneseText>いつも夕方になると
 家に向かう工員の姿を
 見るんだけど……</JapaneseText>
-      <EnglishText>I often see factory workers
-passing by on their way 
-home in the evening...</EnglishText>
+      <EnglishText>Vejo sempre operários da fábrica
+passando a caminho de casa
+à noite...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>86</Id>
@@ -1126,8 +1118,8 @@ home in the evening...</EnglishText>
       <PointerOffset>3051</PointerOffset>
       <JapaneseText>最近、みんな浮かない顔
 してるんだよな……</JapaneseText>
-      <EnglishText>Lately, they all seem
-to be miserable...</EnglishText>
+      <EnglishText>Ultimamente, todos parecem
+infelizes...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>87</Id>
@@ -1138,8 +1130,8 @@ to be miserable...</EnglishText>
       <JapaneseText>あの地鳴り以来、
 空気がなんとなく
 変わった気がするんだ。</JapaneseText>
-      <EnglishText>I feel like things have changed
-ever since that earthquake.</EnglishText>
+      <EnglishText>Sinto que as coisas mudaram
+desde aquele terremoto.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>88</Id>
@@ -1150,9 +1142,9 @@ ever since that earthquake.</EnglishText>
       <JapaneseText>いや、うまくは
 言えないんだけどさ、
 不穏な空気が広がってるっていうか……</JapaneseText>
-      <EnglishText>I can't really put it into words,
-but it feels like things have
-gotten even more restless...</EnglishText>
+      <EnglishText>Não sei explicar direito, mas
+parece que ficou tudo ainda
+mais inquieto...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>89</Id>
@@ -1163,8 +1155,8 @@ gotten even more restless...</EnglishText>
       <JapaneseText>でもとりあえず、
 この街は無事にやってるぜ。
 なんとかな。</JapaneseText>
-      <EnglishText>We seem to be safe
-here, at least...</EnglishText>
+      <EnglishText>Pelo menos aqui parece
+que estamos seguros...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>90</Id>
@@ -1175,9 +1167,9 @@ here, at least...</EnglishText>
       <JapaneseText>オレも昔は工場で働いてたのさ。
 でも、腰を痛めちまってね。
 こうして商売をしてるのさ。</JapaneseText>
-      <EnglishText>I used to work at the factory
-until I hurt my back. Now I'm
-just a merchant.</EnglishText>
+      <EnglishText>Eu trabalhava na fábrica até
+machucar as costas. Agora
+sou só comerciante.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>91</Id>
@@ -1188,8 +1180,8 @@ just a merchant.</EnglishText>
       <JapaneseText>&lt;Tytree&gt;、
 気をつけろ！
 </JapaneseText>
-      <EnglishText>You take care of yourself.
-All right, &lt;Tytree&gt;?</EnglishText>
+      <EnglishText>Se cuida direitinho.
+Combinado, &lt;Tytree&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>92</Id>
@@ -1201,9 +1193,9 @@ All right, &lt;Tytree&gt;?</EnglishText>
 逃げた連中を追いかけていったが、
 まだ街の中に残ってるかもしれんぞ！
 </JapaneseText>
-      <EnglishText>The Gajuma chased after those
-who tried to escape town, but
-she might not have left!</EnglishText>
+      <EnglishText>Os Gajuma correram atrás de
+quem tentou fugir da cidade,
+mas ela pode não ter saído!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>93</Id>
@@ -1214,9 +1206,9 @@ she might not have left!</EnglishText>
       <JapaneseText>最近、ミナールへ行ったかい？
 いやなにね、どうにも治安が悪くて
 大変らしいんだ。</JapaneseText>
-      <EnglishText>Have you been to Minal, lately?
-I heard it's become more
-dangerous there.</EnglishText>
+      <EnglishText>Estiveram em Minal ultimamente?
+Dizem que lá ficou mais
+perigoso.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>94</Id>
@@ -1227,9 +1219,9 @@ dangerous there.</EnglishText>
       <JapaneseText>ミナール経由の品物が
 届かなくなったら、
 困っちまうぜ……</JapaneseText>
-      <EnglishText>It's gonna be really troublesome
-for me if my goods fail to
-get through there.</EnglishText>
+      <EnglishText>Vai ser um grande problema
+pra mim se minhas mercadorias
+não passarem por lá.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>95</Id>
@@ -1239,7 +1231,7 @@ get through there.</EnglishText>
       <PointerOffset>1679</PointerOffset>
       <JapaneseText>な、なんだ、
 この地鳴りは!?</JapaneseText>
-      <EnglishText>Wh-Whoa!? It's an earthquake!</EnglishText>
+      <EnglishText>O-O quê!? É um terremoto!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>96</Id>
@@ -1249,7 +1241,7 @@ get through there.</EnglishText>
       <PointerOffset>1710</PointerOffset>
       <JapaneseText>いらっしゃい！
 今日はどんな御用だい？</JapaneseText>
-      <EnglishText>Welcome! What can I do for you?</EnglishText>
+      <EnglishText>Bem-vindos! Em que posso ajudar?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>97</Id>
@@ -1261,9 +1253,9 @@ get through there.</EnglishText>
 　世間話をする　
 　やめる　
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Buy
-Talk
-Cancel</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Comprar
+Conversar
+Cancelar</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>98</Id>
@@ -1273,8 +1265,8 @@ Cancel</EnglishText>
       <PointerOffset>1795</PointerOffset>
       <JapaneseText>何だ、もう帰るのかい？
 何か買っていきなよ。</JapaneseText>
-      <EnglishText>Oh, you're leaving? Come on,
-don't be shy! Buy something!</EnglishText>
+      <EnglishText>Ah, já vão? Ora, não sejam
+tímidos! Comprem alguma coisa!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>99</Id>
@@ -1285,8 +1277,8 @@ don't be shy! Buy something!</EnglishText>
       <JapaneseText>色々置いてあるから、
 見てっておくれ。
 </JapaneseText>
-      <EnglishText>I have all kinds of stuff here,
-come and take a look!</EnglishText>
+      <EnglishText>Tenho de tudo aqui,
+venham dar uma olhada!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>100</Id>
@@ -1296,7 +1288,7 @@ come and take a look!</EnglishText>
       <PointerOffset>1858</PointerOffset>
       <JapaneseText>またな。
 </JapaneseText>
-      <EnglishText>See ya!</EnglishText>
+      <EnglishText>Até mais!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>101</Id>
@@ -1310,9 +1302,9 @@ come and take a look!</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;休憩しますか？
 　はい　
 　いいえ　</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Would you like to rest?
-Yes
-No</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Quer descansar?
+Sim
+Não</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>102</Id>
